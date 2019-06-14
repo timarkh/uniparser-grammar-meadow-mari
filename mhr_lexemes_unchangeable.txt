@@ -28,7 +28,7 @@
 
 -lexeme
  lex: автоматически
- stem: автоматически.
+ stem: автоматически.//автоматичэски.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: автоматически
@@ -49,7 +49,7 @@
 
 -lexeme
  lex: адакше
- stem: адакше.
+ stem: адакше.//адакшэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: опять же
@@ -154,7 +154,7 @@
 
 -lexeme
  lex: акыре
- stem: акыре.
+ stem: акыре.//акырэ.
  gramm: PARENTH
  paradigm: Clitics
  trans_ru: наверно
@@ -203,7 +203,7 @@
 
 -lexeme
  lex: але
- stem: але.
+ stem: але.//алэ.
  gramm: CONJ
  paradigm: Clitics
  trans_ru: или, же
@@ -217,7 +217,7 @@
 
 -lexeme
  lex: алкынымешке
- stem: алкынымешке.
+ stem: алкынымешке.//алкынымешкэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: до отвала
@@ -266,7 +266,7 @@
 
 -lexeme
  lex: алын-чеверын
- stem: алын-чеверын.
+ stem: алын-чеверын.//алын-чевэрын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: ярко-красно, багрово
@@ -378,7 +378,7 @@
 
 -lexeme
  lex: арамеш
- stem: арамеш.
+ stem: арамеш.//арамэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: зря, напрасно
@@ -427,14 +427,14 @@
 
 -lexeme
  lex: арняшкен
- stem: арняшкен.
+ stem: арняшкен.//арняшкэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: в течение недели
 
 -lexeme
  lex: артельын
- stem: артельын.
+ stem: артельын.//артэльын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: совместно
@@ -462,7 +462,7 @@
 
 -lexeme
  lex: арымеш
- stem: арымеш.
+ stem: арымеш.//арымэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: в долг, взаймы
@@ -490,7 +490,7 @@
 
 -lexeme
  lex: асыген
- stem: асыген.
+ stem: асыген.//асыгэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: жадно
@@ -804,301 +804,301 @@
 
 -lexeme
  lex: вашеш
- stem: вашеш.
+ stem: вашеш.//вашэш.
  gramm: POST
  paradigm: Clitics
  trans_ru: навстречу
 
 -lexeme
  lex: вашешташ
- stem: вашешташ.
+ stem: вашешташ.//вашэшташ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сквозь зубы
 
 -lexeme
  lex: вашке
- stem: вашке.
+ stem: вашке.//вашкэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: скоро, быстро
 
 -lexeme
  lex: вашкен
- stem: вашкен.
+ stem: вашкен.//вашкэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: спешно
 
 -lexeme
  lex: вашкыде
- stem: вашкыде.
+ stem: вашкыде.//вашкыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: неторопливо
 
 -lexeme
  lex: ваштареш
- stem: ваштареш.
+ stem: ваштареш.//ваштарэш.
  gramm: POST
  paradigm: Clitics
  trans_ru: навстречу; напротив
 
 -lexeme
  lex: ваштарешла
- stem: ваштарешла.
+ stem: ваштарешла.//ваштарэшла.
  gramm: POST
  paradigm: Clitics
  trans_ru: навстречу; напротив
 
 -lexeme
  lex: век
- stem: век.
+ stem: век.//вэк.
  gramm: ADV
  paradigm: Clitics
  trans_ru: совсем, совершенно
 
 -lexeme
  lex: век
- stem: век.
+ stem: век.//вэк.
  gramm: POST
  paradigm: Clitics
  trans_ru: в сторону
 
 -lexeme
  lex: векат
- stem: векат.
+ stem: векат.//вэкат.
  gramm: ADV
  paradigm: Clitics
  trans_ru: совсем, совершенно
 
 -lexeme
  lex: векат
- stem: векат.
+ stem: векат.//вэкат.
  gramm: PARENTH
  paradigm: Clitics
  trans_ru: наверно
 
 -lexeme
  lex: веке
- stem: веке.
+ stem: веке.//векэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: в сторону
 
 -lexeme
  lex: велан
- stem: велан.
+ stem: велан.//вэлан.
  gramm: POST
  paradigm: Clitics
  trans_ru: на стороне
 
 -lexeme
  lex: веле
- stem: веле.
+ stem: веле.//велэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: всего; даже; ещё
 
 -lexeme
  lex: велеш
- stem: велеш.
+ stem: велеш.//велэш.
  gramm: POST
  paradigm: Clitics
  trans_ru: к, под
 
 -lexeme
  lex: велке
- stem: велке.
+ stem: велке.//велкэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: в сторону, по сторонам
 
 -lexeme
  lex: велне
- stem: велне.
+ stem: велне.//вэлне.
  gramm: POST
  paradigm: Clitics
  trans_ru: в стороне
 
 -lexeme
  lex: велч
- stem: велч.
+ stem: велч.//вэлч.
  gramm: POST
  paradigm: Clitics
  trans_ru: со стороны
 
 -lexeme
  lex: велчын
- stem: велчын.
+ stem: велчын.//вэлчын.
  gramm: POST
  paradigm: Clitics
  trans_ru: со стороны
 
 -lexeme
  lex: велым
- stem: велым.
+ stem: велым.//вэлым.
  gramm: POST
  paradigm: Clitics
  trans_ru: со стороны
 
 -lexeme
  lex: велыш
- stem: велыш.
+ stem: велыш.//вэлыш.
  gramm: POST
  paradigm: Clitics
  trans_ru: в сторону; к
 
 -lexeme
  lex: велышке
- stem: велышке.
+ stem: велышке.//велышкэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: в сторону; к
 
 -lexeme
  lex: велыште
- stem: велыште.
+ stem: велыште.//велыштэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: в стороне
 
 -lexeme
  lex: веран-верыш
- stem: веран-верыш.
+ stem: веран-верыш.//веран-вэрыш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: по местам
 
 -lexeme
  lex: веран-верышке
- stem: веран-верышке.
+ stem: веран-верышке.//веран-верышкэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: по местам
 
 -lexeme
  lex: вере
- stem: вере.
+ stem: вере.//верэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: в каком-либо месте
 
 -lexeme
  lex: вере-вере
- stem: вере-вере.
+ stem: вере-вере.//вере-верэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: местами, вразброс
 
 -lexeme
  lex: вереш
- stem: вереш.
+ stem: вереш.//верэш.
  gramm: POST
  paradigm: Clitics
  trans_ru: вместо
 
 -lexeme
  lex: вернак
- stem: вернак.
+ stem: вернак.//вэрнак.
  gramm: ADV
  paradigm: Clitics
  trans_ru: действительно
 
 -lexeme
  lex: верч
- stem: верч.
+ stem: верч.//вэрч.
  gramm: ADV
  paradigm: Clitics
  trans_ru: для, ради, из-за
 
 -lexeme
  lex: верчын
- stem: верчын.
+ stem: верчын.//вэрчын.
  gramm: POST
  paradigm: Clitics
  trans_ru: для, ради, из-за
 
 -lexeme
  lex: верын-вере
- stem: верын-вере.
+ stem: верын-вере.//верын-верэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: местами, кое-где
 
 -lexeme
  lex: верын-верын
- stem: верын-верын.
+ stem: верын-верын.//верын-вэрын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: местами, кое-где
 
 -lexeme
  lex: веселан
- stem: веселан.
+ stem: веселан.//весэлан.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: весело
 
 -lexeme
  lex: весиешын
- stem: весиешын.
+ stem: весиешын.//вэсиешын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: на следующий год
 
 -lexeme
  lex: вескана
- stem: вескана.
+ stem: вескана.//вэскана.
  gramm: ADV
  paradigm: Clitics
  trans_ru: в другой раз
 
 -lexeme
  lex: вестӱкын
- stem: вестӱкын.
+ stem: вестӱкын.//вэстӱкын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: по-другому
 
 -lexeme
  lex: вестӱрлын
- stem: вестӱрлын.
+ stem: вестӱрлын.//вэстӱрлын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: по-другому
 
 -lexeme
  lex: весын
- stem: весын.
+ stem: весын.//вэсын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: по-другому
 
 -lexeme
  lex: вет
- stem: вет.
+ stem: вет.//вэт.
  gramm: PART,rus
  paradigm: Clitics
  trans_ru: ведь
 
 -lexeme
  lex: веч
- stem: веч.
+ stem: веч.//вэч.
  gramm: POST
  paradigm: Clitics
  trans_ru: со стороны
 
 -lexeme
  lex: вечла
- stem: вечла.
+ stem: вечла.//вэчла.
  gramm: POST
  paradigm: Clitics
  trans_ru: со стороны
 
 -lexeme
  lex: вечын
- stem: вечын.
+ stem: вечын.//вэчын.
  gramm: POST
  paradigm: Clitics
  trans_ru: со стороны
@@ -1126,14 +1126,14 @@
 
 -lexeme
  lex: визымшеш
- stem: визымшеш.
+ stem: визымшеш.//визымшэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: на пятый день
 
 -lexeme
  lex: визымшешын
- stem: визымшешын.
+ stem: визымшешын.//визымшэшын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: на пятый день
@@ -1189,7 +1189,7 @@
 
 -lexeme
  lex: викымеш
- stem: викымеш.
+ stem: викымеш.//викымэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: насильно
@@ -1231,7 +1231,7 @@
 
 -lexeme
  lex: внимательно
- stem: внимательно.
+ stem: внимательно.//вниматэльно.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: внимательно
@@ -1245,7 +1245,7 @@
 
 -lexeme
  lex: водеш
- stem: водеш.
+ stem: водеш.//водэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: вечером
@@ -1259,7 +1259,7 @@
 
 -lexeme
  lex: воднысек
- stem: воднысек.
+ stem: воднысек.//воднысэк.
  gramm: ADV
  paradigm: Clitics
  trans_ru: со вчерашнего вечера
@@ -1301,49 +1301,49 @@
 
 -lexeme
  lex: воктек
- stem: воктек.
+ stem: воктек.//воктэк.
  gramm: POST
  paradigm: Clitics
  trans_ru: близко, рядом (направление)
 
 -lexeme
  lex: воктеке
- stem: воктеке.
+ stem: воктеке.//воктекэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: близко, рядом (направление)
 
 -lexeme
  lex: воктелан
- stem: воктелан.
+ stem: воктелан.//воктэлан.
  gramm: POST
  paradigm: Clitics
  trans_ru: рядом
 
 -lexeme
  lex: воктен
- stem: воктен.
+ stem: воктен.//воктэн.
  gramm: POST
  paradigm: Clitics
  trans_ru: рядом
 
 -lexeme
  lex: воктене
- stem: воктене.
+ stem: воктене.//воктэне.
  gramm: POST
  paradigm: Clitics
  trans_ru: рядом
 
 -lexeme
  lex: воктеч
- stem: воктеч.
+ stem: воктеч.//воктэч.
  gramm: POST
  paradigm: Clitics
  trans_ru: мимо, рядом
 
 -lexeme
  lex: воктечын
- stem: воктечын.
+ stem: воктечын.//воктэчын.
  gramm: POST
  paradigm: Clitics
  trans_ru: мимо, рядом
@@ -1385,7 +1385,7 @@
 
 -lexeme
  lex: вообще
- stem: вообще.
+ stem: вообще.//вообщэ.
  gramm: PARENTH,rus
  paradigm: Clitics
  trans_ru: вообще
@@ -1420,7 +1420,7 @@
 
 -lexeme
  lex: врек-врек
- stem: врек-врек.
+ stem: врек-врек.//врек-врэк.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о прыжке кошки, зайца
@@ -1469,7 +1469,7 @@
 
 -lexeme
  lex: вужге
- stem: вужге.
+ stem: вужге.//вужгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: пышно; с шумом
@@ -1504,14 +1504,14 @@
 
 -lexeme
  lex: вуйге
- stem: вуйге.
+ stem: вуйге.//вуйгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: всё, полностью, целиком
 
 -lexeme
  lex: вуйге-почге
- stem: вуйге-почге.
+ stem: вуйге-почге.//вуйге-почгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: полностью, целиком, совсем
@@ -1574,21 +1574,21 @@
 
 -lexeme
  lex: вучен-вучен
- stem: вучен-вучен.
+ stem: вучен-вучен.//вучен-вучэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: от долгого ожидания
 
 -lexeme
  lex: вучен-вучыде
- stem: вучен-вучыде.
+ stem: вучен-вучыде.//вучен-вучыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: неожиданно, случайно
 
 -lexeme
  lex: вучен-вучыдымын
- stem: вучен-вучыдымын.
+ stem: вучен-вучыдымын.//вучэн-вучыдымын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: нежданно-негаданно
@@ -1602,7 +1602,7 @@
 
 -lexeme
  lex: вучыде
- stem: вучыде.
+ stem: вучыде.//вучыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: неожиданно
@@ -1616,7 +1616,7 @@
 
 -lexeme
  lex: вучымеш
- stem: вучымеш.
+ stem: вучымеш.//вучымэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: в долг
@@ -1665,7 +1665,7 @@
 
 -lexeme
  lex: выде-вудо
- stem: выде-вудо.
+ stem: выде-вудо.//выдэ-вудо.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о чём-либо неясном, незаметном
@@ -1700,7 +1700,7 @@
 
 -lexeme
  lex: выжге
- stem: выжге.
+ stem: выжге.//выжгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: мягко, плавно, слегка; дружно; одновременно
@@ -1756,7 +1756,7 @@
 
 -lexeme
  lex: выче-выче
- stem: выче-выче.
+ stem: выче-выче.//выче-вычэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: дружелюбно
@@ -1798,7 +1798,7 @@
 
 -lexeme
  lex: вӱлшела
- stem: вӱлшела.
+ stem: вӱлшела.//вӱлшэла.
  gramm: ADV
  paradigm: Clitics
  trans_ru: крест-накрест
@@ -1833,21 +1833,21 @@
 
 -lexeme
  lex: героически
- stem: героически.
+ stem: героически.//героичэски.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: героически
 
 -lexeme
  lex: геройлын
- stem: геройлын.
+ stem: геройлын.//гэройлын.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: геройски
 
 -lexeme
  lex: годсек
- stem: годсек.
+ stem: годсек.//годсэк.
  gramm: POST
  paradigm: Clitics
  trans_ru: с, от; с тех пор как
@@ -1945,14 +1945,14 @@
 
 -lexeme
  lex: гутлашке
- stem: гутлашке.
+ stem: гутлашке.//гутлашкэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: до, к
 
 -lexeme
  lex: гутлаште
- stem: гутлаште.
+ stem: гутлаште.//гутлаштэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: около
@@ -1966,7 +1966,7 @@
 
 -lexeme
  lex: гылде-галде
- stem: гылде-галде.
+ stem: гылде-галде.//гылде-галдэ.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о стуке перекатывающегося предмета
@@ -2036,7 +2036,7 @@
 
 -lexeme
  lex: гӱжге
- stem: гӱжге.
+ stem: гӱжге.//гӱжгэ.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о шуме деревьев
@@ -2071,7 +2071,7 @@
 
 -lexeme
  lex: даже
- stem: даже.
+ stem: даже.//дажэ.
  gramm: PART,rus
  paradigm: Clitics
  trans_ru: даже
@@ -2092,63 +2092,63 @@
 
 -lexeme
  lex: дек
- stem: дек.
+ stem: дек.//дэк.
  gramm: POST
  paradigm: Clitics
  trans_ru: до, на, за
 
 -lexeme
  lex: дек
- stem: дек.
+ stem: дек.//дэк.
  gramm: POST
  paradigm: Clitics
  trans_ru: к; до; за
 
 -lexeme
  lex: деке
- stem: деке.
+ stem: деке.//декэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: до, на, за
 
 -lexeme
  lex: ден
- stem: ден.
+ stem: ден.//дэн.
  gramm: CONJ
  paradigm: Clitics
  trans_ru: и
 
 -lexeme
  lex: дене
- stem: дене.
+ stem: дене.//дэне.
  gramm: POST
  paradigm: Clitics
  trans_ru: с, из; в
 
 -lexeme
  lex: деран
- stem: деран.
+ stem: деран.//дэран.
  gramm: POST
  paradigm: Clitics
  trans_ru: у
 
 -lexeme
  lex: деч
- stem: деч.
+ stem: деч.//дэч.
  gramm: POST
  paradigm: Clitics
  trans_ru: от
 
 -lexeme
  lex: дечын
- stem: дечын.
+ stem: дечын.//дэчын.
  gramm: POST
  paradigm: Clitics
  trans_ru: от
 
 -lexeme
  lex: дечынла
- stem: дечынла.
+ stem: дечынла.//дэчынла.
  gramm: POST
  paradigm: Clitics
  trans_ru: со стороны
@@ -2218,7 +2218,7 @@
 
 -lexeme
  lex: дыбе-дӧбӧ
- stem: дыбе-дӧбӧ.
+ stem: дыбе-дӧбӧ.//дыбэ-дӧбӧ.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о звуках топота при беге
@@ -2260,7 +2260,7 @@
 
 -lexeme
  lex: дӱвырге
- stem: дӱвырге.
+ stem: дӱвырге.//дӱвыргэ.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о грохоте, шуме падения
@@ -2309,7 +2309,7 @@
 
 -lexeme
  lex: ерле
- stem: ерле.
+ stem: ерле.//ерлэ.
  gramm: PART
  paradigm: Clitics
  trans_ru: а вот
@@ -2330,7 +2330,7 @@
 
 -lexeme
  lex: ешарен
- stem: ешарен.
+ stem: ешарен.//ешарэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: дополнительно
@@ -2365,7 +2365,7 @@
 
 -lexeme
  lex: жалке
- stem: жалке.
+ stem: жалке.//жалкэ.
  gramm: PREDIC,rus
  paradigm: Clitics
  trans_ru: жалко
@@ -2400,7 +2400,7 @@
 
 -lexeme
  lex: жапыште
- stem: жапыште.
+ stem: жапыште.//жапыштэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: вовремя
@@ -2477,14 +2477,14 @@
 
 -lexeme
  lex: здравствуйте
- stem: здравствуйте.
+ stem: здравствуйте.//здравствуйтэ.
  gramm: PART,rus
  paradigm: Clitics
  trans_ru: здравствуйте
 
 -lexeme
  lex: знаме
- stem: знаме.
+ stem: знаме.//знамэ.
  gramm: PARENTH,rus
  paradigm: Clitics
  trans_ru: знамо
@@ -2505,7 +2505,7 @@
 
 -lexeme
  lex: игечын
- stem: игечын.
+ stem: игечын.//игэчын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: в погоду
@@ -2533,7 +2533,7 @@
 
 -lexeme
  lex: иже
- stem: иже.
+ stem: иже.//ижэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: лишь, только
@@ -2638,7 +2638,7 @@
 
 -lexeme
  lex: ийышкен
- stem: ийышкен.
+ stem: ийышкен.//ийышкэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: в течение
@@ -2652,7 +2652,7 @@
 
 -lexeme
  lex: иканаште
- stem: иканаште.
+ stem: иканаште.//иканаштэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сразу
@@ -2666,28 +2666,28 @@
 
 -lexeme
  lex: иквереш
- stem: иквереш.
+ stem: иквереш.//икверэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: совместно
 
 -lexeme
  lex: икечак
- stem: икечак.
+ stem: икечак.//икэчак.
  gramm: ADV
  paradigm: Clitics
  trans_ru: давно
 
 -lexeme
  lex: икече
- stem: икече.
+ stem: икече.//икечэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: в прошлый раз
 
 -lexeme
  lex: икечсек
- stem: икечсек.
+ stem: икечсек.//икечсэк.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с прошлого раза
@@ -2729,7 +2729,7 @@
 
 -lexeme
  lex: икнаре
- stem: икнаре.
+ stem: икнаре.//икнарэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: одинаково, поровну
@@ -2743,7 +2743,7 @@
 
 -lexeme
  lex: иктаже
- stem: иктаже.
+ stem: иктаже.//иктажэ.
  gramm: PART
  paradigm: Clitics
  trans_ru: -нибудь, -либо, около
@@ -2757,7 +2757,7 @@
 
 -lexeme
  lex: иктеш
- stem: иктеш.
+ stem: иктеш.//иктэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: вместе
@@ -2813,42 +2813,42 @@
 
 -lexeme
  lex: илемын-илемын
- stem: илемын-илемын.
+ stem: илемын-илемын.//илемын-илэмын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: усадьбами
 
 -lexeme
  lex: илен-илен
- stem: илен-илен.
+ stem: илен-илен.//илен-илэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: со временем
 
 -lexeme
  lex: илен-илыде
- stem: илен-илыде.
+ stem: илен-илыде.//илен-илыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: живя кое-как; неполной жизнью, прозябая
 
 -lexeme
  lex: илен-толын
- stem: илен-толын.
+ stem: илен-толын.//илэн-толын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: со временем
 
 -lexeme
  lex: иленек
- stem: иленек.
+ stem: иленек.//илэнек.
  gramm: ADV
  paradigm: Clitics
  trans_ru: живьём; сырым
 
 -lexeme
  lex: илтен
- stem: илтен.
+ stem: илтен.//илтэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: икая
@@ -2883,14 +2883,14 @@
 
 -lexeme
  lex: исторически
- stem: исторически.
+ stem: исторически.//историчэски.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: исторически
 
 -lexeme
  lex: ите
- stem: ите.
+ stem: ите.//итэ.
  gramm: PREDIC
  paradigm: Clitics
  trans_ru: не надо, нет
@@ -2932,7 +2932,7 @@
 
 -lexeme
  lex: йожек-важык
- stem: йожек-важык.
+ stem: йожек-важык.//йожэк-важык.
  gramm: ADV
  paradigm: Clitics
  trans_ru: вкривь и вкось
@@ -2967,7 +2967,7 @@
 
 -lexeme
  lex: йолдырге
- stem: йолдырге.
+ stem: йолдырге.//йолдыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: жеманно
@@ -2988,7 +2988,7 @@
 
 -lexeme
  lex: йолтке
- stem: йолтке.
+ stem: йолтке.//йолткэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: совершенно
@@ -3023,14 +3023,14 @@
 
 -lexeme
  lex: йорге
- stem: йорге.
+ stem: йорге.//йоргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: ручьём; течь обильно
 
 -lexeme
  lex: йорген-йорген
- stem: йорген-йорген.
+ stem: йорген-йорген.//йорген-йоргэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: всеми доводами
@@ -3058,7 +3058,7 @@
 
 -lexeme
  lex: йортен
- stem: йортен.
+ stem: йортен.//йортэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: рысью
@@ -3072,14 +3072,14 @@
 
 -lexeme
  lex: йотештын
- stem: йотештын.
+ stem: йотештын.//йотэштын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: отчуждённо
 
 -lexeme
  lex: йотке
- stem: йотке.
+ stem: йотке.//йоткэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: до, по
@@ -3107,14 +3107,14 @@
 
 -lexeme
  lex: йоштек
- stem: йоштек.
+ stem: йоштек.//йоштэк.
  gramm: ADV
  paradigm: Clitics
  trans_ru: наискосок, поперёк; неправильно
 
 -lexeme
  lex: йоштке
- stem: йоштке.
+ stem: йоштке.//йошткэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: стройно, красиво
@@ -3163,7 +3163,7 @@
 
 -lexeme
  lex: йоҥге
- stem: йоҥге.
+ stem: йоҥге.//йоҥгэ.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о звоне
@@ -3191,14 +3191,14 @@
 
 -lexeme
  lex: йыве-юво
- stem: йыве-юво.
+ stem: йыве-юво.//йывэ-юво.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о бесшумном, незаметном движении
 
 -lexeme
  lex: йывыге
- stem: йывыге.
+ stem: йывыге.//йывыгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: спокойно, бесшумно, тихо; сам по себе
@@ -3226,7 +3226,7 @@
 
 -lexeme
  lex: йывыжге
- stem: йывыжге.
+ stem: йывыжге.//йывыжгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: тихо
@@ -3268,7 +3268,7 @@
 
 -lexeme
  lex: йыгырге
- stem: йыгырге.
+ stem: йыгырге.//йыгыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: голодно
@@ -3303,7 +3303,7 @@
 
 -lexeme
  lex: йыжге
- stem: йыжге.
+ stem: йыжге.//йыжгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: тихо; спокойно, осторожно
@@ -3359,7 +3359,7 @@
 
 -lexeme
  lex: йылде-йолдо
- stem: йылде-йолдо.
+ stem: йылде-йолдо.//йылдэ-йолдо.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о ярком блеске, сверкании; о мгновенном действии
@@ -3387,7 +3387,7 @@
 
 -lexeme
  lex: йылдырге
- stem: йылдырге.
+ stem: йылдырге.//йылдыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: игриво, кокетливо
@@ -3408,7 +3408,7 @@
 
 -lexeme
  lex: йыле
- stem: йыле.
+ stem: йыле.//йылэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: быстро, скоро
@@ -3436,7 +3436,7 @@
 
 -lexeme
  lex: йылте-йолто
- stem: йылте-йолто.
+ stem: йылте-йолто.//йылтэ-йолто.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о ярком блеске
@@ -3457,7 +3457,7 @@
 
 -lexeme
  lex: йымаке
- stem: йымаке.
+ stem: йымаке.//йымакэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: вниз; под
@@ -3569,21 +3569,21 @@
 
 -lexeme
  lex: йырве-йорво
- stem: йырве-йорво.
+ stem: йырве-йорво.//йырвэ-йорво.
  gramm: ADV
  paradigm: Clitics
  trans_ru: местами
 
 -lexeme
  lex: йырве-ярве
- stem: йырве-ярве.
+ stem: йырве-ярве.//йырве-ярвэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: лишь местами
 
 -lexeme
  lex: йырвеч
- stem: йырвеч.
+ stem: йырвеч.//йырвэч.
  gramm: ADV
  paradigm: Clitics
  trans_ru: со всех сторон
@@ -3597,14 +3597,14 @@
 
 -lexeme
  lex: йырге
- stem: йырге.
+ stem: йырге.//йыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: ручьём (о слезах)
 
 -lexeme
  lex: йыргешкын
- stem: йыргешкын.
+ stem: йыргешкын.//йыргэшкын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: кругом
@@ -3744,7 +3744,7 @@
 
 -lexeme
  lex: йыште-вушто
- stem: йыште-вушто.
+ stem: йыште-вушто.//йыштэ-вушто.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о шёпоте
@@ -3758,7 +3758,7 @@
 
 -lexeme
  lex: йыҥге-йоҥго
- stem: йыҥге-йоҥго.
+ stem: йыҥге-йоҥго.//йыҥгэ-йоҥго.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о звоне
@@ -3807,7 +3807,7 @@
 
 -lexeme
  lex: йӧракче
- stem: йӧракче.
+ stem: йӧракче.//йӧракчэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: целиком, полностью
@@ -3828,21 +3828,21 @@
 
 -lexeme
  lex: йӧре
- stem: йӧре.
+ stem: йӧре.//йӧрэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: вместе
 
 -lexeme
  lex: йӧре-варе
- stem: йӧре-варе.
+ stem: йӧре-варе.//йӧре-варэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: вместе, комплексно; вперемешку; смешанный
 
 -lexeme
  lex: йӧрен-йӧрыде
- stem: йӧрен-йӧрыде.
+ stem: йӧрен-йӧрыде.//йӧрен-йӧрыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: мерцая, чуть не угасая
@@ -3856,14 +3856,14 @@
 
 -lexeme
  lex: йӧршеш
- stem: йӧршеш.
+ stem: йӧршеш.//йӧршэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: совсем, совершенно; навсегда
 
 -lexeme
  lex: йӧршешлан
- stem: йӧршешлан.
+ stem: йӧршешлан.//йӧршэшлан.
  gramm: ADV
  paradigm: Clitics
  trans_ru: насовсем, навсегда
@@ -3933,7 +3933,7 @@
 
 -lexeme
  lex: йӱкде-шӱлыде
- stem: йӱкде-шӱлыде.
+ stem: йӱкде-шӱлыде.//йӱкде-шӱлыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: втихомолку
@@ -3982,7 +3982,7 @@
 
 -lexeme
  lex: каваре
- stem: каваре.
+ stem: каваре.//каварэ.
  gramm: INTRJ
  paradigm: Clitics
  trans_ru: чёрт возьми
@@ -4038,7 +4038,7 @@
 
 -lexeme
  lex: каласен-каласыде
- stem: каласен-каласыде.
+ stem: каласен-каласыде.//каласен-каласыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: не досказав
@@ -4136,7 +4136,7 @@
 
 -lexeme
  lex: кастене
- stem: кастене.
+ stem: кастене.//кастэне.
  gramm: ADV
  paradigm: Clitics
  trans_ru: вечером
@@ -4213,7 +4213,7 @@
 
 -lexeme
  lex: каярен
- stem: каярен.
+ stem: каярен.//каярэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: решительно, сильно
@@ -4227,154 +4227,154 @@
 
 -lexeme
  lex: келанен
- stem: келанен.
+ stem: келанен.//кэланен.
  gramm: ADV
  paradigm: Clitics
  trans_ru: увлечённо
 
 -lexeme
  lex: келгын
- stem: келгын.
+ stem: келгын.//кэлгын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: глубоко
 
 -lexeme
  lex: келесырын
- stem: келесырын.
+ stem: келесырын.//келэсырын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: недовольно
 
 -lexeme
  lex: келшыдымын
- stem: келшыдымын.
+ stem: келшыдымын.//кэлшыдымын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: неподходяще, неприлично
 
 -lexeme
  lex: келшышын
- stem: келшышын.
+ stem: келшышын.//кэлшышын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: согласно
 
 -lexeme
  lex: кем
- stem: кем.
+ stem: кем.//кэм.
  gramm: ADV
  paradigm: Clitics
  trans_ru: меньше, хуже
 
 -lexeme
  lex: кенета
- stem: кенета.
+ stem: кенета.//кэнета.
  gramm: ADV
  paradigm: Clitics
  trans_ru: вдруг, внезапно, неожиданно
 
 -lexeme
  lex: кенеташте
- stem: кенеташте.
+ stem: кенеташте.//кенеташтэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сразу же, немедленно
 
 -lexeme
  lex: керак
- stem: керак.
+ stem: керак.//кэрак.
  gramm: ADV
  paradigm: Clitics
  trans_ru: верно
 
 -lexeme
  lex: керек
- stem: керек.
+ stem: керек.//керэк.
  gramm: CONJ
  paradigm: Clitics
  trans_ru: хоть
 
 -lexeme
  lex: кернак
- stem: кернак.
+ stem: кернак.//кэрнак.
  gramm: PART
  paradigm: Clitics
  trans_ru: на самом деле
 
 -lexeme
  lex: керын
- stem: керын.
+ stem: керын.//кэрын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: пронзительно
 
 -lexeme
  lex: кеч
- stem: кеч.
+ stem: кеч.//кэч.
  gramm: PART
  paradigm: Clitics
  trans_ru: хоть
 
 -lexeme
  lex: кечеш
- stem: кечеш.
+ stem: кечеш.//кечэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: за день
 
 -lexeme
  lex: кечывалым
- stem: кечывалым.
+ stem: кечывалым.//кэчывалым.
  gramm: ADV
  paradigm: Clitics
  trans_ru: днём; в полдень
 
 -lexeme
  lex: кечывалымсек
- stem: кечывалымсек.
+ stem: кечывалымсек.//кечывалымсэк.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с полудня
 
 -lexeme
  lex: кечыгут
- stem: кечыгут.
+ stem: кечыгут.//кэчыгут.
  gramm: ADV
  paradigm: Clitics
  trans_ru: весь день
 
 -lexeme
  lex: кечын
- stem: кечын.
+ stem: кечын.//кэчын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: каждый день
 
 -lexeme
  lex: кечын-кечын
- stem: кечын-кечын.
+ stem: кечын-кечын.//кечын-кэчын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: изо дня в день
 
 -lexeme
  lex: кеҥежет-телет
- stem: кеҥежет-телет.
+ stem: кеҥежет-телет.//кеҥежет-телэт.
  gramm: ADV
  paradigm: Clitics
  trans_ru: зимой и летом
 
 -lexeme
  lex: кеҥежше-телыже
- stem: кеҥежше-телыже.
+ stem: кеҥежше-телыже.//кеҥежше-телыжэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: зимой и летом; зиму и лето
 
 -lexeme
  lex: кеҥежым
- stem: кеҥежым.
+ stem: кеҥежым.//кэҥежым.
  gramm: ADV
  paradigm: Clitics
  trans_ru: летом
@@ -4437,7 +4437,7 @@
 
 -lexeme
  lex: ковыжге
- stem: ковыжге.
+ stem: ковыжге.//ковыжгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: мигом, быстро
@@ -4458,7 +4458,7 @@
 
 -lexeme
  lex: кодыге
- stem: кодыге.
+ stem: кодыге.//кодыгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: дружно, одновременно
@@ -4472,7 +4472,7 @@
 
 -lexeme
  lex: кодын-кодде
- stem: кодын-кодде.
+ stem: кодын-кодде.//кодын-коддэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: не отставая
@@ -4514,7 +4514,7 @@
 
 -lexeme
  lex: кожге
- stem: кожге.
+ stem: кожге.//кожгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: шумно; дыбом
@@ -4577,14 +4577,14 @@
 
 -lexeme
  lex: койын-кодде
- stem: койын-кодде.
+ stem: койын-кодде.//койын-коддэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: не отставая
 
 -lexeme
  lex: койын-койде
- stem: койын-койде.
+ stem: койын-койде.//койын-койдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: незаметно
@@ -4633,28 +4633,28 @@
 
 -lexeme
  lex: коклашке
- stem: коклашке.
+ stem: коклашке.//коклашкэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: в, к
 
 -lexeme
  lex: коклаште
- stem: коклаште.
+ stem: коклаште.//коклаштэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: в; между; за
 
 -lexeme
  lex: кокыте
- stem: кокыте.
+ stem: кокыте.//кокытэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: пополам; двояко
 
 -lexeme
  lex: кокытела
- stem: кокытела.
+ stem: кокытела.//кокытэла.
  gramm: ADV
  paradigm: Clitics
  trans_ru: двусмысленно
@@ -4668,7 +4668,7 @@
 
 -lexeme
  lex: колдырге
- stem: колдырге.
+ stem: колдырге.//колдыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: тихо, спокойно
@@ -4752,7 +4752,7 @@
 
 -lexeme
  lex: комплексно
- stem: комплексно.
+ stem: комплексно.//комплэксно.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: комплексно
@@ -4766,7 +4766,7 @@
 
 -lexeme
  lex: конкретне
- stem: конкретне.
+ stem: конкретне.//конкрэтне.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: конкретно
@@ -4822,7 +4822,7 @@
 
 -lexeme
  lex: копыжге
- stem: копыжге.
+ stem: копыжге.//копыжгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: мурашки (копыжге тарвана)
@@ -4836,7 +4836,7 @@
 
 -lexeme
  lex: кораҥде
- stem: кораҥде.
+ stem: кораҥде.//кораҥдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: прямо, не отклоняясь
@@ -4892,7 +4892,7 @@
 
 -lexeme
  lex: корштарымеш
- stem: корштарымеш.
+ stem: корштарымеш.//корштарымэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сильно, до боли
@@ -4906,14 +4906,14 @@
 
 -lexeme
  lex: корштымеш
- stem: корштымеш.
+ stem: корштымеш.//корштымэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сильно, до боли
 
 -lexeme
  lex: корштымешке
- stem: корштымешке.
+ stem: корштымешке.//корштымешкэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сильно, до боли
@@ -4927,28 +4927,28 @@
 
 -lexeme
  lex: котырге
- stem: котырге.
+ stem: котырге.//котыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с шумом, скрипом или треском
 
 -lexeme
  lex: кочде
- stem: кочде.
+ stem: кочде.//кочдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: натощак
 
 -lexeme
  lex: кочде-йӱде
- stem: кочде-йӱде.
+ stem: кочде-йӱде.//кочде-йӱдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: без пропитания
 
 -lexeme
  lex: кочкын-кочде
- stem: кочкын-кочде.
+ stem: кочкын-кочде.//кочкын-кочдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: впроголодь
@@ -4962,14 +4962,14 @@
 
 -lexeme
  lex: кочмет-мочет
- stem: кочмет-мочет.
+ stem: кочмет-мочет.//кочмет-мочэт.
  gramm: ADV
  paradigm: Clitics
  trans_ru: не до еды
 
 -lexeme
  lex: кочыге
- stem: кочыге.
+ stem: кочыге.//кочыгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: резко и со скрипом
@@ -4990,7 +4990,7 @@
 
 -lexeme
  lex: кочын-шекшын
- stem: кочын-шекшын.
+ stem: кочын-шекшын.//кочын-шэкшын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: желчно
@@ -5011,7 +5011,7 @@
 
 -lexeme
  lex: кочырге
- stem: кочырге.
+ stem: кочырге.//кочыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: со скрипом
@@ -5109,28 +5109,28 @@
 
 -lexeme
  lex: кре-эк
- stem: кре-эк.
+ stem: кре-эк.//крэ-эк.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о крике курицы
 
 -lexeme
  lex: кредалде
- stem: кредалде.
+ stem: кредалде.//кредалдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: без борьбы
 
 -lexeme
  lex: крек
- stem: крек.
+ stem: крек.//крэк.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о крике курицы
 
 -lexeme
  lex: критически
- stem: критически.
+ stem: критически.//критичэски.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: критически
@@ -5228,14 +5228,14 @@
 
 -lexeme
  lex: кугешныде
- stem: кугешныде.
+ stem: кугешныде.//кугешныдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: скромно
 
 -lexeme
  lex: кугешнышын
- stem: кугешнышын.
+ stem: кугешнышын.//кугэшнышын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: гордо
@@ -5263,7 +5263,7 @@
 
 -lexeme
  lex: кудырге
- stem: кудырге.
+ stem: кудырге.//кудыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: быстро и шумно
@@ -5291,7 +5291,7 @@
 
 -lexeme
  lex: кужеш
- stem: кужеш.
+ stem: кужеш.//кужэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: долго
@@ -5354,21 +5354,21 @@
 
 -lexeme
  lex: кумдыкеш
- stem: кумдыкеш.
+ stem: кумдыкеш.//кумдыкэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: повсюду, везде
 
 -lexeme
  lex: кумшешым
- stem: кумшешым.
+ stem: кумшешым.//кумшэшым.
  gramm: ADV
  paradigm: Clitics
  trans_ru: на третий день
 
 -lexeme
  lex: кумшешымын
- stem: кумшешымын.
+ stem: кумшешымын.//кумшэшымын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: на третий день
@@ -5494,14 +5494,14 @@
 
 -lexeme
  lex: курым-курымеш
- stem: курым-курымеш.
+ stem: курым-курымеш.//курым-курымэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: вечно
 
 -lexeme
  lex: курым-курымешлан
- stem: курым-курымешлан.
+ stem: курым-курымешлан.//курым-курымэшлан.
  gramm: ADV
  paradigm: Clitics
  trans_ru: навечно
@@ -5515,14 +5515,14 @@
 
 -lexeme
  lex: курымеш
- stem: курымеш.
+ stem: курымеш.//курымэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: навечно
 
 -lexeme
  lex: курымешлан
- stem: курымешлан.
+ stem: курымешлан.//курымэшлан.
  gramm: ADV
  paradigm: Clitics
  trans_ru: навечно
@@ -5578,7 +5578,7 @@
 
 -lexeme
  lex: кутынь-тореш
- stem: кутынь-тореш.
+ stem: кутынь-тореш.//кутынь-торэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: вдоль и поперёк, повсюду
@@ -5592,7 +5592,7 @@
 
 -lexeme
  lex: кутышеш
- stem: кутышеш.
+ stem: кутышеш.//кутышэш.
  gramm: POST
  paradigm: Clitics
  trans_ru: вдоль
@@ -5641,7 +5641,7 @@
 
 -lexeme
  lex: кыве-ково
- stem: кыве-ково.
+ stem: кыве-ково.//кывэ-ково.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о быстром движении
@@ -5655,7 +5655,7 @@
 
 -lexeme
  lex: кывыжге
- stem: кывыжге.
+ stem: кывыжге.//кывыжгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: тихо
@@ -5697,7 +5697,7 @@
 
 -lexeme
  lex: кыдач-покшеч
- stem: кыдач-покшеч.
+ stem: кыдач-покшеч.//кыдач-покшэч.
  gramm: ADV
  paradigm: Clitics
  trans_ru: как попало, вдоль и поперёк
@@ -5711,21 +5711,21 @@
 
 -lexeme
  lex: кыде-годо
- stem: кыде-годо.
+ stem: кыде-годо.//кыдэ-годо.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о быстром действии
 
 -lexeme
  lex: кыдет-кыт-кыт
- stem: кыдет-кыт-кыт.
+ stem: кыдет-кыт-кыт.//кыдэт-кыт-кыт.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о кудахтании курицы
 
 -lexeme
  lex: кыдыге
- stem: кыдыге.
+ stem: кыдыге.//кыдыгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: беспокойно
@@ -5753,7 +5753,7 @@
 
 -lexeme
  lex: кыжге
- stem: кыжге.
+ stem: кыжге.//кыжгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: осторожно, незаметно, потихоньку
@@ -5774,7 +5774,7 @@
 
 -lexeme
  lex: кызырге
- stem: кызырге.
+ stem: кызырге.//кызыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: тихонько, чуть слышно
@@ -5788,14 +5788,14 @@
 
 -lexeme
  lex: кызытеш
- stem: кызытеш.
+ stem: кызытеш.//кызытэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: пока, временно
 
 -lexeme
  lex: кылде-голдо
- stem: кылде-голдо.
+ stem: кылде-голдо.//кылдэ-голдо.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о глухом стуке, шуме
@@ -5837,14 +5837,14 @@
 
 -lexeme
  lex: кыльдырге
- stem: кыльдырге.
+ stem: кыльдырге.//кыльдыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: праздно, без дела
 
 -lexeme
  lex: кыпте-копто
- stem: кыпте-копто.
+ stem: кыпте-копто.//кыптэ-копто.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о неловком движении
@@ -5886,7 +5886,7 @@
 
 -lexeme
  lex: кырте-карте
- stem: кырте-карте.
+ stem: кырте-карте.//кырте-картэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: кое-где, местами; немного
@@ -5949,7 +5949,7 @@
 
 -lexeme
  lex: кӓлен
- stem: кӓлен.
+ stem: кӓлен.//кӓлэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: привиредливо
@@ -5970,21 +5970,21 @@
 
 -lexeme
  lex: кӧвален
- stem: кӧвален.
+ stem: кӧвален.//кӧвалэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: доверху
 
 -lexeme
  lex: кӧжге
- stem: кӧжге.
+ stem: кӧжге.//кӧжгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: шумно, с шуршанием
 
 -lexeme
  lex: кӧжген
- stem: кӧжген.
+ stem: кӧжген.//кӧжгэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: шумно
@@ -5998,7 +5998,7 @@
 
 -lexeme
  lex: кӧныде
- stem: кӧныде.
+ stem: кӧныде.//кӧныдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: нехотя
@@ -6033,7 +6033,7 @@
 
 -lexeme
  lex: кӧргеш
- stem: кӧргеш.
+ stem: кӧргеш.//кӧргэш.
  gramm: POST
  paradigm: Clitics
  trans_ru: внутри, среди
@@ -6082,21 +6082,21 @@
 
 -lexeme
  lex: кӧтырге
- stem: кӧтырге.
+ stem: кӧтырге.//кӧтыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: тяжело, большой массой
 
 -lexeme
  lex: кӧтыремын
- stem: кӧтыремын.
+ stem: кӧтыремын.//кӧтырэмын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: неуклюже
 
 -lexeme
  lex: кӱдыге
- stem: кӱдыге.
+ stem: кӱдыге.//кӱдыгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: гурьбой, шумливой толпой
@@ -6201,7 +6201,7 @@
 
 -lexeme
  lex: кӱкӱрекрек
- stem: кӱкӱрекрек.
+ stem: кӱкӱрекрек.//кӱкӱрекрэк.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о крике петуха
@@ -6229,14 +6229,14 @@
 
 -lexeme
  lex: кӱлдырге
- stem: кӱлдырге.
+ stem: кӱлдырге.//кӱлдыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: звонко, гулко, с шумом
 
 -lexeme
  lex: кӱлешын
- stem: кӱлешын.
+ stem: кӱлешын.//кӱлэшын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: как надо
@@ -6264,7 +6264,7 @@
 
 -lexeme
  lex: кӱрылтде
- stem: кӱрылтде.
+ stem: кӱрылтде.//кӱрылтдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: непрерывно
@@ -6285,7 +6285,7 @@
 
 -lexeme
  lex: кӱсела
- stem: кӱсела.
+ stem: кӱсела.//кӱсэла.
  gramm: ADV
  paradigm: Clitics
  trans_ru: взаимно
@@ -6341,7 +6341,7 @@
 
 -lexeme
  lex: кӱшеш
- stem: кӱшеш.
+ stem: кӱшеш.//кӱшэш.
  gramm: POST
  paradigm: Clitics
  trans_ru: за счёт
@@ -6593,7 +6593,7 @@
 
 -lexeme
  lex: левын
- stem: левын.
+ stem: левын.//лэвын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: тепло
@@ -6635,7 +6635,7 @@
 
 -lexeme
  lex: лишке
- stem: лишке.
+ stem: лишке.//лишкэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: близко, около
@@ -6670,7 +6670,7 @@
 
 -lexeme
  lex: ловыге
- stem: ловыге.
+ stem: ловыге.//ловыгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: тяжело и шумно
@@ -6691,7 +6691,7 @@
 
 -lexeme
  lex: ложге
- stem: ложге.
+ stem: ложге.//ложгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с шумом
@@ -6705,7 +6705,7 @@
 
 -lexeme
  lex: лозырге
- stem: лозырге.
+ stem: лозырге.//лозыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: водянисто, вязко, жидко; бессильно
@@ -6719,7 +6719,7 @@
 
 -lexeme
  lex: лойге
- stem: лойге.
+ stem: лойге.//лойгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: плавно, мерно
@@ -6754,14 +6754,14 @@
 
 -lexeme
  lex: лондемын
- stem: лондемын.
+ stem: лондемын.//лондэмын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: перекатами
 
 -lexeme
  lex: лончылен-лончылен
- stem: лончылен-лончылен.
+ stem: лончылен-лончылен.//лончылен-лончылэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: подробно
@@ -6859,7 +6859,7 @@
 
 -lexeme
  lex: лоптырге
- stem: лоптырге.
+ stem: лоптырге.//лоптыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: тяжело, грузно (сесть)
@@ -6894,7 +6894,7 @@
 
 -lexeme
  lex: лорге
- stem: лорге.
+ stem: лорге.//лоргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: гортанно, громко, хрипло
@@ -6915,7 +6915,7 @@
 
 -lexeme
  lex: лостке
- stem: лостке.
+ stem: лостке.//лосткэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: грузно
@@ -6964,7 +6964,7 @@
 
 -lexeme
  lex: лочыге
- stem: лочыге.
+ stem: лочыге.//лочыгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: об отчётливом произношении
@@ -6978,7 +6978,7 @@
 
 -lexeme
  lex: лошеш
- stem: лошеш.
+ stem: лошеш.//лошэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: пополам, исполу
@@ -6992,7 +6992,7 @@
 
 -lexeme
  lex: лоштке
- stem: лоштке.
+ stem: лоштке.//лошткэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: широко, полностью, совсем
@@ -7083,35 +7083,35 @@
 
 -lexeme
  lex: лыбе-лобо
- stem: лыбе-лобо.
+ stem: лыбе-лобо.//лыбэ-лобо.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о шуме
 
 -lexeme
  lex: лыбе-лыбе
- stem: лыбе-лыбе.
+ stem: лыбе-лыбе.//лыбе-лыбэ.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о слабом дрожании
 
 -lexeme
  lex: лыве-лово
- stem: лыве-лово.
+ stem: лыве-лово.//лывэ-лово.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о шуме полёта крупных птиц
 
 -lexeme
  lex: лыве-лыве
- stem: лыве-лыве.
+ stem: лыве-лыве.//лыве-лывэ.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о дрожи; слегка; ласково, нежно
 
 -lexeme
  lex: лывыге
- stem: лывыге.
+ stem: лывыге.//лывыгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: спокойно, тихо
@@ -7146,14 +7146,14 @@
 
 -lexeme
  lex: лыге
- stem: лыге.
+ stem: лыге.//лыгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: перхоть; чешуйки шишки; тонкая кора сосны
 
 -lexeme
  lex: лыге-лыге
- stem: лыге-лыге.
+ stem: лыге-лыге.//лыге-лыгэ.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о слабом шуме
@@ -7174,7 +7174,7 @@
 
 -lexeme
  lex: лыдырге
- stem: лыдырге.
+ stem: лыдырге.//лыдыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: медленно, тихо, плавно
@@ -7237,7 +7237,7 @@
 
 -lexeme
  lex: лыжге
- stem: лыжге.
+ stem: лыжге.//лыжгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: плавно, спокойно, вежливо
@@ -7286,7 +7286,7 @@
 
 -lexeme
  lex: лыйге
- stem: лыйге.
+ stem: лыйге.//лыйгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: плавно, мягко, неторопливо
@@ -7342,14 +7342,14 @@
 
 -lexeme
  lex: лыпе-лопо
- stem: лыпе-лопо.
+ stem: лыпе-лопо.//лыпэ-лопо.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о шуме при хлопании крыльев птицы
 
 -lexeme
  lex: лыпке
- stem: лыпке.
+ stem: лыпке.//лыпкэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: спокойно, тихо, безмятежно
@@ -7370,7 +7370,7 @@
 
 -lexeme
  lex: лыпте-лопто
- stem: лыпте-лопто.
+ stem: лыпте-лопто.//лыптэ-лопто.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о шуме хлопанья крыльев, неуклюжем движении
@@ -7405,7 +7405,7 @@
 
 -lexeme
  lex: лыптырге
- stem: лыптырге.
+ stem: лыптырге.//лыптыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: медленно, плавно, мягко
@@ -7426,7 +7426,7 @@
 
 -lexeme
  lex: лыстыге
- stem: лыстыге.
+ stem: лыстыге.//лыстыгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: недвижно
@@ -7461,7 +7461,7 @@
 
 -lexeme
  lex: лыче-лочо
- stem: лыче-лочо.
+ stem: лыче-лочо.//лычэ-лочо.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о треске, хрусте
@@ -7482,7 +7482,7 @@
 
 -lexeme
  lex: лыштке
- stem: лыштке.
+ stem: лыштке.//лышткэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: спокойно, тихо, мирно
@@ -7517,7 +7517,7 @@
 
 -lexeme
  lex: лыҥге-лоҥго
- stem: лыҥге-лоҥго.
+ stem: лыҥге-лоҥго.//лыҥгэ-лоҥго.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о равномерном движении вверх и вниз
@@ -7587,7 +7587,7 @@
 
 -lexeme
  lex: люрге
- stem: люрге.
+ stem: люрге.//люргэ.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о плаче со слезами
@@ -7601,7 +7601,7 @@
 
 -lexeme
  lex: лӧжге
- stem: лӧжге.
+ stem: лӧжге.//лӧжгэ.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о шумном дыхании
@@ -7615,7 +7615,7 @@
 
 -lexeme
  lex: лӧрткен
- stem: лӧрткен.
+ stem: лӧрткен.//лӧрткэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: громко, навзрыд
@@ -7629,7 +7629,7 @@
 
 -lexeme
  lex: лӧтырге
- stem: лӧтырге.
+ stem: лӧтырге.//лӧтыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: неподвижно
@@ -7650,21 +7650,21 @@
 
 -lexeme
  lex: лӱдде
- stem: лӱдде.
+ stem: лӱдде.//лӱддэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: смело
 
 -lexeme
  lex: лӱдде-вожылде
- stem: лӱдде-вожылде.
+ stem: лӱдде-вожылде.//лӱдде-вожылдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: решительно, твёрдо
 
 -lexeme
  lex: лӱддегече
- stem: лӱддегече.
+ stem: лӱддегече.//лӱддегечэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: смело
@@ -7699,7 +7699,7 @@
 
 -lexeme
  lex: лӱдыктен
- stem: лӱдыктен.
+ stem: лӱдыктен.//лӱдыктэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: угрожающе
@@ -7741,7 +7741,7 @@
 
 -lexeme
  lex: лӱдын-лӱдде
- stem: лӱдын-лӱдде.
+ stem: лӱдын-лӱдде.//лӱдын-лӱддэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: робко, несмело, осторожно
@@ -7755,7 +7755,7 @@
 
 -lexeme
  lex: лӱдын-чытырен
- stem: лӱдын-чытырен.
+ stem: лӱдын-чытырен.//лӱдын-чытырэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: трусливо
@@ -7769,14 +7769,14 @@
 
 -lexeme
  lex: лӱжге
- stem: лӱжге.
+ stem: лӱжге.//лӱжгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: навзрыд (плакать)
 
 -lexeme
  lex: лӱмеш
- stem: лӱмеш.
+ stem: лӱмеш.//лӱмэш.
  gramm: POST
  paradigm: Clitics
  trans_ru: в честь; на имя; на долю
@@ -7825,14 +7825,14 @@
 
 -lexeme
  lex: манмаште
- stem: манмаште.
+ stem: манмаште.//манмаштэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: насчёт, относительно
 
 -lexeme
  lex: манметла
- stem: манметла.
+ stem: манметла.//манмэтла.
  gramm: PARENTH
  paradigm: Clitics
  trans_ru: так сказать
@@ -7860,7 +7860,7 @@
 
 -lexeme
  lex: марийлыкеш
- stem: марийлыкеш.
+ stem: марийлыкеш.//марийлыкэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: стать мужем (пурташ)
@@ -7881,7 +7881,7 @@
 
 -lexeme
  lex: марте
- stem: марте.
+ stem: марте.//мартэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: до
@@ -7895,35 +7895,35 @@
 
 -lexeme
  lex: матаклен
- stem: матаклен.
+ stem: матаклен.//матаклэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: кувырком
 
 -lexeme
  lex: мекан
- stem: мекан.
+ stem: мекан.//мэкан.
  gramm: CONJ
  paradigm: Clitics
  trans_ru: ли, то ли
 
 -lexeme
  lex: мелын
- stem: мелын.
+ stem: мелын.//мэлын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: наружной, верхней стороной
 
 -lexeme
  lex: мерчен
- stem: мерчен.
+ stem: мерчен.//мерчэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: медленно, с трудом
 
 -lexeme
  lex: меҥгыла
- stem: меҥгыла.
+ stem: меҥгыла.//мэҥгыла.
  gramm: ADV
  paradigm: Clitics
  trans_ru: столбом
@@ -8000,7 +8000,7 @@
 
 -lexeme
  lex: моштен
- stem: моштен.
+ stem: моштен.//моштэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: умело
@@ -8063,7 +8063,7 @@
 
 -lexeme
  lex: музырге
- stem: музырге.
+ stem: музырге.//музыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: неуклюже
@@ -8091,14 +8091,14 @@
 
 -lexeme
  lex: мурен-мурен
- stem: мурен-мурен.
+ stem: мурен-мурен.//мурен-мурэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с песней
 
 -lexeme
  lex: мустке
- stem: мустке.
+ stem: мустке.//мусткэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: тихо, спокойно
@@ -8126,21 +8126,21 @@
 
 -lexeme
  lex: мучашеш
- stem: мучашеш.
+ stem: мучашеш.//мучашэш.
  gramm: POST
  paradigm: Clitics
  trans_ru: в, на
 
 -lexeme
  lex: мучаште
- stem: мучаште.
+ stem: мучаште.//мучаштэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: в, на
 
 -lexeme
  lex: мучашыште
- stem: мучашыште.
+ stem: мучашыште.//мучашыштэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: в, на
@@ -8175,7 +8175,7 @@
 
 -lexeme
  lex: мыге-муго
- stem: мыге-муго.
+ stem: мыге-муго.//мыгэ-муго.
  gramm: ADV
  paradigm: Clitics
  trans_ru: невнятно, тихо
@@ -8203,7 +8203,7 @@
 
 -lexeme
  lex: мыжге
- stem: мыжге.
+ stem: мыжге.//мыжгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: тихо, спокойно
@@ -8238,14 +8238,14 @@
 
 -lexeme
  lex: мыкте
- stem: мыкте.
+ stem: мыкте.//мыктэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: верхом
 
 -lexeme
  lex: мылтке
- stem: мылтке.
+ stem: мылтке.//мылткэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: мелькать (каяш)
@@ -8259,7 +8259,7 @@
 
 -lexeme
  lex: мыльген
- stem: мыльген.
+ stem: мыльген.//мыльгэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: льстиво
@@ -8308,7 +8308,7 @@
 
 -lexeme
  lex: мӧчырге
- stem: мӧчырге.
+ stem: мӧчырге.//мӧчыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: лениво, медлительно
@@ -8322,21 +8322,21 @@
 
 -lexeme
  lex: мӧҥгеш
- stem: мӧҥгеш.
+ stem: мӧҥгеш.//мӧҥгэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: обратно
 
 -lexeme
  lex: мӧҥгеш-оньыш
- stem: мӧҥгеш-оньыш.
+ stem: мӧҥгеш-оньыш.//мӧҥгэш-оньыш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: взад-вперёд
 
 -lexeme
  lex: мӧҥгешла
- stem: мӧҥгешла.
+ stem: мӧҥгешла.//мӧҥгэшла.
  gramm: ADV
  paradigm: Clitics
  trans_ru: наоборот; напротив
@@ -8406,7 +8406,7 @@
 
 -lexeme
  lex: наверне
- stem: наверне.
+ stem: наверне.//навэрне.
  gramm: PARENTH,rus
  paradigm: Clitics
  trans_ru: наверно
@@ -8462,7 +8462,7 @@
 
 -lexeme
  lex: наре
- stem: наре.
+ stem: наре.//нарэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: почти
@@ -8497,14 +8497,14 @@
 
 -lexeme
  lex: незерын
- stem: незерын.
+ stem: незерын.//незэрын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: бедно
 
 -lexeme
  lex: нелеш
- stem: нелеш.
+ stem: нелеш.//нелэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: обиженным (стать)
@@ -8525,28 +8525,28 @@
 
 -lexeme
  lex: немарсе
- stem: немарсе.
+ stem: немарсе.//немарсэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: до этого времени
 
 -lexeme
  lex: немерке
- stem: немерке.
+ stem: немерке.//немеркэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: до этого времени
 
 -lexeme
  lex: нерген
- stem: нерген.
+ stem: нерген.//нергэн.
  gramm: POST
  paradigm: Clitics
  trans_ru: о, об
 
 -lexeme
  lex: нергеште
- stem: нергеште.
+ stem: нергеште.//нергештэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: по поводу
@@ -8560,7 +8560,7 @@
 
 -lexeme
  lex: неужели
- stem: неужели.
+ stem: неужели.//неужэли.
  gramm: CONJ,rus
  paradigm: Clitics
  trans_ru: неужели
@@ -8574,7 +8574,7 @@
 
 -lexeme
  lex: нечыве
- stem: нечыве.
+ stem: нечыве.//нечывэ.
  gramm: PREDIC,rus
  paradigm: Clitics
  trans_ru: нечего
@@ -8616,14 +8616,14 @@
 
 -lexeme
  lex: ниялтен-ниялтен
- stem: ниялтен-ниялтен.
+ stem: ниялтен-ниялтен.//ниялтен-ниялтэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: поглаживая
 
 -lexeme
  lex: ниялткален
- stem: ниялткален.
+ stem: ниялткален.//ниялткалэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: ощупью
@@ -8644,21 +8644,21 @@
 
 -lexeme
  lex: нойыде
- stem: нойыде.
+ stem: нойыде.//нойыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: без устали
 
 -lexeme
  lex: нойымашеш
- stem: нойымашеш.
+ stem: нойымашеш.//нойымашэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с устатку
 
 -lexeme
  lex: нойымеш
- stem: нойымеш.
+ stem: нойымеш.//нойымэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: до изнеможения
@@ -8763,21 +8763,21 @@
 
 -lexeme
  lex: нылымшешым
- stem: нылымшешым.
+ stem: нылымшешым.//нылымшэшым.
  gramm: ADV
  paradigm: Clitics
  trans_ru: на четвёртый день
 
 -lexeme
  lex: нылымшешын
- stem: нылымшешын.
+ stem: нылымшешын.//нылымшэшын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: на четвёртый день
 
 -lexeme
  lex: ньыге-нюго
- stem: ньыге-нюго.
+ stem: ньыге-нюго.//ньыгэ-нюго.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: тревожно
@@ -8798,14 +8798,14 @@
 
 -lexeme
  lex: нюрге
- stem: нюрге.
+ stem: нюрге.//нюргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: слёзно
 
 -lexeme
  lex: нюслен-нюслен
- stem: нюслен-нюслен.
+ stem: нюслен-нюслен.//нюслен-нюслэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: всхлипывая
@@ -8819,14 +8819,14 @@
 
 -lexeme
  lex: нӧлтдегече
- stem: нӧлтдегече.
+ stem: нӧлтдегече.//нӧлтдегечэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: без гордости
 
 -lexeme
  lex: нӱшкеммеш
- stem: нӱшкеммеш.
+ stem: нӱшкеммеш.//нӱшкеммэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: до притупления
@@ -8840,7 +8840,7 @@
 
 -lexeme
  lex: обязательно
- stem: обязательно.
+ stem: обязательно.//обязатэльно.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: обязательно
@@ -8855,7 +8855,7 @@
 -lexeme
  lex: ого
  stem: ого.
- gramm: INTJ,rus
+ gramm: INTRJ,rus
  paradigm: Clitics
  trans_ru: ого
 
@@ -8882,7 +8882,7 @@
 
 -lexeme
  lex: ожнысек
- stem: ожнысек.
+ stem: ожнысек.//ожнысэк.
  gramm: ADV
  paradigm: Clitics
  trans_ru: исстари, издавна, испокон веку
@@ -8966,14 +8966,14 @@
 
 -lexeme
  lex: ойырлыде
- stem: ойырлыде.
+ stem: ойырлыде.//ойырлыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: неотлучно
 
 -lexeme
  lex: ойыртемын
- stem: ойыртемын.
+ stem: ойыртемын.//ойыртэмын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: особенно
@@ -8994,7 +8994,7 @@
 
 -lexeme
  lex: оксаде
- stem: оксаде.
+ stem: оксаде.//оксадэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: бесплатно
@@ -9022,7 +9022,7 @@
 
 -lexeme
  lex: олмеш
- stem: олмеш.
+ stem: олмеш.//олмэш.
  gramm: POST
  paradigm: Clitics
  trans_ru: вместо
@@ -9085,14 +9085,14 @@
 
 -lexeme
  lex: ончыгече
- stem: ончыгече.
+ stem: ончыгече.//ончыгечэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: позавчера
 
 -lexeme
  lex: ончыде
- stem: ончыде.
+ stem: ончыде.//ончыдэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: несмотря на
@@ -9190,7 +9190,7 @@
 
 -lexeme
  lex: оперативне
- stem: оперативне.
+ stem: оперативне.//опэративне.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: оперативно
@@ -9239,7 +9239,7 @@
 
 -lexeme
  lex: орен
- stem: орен.
+ stem: орен.//орэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: бешено, буйно
@@ -9260,7 +9260,7 @@
 
 -lexeme
  lex: орымешке
- stem: орымешке.
+ stem: орымешке.//орымешкэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: до бешенства
@@ -9274,7 +9274,7 @@
 
 -lexeme
  lex: осыгечын
- stem: осыгечын.
+ stem: осыгечын.//осыгэчын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: накануне
@@ -9351,14 +9351,14 @@
 
 -lexeme
  lex: ошалгын-чеверын
- stem: ошалгын-чеверын.
+ stem: ошалгын-чеверын.//ошалгын-чевэрын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: светло-розовато, бледно-розовато
 
 -lexeme
  lex: ошеш
- stem: ошеш.
+ stem: ошеш.//ошэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: начисто
@@ -9414,7 +9414,7 @@
 
 -lexeme
  lex: пайремлын
- stem: пайремлын.
+ stem: пайремлын.//пайрэмлын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: празднично
@@ -9435,7 +9435,7 @@
 
 -lexeme
  lex: палыде
- stem: палыде.
+ stem: палыде.//палыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: вслепую
@@ -9477,7 +9477,7 @@
 
 -lexeme
  lex: параллельнын
- stem: параллельнын.
+ stem: параллельнын.//параллэльнын.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: параллельно
@@ -9519,147 +9519,147 @@
 
 -lexeme
  lex: пелвек
- stem: пелвек.
+ stem: пелвек.//пелвэк.
  gramm: ADV
  paradigm: Clitics
  trans_ru: в одну сторону
 
 -lexeme
  lex: пелгандын
- stem: пелгандын.
+ stem: пелгандын.//пэлгандын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: голубеть (кояш)
 
 -lexeme
  lex: пелдык
- stem: пелдык.
+ stem: пелдык.//пэлдык.
  gramm: POST
  paradigm: Clitics
  trans_ru: из-за; за счёт
 
 -lexeme
  lex: пеле-пеле
- stem: пеле-пеле.
+ stem: пеле-пеле.//пеле-пелэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: наполовину
 
 -lexeme
  lex: пеле-пуле
- stem: пеле-пуле.
+ stem: пеле-пуле.//пеле-пулэ.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: небрежно
 
 -lexeme
  lex: пелен
- stem: пелен.
+ stem: пелен.//пелэн.
  gramm: POST
  paradigm: Clitics
  trans_ru: к; с; рядом
 
 -lexeme
  lex: пелештыде
- stem: пелештыде.
+ stem: пелештыде.//пелештыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: молча
 
 -lexeme
  lex: пелйола
- stem: пелйола.
+ stem: пелйола.//пэлйола.
  gramm: ADV
  paradigm: Clitics
  trans_ru: на одной ноге
 
 -lexeme
  lex: пелйӱдым
- stem: пелйӱдым.
+ stem: пелйӱдым.//пэлйӱдым.
  gramm: ADV
  paradigm: Clitics
  trans_ru: в полночь
 
 -lexeme
  lex: пелке
- stem: пелке.
+ stem: пелке.//пелкэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: в сторону
 
 -lexeme
  lex: пелне
- stem: пелне.
+ stem: пелне.//пэлне.
  gramm: ADV
  paradigm: Clitics
  trans_ru: в (на) стороне
 
 -lexeme
  lex: пелыгыч
- stem: пелыгыч.
+ stem: пелыгыч.//пэлыгыч.
  gramm: ADV
  paradigm: Clitics
  trans_ru: пополам
 
 -lexeme
  lex: пелым-пелтык
- stem: пелым-пелтык.
+ stem: пелым-пелтык.//пелым-пэлтык.
  gramm: ADV
  paradigm: Clitics
  trans_ru: так себе
 
 -lexeme
  lex: пелыч
- stem: пелыч.
+ stem: пелыч.//пэлыч.
  gramm: ADV
  paradigm: Clitics
  trans_ru: со стороны
 
 -lexeme
  lex: первыйрак
- stem: первыйрак.
+ stem: первыйрак.//пэрвыйрак.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: в первое время
 
 -lexeme
  lex: первыяк
- stem: первыяк.
+ stem: первыяк.//пэрвыяк.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: в первую очередь
 
 -lexeme
  lex: персонально
- stem: персонально.
+ stem: персонально.//пэрсонально.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: персонально
 
 -lexeme
  lex: пеш
- stem: пеш.
+ stem: пеш.//пэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: очень
 
 -lexeme
  lex: пешкыдын
- stem: пешкыдын.
+ stem: пешкыдын.//пэшкыдын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: твёрдо, жёстко
 
 -lexeme
  lex: пеҥгыдын
- stem: пеҥгыдын.
+ stem: пеҥгыдын.//пэҥгыдын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: твёрдо, жёстко
 
 -lexeme
  lex: пеҥыж-пеҥыж
- stem: пеҥыж-пеҥыж.
+ stem: пеҥыж-пеҥыж.//пеҥыж-пэҥыж.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с кряхтеньем
@@ -9673,7 +9673,7 @@
 
 -lexeme
  lex: пиалеш
- stem: пиалеш.
+ stem: пиалеш.//пиалэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: к счастью
@@ -9722,7 +9722,7 @@
 
 -lexeme
  lex: подыге
- stem: подыге.
+ stem: подыге.//подыгэ.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о звуке падения крупных водяных капель
@@ -9736,7 +9736,7 @@
 
 -lexeme
  lex: пожале
- stem: пожале.
+ stem: пожале.//пожалэ.
  gramm: PARENTH,rus
  paradigm: Clitics
  trans_ru: пожалуй
@@ -9750,49 +9750,49 @@
 
 -lexeme
  lex: пожге
- stem: пожге.
+ stem: пожге.//пожгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с шумом (о дыхании)
 
 -lexeme
  lex: покшек
- stem: покшек.
+ stem: покшек.//покшэк.
  gramm: POST
  paradigm: Clitics
  trans_ru: на середину
 
 -lexeme
  lex: покшеке
- stem: покшеке.
+ stem: покшеке.//покшекэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: на середину
 
 -lexeme
  lex: покшелан
- stem: покшелан.
+ stem: покшелан.//покшэлан.
  gramm: POST
  paradigm: Clitics
  trans_ru: посреди
 
 -lexeme
  lex: покшелне
- stem: покшелне.
+ stem: покшелне.//покшэлне.
  gramm: POST
  paradigm: Clitics
  trans_ru: посреди
 
 -lexeme
  lex: покшеч
- stem: покшеч.
+ stem: покшеч.//покшэч.
  gramm: POST
  paradigm: Clitics
  trans_ru: из середины
 
 -lexeme
  lex: покшечын
- stem: покшечын.
+ stem: покшечын.//покшэчын.
  gramm: POST
  paradigm: Clitics
  trans_ru: из середины
@@ -9806,7 +9806,7 @@
 
 -lexeme
  lex: полмезын
- stem: полмезын.
+ stem: полмезын.//полмэзын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: смело, храбро, решительно
@@ -9820,14 +9820,14 @@
 
 -lexeme
  lex: полшыде
- stem: полшыде.
+ stem: полшыде.//полшыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: без помощи
 
 -lexeme
  lex: помыжалтде
- stem: помыжалтде.
+ stem: помыжалтде.//помыжалтдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: беспробудно
@@ -9848,7 +9848,7 @@
 
 -lexeme
  lex: порысеш
- stem: порысеш.
+ stem: порысеш.//порысэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: в долгу
@@ -9876,21 +9876,21 @@
 
 -lexeme
  lex: поче
- stem: поче.
+ stem: поче.//почэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: один за другим, подряд
 
 -lexeme
  lex: поче-поче
- stem: поче-поче.
+ stem: поче-поче.//поче-почэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: гуськом
 
 -lexeme
  lex: почела
- stem: почела.
+ stem: почела.//почэла.
  gramm: ADV
  paradigm: Clitics
  trans_ru: один за другим
@@ -9904,7 +9904,7 @@
 
 -lexeme
  lex: поштек
- stem: поштек.
+ stem: поштек.//поштэк.
  gramm: ADV
  paradigm: Clitics
  trans_ru: вслед за
@@ -9960,28 +9960,28 @@
 
 -lexeme
  lex: пудешталт
- stem: пудешталт.
+ stem: пудешталт.//пудэшталт.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с треском
 
 -lexeme
  lex: пудешталтын
- stem: пудешталтын.
+ stem: пудешталтын.//пудэшталтын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с треском
 
 -lexeme
  lex: пудештарен
- stem: пудештарен.
+ stem: пудештарен.//пудештарэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: громко
 
 -lexeme
  lex: пужге
- stem: пужге.
+ stem: пужге.//пужгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с шумом
@@ -10093,14 +10093,14 @@
 
 -lexeme
  lex: пурлашке
- stem: пурлашке.
+ stem: пурлашке.//пурлашкэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: направо
 
 -lexeme
  lex: пурлаште
- stem: пурлаште.
+ stem: пурлаште.//пурлаштэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: направо
@@ -10114,7 +10114,7 @@
 
 -lexeme
  lex: пуртге
- stem: пуртге.
+ stem: пуртге.//пуртгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: быстро, стремительно
@@ -10184,7 +10184,7 @@
 
 -lexeme
  lex: пуыде
- stem: пуыде.
+ stem: пуыде.//пуыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: без лишних слов
@@ -10205,7 +10205,7 @@
 
 -lexeme
  lex: пыде-подо
- stem: пыде-подо.
+ stem: пыде-подо.//пыдэ-подо.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о глухом дробном шуме ударов, падения
@@ -10261,14 +10261,14 @@
 
 -lexeme
  lex: пыкше
- stem: пыкше.
+ stem: пыкше.//пыкшэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: едва, еле
 
 -lexeme
  lex: пыкше-пыкше
- stem: пыкше-пыкше.
+ stem: пыкше-пыкше.//пыкше-пыкшэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: еле-еле
@@ -10282,7 +10282,7 @@
 
 -lexeme
  lex: пылде-полдо
- stem: пылде-полдо.
+ stem: пылде-полдо.//пылдэ-полдо.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о глухом прерывистом звуке частых ударов от падения твёрдого, мелкого
@@ -10380,7 +10380,7 @@
 
 -lexeme
  lex: пыльге
- stem: пыльге.
+ stem: пыльге.//пыльгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: льстиво
@@ -10394,7 +10394,7 @@
 
 -lexeme
  lex: пыльдырге
- stem: пыльдырге.
+ stem: пыльдырге.//пыльдыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: тихо, незаметно
@@ -10485,7 +10485,7 @@
 
 -lexeme
  lex: пыртке
- stem: пыртке.
+ stem: пыртке.//пырткэ.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о трепетании
@@ -10569,7 +10569,7 @@
 
 -lexeme
  lex: пытымашеш
- stem: пытымашеш.
+ stem: пытымашеш.//пытымашэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: в конце
@@ -10590,7 +10590,7 @@
 
 -lexeme
  lex: пычкемышын
- stem: пычкемышын.
+ stem: пычкемышын.//пычкэмышын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: затемно
@@ -10625,7 +10625,7 @@
 
 -lexeme
  lex: пыште-пушто
- stem: пыште-пушто.
+ stem: пыште-пушто.//пыштэ-пушто.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о равномерном тихом разговоре, шёпоте
@@ -10674,7 +10674,7 @@
 
 -lexeme
  lex: пӧжге
- stem: пӧжге.
+ stem: пӧжге.//пӧжгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: шумно
@@ -10702,7 +10702,7 @@
 
 -lexeme
  lex: пӧрдеш
- stem: пӧрдеш.
+ stem: пӧрдеш.//пӧрдэш.
  gramm: PREDIC
  paradigm: Clitics
  trans_ru: голова кружится
@@ -10800,14 +10800,14 @@
 
 -lexeme
  lex: равед
- stem: равед.
+ stem: равед.//равэд.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сидеть и болтать
 
 -lexeme
  lex: раведӹн
- stem: раведӹн.
+ stem: раведӹн.//равэдӹн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сидеть и болтать
@@ -10842,7 +10842,7 @@
 
 -lexeme
  lex: радыге
- stem: радыге.
+ stem: радыге.//радыгэ.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: стройными рядами
@@ -10856,7 +10856,7 @@
 
 -lexeme
  lex: разве
- stem: разве.
+ stem: разве.//развэ.
  gramm: CONJ,rus
  paradigm: Clitics
  trans_ru: разве
@@ -10933,14 +10933,14 @@
 
 -lexeme
  lex: рашкемышын
- stem: рашкемышын.
+ stem: рашкемышын.//рашкэмышын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: ясно, чётко
 
 -lexeme
  lex: рашлен
- stem: рашлен.
+ stem: рашлен.//рашлэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: взвешенно, ясно, точно
@@ -10975,28 +10975,28 @@
 
 -lexeme
  lex: рвезын
- stem: рвезын.
+ stem: рвезын.//рвэзын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: молодо
 
 -lexeme
  lex: рвезынек
- stem: рвезынек.
+ stem: рвезынек.//рвэзынек.
  gramm: ADV
  paradigm: Clitics
  trans_ru: смолоду
 
 -lexeme
  lex: реалистически
- stem: реалистически.
+ stem: реалистически.//реалистичэски.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: реалистически
 
 -lexeme
  lex: решительно
- stem: решительно.
+ stem: решительно.//решитэльно.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: решительно
@@ -11010,14 +11010,14 @@
 
 -lexeme
  lex: ровыге
- stem: ровыге.
+ stem: ровыге.//ровыгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: дружно
 
 -lexeme
  lex: рожге
- stem: рожге.
+ stem: рожге.//рожгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с шумом, шуршанием
@@ -11031,14 +11031,14 @@
 
 -lexeme
  lex: ропке
- stem: ропке.
+ stem: ропке.//ропкэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: быстро, торопливо
 
 -lexeme
  lex: роткен
- stem: роткен.
+ stem: роткен.//роткэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с треском
@@ -11052,7 +11052,7 @@
 
 -lexeme
  lex: рочек
- stem: рочек.
+ stem: рочек.//рочэк.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о резком рывке
@@ -11066,14 +11066,14 @@
 
 -lexeme
  lex: рочке
- stem: рочке.
+ stem: рочке.//рочкэ.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о хрусте, скрипе
 
 -lexeme
  lex: рочыге
- stem: рочыге.
+ stem: рочыге.//рочыгэ.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о треске, хрусте
@@ -11101,7 +11101,7 @@
 
 -lexeme
  lex: роштке
- stem: роштке.
+ stem: роштке.//рошткэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: энергично, чётко
@@ -11136,7 +11136,7 @@
 
 -lexeme
  lex: рыве-рово
- stem: рыве-рово.
+ stem: рыве-рово.//рывэ-рово.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о звуке, издаваемом беспорядочно
@@ -11171,7 +11171,7 @@
 
 -lexeme
  lex: рыче-рочо
- stem: рыче-рочо.
+ stem: рыче-рочо.//рычэ-рочо.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о треске
@@ -11206,21 +11206,21 @@
 
 -lexeme
  lex: рыҥге
- stem: рыҥге.
+ stem: рыҥге.//рыҥгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: смирно, прямо; стройно
 
 -lexeme
  lex: рӱвыге
- stem: рӱвыге.
+ stem: рӱвыге.//рӱвыгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: дружно, шумно
 
 -lexeme
  lex: рӱден
- stem: рӱден.
+ stem: рӱден.//рӱдэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: надоедливо
@@ -11234,7 +11234,7 @@
 
 -lexeme
  lex: рӱжге
- stem: рӱжге.
+ stem: рӱжге.//рӱжгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: дружно
@@ -11262,7 +11262,7 @@
 
 -lexeme
  lex: рӱпланыде
- stem: рӱпланыде.
+ stem: рӱпланыде.//рӱпланыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: не тревожась
@@ -11283,7 +11283,7 @@
 
 -lexeme
  lex: рӱштке
- stem: рӱштке.
+ stem: рӱштке.//рӱшткэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: со звоном
@@ -11325,7 +11325,7 @@
 
 -lexeme
  lex: садешак
- stem: садешак.
+ stem: садешак.//садэшак.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сразу, тут же
@@ -11395,7 +11395,7 @@
 
 -lexeme
  lex: сандене
- stem: сандене.
+ stem: сандене.//сандэне.
  gramm: CONJ
  paradigm: Clitics
  trans_ru: поэтому
@@ -11416,98 +11416,98 @@
 
 -lexeme
  lex: сатирически
- stem: сатирически.
+ stem: сатирически.//сатиричэски.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: сатирически
 
 -lexeme
  lex: свежан
- stem: свежан.
+ stem: свежан.//свэжан.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: свежо
 
 -lexeme
  lex: свежанек
- stem: свежанек.
+ stem: свежанек.//свэжанек.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: в свежем виде
 
 -lexeme
  lex: сдельне
- stem: сдельне.
+ stem: сдельне.//сдэльне.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: сдельно
 
 -lexeme
  lex: селтын
- stem: селтын.
+ stem: селтын.//сэлтын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: хитро
 
 -lexeme
  lex: семалышын
- stem: семалышын.
+ stem: семалышын.//сэмалышын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: успокаивающе
 
 -lexeme
  lex: семешке
- stem: семешке.
+ stem: семешке.//семешкэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: наподобие
 
 -lexeme
  lex: семын
- stem: семын.
+ stem: семын.//сэмын.
  gramm: POST
  paradigm: Clitics
  trans_ru: как, по
 
 -lexeme
  lex: семӹнь
- stem: семӹнь.
+ stem: семӹнь.//сэмӹнь.
  gramm: POST
  paradigm: Clitics
  trans_ru: со слов
 
 -lexeme
  lex: серыплын
- stem: серыплын.
+ stem: серыплын.//сэрыплын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: тяжело; мощно
 
 -lexeme
  lex: серыпын
- stem: серыпын.
+ stem: серыпын.//сэрыпын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: тяжело, грузно
 
 -lexeme
  lex: серьёзнын
- stem: серьёзнын.
+ stem: серьёзнын.//сэрьёзнын.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: серьёзно
 
 -lexeme
  lex: сеҥалтде
- stem: сеҥалтде.
+ stem: сеҥалтде.//сеҥалтдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: беспроигрышно
 
 -lexeme
  lex: сеҥен
- stem: сеҥен.
+ stem: сеҥен.//сэҥен.
  gramm: ADV
  paradigm: Clitics
  trans_ru: насильно
@@ -11528,7 +11528,7 @@
 
 -lexeme
  lex: систематически
- stem: систематически.
+ stem: систематически.//систематичэски.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: систематически
@@ -11542,7 +11542,7 @@
 
 -lexeme
  lex: ситарен
- stem: ситарен.
+ stem: ситарен.//ситарэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: в достаточной степени
@@ -11570,7 +11570,7 @@
 
 -lexeme
  lex: ситымеш
- stem: ситымеш.
+ stem: ситымеш.//ситымэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: в достаточной степени
@@ -11654,7 +11654,7 @@
 
 -lexeme
  lex: сознательно
- stem: сознательно.
+ stem: сознательно.//сознатэльно.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: сознательно
@@ -11668,7 +11668,7 @@
 
 -lexeme
  lex: сойыреш
- stem: сойыреш.
+ stem: сойыреш.//сойырэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: по глупости
@@ -11871,14 +11871,14 @@
 
 -lexeme
  lex: схематичне
- stem: схематичне.
+ stem: схематичне.//схэматичне.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: схематично
 
 -lexeme
  lex: сценически
- stem: сценически.
+ stem: сценически.//сценичэски.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: сценически
@@ -11892,7 +11892,7 @@
 
 -lexeme
  lex: сылде-солдо
- stem: сылде-солдо.
+ stem: сылде-солдо.//сылдэ-солдо.
  gramm: ADV
  paradigm: Clitics
  trans_ru: нестройно
@@ -11962,7 +11962,7 @@
 
 -lexeme
  lex: сыпте-сопто
- stem: сыпте-сопто.
+ stem: сыпте-сопто.//сыптэ-сопто.
  gramm: ADV
  paradigm: Clitics
  trans_ru: неуклюже
@@ -11976,21 +11976,21 @@
 
 -lexeme
  lex: сырве-сорвын
- stem: сырве-сорвын.
+ stem: сырве-сорвын.//сырвэ-сорвын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: неряшливо
 
 -lexeme
  lex: сырен
- stem: сырен.
+ stem: сырен.//сырэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сердито
 
 -lexeme
  lex: сырыде
- stem: сырыде.
+ stem: сырыде.//сырыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: незлобиво
@@ -12039,7 +12039,7 @@
 
 -lexeme
  lex: сыҥге-соҥго
- stem: сыҥге-соҥго.
+ stem: сыҥге-соҥго.//сыҥгэ-соҥго.
  gramm: ADV
  paradigm: Clitics
  trans_ru: раскачиваясь
@@ -12067,7 +12067,7 @@
 
 -lexeme
  lex: сӧлдырем-сӧлдырем
- stem: сӧлдырем-сӧлдырем.
+ stem: сӧлдырем-сӧлдырем.//сӧлдырем-сӧлдырэм.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о беге или скачке тяжёлыми прыжками
@@ -12081,7 +12081,7 @@
 
 -lexeme
  lex: сӧрвален
- stem: сӧрвален.
+ stem: сӧрвален.//сӧрвалэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: умоляюще
@@ -12151,7 +12151,7 @@
 
 -lexeme
  lex: тавален
- stem: тавален.
+ stem: тавален.//тавалэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: нарасхват
@@ -12193,7 +12193,7 @@
 
 -lexeme
  lex: такеш
- stem: такеш.
+ stem: такеш.//такэш.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: за так; даром
@@ -12207,7 +12207,7 @@
 
 -lexeme
  lex: такше
- stem: такше.
+ stem: такше.//такшэ.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: вообще-то; в целом
@@ -12291,14 +12291,14 @@
 
 -lexeme
  lex: тарваныде
- stem: тарваныде.
+ stem: тарваныде.//тарваныдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: неподвижно
 
 -lexeme
  lex: тареш
- stem: тареш.
+ stem: тареш.//тарэш.
  gramm: POST
  paradigm: Clitics
  trans_ru: вместо
@@ -12333,21 +12333,21 @@
 
 -lexeme
  lex: таче
- stem: таче.
+ stem: таче.//тачэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сегодня
 
 -lexeme
  lex: таче-эрла
- stem: таче-эрла.
+ stem: таче-эрла.//тачэ-эрла.
  gramm: ADV
  paradigm: Clitics
  trans_ru: в ближайшие дни
 
 -lexeme
  lex: тачеш
- stem: тачеш.
+ stem: тачеш.//тачэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: на сегодня
@@ -12375,7 +12375,7 @@
 
 -lexeme
  lex: таҥгалке
- stem: таҥгалке.
+ stem: таҥгалке.//таҥгалкэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: к, до
@@ -12403,273 +12403,273 @@
 
 -lexeme
  lex: творчески
- stem: творчески.
+ stem: творчески.//творчэски.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: творчески
 
 -lexeme
  lex: теве
- stem: теве.
+ stem: теве.//тевэ.
  gramm: PART
  paradigm: Clitics
  trans_ru: вот
 
 -lexeme
  lex: теве-теве
- stem: теве-теве.
+ stem: теве-теве.//теве-тевэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: чуть не; вот-вот
 
 -lexeme
  lex: тегак
- stem: тегак.
+ stem: тегак.//тэгак.
  gramm: ADV
  paradigm: Clitics
  trans_ru: больше, далее
 
 -lexeme
  lex: тегакше
- stem: тегакше.
+ stem: тегакше.//тегакшэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: так-то, вообще-то
 
 -lexeme
  lex: тегыз
- stem: тегыз.
+ stem: тегыз.//тэгыз.
  gramm: ADV
  paradigm: Clitics
  trans_ru: часто
 
 -lexeme
  lex: тек
- stem: тек.
+ stem: тек.//тэк.
  gramm: PART
  paradigm: Clitics
  trans_ru: пускай
 
 -lexeme
  lex: теле-кеҥеж
- stem: теле-кеҥеж.
+ stem: теле-кеҥеж.//теле-кэҥеж.
  gramm: ADV
  paradigm: Clitics
  trans_ru: зимой и летом
 
 -lexeme
  lex: телым
- stem: телым.
+ stem: телым.//тэлым.
  gramm: ADV
  paradigm: Clitics
  trans_ru: зимой
 
 -lexeme
  lex: тембак
- stem: тембак.
+ stem: тембак.//тэмбак.
  gramm: ADV
  paradigm: Clitics
  trans_ru: близко, в сторону говорящего
 
 -lexeme
  lex: тембак-умбак
- stem: тембак-умбак.
+ stem: тембак-умбак.//тэмбак-умбак.
  gramm: ADV
  paradigm: Clitics
  trans_ru: туда-сюда
 
 -lexeme
  lex: тембаке
- stem: тембаке.
+ stem: тембаке.//тембакэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: близко, в сторону говорящего
 
 -lexeme
  lex: тембалан
- stem: тембалан.
+ stem: тембалан.//тэмбалан.
  gramm: ADV
  paradigm: Clitics
  trans_ru: близко
 
 -lexeme
  lex: тембалне
- stem: тембалне.
+ stem: тембалне.//тэмбалне.
  gramm: ADV
  paradigm: Clitics
  trans_ru: близко, вблизи
 
 -lexeme
  lex: тембач
- stem: тембач.
+ stem: тембач.//тэмбач.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с близкого расстояния
 
 -lexeme
  lex: тембач-умбач
- stem: тембач-умбач.
+ stem: тембач-умбач.//тэмбач-умбач.
  gramm: ADV
  paradigm: Clitics
  trans_ru: вокруг да около
 
 -lexeme
  lex: тембачын
- stem: тембачын.
+ stem: тембачын.//тэмбачын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с близкого расстояния
 
 -lexeme
  lex: темдымашын
- stem: темдымашын.
+ stem: темдымашын.//тэмдымашын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: ненасытно
 
 -lexeme
  lex: темдымын
- stem: темдымын.
+ stem: темдымын.//тэмдымын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: жадно
 
 -lexeme
  lex: теммеш
- stem: теммеш.
+ stem: теммеш.//теммэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: досыта
 
 -lexeme
  lex: теммешке
- stem: теммешке.
+ stem: теммешке.//теммешкэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: досыта
 
 -lexeme
  lex: темын
- stem: темын.
+ stem: темын.//тэмын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: заполняя; достаточно
 
 -lexeme
  lex: темын-темде
- stem: темын-темде.
+ stem: темын-темде.//темын-темдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: впроголодь
 
 -lexeme
  lex: тениеш
- stem: тениеш.
+ stem: тениеш.//тэниеш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: на этот год
 
 -lexeme
  lex: тений
- stem: тений.|тени.
+ stem: тений.//тэний.|тени.//тэни.
  gramm: ADV
  paradigm: Clitics_j
  trans_ru: в этом году
 
 -lexeme
  lex: теньыш
- stem: теньыш.
+ stem: теньыш.//тэньыш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: близко, сюда
 
 -lexeme
  lex: теньыш-оньыш
- stem: теньыш-оньыш.
+ stem: теньыш-оньыш.//тэньыш-оньыш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: по-разном; не по делу
 
 -lexeme
  lex: теньыш-оньыш
- stem: теньыш-оньыш.
+ stem: теньыш-оньыш.//тэньыш-оньыш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сюда-туда; бестолково
 
 -lexeme
  lex: тептерде
- stem: тептерде.
+ stem: тептерде.//тептердэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: бестолково
 
 -lexeme
  lex: тептердымын
- stem: тептердымын.
+ stem: тептердымын.//тептэрдымын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: бестолково
 
 -lexeme
  lex: тептерын
- stem: тептерын.
+ stem: тептерын.//тептэрын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: толково
 
 -lexeme
  lex: тептеҥеш
- stem: тептеҥеш.
+ stem: тептеҥеш.//тептэҥеш.
  gramm: PREDIC
  paradigm: Clitics
  trans_ru: всё равно
 
 -lexeme
  lex: терген
- stem: терген.
+ stem: терген.//тергэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: испытующе
 
 -lexeme
  lex: тергышын
- stem: тергышын.
+ stem: тергышын.//тэргышын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: испытующе
 
 -lexeme
  lex: терке
- stem: терке.
+ stem: терке.//теркэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: домой
 
 -lexeme
  lex: терне
- stem: терне.
+ stem: терне.//тэрне.
  gramm: ADV
  paradigm: Clitics
  trans_ru: дома (у себя)
 
 -lexeme
  lex: тетла
- stem: тетла.
+ stem: тетла.//тэтла.
  gramm: ADV
  paradigm: Clitics
  trans_ru: далее
 
 -lexeme
  lex: теҥгече
- stem: теҥгече.
+ stem: теҥгече.//теҥгечэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: вчера
 
 -lexeme
  lex: теҥгечсек
- stem: теҥгечсек.
+ stem: теҥгечсек.//теҥгечсэк.
  gramm: ADV
  paradigm: Clitics
  trans_ru: со вчерашнего дня
@@ -12697,7 +12697,7 @@
 
 -lexeme
  lex: титакде
- stem: титакде.
+ stem: титакде.//титакдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: безвинно, необоснованно
@@ -12788,14 +12788,14 @@
 
 -lexeme
  lex: товыге
- stem: товыге.
+ stem: товыге.//товыгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: со стуком
 
 -lexeme
  lex: товылен
- stem: товылен.
+ stem: товылен.//товылэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: одобрительно
@@ -12809,7 +12809,7 @@
 
 -lexeme
  lex: тойыде
- stem: тойыде.
+ stem: тойыде.//тойыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: откровенно
@@ -12872,7 +12872,7 @@
 
 -lexeme
  lex: токасек
- stem: токасек.
+ stem: токасек.//токасэк.
  gramm: ADV
  paradigm: Clitics
  trans_ru: давно
@@ -12886,7 +12886,7 @@
 
 -lexeme
  lex: толашен-толашен
- stem: толашен-толашен.
+ stem: толашен-толашен.//толашен-толашэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с трудом
@@ -12977,63 +12977,63 @@
 
 -lexeme
  lex: торашке
- stem: торашке.
+ stem: торашке.//торашкэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: вдаль
 
 -lexeme
  lex: тораште
- stem: тораште.
+ stem: тораште.//тораштэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: вдали
 
 -lexeme
  lex: тореш-кутынь
- stem: тореш-кутынь.
+ stem: тореш-кутынь.//торэш-кутынь.
  gramm: ADV
  paradigm: Clitics
  trans_ru: вдоль и поперёк; досконально
 
 -lexeme
  lex: торешан
- stem: торешан.
+ stem: торешан.//торэшан.
  gramm: POST
  paradigm: Clitics
  trans_ru: на, около
 
 -lexeme
  lex: торешге-кутге
- stem: торешге-кутге.
+ stem: торешге-кутге.//торешге-кутгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: и в ширину, и в длину; чистый; не из разных нитей
 
 -lexeme
  lex: торешке
- stem: торешке.
+ stem: торешке.//торешкэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: на, около
 
 -lexeme
  lex: торешла
- stem: торешла.
+ stem: торешла.//торэшла.
  gramm: POST
  paradigm: Clitics
  trans_ru: поперёк; по ширине
 
 -lexeme
  lex: торешне
- stem: торешне.
+ stem: торешне.//торэшне.
  gramm: POST
  paradigm: Clitics
  trans_ru: на, возле
 
 -lexeme
  lex: торешын
- stem: торешын.
+ stem: торешын.//торэшын.
  gramm: POST
  paradigm: Clitics
  trans_ru: поперёк; возле
@@ -13047,7 +13047,7 @@
 
 -lexeme
  lex: торжественне
- stem: торжественне.
+ stem: торжественне.//торжествэнне.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: торжественно
@@ -13075,7 +13075,7 @@
 
 -lexeme
  lex: тортке
- stem: тортке.
+ stem: тортке.//торткэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: неподвижно, спокойно
@@ -13117,7 +13117,7 @@
 
 -lexeme
  lex: тоштын-тоштде
- stem: тоштын-тоштде.
+ stem: тоштын-тоштде.//тоштын-тоштдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: нерешительно
@@ -13145,7 +13145,7 @@
 
 -lexeme
  lex: тоҥге
- stem: тоҥге.
+ stem: тоҥге.//тоҥгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: ошеломлённо
@@ -13187,7 +13187,7 @@
 
 -lexeme
  lex: туаде
- stem: туаде.
+ stem: туаде.//туадэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сегодня
@@ -13201,63 +13201,63 @@
 
 -lexeme
  lex: тувек
- stem: тувек.
+ stem: тувек.//тувэк.
  gramm: ADV
  paradigm: Clitics
  trans_ru: туда; в ту сторону
 
 -lexeme
  lex: тувеке
- stem: тувеке.
+ stem: тувеке.//тувекэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: туда; в ту сторону
 
 -lexeme
  lex: тувелан
- stem: тувелан.
+ stem: тувелан.//тувэлан.
  gramm: ADV
  paradigm: Clitics
  trans_ru: на той стороне, там
 
 -lexeme
  lex: тувелне
- stem: тувелне.
+ stem: тувелне.//тувэлне.
  gramm: ADV
  paradigm: Clitics
  trans_ru: на той стороне, там
 
 -lexeme
  lex: тувелыш
- stem: тувелыш.
+ stem: тувелыш.//тувэлыш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: на ту сторону, туда
 
 -lexeme
  lex: тувелышке
- stem: тувелышке.
+ stem: тувелышке.//тувелышкэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: на ту сторону, туда
 
 -lexeme
  lex: тувешке
- stem: тувешке.
+ stem: тувешке.//тувешкэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: до тех пор
 
 -lexeme
  lex: тувырмела
- stem: тувырмела.
+ stem: тувырмела.//тувырмэла.
  gramm: ADV
  paradigm: Clitics
  trans_ru: без верхней одежды
 
 -lexeme
  lex: тувырмелын
- stem: тувырмелын.
+ stem: тувырмелын.//тувырмэлын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: без верхней одежды
@@ -13278,7 +13278,7 @@
 
 -lexeme
  lex: тугудеште
- stem: тугудеште.
+ stem: тугудеште.//тугудештэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: в тот момент
@@ -13341,7 +13341,7 @@
 
 -lexeme
  lex: тулын-сескемын
- stem: тулын-сескемын.
+ stem: тулын-сескемын.//тулын-сескэмын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: искристо
@@ -13355,7 +13355,7 @@
 
 -lexeme
  lex: тумарте
- stem: тумарте.
+ stem: тумарте.//тумартэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: до тех пор
@@ -13390,28 +13390,28 @@
 
 -lexeme
  lex: тупе-ваше
- stem: тупе-ваше.
+ stem: тупе-ваше.//тупе-вашэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: спиной к спине
 
 -lexeme
  lex: тупе-тупе
- stem: тупе-тупе.
+ stem: тупе-тупе.//тупе-тупэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: спиной к спине
 
 -lexeme
  lex: тупела-мела
- stem: тупела-мела.
+ stem: тупела-мела.//тупела-мэла.
  gramm: ADV
  paradigm: Clitics
  trans_ru: спиной к спине; бестолково
 
 -lexeme
  lex: тупела-мелын
- stem: тупела-мелын.
+ stem: тупела-мелын.//тупела-мэлын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: задом наперёд
@@ -13439,14 +13439,14 @@
 
 -lexeme
  lex: турашке
- stem: турашке.
+ stem: турашке.//турашкэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: до, к, на
 
 -lexeme
  lex: тураште
- stem: тураште.
+ stem: тураште.//тураштэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: сразу; около, к
@@ -13460,7 +13460,7 @@
 
 -lexeme
  lex: турге
- stem: турге.
+ stem: турге.//тургэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с рокотом
@@ -13474,7 +13474,7 @@
 
 -lexeme
  lex: тургыжланыде
- stem: тургыжланыде.
+ stem: тургыжланыде.//тургыжланыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: спокойно
@@ -13565,56 +13565,56 @@
 
 -lexeme
  lex: тыбе-дӱбӧ
- stem: тыбе-дӱбӧ.
+ stem: тыбе-дӱбӧ.//тыбэ-дӱбӧ.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о ритмичных звуках барабана
 
 -lexeme
  lex: тыве-дово
- stem: тыве-дово.
+ stem: тыве-дово.//тывэ-дово.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о глухом шуме быстрого или беспорядочного движения
 
 -lexeme
  lex: тыве-дыве
- stem: тыве-дыве.
+ stem: тыве-дыве.//тыве-дывэ.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о звуке пляски, топота
 
 -lexeme
  lex: тывелым
- stem: тывелым.
+ stem: тывелым.//тывэлым.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с этой стороны
 
 -lexeme
  lex: тывеч
- stem: тывеч.
+ stem: тывеч.//тывэч.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с этой стороны
 
 -lexeme
  lex: тывеч-тувеч
- stem: тывеч-тувеч.
+ stem: тывеч-тувеч.//тывеч-тувэч.
  gramm: ADV
  paradigm: Clitics
  trans_ru: со всех сторон
 
 -lexeme
  lex: тывечла
- stem: тывечла.
+ stem: тывечла.//тывэчла.
  gramm: ADV
  paradigm: Clitics
  trans_ru: по этой стороне
 
 -lexeme
  lex: тывечын
- stem: тывечын.
+ stem: тывечын.//тывэчын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с этой стороны
@@ -13642,7 +13642,7 @@
 
 -lexeme
  lex: тыглайже
- stem: тыглайже.
+ stem: тыглайже.//тыглайжэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: на первый взгляд
@@ -13677,14 +13677,14 @@
 
 -lexeme
  lex: тыгудеште
- stem: тыгудеште.
+ stem: тыгудеште.//тыгудештэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: в это время
 
 -lexeme
  lex: тыгутлаште
- stem: тыгутлаште.
+ stem: тыгутлаште.//тыгутлаштэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: в это время
@@ -13726,7 +13726,7 @@
 
 -lexeme
  lex: тыкымлен
- stem: тыкымлен.
+ stem: тыкымлен.//тыкымлэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: настойчиво
@@ -13747,14 +13747,14 @@
 
 -lexeme
  lex: тылге
- stem: тылге.
+ stem: тылге.//тылгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: плавно, покачиваясь
 
 -lexeme
  lex: тылетла
- stem: тылетла.
+ stem: тылетла.//тылэтла.
  gramm: ADV
  paradigm: Clitics
  trans_ru: больше этого; после этого
@@ -13782,35 +13782,35 @@
 
 -lexeme
  lex: тыманмеш
- stem: тыманмеш.
+ stem: тыманмеш.//тыманмэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: вмиг
 
 -lexeme
  lex: тыманмешке
- stem: тыманмешке.
+ stem: тыманмешке.//тыманмешкэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: тотчас, вмиг, очень быстро, в момент, сразу же, тут же
 
 -lexeme
  lex: тымарсек
- stem: тымарсек.
+ stem: тымарсек.//тымарсэк.
  gramm: ADV
  paradigm: Clitics
  trans_ru: до этого времени
 
 -lexeme
  lex: тымарте
- stem: тымарте.
+ stem: тымарте.//тымартэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: до сих пор
 
 -lexeme
  lex: тымартен
- stem: тымартен.
+ stem: тымартен.//тымартэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: до сих пор
@@ -13880,21 +13880,21 @@
 
 -lexeme
  lex: тыпке
- stem: тыпке.
+ stem: тыпке.//тыпкэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: тихо
 
 -lexeme
  lex: тыпке-топко
- stem: тыпке-топко.
+ stem: тыпке-топко.//тыпкэ-топко.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: топ-топ
 
 -lexeme
  lex: тыпланыде
- stem: тыпланыде.
+ stem: тыпланыде.//тыпланыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: без умолку
@@ -13915,7 +13915,7 @@
 
 -lexeme
  lex: тырге
- stem: тырге.
+ stem: тырге.//тыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с треском, стрекотом
@@ -13936,7 +13936,7 @@
 
 -lexeme
  lex: тыртке
- stem: тыртке.
+ stem: тыртке.//тырткэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: торчком
@@ -14013,7 +14013,7 @@
 
 -lexeme
  lex: тыҥге-тоҥго
- stem: тыҥге-тоҥго.
+ stem: тыҥге-тоҥго.//тыҥгэ-тоҥго.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о ковылянии
@@ -14034,7 +14034,7 @@
 
 -lexeme
  lex: тӧжен
- stem: тӧжен.
+ stem: тӧжен.//тӧжэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: аккуратно
@@ -14069,14 +14069,14 @@
 
 -lexeme
  lex: тӧпке
- stem: тӧпке.
+ stem: тӧпке.//тӧпкэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: грузно, тяжело, неуклюже
 
 -lexeme
  lex: тӧпке
- stem: тӧпке.
+ stem: тӧпке.//тӧпкэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: неподвижно
@@ -14097,14 +14097,14 @@
 
 -lexeme
  lex: тӧпырге
- stem: тӧпырге.
+ stem: тӧпырге.//тӧпыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: грузно, тяжело, с трудом
 
 -lexeme
  lex: тӧрге
- stem: тӧрге.
+ stem: тӧрге.//тӧргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: рывками
@@ -14146,14 +14146,14 @@
 
 -lexeme
  lex: тӱвем
- stem: тӱвем.
+ stem: тӱвем.//тӱвэм.
  gramm: ADV
  paradigm: Clitics
  trans_ru: очень много
 
 -lexeme
  lex: тӱвыге
- stem: тӱвыге.
+ stem: тӱвыге.//тӱвыгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: шумно; шумной гурьбой
@@ -14223,7 +14223,7 @@
 
 -lexeme
  lex: тӱжваке
- stem: тӱжваке.
+ stem: тӱжваке.//тӱжвакэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: наружу
@@ -14258,14 +14258,14 @@
 
 -lexeme
  lex: тӱжемлын
- stem: тӱжемлын.
+ stem: тӱжемлын.//тӱжэмлын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: тысячью, тысячами
 
 -lexeme
  lex: тӱкен
- stem: тӱкен.
+ stem: тӱкен.//тӱкэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: прямо, открыто
@@ -14279,14 +14279,14 @@
 
 -lexeme
  lex: тӱкнен-тӱкныде
- stem: тӱкнен-тӱкныде.
+ stem: тӱкнен-тӱкныде.//тӱкнен-тӱкныдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: едва касаясь
 
 -lexeme
  lex: тӱкныде
- stem: тӱкныде.
+ stem: тӱкныде.//тӱкныдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: без запинки
@@ -14300,7 +14300,7 @@
 
 -lexeme
  lex: тӱлыде
- stem: тӱлыде.
+ stem: тӱлыде.//тӱлыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: бесплатно
@@ -14384,7 +14384,7 @@
 
 -lexeme
  lex: тӱрге
- stem: тӱрге.
+ stem: тӱрге.//тӱргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: клубами, столбом
@@ -14447,7 +14447,7 @@
 
 -lexeme
  lex: тӱсен-тӱсыде
- stem: тӱсен-тӱсыде.
+ stem: тӱсен-тӱсыде.//тӱсен-тӱсыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: кое-как мирясь
@@ -14538,7 +14538,7 @@
 
 -lexeme
  lex: у-уге
- stem: у-уге.
+ stem: у-уге.//у-угэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с шумом
@@ -14650,7 +14650,7 @@
 
 -lexeme
  lex: ужаргын-шемын
- stem: ужаргын-шемын.
+ stem: ужаргын-шемын.//ужаргын-шэмын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: зелёно-чёрно
@@ -14664,7 +14664,7 @@
 
 -lexeme
  lex: ужашлен-ужашлен
- stem: ужашлен-ужашлен.
+ stem: ужашлен-ужашлен.//ужашлен-ужашлэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: частями
@@ -14699,7 +14699,7 @@
 
 -lexeme
  lex: уже
- stem: уже.
+ stem: уже.//ужэ.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: уже
@@ -14741,7 +14741,7 @@
 
 -lexeme
  lex: уке
- stem: уке.
+ stem: уке.//укэ.
  gramm: PREDIC
  paradigm: Clitics
  trans_ru: нет
@@ -14776,7 +14776,7 @@
 
 -lexeme
  lex: улыжат-укежат
- stem: улыжат-укежат.
+ stem: улыжат-укежат.//улыжат-укэжат.
  gramm: PART
  paradigm: Clitics
  trans_ru: только, лишь
@@ -14797,7 +14797,7 @@
 
 -lexeme
  lex: умбаке
- stem: умбаке.
+ stem: умбаке.//умбакэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: далеко, вдаль; затем
@@ -14811,7 +14811,7 @@
 
 -lexeme
  lex: умбале
- stem: умбале.
+ stem: умбале.//умбалэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: наизнанку
@@ -14888,7 +14888,7 @@
 
 -lexeme
  lex: уналыкеш
- stem: уналыкеш.
+ stem: уналыкеш.//уналыкэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: в гости
@@ -14993,7 +14993,7 @@
 
 -lexeme
  lex: утларакше
- stem: утларакше.
+ stem: утларакше.//утларакшэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: большей частью
@@ -15007,28 +15007,28 @@
 
 -lexeme
  lex: утыген
- stem: утыген.
+ stem: утыген.//утыгэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: чересчур
 
 -lexeme
  lex: утыген-утыген
- stem: утыген-утыген.
+ stem: утыген-утыген.//утыген-утыгэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: навзрыд (плакать), очень громко
 
 -lexeme
  lex: утыжден
- stem: утыжден.
+ stem: утыжден.//утыждэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: слишком
 
 -lexeme
  lex: утыждене
- stem: утыждене.
+ stem: утыждене.//утыждэне.
  gramm: ADV
  paradigm: Clitics
  trans_ru: слишком, чересчур
@@ -15042,14 +15042,14 @@
 
 -lexeme
  lex: утымеш
- stem: утымеш.
+ stem: утымеш.//утымэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: очень много
 
 -lexeme
  lex: утымешке
- stem: утымешке.
+ stem: утымешке.//утымешкэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: очень много
@@ -15154,7 +15154,7 @@
 
 -lexeme
  lex: фактически
- stem: фактически.
+ stem: фактически.//фактичэски.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: фактически
@@ -15266,14 +15266,14 @@
 
 -lexeme
  lex: чакныде
- stem: чакныде.
+ stem: чакныде.//чакныдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: неотступно
 
 -lexeme
  lex: чакныдегеч
- stem: чакныдегеч.
+ stem: чакныдегеч.//чакныдегэч.
  gramm: ADV
  paradigm: Clitics
  trans_ru: неотступно
@@ -15301,7 +15301,7 @@
 
 -lexeme
  lex: чаманыде
- stem: чаманыде.
+ stem: чаманыде.//чаманыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: безжалостно
@@ -15427,14 +15427,14 @@
 
 -lexeme
  lex: чарныде
- stem: чарныде.
+ stem: чарныде.//чарныдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: беспрестанно
 
 -lexeme
  lex: чарныде-эксыде
- stem: чарныде-эксыде.
+ stem: чарныде-эксыде.//чарныде-эксыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: непрерывно
@@ -15483,98 +15483,98 @@
 
 -lexeme
  lex: чеверын
- stem: чеверын.
+ stem: чеверын.//чевэрын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: красиво, прекрасно
 
 -lexeme
  lex: чеверын
- stem: чеверын.
+ stem: чеверын.//чевэрын.
  gramm: PART
  paradigm: Clitics
  trans_ru: до свидания
 
 -lexeme
  lex: чеверын-алын
- stem: чеверын-алын.
+ stem: чеверын-алын.//чевэрын-алын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: красно-ало
 
 -lexeme
  lex: чеверын-чуликын
- stem: чеверын-чуликын.
+ stem: чеверын-чуликын.//чевэрын-чуликын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: красновато-розово
 
 -lexeme
  lex: черетде
- stem: черетде.
+ stem: черетде.//черетдэ.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: без очереди
 
 -lexeme
  lex: черлын
- stem: черлын.
+ stem: черлын.//чэрлын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: нездорово
 
 -lexeme
  lex: чеслын
- stem: чеслын.
+ stem: чеслын.//чэслын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: прекрасно; приятно
 
 -lexeme
  lex: чеслын
- stem: чеслын.
+ stem: чеслын.//чэслын.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: с почестями
 
 -lexeme
  lex: честне
- stem: честне.
+ stem: честне.//чэстне.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: честно
 
 -lexeme
  lex: честнын
- stem: честнын.
+ stem: честнын.//чэстнын.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: честно
 
 -lexeme
  lex: четынын
- stem: четынын.
+ stem: четынын.//чэтынын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: нежно
 
 -lexeme
  lex: чечас
- stem: чечас.
+ stem: чечас.//чэчас.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: сейчас
 
 -lexeme
  lex: чеченлын
- stem: чеченлын.
+ stem: чеченлын.//чечэнлын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: красиво; прекрасно; прелестно
 
 -lexeme
  lex: чеченын
- stem: чеченын.
+ stem: чеченын.//чечэнын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: красиво; прекрасно; очень хорошо
@@ -15630,7 +15630,7 @@
 
 -lexeme
  lex: чинче-вунчын
- stem: чинче-вунчын.
+ stem: чинче-вунчын.//чинчэ-вунчын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: блестяще
@@ -15679,7 +15679,7 @@
 
 -lexeme
  lex: човыге
- stem: човыге.
+ stem: човыге.//човыгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: ручьём, градом, струйкой (течь)
@@ -15693,7 +15693,7 @@
 
 -lexeme
  lex: чодырге
- stem: чодырге.
+ stem: чодырге.//чодыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с хрустом, с треском
@@ -15707,7 +15707,7 @@
 
 -lexeme
  lex: чожге
- stem: чожге.
+ stem: чожге.//чожгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с шумом
@@ -15763,14 +15763,14 @@
 
 -lexeme
  lex: чолге
- stem: чолге.
+ stem: чолге.//чолгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: ярко
 
 -lexeme
  lex: чолген
- stem: чолген.
+ stem: чолген.//чолгэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: ярко
@@ -15791,7 +15791,7 @@
 
 -lexeme
  lex: чолдырге
- stem: чолдырге.
+ stem: чолдырге.//чолдыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: звонко
@@ -15882,7 +15882,7 @@
 
 -lexeme
  lex: чорге
- stem: чорге.
+ stem: чорге.//чоргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: ручьём, обильно (течь)
@@ -15938,7 +15938,7 @@
 
 -lexeme
  lex: чотырге
- stem: чотырге.
+ stem: чотырге.//чотыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: со скрежетом
@@ -15973,7 +15973,7 @@
 
 -lexeme
  lex: чоштырге
- stem: чоштырге.
+ stem: чоштырге.//чоштыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с хрустом; с треском
@@ -15987,7 +15987,7 @@
 
 -lexeme
  lex: чояланыде
- stem: чояланыде.
+ stem: чояланыде.//чояланыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: бесхитростно
@@ -16092,14 +16092,14 @@
 
 -lexeme
  lex: чуйге
- stem: чуйге.
+ stem: чуйге.//чуйгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: извиваясь, вытягиваясь (о дыме)
 
 -lexeme
  lex: чуйге
- stem: чуйге.
+ stem: чуйге.//чуйгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: пристально
@@ -16155,7 +16155,7 @@
 
 -lexeme
  lex: чумырген
- stem: чумырген.
+ stem: чумырген.//чумыргэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сплочённо, дружно
@@ -16204,7 +16204,7 @@
 
 -lexeme
  lex: чурге
- stem: чурге.
+ stem: чурге.//чургэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: пристально
@@ -16267,21 +16267,21 @@
 
 -lexeme
  lex: чуҥге
- stem: чуҥге.
+ stem: чуҥге.//чуҥгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: неподвижно; торчком
 
 -lexeme
  lex: чыве-чово
- stem: чыве-чово.
+ stem: чыве-чово.//чывэ-чово.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о чавкании, хлюпаньи
 
 -lexeme
  lex: чыве-чыве
- stem: чыве-чыве.
+ stem: чыве-чыве.//чыве-чывэ.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о шуме, плеске воды
@@ -16309,14 +16309,14 @@
 
 -lexeme
  lex: чыге-мого
- stem: чыге-мого.
+ stem: чыге-мого.//чыгэ-мого.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о неясных и негромких голосах
 
 -lexeme
  lex: чыге-чого
- stem: чыге-чого.
+ stem: чыге-чого.//чыгэ-чого.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о чирикании, щебетании птиц
@@ -16344,14 +16344,14 @@
 
 -lexeme
  lex: чыде-чодо
- stem: чыде-чодо.
+ stem: чыде-чодо.//чыдэ-чодо.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о треске
 
 -lexeme
  lex: чыде-чыде
- stem: чыде-чыде.
+ stem: чыде-чыде.//чыде-чыдэ.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: об ощущении резкого, обжигающего холода
@@ -16372,7 +16372,7 @@
 
 -lexeme
  lex: чыдырге
- stem: чыдырге.
+ stem: чыдырге.//чыдыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: больно
@@ -16456,7 +16456,7 @@
 
 -lexeme
  lex: чыйге
- stem: чыйге.
+ stem: чыйге.//чыйгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: неярко, тускло
@@ -16512,14 +16512,14 @@
 
 -lexeme
  lex: чылге
- stem: чылге.
+ stem: чылге.//чылгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сияя, блестя
 
 -lexeme
  lex: чылде-чолдо
- stem: чылде-чолдо.
+ stem: чылде-чолдо.//чылдэ-чолдо.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о глухом стуке или брякании, шуршании
@@ -16533,7 +16533,7 @@
 
 -lexeme
  lex: чылдырге
- stem: чылдырге.
+ stem: чылдырге.//чылдыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: звонко
@@ -16701,7 +16701,7 @@
 
 -lexeme
  lex: чыпте-чопто
- stem: чыпте-чопто.
+ stem: чыпте-чопто.//чыптэ-чопто.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о звуках шлёпания, хлюпания
@@ -16750,14 +16750,14 @@
 
 -lexeme
  lex: чырге
- stem: чырге.
+ stem: чырге.//чыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: внимательно
 
 -lexeme
  lex: чырге
- stem: чырге.
+ stem: чырге.//чыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: струйкой, ручьём
@@ -16785,14 +16785,14 @@
 
 -lexeme
  lex: чыталтен
- stem: чыталтен.
+ stem: чыталтен.//чыталтэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: помедлив
 
 -lexeme
  lex: чыталтенрак
- stem: чыталтенрак.
+ stem: чыталтенрак.//чыталтэнрак.
  gramm: ADV
  paradigm: Clitics
  trans_ru: помедлив
@@ -16813,35 +16813,35 @@
 
 -lexeme
  lex: чыте
- stem: чыте.
+ stem: чыте.//чытэ.
  gramm: PREDIC
  paradigm: Clitics
  trans_ru: только держись
 
 -lexeme
  lex: чытен-чытенак
- stem: чытен-чытенак.
+ stem: чытен-чытенак.//чытен-чытэнак.
  gramm: ADV
  paradigm: Clitics
  trans_ru: терпеливо; через силу
 
 -lexeme
  lex: чытен-чытыде
- stem: чытен-чытыде.
+ stem: чытен-чытыде.//чытен-чытыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: нетерпеливо
 
 -lexeme
  lex: чытен-чытыдымын
- stem: чытен-чытыдымын.
+ stem: чытен-чытыдымын.//чытэн-чытыдымын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: нетерпеливо
 
 -lexeme
  lex: чытенак
- stem: чытенак.
+ stem: чытенак.//чытэнак.
  gramm: ADV
  paradigm: Clitics
  trans_ru: от чыташ; терпеливо
@@ -16960,7 +16960,7 @@
 
 -lexeme
  lex: шагалже-шукыжо
- stem: шагалже-шукыжо.
+ stem: шагалже-шукыжо.//шагалжэ-шукыжо.
  gramm: ADV
  paradigm: Clitics
  trans_ru: ни много ни мало; ровно столько
@@ -17086,7 +17086,7 @@
 
 -lexeme
  lex: шаярыде
- stem: шаярыде.
+ stem: шаярыде.//шаярыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: без шуток
@@ -17100,147 +17100,147 @@
 
 -lexeme
  lex: шаҥге
- stem: шаҥге.
+ stem: шаҥге.//шаҥгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: недавно
 
 -lexeme
  lex: шаҥгысек
- stem: шаҥгысек.
+ stem: шаҥгысек.//шаҥгысэк.
  gramm: ADV
  paradigm: Clitics
  trans_ru: давно, долго
 
 -lexeme
  lex: шекланыде
- stem: шекланыде.
+ stem: шекланыде.//шекланыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: неосторожно
 
 -lexeme
  lex: шекланышын
- stem: шекланышын.
+ stem: шекланышын.//шэкланышын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: осторожно
 
 -lexeme
  lex: шемалгын
- stem: шемалгын.
+ stem: шемалгын.//шэмалгын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: темновато, черновато
 
 -lexeme
  lex: шемын
- stem: шемын.
+ stem: шемын.//шэмын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: темно, черно
 
 -lexeme
  lex: шералгын
- stem: шералгын.
+ stem: шералгын.//шэралгын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сладковато; со сладким привкусом
 
 -lexeme
  lex: шергын
- stem: шергын.
+ stem: шергын.//шэргын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: дорого
 
 -lexeme
  lex: шеремет
- stem: шеремет.
+ stem: шеремет.//шеремэт.
  gramm: PART
  paradigm: Clitics
  trans_ru: выражает восторг, удивление
 
 -lexeme
  lex: шерын
- stem: шерын.
+ stem: шерын.//шэрын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сладко
 
 -lexeme
  lex: шеҥгек
- stem: шеҥгек.
+ stem: шеҥгек.//шеҥгэк.
  gramm: POST
  paradigm: Clitics
  trans_ru: назад; за какое-то время
 
 -lexeme
  lex: шеҥгек-ончык
- stem: шеҥгек-ончык.
+ stem: шеҥгек-ончык.//шеҥгэк-ончык.
  gramm: ADV
  paradigm: Clitics
  trans_ru: взад-вперёд
 
 -lexeme
  lex: шеҥгеке
- stem: шеҥгеке.
+ stem: шеҥгеке.//шеҥгекэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: назад; за какое-то время
 
 -lexeme
  lex: шеҥгелан
- stem: шеҥгелан.
+ stem: шеҥгелан.//шеҥгэлан.
  gramm: POST
  paradigm: Clitics
  trans_ru: позади, сзади
 
 -lexeme
  lex: шеҥгелне
- stem: шеҥгелне.
+ stem: шеҥгелне.//шеҥгэлне.
  gramm: POST
  paradigm: Clitics
  trans_ru: позади, сзади
 
 -lexeme
  lex: шеҥгеч
- stem: шеҥгеч.
+ stem: шеҥгеч.//шеҥгэч.
  gramm: POST
  paradigm: Clitics
  trans_ru: сзади; за какое-то время
 
 -lexeme
  lex: шеҥгеч-ончыч
- stem: шеҥгеч-ончыч.
+ stem: шеҥгеч-ончыч.//шеҥгэч-ончыч.
  gramm: ADV
  paradigm: Clitics
  trans_ru: и сзади, и спереди; намёками
 
 -lexeme
  lex: шеҥгечын
- stem: шеҥгечын.
+ stem: шеҥгечын.//шеҥгэчын.
  gramm: POST
  paradigm: Clitics
  trans_ru: сзади; за какое-то время
 
 -lexeme
  lex: шижде
- stem: шижде.
+ stem: шижде.//шиждэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: незаметно; неожиданно
 
 -lexeme
  lex: шижде-вучыде
- stem: шижде-вучыде.
+ stem: шижде-вучыде.//шижде-вучыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: нежданно-негаданно
 
 -lexeme
  lex: шижде-годде
- stem: шижде-годде.
+ stem: шижде-годде.//шижде-годдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: незаметно
@@ -17261,7 +17261,7 @@
 
 -lexeme
  lex: шижтарен
- stem: шижтарен.
+ stem: шижтарен.//шижтарэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: заметно
@@ -17275,7 +17275,7 @@
 
 -lexeme
  lex: шижын-шижде
- stem: шижын-шижде.
+ stem: шижын-шижде.//шижын-шиждэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: незаметно, непроизвольно
@@ -17359,7 +17359,7 @@
 
 -lexeme
  lex: шинчен-шинчыде
- stem: шинчен-шинчыде.
+ stem: шинчен-шинчыде.//шинчен-шинчыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с нетерпением
@@ -17373,35 +17373,35 @@
 
 -lexeme
  lex: шкевуя
- stem: шкевуя.
+ stem: шкевуя.//шкэвуя.
  gramm: ADV
  paradigm: Clitics
  trans_ru: про себя; сам по себе
 
 -lexeme
  lex: шкеора
- stem: шкеора.
+ stem: шкеора.//шкэора.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сам, лично
 
 -lexeme
  lex: шкеоя
- stem: шкеоя.
+ stem: шкеоя.//шкэоя.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сам, самостоятельно
 
 -lexeme
  lex: шкет-шкет
- stem: шкет-шкет.
+ stem: шкет-шкет.//шкет-шкэт.
  gramm: ADV
  paradigm: Clitics
  trans_ru: по одному, в одиночку
 
 -lexeme
  lex: шкетвуя
- stem: шкетвуя.
+ stem: шкетвуя.//шкэтвуя.
  gramm: ADV
  paradigm: Clitics
  trans_ru: одиноко, в одиночку
@@ -17415,35 +17415,35 @@
 
 -lexeme
  lex: шовыге
- stem: шовыге.
+ stem: шовыге.//шовыгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: ручьём; с шумом, с плеском
 
 -lexeme
  lex: шогалде
- stem: шогалде.
+ stem: шогалде.//шогалдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: непрерывно
 
 -lexeme
  lex: шогалдегыч
- stem: шогалдегыч.
+ stem: шогалдегыч.//шогалдэгыч.
  gramm: ADV
  paradigm: Clitics
  trans_ru: непрерывно
 
 -lexeme
  lex: шоген-шоген
- stem: шоген-шоген.
+ stem: шоген-шоген.//шоген-шогэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: останавливаясь время от времени; долго простояв
 
 -lexeme
  lex: шоген-шогыде
- stem: шоген-шогыде.
+ stem: шоген-шогыде.//шоген-шогыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с нетерпением (стоять)
@@ -17464,7 +17464,7 @@
 
 -lexeme
  lex: шодыген
- stem: шодыген.
+ stem: шодыген.//шодыгэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с грохотом, с шумом
@@ -17485,7 +17485,7 @@
 
 -lexeme
  lex: шодырге
- stem: шодырге.
+ stem: шодырге.//шодыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с треском, с хрустом
@@ -17506,14 +17506,14 @@
 
 -lexeme
  lex: шодыртатен
- stem: шодыртатен.
+ stem: шодыртатен.//шодыртатэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с треском
 
 -lexeme
  lex: шожге
- stem: шожге.
+ stem: шожге.//шожгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: шумно (о дожде)
@@ -17534,7 +17534,7 @@
 
 -lexeme
  lex: шойге
- stem: шойге.
+ stem: шойге.//шойгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: со свистом
@@ -17625,21 +17625,21 @@
 
 -lexeme
  lex: шолашке
- stem: шолашке.
+ stem: шолашке.//шолашкэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: налево
 
 -lexeme
  lex: шолаште
- stem: шолаште.
+ stem: шолаште.//шолаштэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: слева
 
 -lexeme
  lex: шолдыге
- stem: шолдыге.
+ stem: шолдыге.//шолдыгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: стуча, щёлкая
@@ -17653,7 +17653,7 @@
 
 -lexeme
  lex: шолдырге
- stem: шолдырге.
+ stem: шолдырге.//шолдыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: шумно, с грохотом
@@ -17688,7 +17688,7 @@
 
 -lexeme
  lex: шолтке
- stem: шолтке.
+ stem: шолтке.//шолткэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: щёлкая
@@ -17709,14 +17709,14 @@
 
 -lexeme
  lex: шоналтен
- stem: шоналтен.
+ stem: шоналтен.//шоналтэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: обдуманно
 
 -lexeme
  lex: шоналтыде
- stem: шоналтыде.
+ stem: шоналтыде.//шоналтыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: необдуманно
@@ -17730,7 +17730,7 @@
 
 -lexeme
  lex: шоныде
- stem: шоныде.
+ stem: шоныде.//шоныдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: необдуманно
@@ -17772,28 +17772,28 @@
 
 -lexeme
  lex: шорге
- stem: шорге.
+ stem: шорге.//шоргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: журча
 
 -lexeme
  lex: шорген
- stem: шорген.
+ stem: шорген.//шоргэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: журча
 
 -lexeme
  lex: шоргыктен
- stem: шоргыктен.
+ stem: шоргыктен.//шоргыктэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: гремя
 
 -lexeme
  lex: шорек-шорек
- stem: шорек-шорек.
+ stem: шорек-шорек.//шорек-шорэк.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о резком, скрипучем крике птиц
@@ -17821,7 +17821,7 @@
 
 -lexeme
  lex: шотде
- stem: шотде.
+ stem: шотде.//шотдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: бестолково, понапрасну
@@ -17835,7 +17835,7 @@
 
 -lexeme
  lex: шотеш
- stem: шотеш.
+ stem: шотеш.//шотэш.
  gramm: POST
  paradigm: Clitics
  trans_ru: за, вместо; столько же
@@ -17877,7 +17877,7 @@
 
 -lexeme
  lex: шоҥгылыкеш
- stem: шоҥгылыкеш.
+ stem: шоҥгылыкеш.//шоҥгылыкэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: на старости лет
@@ -17961,7 +17961,7 @@
 
 -lexeme
  lex: шувырге
- stem: шувырге.
+ stem: шувырге.//шувыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: шумно, с бульканьем
@@ -17975,7 +17975,7 @@
 
 -lexeme
  lex: шуге
- stem: шуге.
+ stem: шуге.//шугэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с глухим шумом
@@ -17989,14 +17989,14 @@
 
 -lexeme
  lex: шудыртке
- stem: шудыртке.
+ stem: шудыртке.//шудырткэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с хрустом
 
 -lexeme
  lex: шуженеш
- stem: шуженеш.
+ stem: шуженеш.//шужэнеш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с голоду, натощак
@@ -18024,28 +18024,28 @@
 
 -lexeme
  lex: шуйге
- stem: шуйге.
+ stem: шуйге.//шуйгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с шипением
 
 -lexeme
  lex: шуйдарен
- stem: шуйдарен.
+ stem: шуйдарен.//шуйдарэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: протяжно
 
 -lexeme
  lex: шукерте
- stem: шукерте.
+ stem: шукерте.//шукертэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: давно
 
 -lexeme
  lex: шукертсек
- stem: шукертсек.
+ stem: шукертсек.//шукертсэк.
  gramm: ADV
  paradigm: Clitics
  trans_ru: давно
@@ -18087,14 +18087,14 @@
 
 -lexeme
  lex: шукышкен
- stem: шукышкен.
+ stem: шукышкен.//шукышкэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: долго
 
 -lexeme
  lex: шулдеш
- stem: шулдеш.
+ stem: шулдеш.//шулдэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: дёшево
@@ -18108,14 +18108,14 @@
 
 -lexeme
  lex: шумеш
- stem: шумеш.
+ stem: шумеш.//шумэш.
  gramm: POST
  paradigm: Clitics
  trans_ru: до
 
 -lexeme
  lex: шумешке
- stem: шумешке.
+ stem: шумешке.//шумешкэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: до
@@ -18136,7 +18136,7 @@
 
 -lexeme
  lex: шургыде
- stem: шургыде.
+ stem: шургыде.//шургыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: бесшумно
@@ -18164,7 +18164,7 @@
 
 -lexeme
  lex: шуын-шуде
- stem: шуын-шуде.
+ stem: шуын-шуде.//шуын-шудэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: еле успевая
@@ -18185,21 +18185,21 @@
 
 -lexeme
  lex: шыве-шово
- stem: шыве-шово.
+ stem: шыве-шово.//шывэ-шово.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о шуме воды при ходьбе по воде
 
 -lexeme
  lex: шыве-шыве
- stem: шыве-шыве.
+ stem: шыве-шыве.//шыве-шывэ.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о лёгком шуме дождя
 
 -lexeme
  lex: шывыге
- stem: шывыге.
+ stem: шывыге.//шывыгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: спокойно, чуть слышно
@@ -18248,42 +18248,42 @@
 
 -lexeme
  lex: шыдешкен
- stem: шыдешкен.
+ stem: шыдешкен.//шыдешкэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сердито
 
 -lexeme
  lex: шыдешкышын
- stem: шыдешкышын.
+ stem: шыдешкышын.//шыдэшкышын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сердито
 
 -lexeme
  lex: шыдешт
- stem: шыдешт.
+ stem: шыдешт.//шыдэшт.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сердито
 
 -lexeme
  lex: шыдешталт
- stem: шыдешталт.
+ stem: шыдешталт.//шыдэшталт.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сердито
 
 -lexeme
  lex: шыдешталтын
- stem: шыдешталтын.
+ stem: шыдешталтын.//шыдэшталтын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сердито
 
 -lexeme
  lex: шыдештын
- stem: шыдештын.
+ stem: шыдештын.//шыдэштын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: сердито
@@ -18318,7 +18318,7 @@
 
 -lexeme
  lex: шыдырге
- stem: шыдырге.
+ stem: шыдырге.//шыдыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с хрустом, с треском
@@ -18353,14 +18353,14 @@
 
 -lexeme
  lex: шылде-галде
- stem: шылде-галде.
+ stem: шылде-галде.//шылде-галдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: очень редко, кое-где
 
 -lexeme
  lex: шылде-голдо
- stem: шылде-голдо.
+ stem: шылде-голдо.//шылдэ-голдо.
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о грохоте
@@ -18374,7 +18374,7 @@
 
 -lexeme
  lex: шылдырге
- stem: шылдырге.
+ stem: шылдырге.//шылдыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: тихо, спокойно
@@ -18388,7 +18388,7 @@
 
 -lexeme
  lex: шылтален
- stem: шылтален.
+ stem: шылтален.//шылталэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с укором
@@ -18402,7 +18402,7 @@
 
 -lexeme
  lex: шымлен
- stem: шымлен.
+ stem: шымлен.//шымлэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: испытующе, внимательно
@@ -18430,14 +18430,14 @@
 
 -lexeme
  lex: шыпке
- stem: шыпке.
+ stem: шыпке.//шыпкэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: тихо, неподвижно
 
 -lexeme
  lex: шыпланыде
- stem: шыпланыде.
+ stem: шыпланыде.//шыпланыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: неумолчно
@@ -18507,14 +18507,14 @@
 
 -lexeme
  lex: шыратен
- stem: шыратен.
+ stem: шыратен.//шыратэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: ярко, ослепительно
 
 -lexeme
  lex: шырге
- stem: шырге.
+ stem: шырге.//шыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: монотонно
@@ -18542,7 +18542,7 @@
 
 -lexeme
  lex: шырен
- stem: шырен.
+ stem: шырен.//шырэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: часто; густо
@@ -18556,7 +18556,7 @@
 
 -lexeme
  lex: шырке
- stem: шырке.
+ stem: шырке.//шыркэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: близко, тесно, плотно
@@ -18591,7 +18591,7 @@
 
 -lexeme
  lex: шыртке
- stem: шыртке.
+ stem: шыртке.//шырткэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: спокойно, тихонько
@@ -18675,7 +18675,7 @@
 
 -lexeme
  lex: шӧртньын-вӱргеньын
- stem: шӧртньын-вӱргеньын.
+ stem: шӧртньын-вӱргеньын.//шӧртньын-вӱргэньын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: золотом и медью (блестеть)
@@ -18731,14 +18731,14 @@
 
 -lexeme
  lex: шӱлен-шӱлыде
- stem: шӱлен-шӱлыде.
+ stem: шӱлен-шӱлыде.//шӱлен-шӱлыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: не смея дохнуть
 
 -lexeme
  lex: шӱлешт-шӱлешт
- stem: шӱлешт-шӱлешт.
+ stem: шӱлешт-шӱлешт.//шӱлешт-шӱлэшт.
  gramm: ADV
  paradigm: Clitics
  trans_ru: запыхавшись
@@ -18773,14 +18773,14 @@
 
 -lexeme
  lex: шӱрден
- stem: шӱрден.
+ stem: шӱрден.//шӱрдэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с укором
 
 -lexeme
  lex: шӱшкен
- stem: шӱшкен.
+ stem: шӱшкен.//шӱшкэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: со свистом
@@ -18801,7 +18801,7 @@
 
 -lexeme
  lex: ызге
- stem: ызге.
+ stem: ызге.//ызгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: жужжа
@@ -18822,7 +18822,7 @@
 
 -lexeme
  lex: ынде
- stem: ынде.
+ stem: ынде.//ындэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: теперь
@@ -18836,7 +18836,7 @@
 
 -lexeme
  lex: ырес-тореш
- stem: ырес-тореш.
+ stem: ырес-тореш.//ырес-торэш.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: крест-накрест
@@ -18878,7 +18878,7 @@
 
 -lexeme
  lex: ыҥлен
- stem: ыҥлен.
+ stem: ыҥлен.//ыҥлэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: осмысленно, осознанно
@@ -18899,7 +18899,7 @@
 
 -lexeme
  lex: эветлын
- stem: эветлын.
+ stem: эветлын.//эвэтлын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: привередливо
@@ -18913,7 +18913,7 @@
 
 -lexeme
  lex: эксыде
- stem: эксыде.
+ stem: эксыде.//эксыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: постоянно
@@ -18948,14 +18948,14 @@
 
 -lexeme
  lex: эпере
- stem: эпере.
+ stem: эпере.//эперэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: напрасно
 
 -lexeme
  lex: эпереш
- stem: эпереш.
+ stem: эпереш.//эперэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: напрасно
@@ -18976,7 +18976,7 @@
 
 -lexeme
  lex: эр-кастене
- stem: эр-кастене.
+ stem: эр-кастене.//эр-кастэне.
  gramm: ADV
  paradigm: Clitics
  trans_ru: и утром и вечером
@@ -19004,49 +19004,49 @@
 
 -lexeme
  lex: эргылыкеш
- stem: эргылыкеш.
+ stem: эргылыкеш.//эргылыкэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: усыновлять (налаш)
 
 -lexeme
  lex: эрдене
- stem: эрдене.
+ stem: эрдене.//эрдэне.
  gramm: ADV
  paradigm: Clitics
  trans_ru: утром
 
 -lexeme
  lex: эрдене-кастене
- stem: эрдене-кастене.
+ stem: эрдене-кастене.//эрдене-кастэне.
  gramm: ADV
  paradigm: Clitics
  trans_ru: утром и вечером
 
 -lexeme
  lex: эре
- stem: эре.
+ stem: эре.//эрэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: постоянно
 
 -lexeme
  lex: эрелан
- stem: эрелан.
+ stem: эрелан.//эрэлан.
  gramm: ADV
  paradigm: Clitics
  trans_ru: навсегда
 
 -lexeme
  lex: эрен
- stem: эрен.
+ stem: эрен.//эрэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: чисто, опрятно
 
 -lexeme
  lex: эрзен
- stem: эрзен.
+ stem: эрзен.//эрзэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: неряшливо, небрежно
@@ -19081,14 +19081,14 @@
 
 -lexeme
  lex: эркынласен
- stem: эркынласен.
+ stem: эркынласен.//эркынласэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: медленно
 
 -lexeme
  lex: эркынлен
- stem: эркынлен.
+ stem: эркынлен.//эркынлэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: медленно
@@ -19123,7 +19123,7 @@
 
 -lexeme
  lex: эртен
- stem: эртен.
+ stem: эртен.//эртэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: очень, слишком
@@ -19144,21 +19144,21 @@
 
 -lexeme
  lex: эсенлын
- stem: эсенлын.
+ stem: эсенлын.//эсэнлын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: по-хорошем
 
 -lexeme
  lex: эскерен
- stem: эскерен.
+ stem: эскерен.//эскерэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: внимательно
 
 -lexeme
  lex: эскерыде
- stem: эскерыде.
+ stem: эскерыде.//эскерыдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: невнимательно
@@ -19179,7 +19179,7 @@
 
 -lexeme
  lex: эффективнын
- stem: эффективнын.
+ stem: эффективнын.//эффэктивнын.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: эффективно
@@ -19193,28 +19193,28 @@
 
 -lexeme
  lex: эше
- stem: эше.
+ stem: эше.//эшэ.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: ещё
 
 -lexeme
  lex: эше-эше
- stem: эше-эше.
+ stem: эше-эше.//эше-эшэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: хорошо бы
 
 -lexeme
  lex: эшежым
- stem: эшежым.
+ stem: эшежым.//эшэжым.
  gramm: PARENTH
  paradigm: Clitics
  trans_ru: вдобавок
 
 -lexeme
  lex: эҥырен
- stem: эҥырен.
+ stem: эҥырен.//эҥырэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: гнусаво
@@ -19242,7 +19242,7 @@
 
 -lexeme
  lex: ювыге
- stem: ювыге.
+ stem: ювыге.//ювыгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: дружно
@@ -19270,7 +19270,7 @@
 
 -lexeme
  lex: южге
- stem: южге.
+ stem: южге.//южгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: прохладно
@@ -19291,7 +19291,7 @@
 
 -lexeme
  lex: юзге
- stem: юзге.
+ stem: юзге.//юзгэ.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: медленно, постепенно, юзом
@@ -19368,7 +19368,7 @@
 
 -lexeme
  lex: юп-юалге
- stem: юп-юалге.
+ stem: юп-юалге.//юп-юалгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: слишком, очень прохладно
@@ -19382,7 +19382,7 @@
 
 -lexeme
  lex: юпызге
- stem: юпызге.
+ stem: юпызге.//юпызгэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: медленно, тихо, не спеша
@@ -19431,7 +19431,7 @@
 
 -lexeme
  lex: юртке
- stem: юртке.
+ stem: юртке.//юрткэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: быстро, внезапно
@@ -19452,7 +19452,7 @@
 
 -lexeme
  lex: юстырге
- stem: юстырге.
+ stem: юстырге.//юстыргэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: медленно, не спеша
@@ -19480,7 +19480,7 @@
 
 -lexeme
  lex: юштке
- stem: юштке.
+ stem: юштке.//юшткэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: вытянувшись
@@ -19585,7 +19585,7 @@
 
 -lexeme
  lex: ямлен
- stem: ямлен.
+ stem: ямлен.//ямлэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: смакуя
@@ -19641,7 +19641,7 @@
 
 -lexeme
  lex: ятлен
- stem: ятлен.
+ stem: ятлен.//ятлэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с укором
@@ -19669,7 +19669,7 @@
 
 -lexeme
  lex: ятырышкен
- stem: ятырышкен.
+ stem: ятырышкен.//ятырышкэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: (довольно) долго
@@ -19704,7 +19704,7 @@
 
 -lexeme
  lex: ӧкымеш
- stem: ӧкымеш.
+ stem: ӧкымеш.//ӧкымэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: насильно
@@ -19739,7 +19739,7 @@
 
 -lexeme
  lex: ӧпкелышын
- stem: ӧпкелышын.
+ stem: ӧпкелышын.//ӧпкэлышын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: обидчиво
@@ -19753,7 +19753,7 @@
 
 -lexeme
  lex: ӧрдыжеш
- stem: ӧрдыжеш.
+ stem: ӧрдыжеш.//ӧрдыжэш.
  gramm: POST
  paradigm: Clitics
  trans_ru: сбоку
@@ -19844,14 +19844,14 @@
 
 -lexeme
  lex: ӱдырлыкеш
- stem: ӱдырлыкеш.
+ stem: ӱдырлыкеш.//ӱдырлыкэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: удочерить (налаш, пурташ)
 
 -lexeme
  lex: ӱжде
- stem: ӱжде.
+ stem: ӱжде.//ӱждэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: незванно
@@ -19928,14 +19928,14 @@
 
 -lexeme
  lex: ӱмашсек
- stem: ӱмашсек.
+ stem: ӱмашсек.//ӱмашсэк.
  gramm: ADV
  paradigm: Clitics
  trans_ru: с прошлого года
 
 -lexeme
  lex: ӱмаште
- stem: ӱмаште.
+ stem: ӱмаште.//ӱмаштэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: в прошлом году
@@ -19949,7 +19949,7 @@
 
 -lexeme
  lex: ӱмбаке
- stem: ӱмбаке.
+ stem: ӱмбаке.//ӱмбакэ.
  gramm: POST
  paradigm: Clitics
  trans_ru: наверх; на
@@ -20012,7 +20012,7 @@
 
 -lexeme
  lex: ӱмыр-ӱмыреш
- stem: ӱмыр-ӱмыреш.
+ stem: ӱмыр-ӱмыреш.//ӱмыр-ӱмырэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: навеки
@@ -20026,14 +20026,14 @@
 
 -lexeme
  lex: ӱмыреш
- stem: ӱмыреш.
+ stem: ӱмыреш.//ӱмырэш.
  gramm: ADV
  paradigm: Clitics
  trans_ru: навеки
 
 -lexeme
  lex: ӱмырешлан
- stem: ӱмырешлан.
+ stem: ӱмырешлан.//ӱмырэшлан.
  gramm: ADV
  paradigm: Clitics
  trans_ru: навеки
@@ -20096,7 +20096,7 @@
 
 -lexeme
  lex: ӱшандарен
- stem: ӱшандарен.
+ stem: ӱшандарен.//ӱшандарэн.
  gramm: ADV
  paradigm: Clitics
  trans_ru: убедительно, внушительно
@@ -20117,7 +20117,7 @@
 
 -lexeme
  lex: ӱшаныде
- stem: ӱшаныде.
+ stem: ӱшаныде.//ӱшаныдэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: недоверчиво
@@ -20145,7 +20145,7 @@
 
 -lexeme
  lex: ӱштыле
- stem: ӱштыле.
+ stem: ӱштыле.//ӱштылэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: нараспашку, без пояса
