@@ -3865,6 +3865,9 @@
  -flex: .ышт<.>
   gramm: imp,3,pl
   gloss: IMP.3PL
+ -flex: .ыман<.>//.ман<.>
+  gramm: deb
+  gloss: DEB
 
  paradigm: Clitics
 
@@ -3962,6 +3965,9 @@
  -flex: <0>.ышт<.>
   gramm: imp,3,pl
   gloss: IMP.3PL
+ -flex: <0>.ыман<.>//<1>.ман
+  gramm: deb
+  gloss: DEB
 
  paradigm: Clitics
 
@@ -4058,6 +4064,9 @@
  -flex: <1>.ышт<.>
   gramm: imp,3,pl
   gloss: IMP.3PL
+ -flex: <1>.ыман<.>//<1>.ман
+  gramm: deb
+  gloss: DEB
 
  -flex: <1>.маш<.>//<1>.ымаш<.>
   gramm: nmlz
@@ -4162,6 +4171,9 @@
  -flex: .ышт<.>
   gramm: imp,3,pl
   gloss: IMP.3PL
+ -flex: .ыман<.>//.ман<.>
+  gramm: deb
+  gloss: DEB
 
  -flex: .маш<.>//.ымаш<.>
   gramm: nmlz
@@ -4265,6 +4277,9 @@
  -flex: <1>.ышт<.>
   gramm: imp,3,pl
   gloss: IMP.3PL
+ -flex: <1>.ыман<.>//<1>.ман
+  gramm: deb
+  gloss: DEB
 
  -flex: <1>.маш<.>//<1>.ымаш<.>
   gramm: nmlz
