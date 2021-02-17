@@ -1768,7 +1768,6 @@
   gloss: COM
  paradigm: N_Poss_after_case
 
-
 -paradigm: N_Poss
  -flex: .м<.>
   gramm: nom,sg,1sg
@@ -3852,6 +3851,7 @@
  -flex: .аш<.>
   gramm: inf
   gloss: INF
+  paradigm: V_Inf_CasePoss
  -flex: .<.>
   gramm: neg
  -flex: .<.>
@@ -3865,6 +3865,9 @@
  -flex: .ышт<.>
   gramm: imp,3,pl
   gloss: IMP.3PL
+ -flex: .ыман<.>//.ман<.>
+  gramm: deb
+  gloss: DEB
 
  paradigm: Clitics
 
@@ -3949,6 +3952,7 @@
  -flex: <0>.аш<.>
   gramm: inf
   gloss: INF
+  paradigm: V_Inf_CasePoss
  -flex: <0,1>.<.>
   gramm: neg
  -flex: <0>.<.>
@@ -3962,6 +3966,9 @@
  -flex: <0>.ышт<.>
   gramm: imp,3,pl
   gloss: IMP.3PL
+ -flex: <0>.ыман<.>//<1>.ман
+  gramm: deb
+  gloss: DEB
 
  paradigm: Clitics
 
@@ -4045,6 +4052,7 @@
  -flex: <0>.яш<.>
   gramm: inf
   gloss: INF
+  paradigm: V_Inf_CasePoss
  -flex: <1>.<.>
   gramm: neg
  -flex: <1>.<.>
@@ -4058,6 +4066,9 @@
  -flex: <1>.ышт<.>
   gramm: imp,3,pl
   gloss: IMP.3PL
+ -flex: <1>.ыман<.>//<1>.ман
+  gramm: deb
+  gloss: DEB
 
  -flex: <1>.маш<.>//<1>.ымаш<.>
   gramm: nmlz
@@ -4145,6 +4156,7 @@
  -flex: .аш<.>
   gramm: inf
   gloss: INF
+  paradigm: V_Inf_CasePoss
  -flex: .<.>
   gramm: neg
  -flex: .е<.>//.э<.>//.о<.>//.ӧ<.>//.о<.>
@@ -4162,6 +4174,9 @@
  -flex: .ышт<.>
   gramm: imp,3,pl
   gloss: IMP.3PL
+ -flex: .ыман<.>//.ман<.>
+  gramm: deb
+  gloss: DEB
 
  -flex: .маш<.>//.ымаш<.>
   gramm: nmlz
@@ -4251,6 +4266,7 @@
  -flex: <0>.яш<.>
   gramm: inf
   gloss: INF
+  paradigm: V_Inf_CasePoss
  -flex: <1>.<.>
   gramm: neg
  -flex: <0>.е<.>//<1>.о<.>//<1>.ӧ<.>//<1>.о<.>
@@ -4265,6 +4281,9 @@
  -flex: <1>.ышт<.>
   gramm: imp,3,pl
   gloss: IMP.3PL
+ -flex: <1>.ыман<.>//<1>.ман
+  gramm: deb
+  gloss: DEB
 
  -flex: <1>.маш<.>//<1>.ымаш<.>
   gramm: nmlz
@@ -4797,4 +4816,40 @@
  -flex: .ышыштла<.>
   gramm: cvb,cvb.simult,3pl
   gloss: CVB.SIMULT.3PL
+  paradigm: Clitics
+
+
+
+-paradigm: V_Inf_CasePoss
+ -flex: .лан<.>
+  gramm: dat
+  gloss: DAT
+  paradigm: N_Poss_after_case
+ -flex: .ем<.>//.эм<.>
+  gramm: 1sg
+  gloss: 1SG
+  paradigm: Clitics
+ -flex: .ет<.>//.эт<.>
+  gramm: 2sg
+  gloss: 2SG
+  paradigm: Clitics
+ -flex: .же<.>//.жо<.>//.жӧ<.>//.жо<.>//.ыже<.>//.ыжо<.>//.ыжӧ<.>//.ыжо<.>//.ше<.>//.шо<.>//.шӧ<.>//.шо<.>
+  gramm: 3sg
+  gloss: 3SG
+  paradigm: Clitics
+ -flex: .ж<.>//.ш<.>
+  gramm: 3sg
+  gloss: 3SG
+  paradigm: Clitics
+ -flex: .на<.>
+  gramm: 1pl
+  gloss: 1PL
+  paradigm: Clitics
+ -flex: .да<.>
+  gramm: 2pl
+  gloss: 2PL
+  paradigm: Clitics
+ -flex: .ышт<.>
+  gramm: 3pl
+  gloss: 3PL
   paradigm: Clitics
