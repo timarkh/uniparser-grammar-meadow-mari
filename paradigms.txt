@@ -1787,10 +1787,10 @@
 
 
 -paradigm: POST
- -flex: .лан<.>
-  gramm: dat,sg
-  gloss: DAT
-  paradigm: N_Poss_after_case
+ -flex: <1>.ан<.>//<1>.ен<.>
+  gramm: lat,sg
+  gloss: LAT
+  paradigm: N_Poss_after_case_no_comp
  -flex: <1>.ке<.>//<1>.ко<.>//<1>.к<.>
   gramm: ill,sg
   gloss: ILL
