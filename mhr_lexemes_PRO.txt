@@ -1,8 +1,9 @@
 ﻿-lexeme
  lex: мый
- stem: мый.|мы.
+ stem: мый.//мые.|мы.
  gramm: PRO,pers,1,sg,nom
  paradigm: Clitics_j
+ paradigm: Poss_3Sg
  trans_ru: я
 
 -lexeme
@@ -17,6 +18,7 @@
  stem: мыйын.
  gramm: PRO,pers,1,sg,gen
  paradigm: Clitics
+ paradigm: Case_comp
  trans_ru: я
 
 -lexeme
@@ -43,9 +45,10 @@
 
 -lexeme
  lex: тый
- stem: тый.|ты.
+ stem: тый.//тые.|ты.
  gramm: PRO,pers,2,sg,nom
  paradigm: Clitics_j
+ paradigm: Poss_3Sg
  trans_ru: ты
 
 -lexeme
@@ -60,6 +63,7 @@
  stem: тыйын.
  gramm: PRO,pers,2,sg,gen
  paradigm: Clitics
+ paradigm: Case_comp
  trans_ru: ты
 
 -lexeme
@@ -89,6 +93,7 @@
  stem: ме.
  gramm: PRO,pers,1,pl,nom
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: мы
 
 -lexeme
@@ -103,6 +108,7 @@
  stem: мемнан.
  gramm: PRO,pers,1,pl,gen
  paradigm: Clitics
+ paradigm: Case_comp
  trans_ru: мы
 
 -lexeme
@@ -132,6 +138,7 @@
  stem: те.
  gramm: PRO,pers,2,pl,nom
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: вы
 
 -lexeme
@@ -146,6 +153,7 @@
  stem: тендан.
  gramm: PRO,pers,2,pl,gen
  paradigm: Clitics
+ paradigm: Case_comp
  trans_ru: вы
 
 -lexeme

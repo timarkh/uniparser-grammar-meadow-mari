@@ -70,6 +70,13 @@
   gramm: emph
   gloss: EMPH
 
+-paradigm: Clitics_a
+ -flex: .ат
+  gramm: add
+  gloss: ADD
+ -flex: .ак
+  gramm: emph
+  gloss: EMPH
 
 
 -paradigm: NUM_paroxyton_v_strong
@@ -1768,6 +1775,19 @@
   gloss: COM
  paradigm: N_Poss_after_case
 
+
+-paradigm: Poss_3Sg
+ -flex: <0>.же<.>//<0>.жо<.>//<0>.жӧ<.>
+  gramm: 3sg
+  gloss: 3SG
+  paradigm: Clitics
+ -flex: <0>.ж<.>
+  gramm: 3sg
+  gloss: 3SG
+  paradigm: Clitics_a
+
+
+
 -paradigm: N_Poss
  -flex: .м<.>
   gramm: nom,sg,1sg
@@ -2422,8 +2442,6 @@
 
  paradigm: Clitics
  paradigm: Case_comp
-
-
 
 -paradigm: N_Poss_Case_j
  -flex: <1>.ем|ым<.>
@@ -5000,7 +5018,7 @@
  -flex: .ж<.>//.ш<.>
   gramm: 3sg
   gloss: 3SG
-  paradigm: Clitics
+  paradigm: Clitics_a
  -flex: .на<.>
   gramm: 1pl
   gloss: 1PL
