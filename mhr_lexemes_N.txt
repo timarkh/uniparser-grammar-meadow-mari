@@ -125257,7 +125257,7 @@
  stem: ӱмбал.
  gramm: N
  paradigm: N_consonant
- trans_ru: поверхность; сметана
+ trans_ru: сметана
 
 -lexeme
  lex: ӱмбалаш

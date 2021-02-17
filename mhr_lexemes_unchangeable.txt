@@ -115,6 +115,7 @@
  stem: акаш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: стоимостью
 
 -lexeme
@@ -332,6 +333,7 @@
  stem: аньышты.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: за
 
 -lexeme
@@ -423,6 +425,7 @@
  stem: арка.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: благодаря, за счёт
 
 -lexeme
@@ -737,6 +740,7 @@
  stem: валан.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: на
 
 -lexeme
@@ -779,6 +783,7 @@
  stem: вач.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: с; над; несмотря на
 
 -lexeme
@@ -786,6 +791,7 @@
  stem: вачын.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: с; над; несмотря на
 
 -lexeme
@@ -807,6 +813,7 @@
  stem: вашеш.//вашэш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: навстречу
 
 -lexeme
@@ -842,6 +849,7 @@
  stem: ваштареш.//ваштарэш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: навстречу; напротив
 
 -lexeme
@@ -849,6 +857,7 @@
  stem: ваштарешла.//ваштарэшла.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: навстречу; напротив
 
 -lexeme
@@ -857,13 +866,6 @@
  gramm: ADV
  paradigm: Clitics
  trans_ru: совсем, совершенно
-
--lexeme
- lex: век
- stem: век.//вэк.
- gramm: POST
- paradigm: Clitics
- trans_ru: в сторону
 
 -lexeme
  lex: векат
@@ -880,20 +882,6 @@
  trans_ru: наверно
 
 -lexeme
- lex: веке
- stem: веке.//векэ.
- gramm: POST
- paradigm: Clitics
- trans_ru: в сторону
-
--lexeme
- lex: велан
- stem: велан.//вэлан.
- gramm: POST
- paradigm: Clitics
- trans_ru: на стороне
-
--lexeme
  lex: веле
  stem: веле.//велэ.
  gramm: ADV
@@ -905,41 +893,15 @@
  stem: велеш.//велэш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: к, под
-
--lexeme
- lex: велке
- stem: велке.//велкэ.
- gramm: POST
- paradigm: Clitics
- trans_ru: в сторону, по сторонам
-
--lexeme
- lex: велне
- stem: велне.//вэлне.
- gramm: POST
- paradigm: Clitics
- trans_ru: в стороне
-
--lexeme
- lex: велч
- stem: велч.//вэлч.
- gramm: POST
- paradigm: Clitics
- trans_ru: со стороны
-
--lexeme
- lex: велчын
- stem: велчын.//вэлчын.
- gramm: POST
- paradigm: Clitics
- trans_ru: со стороны
 
 -lexeme
  lex: велым
  stem: велым.//вэлым.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: со стороны
 
 -lexeme
@@ -947,6 +909,7 @@
  stem: велыш.//вэлыш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: в сторону; к
 
 -lexeme
@@ -954,6 +917,7 @@
  stem: велышке.//велышкэ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: в сторону; к
 
 -lexeme
@@ -961,6 +925,7 @@
  stem: велыште.//велыштэ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: в стороне
 
 -lexeme
@@ -982,6 +947,7 @@
  stem: вере.//верэ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: в каком-либо месте
 
 -lexeme
@@ -996,6 +962,7 @@
  stem: вереш.//верэш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: вместо
 
 -lexeme
@@ -1017,6 +984,7 @@
  stem: верчын.//вэрчын.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: для, ради, из-за
 
 -lexeme
@@ -1083,24 +1051,11 @@
  trans_ru: ведь
 
 -lexeme
- lex: веч
- stem: веч.//вэч.
- gramm: POST
- paradigm: Clitics
- trans_ru: со стороны
-
--lexeme
  lex: вечла
  stem: вечла.//вэчла.
  gramm: POST
  paradigm: Clitics
- trans_ru: со стороны
-
--lexeme
- lex: вечын
- stem: вечын.//вэчын.
- gramm: POST
- paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: со стороны
 
 -lexeme
@@ -1300,55 +1255,6 @@
  trans_ru: по-своему (шке войынча)
 
 -lexeme
- lex: воктек
- stem: воктек.//воктэк.
- gramm: POST
- paradigm: Clitics
- trans_ru: близко, рядом (направление)
-
--lexeme
- lex: воктеке
- stem: воктеке.//воктекэ.
- gramm: POST
- paradigm: Clitics
- trans_ru: близко, рядом (направление)
-
--lexeme
- lex: воктелан
- stem: воктелан.//воктэлан.
- gramm: POST
- paradigm: Clitics
- trans_ru: рядом
-
--lexeme
- lex: воктен
- stem: воктен.//воктэн.
- gramm: POST
- paradigm: Clitics
- trans_ru: рядом
-
--lexeme
- lex: воктене
- stem: воктене.//воктэне.
- gramm: POST
- paradigm: Clitics
- trans_ru: рядом
-
--lexeme
- lex: воктеч
- stem: воктеч.//воктэч.
- gramm: POST
- paradigm: Clitics
- trans_ru: мимо, рядом
-
--lexeme
- lex: воктечын
- stem: воктечын.//воктэчын.
- gramm: POST
- paradigm: Clitics
- trans_ru: мимо, рядом
-
--lexeme
  lex: волгыдын
  stem: волгыдын.
  gramm: ADV
@@ -1409,6 +1315,7 @@
  stem: вошт.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: насквозь; сильно, очень; полностью; далеко
 
 -lexeme
@@ -1437,6 +1344,7 @@
  stem: вуеш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: в каждый
 
 -lexeme
@@ -1815,6 +1723,7 @@
  stem: гай.|га.
  gramm: POST
  paradigm: Clitics_j
+ paradigm: Poss_3Sg
  trans_ru: как, подобно
 
 -lexeme
@@ -1822,6 +1731,7 @@
  stem: гаяк.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: почти
 
 -lexeme
@@ -1850,6 +1760,7 @@
  stem: годсек.//годсэк.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: с, от; с тех пор как
 
 -lexeme
@@ -1864,6 +1775,7 @@
  stem: годым.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: во время; пока, перед тем как
 
 -lexeme
@@ -1899,6 +1811,7 @@
  stem: гоч.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: через; пока
 
 -lexeme
@@ -1934,6 +1847,7 @@
  stem: гутлан.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: около (время)
 
 -lexeme
@@ -1948,6 +1862,7 @@
  stem: гутлашке.//гутлашкэ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: до, к
 
 -lexeme
@@ -1955,6 +1870,7 @@
  stem: гутлаште.//гутлаштэ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: около
 
 -lexeme
@@ -2004,6 +1920,7 @@
  stem: гыч.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: из, с, от
 
 -lexeme
@@ -2011,6 +1928,7 @@
  stem: гычын.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: из, с, от
 
 -lexeme
@@ -2088,6 +2006,7 @@
  stem: даҥыт.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: вплоть до
 
 -lexeme
@@ -2095,6 +2014,7 @@
  stem: дек.//дэк.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: до, на, за
 
 -lexeme
@@ -2102,6 +2022,7 @@
  stem: дек.//дэк.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: к; до; за
 
 -lexeme
@@ -2109,6 +2030,7 @@
  stem: деке.//декэ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: до, на, за
 
 -lexeme
@@ -2123,6 +2045,7 @@
  stem: дене.//дэне.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: с, из; в
 
 -lexeme
@@ -2130,6 +2053,7 @@
  stem: деран.//дэран.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: у
 
 -lexeme
@@ -2137,6 +2061,7 @@
  stem: деч.//дэч.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: от
 
 -lexeme
@@ -2144,6 +2069,7 @@
  stem: дечын.//дэчын.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: от
 
 -lexeme
@@ -2151,6 +2077,7 @@
  stem: дечынла.//дэчынла.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: со стороны
 
 -lexeme
@@ -2193,6 +2120,7 @@
  stem: дон.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: со слов
 
 -lexeme
@@ -2298,6 +2226,7 @@
  stem: еда.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: по
 
 -lexeme
@@ -2326,6 +2255,7 @@
  stem: еша.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: по, каждый
 
 -lexeme
@@ -2347,6 +2277,7 @@
  stem: ешын.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: по, каждый
 
 -lexeme
@@ -3082,6 +3013,7 @@
  stem: йотке.//йоткэ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: до, по
 
 -lexeme
@@ -3089,6 +3021,7 @@
  stem: йотын.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: до, по
 
 -lexeme
@@ -3449,48 +3382,6 @@
  trans_ru: чересчур
 
 -lexeme
- lex: йымак
- stem: йымак.
- gramm: POST
- paradigm: Clitics
- trans_ru: вниз; под
-
--lexeme
- lex: йымаке
- stem: йымаке.//йымакэ.
- gramm: POST
- paradigm: Clitics
- trans_ru: вниз; под
-
--lexeme
- lex: йымалан
- stem: йымалан.
- gramm: POST
- paradigm: Clitics
- trans_ru: внизу; под
-
--lexeme
- lex: йымалне
- stem: йымалне.
- gramm: POST
- paradigm: Clitics
- trans_ru: внизу; под
-
--lexeme
- lex: йымач
- stem: йымач.
- gramm: POST
- paradigm: Clitics
- trans_ru: снизу; под
-
--lexeme
- lex: йымачын
- stem: йымачын.
- gramm: POST
- paradigm: Clitics
- trans_ru: снизу; под
-
--lexeme
  lex: йымыжан
  stem: йымыжан.
  gramm: ADV
@@ -3530,6 +3421,7 @@
  stem: йыр.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: вокруг, около
 
 -lexeme
@@ -3852,6 +3744,7 @@
  stem: йӧршан.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: с
 
 -lexeme
@@ -4104,6 +3997,7 @@
  stem: капынь.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: по, вдоль
 
 -lexeme
@@ -4622,6 +4516,7 @@
  stem: коклаш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: в, около
 
 -lexeme
@@ -4629,6 +4524,7 @@
  stem: коклаш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: среди, в
 
 -lexeme
@@ -4636,6 +4532,7 @@
  stem: коклашке.//коклашкэ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: в, к
 
 -lexeme
@@ -4643,6 +4540,7 @@
  stem: коклаште.//коклаштэ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: в; между; за
 
 -lexeme
@@ -5448,6 +5346,7 @@
  stem: кунчо.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: на
 
 -lexeme
@@ -5574,6 +5473,7 @@
  stem: кутынек.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: вдоль, по
 
 -lexeme
@@ -5588,6 +5488,7 @@
  stem: кутышалын.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: вдоль
 
 -lexeme
@@ -5595,6 +5496,7 @@
  stem: кутышеш.//кутышэш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: вдоль
 
 -lexeme
@@ -5602,6 +5504,7 @@
  stem: кутышын.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: в длину, во время
 
 -lexeme
@@ -5686,6 +5589,7 @@
  stem: кыдалне.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: в середине
 
 -lexeme
@@ -5693,6 +5597,7 @@
  stem: кыдач.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: за поясницу; с середины, посередине; поперёк
 
 -lexeme
@@ -5707,6 +5612,7 @@
  stem: кыдачын.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: за поясницу; с середины, посередине; поперёк
 
 -lexeme
@@ -6022,6 +5928,7 @@
  stem: кӧра.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: из-за, благодаря
 
 -lexeme
@@ -6036,6 +5943,7 @@
  stem: кӧргеш.//кӧргэш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: внутри, среди
 
 -lexeme
@@ -6043,6 +5951,7 @@
  stem: кӧргыш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: внутрь
 
 -lexeme
@@ -6050,6 +5959,7 @@
  stem: кӧргышкыла.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: по направлению внутрь
 
 -lexeme
@@ -6057,6 +5967,7 @@
  stem: кӧргышкӧ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: внутрь
 
 -lexeme
@@ -6064,6 +5975,7 @@
  stem: кӧргыштӧ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: внутри
 
 -lexeme
@@ -6106,6 +6018,7 @@
  stem: кӱдык.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: рядом
 
 -lexeme
@@ -6113,6 +6026,7 @@
  stem: кӱдыкӧ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: рядом
 
 -lexeme
@@ -6120,6 +6034,7 @@
  stem: кӱдылан.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: рядом
 
 -lexeme
@@ -6127,6 +6042,7 @@
  stem: кӱдылнӧ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: около
 
 -lexeme
@@ -6134,6 +6050,7 @@
  stem: кӱдынь.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: около
 
 -lexeme
@@ -6148,6 +6065,7 @@
  stem: кӱдыч.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: мимо, от
 
 -lexeme
@@ -6155,6 +6073,7 @@
  stem: кӱдычын.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: мимо, от
 
 -lexeme
@@ -6330,6 +6249,7 @@
  stem: кӱш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: вверх
 
 -lexeme
@@ -6337,6 +6257,7 @@
  stem: кӱшан.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: наверху, сверху
 
 -lexeme
@@ -6344,6 +6265,7 @@
  stem: кӱшеш.//кӱшэш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: за счёт
 
 -lexeme
@@ -6351,6 +6273,7 @@
  stem: кӱшкыла.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: наверх
 
 -lexeme
@@ -6358,6 +6281,7 @@
  stem: кӱшкӧ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: вверх
 
 -lexeme
@@ -6365,6 +6289,7 @@
  stem: кӱшнӧ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: наверху
 
 -lexeme
@@ -6372,6 +6297,7 @@
  stem: кӱшыч.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: сверху
 
 -lexeme
@@ -6379,6 +6305,7 @@
  stem: кӱшычын.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: сверху
 
 -lexeme
@@ -6610,6 +6537,7 @@
  stem: лийын.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: из-за
 
 -lexeme
@@ -6618,55 +6546,6 @@
  gramm: ADV
  paradigm: Clitics
  trans_ru: сильно, невыносимо
-
--lexeme
- lex: лиш
- stem: лиш.
- gramm: ADV
- paradigm: Clitics
- trans_ru: близко
-
--lexeme
- lex: лишан
- stem: лишан.
- gramm: POST
- paradigm: Clitics
- trans_ru: близко, около
-
--lexeme
- lex: лишке
- stem: лишке.//лишкэ.
- gramm: POST
- paradigm: Clitics
- trans_ru: близко, около
-
--lexeme
- lex: лишне
- stem: лишне.
- gramm: POST
- paradigm: Clitics
- trans_ru: вблизи
-
--lexeme
- lex: лишылын
- stem: лишылын.
- gramm: POST
- paradigm: Clitics
- trans_ru: близко
-
--lexeme
- lex: лишыч
- stem: лишыч.
- gramm: POST
- paradigm: Clitics
- trans_ru: с близкого расстояния
-
--lexeme
- lex: лишычын
- stem: лишычын.
- gramm: POST
- paradigm: Clitics
- trans_ru: с близкого расстояния
 
 -lexeme
  lex: ловыге
@@ -7646,6 +7525,7 @@
  stem: лӱвалне.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: под, внизу
 
 -lexeme
@@ -7779,6 +7659,7 @@
  stem: лӱмеш.//лӱмэш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: в честь; на имя; на долю
 
 -lexeme
@@ -7800,6 +7681,7 @@
  stem: лӱмыштӧ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: в
 
 -lexeme
@@ -7828,6 +7710,7 @@
  stem: манмаште.//манмаштэ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: насчёт, относительно
 
 -lexeme
@@ -7884,6 +7767,7 @@
  stem: марте.//мартэ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: до
 
 -lexeme
@@ -8129,6 +8013,7 @@
  stem: мучашеш.//мучашэш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: в, на
 
 -lexeme
@@ -8136,6 +8021,7 @@
  stem: мучаште.//мучаштэ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: в, на
 
 -lexeme
@@ -8143,6 +8029,7 @@
  stem: мучашыште.//мучашыштэ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: в, на
 
 -lexeme
@@ -8150,6 +8037,7 @@
  stem: мучко.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: целиком; сплошь; вдоль
 
 -lexeme
@@ -8164,6 +8052,7 @@
  stem: мучкыла.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: вдоль, в длину
 
 -lexeme
@@ -8353,6 +8242,7 @@
  stem: мӧҥгӧ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: после
 
 -lexeme
@@ -8542,6 +8432,7 @@
  stem: нерген.//нергэн.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: о, об
 
 -lexeme
@@ -8549,6 +8440,7 @@
  stem: нергеште.//нергештэ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: по поводу
 
 -lexeme
@@ -9025,6 +8917,7 @@
  stem: олмеш.//олмэш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: вместо
 
 -lexeme
@@ -9095,21 +8988,8 @@
  stem: ончыде.//ончыдэ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: несмотря на
-
--lexeme
- lex: ончыко
- stem: ончыко.
- gramm: POST
- paradigm: Clitics
- trans_ru: вперёд; перед, за
-
--lexeme
- lex: ончыкыжо
- stem: ончыкыжо.
- gramm: ADV
- paradigm: Clitics
- trans_ru: впредь
 
 -lexeme
  lex: ончыкылан
@@ -9117,20 +8997,6 @@
  gramm: ADV
  paradigm: Clitics
  trans_ru: впредь, на будущее
-
--lexeme
- lex: ончыл
- stem: ончыл.
- gramm: POST
- paradigm: Clitics
- trans_ru: перед
-
--lexeme
- lex: ончылан
- stem: ончылан.
- gramm: POST
- paradigm: Clitics
- trans_ru: впереди; перед
 
 -lexeme
  lex: ончылгоч
@@ -9147,39 +9013,11 @@
  trans_ru: в позапрошлый год
 
 -lexeme
- lex: ончылно
- stem: ончылно.
- gramm: POST
- paradigm: Clitics
- trans_ru: впереди; прежде; при
-
--lexeme
- lex: ончыч
- stem: ончыч.
- gramm: POST
- paradigm: Clitics
- trans_ru: спереди; прежде, до
-
--lexeme
- lex: ончычак
- stem: ончычак.
- gramm: ADV
- paradigm: Clitics
- trans_ru: заранее
-
--lexeme
  lex: ончычсыла
  stem: ончычсыла.
  gramm: ADV
  paradigm: Clitics
  trans_ru: по-прежнему
-
--lexeme
- lex: ончычын
- stem: ончычын.
- gramm: POST
- paradigm: Clitics
- trans_ru: спереди; прежде, до
 
 -lexeme
  lex: оньыш
@@ -9536,6 +9374,7 @@
  stem: пелдык.//пэлдык.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: из-за; за счёт
 
 -lexeme
@@ -9551,13 +9390,6 @@
  gramm: IMIT
  paradigm: Clitics
  trans_ru: небрежно
-
--lexeme
- lex: пелен
- stem: пелен.//пелэн.
- gramm: POST
- paradigm: Clitics
- trans_ru: к; с; рядом
 
 -lexeme
  lex: пелештыде
@@ -9581,20 +9413,6 @@
  trans_ru: в полночь
 
 -lexeme
- lex: пелке
- stem: пелке.//пелкэ.
- gramm: ADV
- paradigm: Clitics
- trans_ru: в сторону
-
--lexeme
- lex: пелне
- stem: пелне.//пэлне.
- gramm: ADV
- paradigm: Clitics
- trans_ru: в (на) стороне
-
--lexeme
  lex: пелыгыч
  stem: пелыгыч.//пэлыгыч.
  gramm: ADV
@@ -9607,13 +9425,6 @@
  gramm: ADV
  paradigm: Clitics
  trans_ru: так себе
-
--lexeme
- lex: пелыч
- stem: пелыч.//пэлыч.
- gramm: ADV
- paradigm: Clitics
- trans_ru: со стороны
 
 -lexeme
  lex: первыйрак
@@ -9754,48 +9565,6 @@
  gramm: ADV
  paradigm: Clitics
  trans_ru: с шумом (о дыхании)
-
--lexeme
- lex: покшек
- stem: покшек.//покшэк.
- gramm: POST
- paradigm: Clitics
- trans_ru: на середину
-
--lexeme
- lex: покшеке
- stem: покшеке.//покшекэ.
- gramm: POST
- paradigm: Clitics
- trans_ru: на середину
-
--lexeme
- lex: покшелан
- stem: покшелан.//покшэлан.
- gramm: POST
- paradigm: Clitics
- trans_ru: посреди
-
--lexeme
- lex: покшелне
- stem: покшелне.//покшэлне.
- gramm: POST
- paradigm: Clitics
- trans_ru: посреди
-
--lexeme
- lex: покшеч
- stem: покшеч.//покшэч.
- gramm: POST
- paradigm: Clitics
- trans_ru: из середины
-
--lexeme
- lex: покшечын
- stem: покшечын.//покшэчын.
- gramm: POST
- paradigm: Clitics
- trans_ru: из середины
 
 -lexeme
  lex: полдалгын
@@ -11356,6 +11125,7 @@
  stem: сайын.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: по, при
 
 -lexeme
@@ -11461,6 +11231,7 @@
  stem: семешке.//семешкэ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: наподобие
 
 -lexeme
@@ -11468,6 +11239,7 @@
  stem: семын.//сэмын.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: как, по
 
 -lexeme
@@ -11475,6 +11247,7 @@
  stem: семӹнь.//сэмӹнь.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: со слов
 
 -lexeme
@@ -12301,6 +12074,7 @@
  stem: тареш.//тарэш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: вместо
 
 -lexeme
@@ -12367,38 +12141,11 @@
  trans_ru: прямо
 
 -lexeme
- lex: таҥгалан
- stem: таҥгалан.
- gramm: POST
- paradigm: Clitics
- trans_ru: около, у
-
--lexeme
- lex: таҥгалке
- stem: таҥгалке.//таҥгалкэ.
- gramm: POST
- paradigm: Clitics
- trans_ru: к, до
-
--lexeme
- lex: таҥгалне
- stem: таҥгалне.
- gramm: POST
- paradigm: Clitics
- trans_ru: около, у
-
--lexeme
- lex: таҥгалчын
- stem: таҥгалчын.
- gramm: POST
- paradigm: Clitics
- trans_ru: мимо
-
--lexeme
  lex: таҥеш
  stem: таҥеш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: к
 
 -lexeme
@@ -12465,13 +12212,6 @@
  trans_ru: зимой
 
 -lexeme
- lex: тембак
- stem: тембак.//тэмбак.
- gramm: ADV
- paradigm: Clitics
- trans_ru: близко, в сторону говорящего
-
--lexeme
  lex: тембак-умбак
  stem: тембак-умбак.//тэмбак-умбак.
  gramm: ADV
@@ -12479,46 +12219,11 @@
  trans_ru: туда-сюда
 
 -lexeme
- lex: тембаке
- stem: тембаке.//тембакэ.
- gramm: ADV
- paradigm: Clitics
- trans_ru: близко, в сторону говорящего
-
--lexeme
- lex: тембалан
- stem: тембалан.//тэмбалан.
- gramm: ADV
- paradigm: Clitics
- trans_ru: близко
-
--lexeme
- lex: тембалне
- stem: тембалне.//тэмбалне.
- gramm: ADV
- paradigm: Clitics
- trans_ru: близко, вблизи
-
--lexeme
- lex: тембач
- stem: тембач.//тэмбач.
- gramm: ADV
- paradigm: Clitics
- trans_ru: с близкого расстояния
-
--lexeme
  lex: тембач-умбач
  stem: тембач-умбач.//тэмбач-умбач.
  gramm: ADV
  paradigm: Clitics
  trans_ru: вокруг да около
-
--lexeme
- lex: тембачын
- stem: тембачын.//тэмбачын.
- gramm: ADV
- paradigm: Clitics
- trans_ru: с близкого расстояния
 
 -lexeme
  lex: темдымашын
@@ -13001,6 +12706,7 @@
  stem: торешан.//торэшан.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: на, около
 
 -lexeme
@@ -13015,6 +12721,7 @@
  stem: торешке.//торешкэ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: на, около
 
 -lexeme
@@ -13022,6 +12729,7 @@
  stem: торешла.//торэшла.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: поперёк; по ширине
 
 -lexeme
@@ -13029,6 +12737,7 @@
  stem: торешне.//торэшне.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: на, возле
 
 -lexeme
@@ -13036,6 +12745,7 @@
  stem: торешын.//торэшын.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: поперёк; возле
 
 -lexeme
@@ -13198,34 +12908,6 @@
  gramm: ADV
  paradigm: Clitics
  trans_ru: в таком случае
-
--lexeme
- lex: тувек
- stem: тувек.//тувэк.
- gramm: ADV
- paradigm: Clitics
- trans_ru: туда; в ту сторону
-
--lexeme
- lex: тувеке
- stem: тувеке.//тувекэ.
- gramm: ADV
- paradigm: Clitics
- trans_ru: туда; в ту сторону
-
--lexeme
- lex: тувелан
- stem: тувелан.//тувэлан.
- gramm: ADV
- paradigm: Clitics
- trans_ru: на той стороне, там
-
--lexeme
- lex: тувелне
- stem: тувелне.//тувэлне.
- gramm: ADV
- paradigm: Clitics
- trans_ru: на той стороне, там
 
 -lexeme
  lex: тувелыш
@@ -13428,6 +13110,7 @@
  stem: тураш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: до, к, на
 
 -lexeme
@@ -13435,6 +13118,7 @@
  stem: тураш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: у, напротив, около
 
 -lexeme
@@ -13442,6 +13126,7 @@
  stem: турашке.//турашкэ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: до, к, на
 
 -lexeme
@@ -13449,6 +13134,7 @@
  stem: тураште.//тураштэ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: сразу; около, к
 
 -lexeme
@@ -14198,6 +13884,7 @@
  stem: тӱгыч.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: снаружи
 
 -lexeme
@@ -14205,6 +13892,7 @@
  stem: тӱгычын.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: снаружи
 
 -lexeme
@@ -14212,49 +13900,8 @@
  stem: тӱгӧ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: наружу
-
--lexeme
- lex: тӱжвак
- stem: тӱжвак.
- gramm: POST
- paradigm: Clitics
- trans_ru: наружу
-
--lexeme
- lex: тӱжваке
- stem: тӱжваке.//тӱжвакэ.
- gramm: POST
- paradigm: Clitics
- trans_ru: наружу
-
--lexeme
- lex: тӱжвалан
- stem: тӱжвалан.
- gramm: ADV
- paradigm: Clitics
- trans_ru: вне, снаружи
-
--lexeme
- lex: тӱжвалне
- stem: тӱжвалне.
- gramm: POST
- paradigm: Clitics
- trans_ru: снаружи
-
--lexeme
- lex: тӱжвач
- stem: тӱжвач.
- gramm: POST
- paradigm: Clitics
- trans_ru: извне, снаружи
-
--lexeme
- lex: тӱжвачын
- stem: тӱжвачын.
- gramm: POST
- paradigm: Clitics
- trans_ru: извне, снаружи
 
 -lexeme
  lex: тӱжемлын
@@ -14296,6 +13943,7 @@
  stem: тӱкын.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: каким-либо образом
 
 -lexeme
@@ -14415,6 +14063,7 @@
  stem: тӱрлыштӧ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: относительно, насчёт
 
 -lexeme
@@ -14789,27 +14438,6 @@
  trans_ru: совсем, без остатка
 
 -lexeme
- lex: умбак
- stem: умбак.
- gramm: POST
- paradigm: Clitics
- trans_ru: далеко; затем
-
--lexeme
- lex: умбаке
- stem: умбаке.//умбакэ.
- gramm: POST
- paradigm: Clitics
- trans_ru: далеко, вдаль; затем
-
--lexeme
- lex: умбалан
- stem: умбалан.
- gramm: POST
- paradigm: Clitics
- trans_ru: далеко, вдаль, вдали
-
--lexeme
  lex: умбале
  stem: умбале.//умбалэ.
  gramm: ADV
@@ -14817,32 +14445,11 @@
  trans_ru: наизнанку
 
 -lexeme
- lex: умбалне
- stem: умбалне.
- gramm: POST
- paradigm: Clitics
- trans_ru: вдали, далеко
-
--lexeme
  lex: умбальын
  stem: умбальын.
  gramm: ADV
  paradigm: Clitics
  trans_ru: наизнанку
-
--lexeme
- lex: умбач
- stem: умбач.
- gramm: POST
- paradigm: Clitics
- trans_ru: издалека
-
--lexeme
- lex: умбачын
- stem: умбачын.
- gramm: POST
- paradigm: Clitics
- trans_ru: издалека
 
 -lexeme
  lex: умшаваш
@@ -17169,13 +16776,6 @@
  trans_ru: сладко
 
 -lexeme
- lex: шеҥгек
- stem: шеҥгек.//шеҥгэк.
- gramm: POST
- paradigm: Clitics
- trans_ru: назад; за какое-то время
-
--lexeme
  lex: шеҥгек-ончык
  stem: шеҥгек-ончык.//шеҥгэк-ончык.
  gramm: ADV
@@ -17183,46 +16783,11 @@
  trans_ru: взад-вперёд
 
 -lexeme
- lex: шеҥгеке
- stem: шеҥгеке.//шеҥгекэ.
- gramm: POST
- paradigm: Clitics
- trans_ru: назад; за какое-то время
-
--lexeme
- lex: шеҥгелан
- stem: шеҥгелан.//шеҥгэлан.
- gramm: POST
- paradigm: Clitics
- trans_ru: позади, сзади
-
--lexeme
- lex: шеҥгелне
- stem: шеҥгелне.//шеҥгэлне.
- gramm: POST
- paradigm: Clitics
- trans_ru: позади, сзади
-
--lexeme
- lex: шеҥгеч
- stem: шеҥгеч.//шеҥгэч.
- gramm: POST
- paradigm: Clitics
- trans_ru: сзади; за какое-то время
-
--lexeme
  lex: шеҥгеч-ончыч
  stem: шеҥгеч-ончыч.//шеҥгэч-ончыч.
  gramm: ADV
  paradigm: Clitics
  trans_ru: и сзади, и спереди; намёками
-
--lexeme
- lex: шеҥгечын
- stem: шеҥгечын.//шеҥгэчын.
- gramm: POST
- paradigm: Clitics
- trans_ru: сзади; за какое-то время
 
 -lexeme
  lex: шижде
@@ -17544,6 +17109,7 @@
  stem: шойык.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: назад, за
 
 -lexeme
@@ -17551,6 +17117,7 @@
  stem: шойыко.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: назад, за
 
 -lexeme
@@ -17558,6 +17125,7 @@
  stem: шойыко.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: назад, за
 
 -lexeme
@@ -17565,6 +17133,7 @@
  stem: шойылан.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: позади, сзади; за
 
 -lexeme
@@ -17572,6 +17141,7 @@
  stem: шойылко.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: назад; за
 
 -lexeme
@@ -17579,6 +17149,7 @@
  stem: шойылно.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: позади, сзади; за
 
 -lexeme
@@ -17586,6 +17157,7 @@
  stem: шойыч.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: сзади, позади; из-за; за какое-то время
 
 -lexeme
@@ -17593,6 +17165,7 @@
  stem: шойычын.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: сзади, позади; из-за; за какое-то время
 
 -lexeme
@@ -17838,6 +17411,7 @@
  stem: шотеш.//шотэш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: за, вместо; столько же
 
 -lexeme
@@ -17845,6 +17419,7 @@
  stem: шотышто.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: насчёт; в числе
 
 -lexeme
@@ -17894,6 +17469,7 @@
  stem: шоҥыш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: вместо
 
 -lexeme
@@ -17957,6 +17533,7 @@
  stem: шуаш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: вместо
 
 -lexeme
@@ -18111,6 +17688,7 @@
  stem: шумеш.//шумэш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: до
 
 -lexeme
@@ -18118,6 +17696,7 @@
  stem: шумешке.//шумешкэ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: до
 
 -lexeme
@@ -18125,6 +17704,7 @@
  stem: шумлык.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: из-за; об
 
 -lexeme
@@ -19749,6 +19329,7 @@
  stem: ӧрдыжан.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: на (в) стороне
 
 -lexeme
@@ -19756,6 +19337,7 @@
  stem: ӧрдыжеш.//ӧрдыжэш.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: сбоку
 
 -lexeme
@@ -19763,6 +19345,7 @@
  stem: ӧрдыжкӧ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: в сторону
 
 -lexeme
@@ -19770,6 +19353,7 @@
  stem: ӧрдыжтӧ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: в стороне
 
 -lexeme
@@ -19777,6 +19361,7 @@
  stem: ӧрдыжын.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: боком, набок, на боку
 
 -lexeme
@@ -19868,6 +19453,7 @@
  stem: ӱлан.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: внизу
 
 -lexeme
@@ -19875,6 +19461,7 @@
  stem: ӱлнӧ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: внизу
 
 -lexeme
@@ -19882,6 +19469,7 @@
  stem: ӱлык.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: вниз
 
 -lexeme
@@ -19903,6 +19491,7 @@
  stem: ӱлыкӧ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: вниз; на нижнюю сторону
 
 -lexeme
@@ -19910,6 +19499,7 @@
  stem: ӱлыкӧ-кӱшкӧ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: вверх-вниз
 
 -lexeme
@@ -19917,6 +19507,7 @@
  stem: ӱлыч.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: снизу
 
 -lexeme
@@ -19924,6 +19515,7 @@
  stem: ӱлычын.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: снизу
 
 -lexeme
@@ -19945,6 +19537,7 @@
  stem: ӱмбак.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: наверх; на
 
 -lexeme
@@ -19952,14 +19545,8 @@
  stem: ӱмбаке.//ӱмбакэ.
  gramm: POST
  paradigm: Clitics
+ paradigm: Poss_3Sg
  trans_ru: наверх; на
-
--lexeme
- lex: ӱмбал
- stem: ӱмбал.
- gramm: POST
- paradigm: Clitics
- trans_ru: верх; на
 
 -lexeme
  lex: ӱмбала
@@ -19976,39 +19563,11 @@
  trans_ru: поверх, один на другой
 
 -lexeme
- lex: ӱмбалан
- stem: ӱмбалан.
- gramm: POST
- paradigm: Clitics
- trans_ru: наверх; на, за
-
--lexeme
- lex: ӱмбалне
- stem: ӱмбалне.
- gramm: POST
- paradigm: Clitics
- trans_ru: наверху; на, в
-
--lexeme
- lex: ӱмбач
- stem: ӱмбач.
- gramm: POST
- paradigm: Clitics
- trans_ru: сверху; с
-
--lexeme
  lex: ӱмбач-ӱмбач
  stem: ӱмбач-ӱмбач.
  gramm: ADV
  paradigm: Clitics
  trans_ru: неоднократно
-
--lexeme
- lex: ӱмбачын
- stem: ӱмбачын.
- gramm: POST
- paradigm: Clitics
- trans_ru: сверху; с
 
 -lexeme
  lex: ӱмыр-ӱмыреш

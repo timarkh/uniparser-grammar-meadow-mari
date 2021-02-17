@@ -1784,6 +1784,33 @@
   paradigm: N_Poss_Pl_Case_e
  paradigm: Clitics
 
+
+
+-paradigm: POST
+ -flex: .лан<.>
+  gramm: dat,sg
+  gloss: DAT
+  paradigm: N_Poss_after_case
+ -flex: <1>.ке<.>//<1>.ко<.>//<1>.к<.>
+  gramm: ill,sg
+  gloss: ILL
+  paradigm: N_Poss_after_case_no_comp
+ -flex: <0>.не<.>//<0>.но<.>//<1>.н<.>
+  gramm: loc,sg
+  gloss: LOC
+  paradigm: N_Poss_after_case_no_comp
+ -flex: <0>.ч<.>
+  gramm: el,sg
+  gloss: EL
+  paradigm: N_Poss_after_case_no_comp
+ -flex: <0>.ч|ын<.>
+  gramm: el,el_full,sg
+  gloss: EL|EL.FULL
+  paradigm: N_Poss_after_case_no_comp
+
+
+
+
 -paradigm: N_Case
  -flex: .м<.>
   gramm: acc,sg
@@ -2005,9 +2032,17 @@
  -flex: .же<.>//.жо<.>//.жӧ<.>
   gramm: sg,3sg
   gloss: 3SG
+ -flex: .ше<.>//.шо<.>//.шӧ<.>
+  gramm: sg,3sg
+  gloss: 3SG
+  regex-prev: .*[кпстфхцчшщ][<>.]*$
  -flex: .ж<.>
   gramm: sg,3sg
   gloss: 3SG
+ -flex: .ш<.>
+  gramm: sg,3sg
+  gloss: 3SG
+  regex-prev: .*[кпстфхцчшщ][<>.]*$
  -flex: .на<.>
   gramm: sg,1pl
   gloss: 1PL
@@ -2048,9 +2083,17 @@
  -flex: .же<.>//.жо<.>//.жӧ<.>
   gramm: sg,3sg
   gloss: 3SG
+ -flex: .ше<.>//.шо<.>//.шӧ<.>
+  gramm: sg,3sg
+  gloss: 3SG
+  regex-prev: .*[кпстфхцчшщ][<>.]*$
  -flex: .ж<.>
   gramm: sg,3sg
   gloss: 3SG
+ -flex: .ш<.>
+  gramm: sg,3sg
+  gloss: 3SG
+  regex-prev: .*[кпстфхцчшщ][<>.]*$
  -flex: .на<.>
   gramm: sg,1pl
   gloss: 1PL
