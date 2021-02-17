@@ -19648,6 +19648,7 @@
  stem: дедушка.//дэдушка.|дедушкы.//дэдушкы.//дедушка.|дедушк.//дэдушк.//дедушка.
  gramm: N,rus,anim,hum
  paradigm: N_paroxyton_v_weak
+ paradigm: N_paroxyton_kin
  trans_ru: дед, дедушка
 
 -lexeme
@@ -22273,6 +22274,7 @@
  stem: дядя.
  gramm: N,anim,hum,rus
  paradigm: N_paroxyton_v_weak
+ paradigm: N_paroxyton_kin
  trans_ru: дядя, старший брат
 
 -lexeme
@@ -25619,6 +25621,7 @@
  stem: иза.
  gramm: N,anim,hum
  paradigm: N_oxyton
+ paradigm: N_oxyton_kin
  trans_ru: старший брат; дядя
 
 -lexeme
@@ -25626,6 +25629,7 @@
  stem: иза-ака.
  gramm: N,anim,hum
  paradigm: N_oxyton
+ paradigm: N_oxyton_kin
  trans_ru: старший брат и старшая сестра
 
 -lexeme
@@ -25633,6 +25637,7 @@
  stem: иза-еҥга.
  gramm: N,anim,hum
  paradigm: N_oxyton
+ paradigm: N_oxyton_kin
  trans_ru: старший брат и сноха; дядя и тётя
 
 -lexeme
@@ -25648,6 +25653,7 @@
  stem: изава.
  gramm: N,anim,hum
  paradigm: N_oxyton
+ paradigm: N_oxyton_kin
  trans_ru: мачеха
 
 -lexeme
@@ -25683,6 +25689,7 @@
  stem: изача.
  gramm: N,anim,hum
  paradigm: N_oxyton
+ paradigm: N_oxyton_kin
  trans_ru: отчим
 
 -lexeme
@@ -35793,6 +35800,7 @@
  stem: кова.
  gramm: N,anim,hum
  paradigm: N_oxyton
+ paradigm: N_oxyton_kin
  trans_ru: бабушка
 
 -lexeme
@@ -40042,6 +40050,7 @@
  stem: коча.
  gramm: N,anim,hum
  paradigm: N_oxyton
+ paradigm: N_oxyton_kin
  trans_ru: дед
 
 -lexeme
@@ -41718,6 +41727,7 @@
  stem: кугыза.
  gramm: N,anim,hum
  paradigm: N_oxyton
+ paradigm: N_oxyton_kin
  trans_ru: старик; муж; дядя
 
 -lexeme
@@ -43062,6 +43072,7 @@
  stem: курска.
  gramm: N,anim,hum
  paradigm: N_oxyton
+ paradigm: N_oxyton_kin
  trans_ru: зять; дядя (двоюродный)
 
 -lexeme
@@ -74544,6 +74555,7 @@
  stem: прапрадедушка.//прапрадэдушка.|прапрадедушкы.//прапрадэдушкы.//прапрадедушка.|прапрадедушк.//прапрадэдушк.//прапрадедушка.
  gramm: N,rus,anim,hum
  paradigm: N_paroxyton_v_weak
+ paradigm: N_paroxyton_kin
  trans_ru: прапрадедушка
 
 -lexeme
@@ -112182,6 +112194,7 @@
  stem: чочо.
  gramm: N,anim,hum
  paradigm: N_oxyton
+ paradigm: N_oxyton_kin
  trans_ru: дедушка; дитя
 
 -lexeme
@@ -113316,7 +113329,7 @@
  stem: чӱчӱ.
  gramm: N,anim,hum
  paradigm: N_oxyton
- paradigm: N_paroxyton_kin
+ paradigm: N_oxyton_kin
  trans_ru: дядя, младший брат матери
 
 -lexeme

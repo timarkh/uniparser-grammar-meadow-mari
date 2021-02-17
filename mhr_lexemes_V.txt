@@ -16713,6 +16713,13 @@
  trans_ru: не
 
 -lexeme
+ lex: одал
+ stem: одал.
+ gramm: V,neg,pst2,2,pl
+ paradigm: Clitics
+ trans_ru: не
+
+-lexeme
  lex: одараш
  stem: одар.
  gramm: V
