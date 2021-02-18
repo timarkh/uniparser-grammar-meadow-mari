@@ -9392,6 +9392,14 @@
  trans_ru: небрежно
 
 -lexeme
+ lex: пелен
+ stem: пелен.//пелэн.
+ gramm: POST
+ paradigm: Clitics
+ paradigm: Poss_3Sg
+ trans_ru: к; с; рядом
+
+-lexeme
  lex: пелештыде
  stem: пелештыде.//пелештыдэ.
  gramm: ADV

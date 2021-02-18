@@ -1,0 +1,97 @@
+-lexeme
+ lex: вокте
+ stem: вокте.
+ gramm: N,rel_n
+ paradigm: POST
+ trans_ru: рядом
+
+-lexeme
+ lex: ӱмбал
+ stem: ӱмбал.|ӱмба.
+ gramm: N,rel_n
+ paradigm: POST
+ trans_ru: поверхность; наверху
+
+-lexeme
+ lex: умбал
+ stem: умбал.|умба.
+ gramm: N,rel_n
+ paradigm: POST
+ trans_ru: вдали
+
+-lexeme
+ lex: йымал
+ stem: йымал.|йыма.
+ gramm: N,rel_n
+ paradigm: POST
+ trans_ru: внизу
+
+-lexeme
+ lex: шеҥгел
+ stem: шеҥгел.|шеҥге.
+ gramm: N,rel_n
+ paradigm: POST
+ trans_ru: позади; за какое-то время
+
+-lexeme
+ lex: ончыл
+ stem: ончыл.|ончы.
+ gramm: N,rel_n
+ paradigm: POST
+ trans_ru: впереди
+
+-lexeme
+ lex: лиш
+ stem: лиш.//лишыл.|лиш.//лишы.
+ gramm: N,rel_n
+ paradigm: POST
+ trans_ru: вблизи
+
+-lexeme
+ lex: покшел
+ stem: покшел.|покше.
+ gramm: N,rel_n
+ paradigm: POST
+ trans_ru: посреди
+
+-lexeme
+ lex: вел
+ stem: вел.|ве.
+ gramm: N,rel_n
+ paradigm: POST
+ trans_ru: в стороне
+
+-lexeme
+ lex: пел
+ stem: пел.|пелы.//пел.
+ gramm: N,rel_n
+ paradigm: POST
+ trans_ru: в стороне
+
+-lexeme
+ lex: таҥгал
+ stem: таҥгал.|таҥга.
+ gramm: N,rel_n
+ paradigm: POST
+ trans_ru: возле; мимо
+
+-lexeme
+ lex: тембал
+ stem: тембал.|темба.
+ gramm: N,rel_n
+ paradigm: POST
+ trans_ru: вблизи говорящего
+
+-lexeme
+ lex: тувел
+ stem: тувел.|туве.
+ gramm: N,rel_n
+ paradigm: POST
+ trans_ru: по ту сторону
+
+-lexeme
+ lex: тӱжвал
+ stem: тӱжвал.|тӱжва.
+ gramm: N,rel_n
+ paradigm: POST
+ trans_ru: снаружи

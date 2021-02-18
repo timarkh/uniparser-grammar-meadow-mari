@@ -2036,6 +2036,10 @@
   gramm: sg,3sg
   gloss: 3SG
   regex-prev: .*[кпстфхцчшщ][<>.]*$
+ -flex: .ыже<.>//.ыжо<.>//.ыжӧ<.>
+  gramm: sg,3sg
+  gloss: 3SG
+  regex-prev: .*[бвгджзйклмнпрстфхцчшщ]ь?[<>.]*$
  -flex: .ж<.>
   gramm: sg,3sg
   gloss: 3SG
@@ -2043,6 +2047,10 @@
   gramm: sg,3sg
   gloss: 3SG
   regex-prev: .*[кпстфхцчшщ][<>.]*$
+ -flex: .ыж<.>//.ыж<.>//.ыж<.>
+  gramm: sg,3sg
+  gloss: 3SG
+  regex-prev: .*[бвгджзйклмнпрстфхцчшщ]ь?[<>.]*$
  -flex: .на<.>
   gramm: sg,1pl
   gloss: 1PL
@@ -2087,6 +2095,10 @@
   gramm: sg,3sg
   gloss: 3SG
   regex-prev: .*[кпстфхцчшщ][<>.]*$
+ -flex: .ыже<.>//.ыжо<.>//.ыжӧ<.>
+  gramm: sg,3sg
+  gloss: 3SG
+  regex-prev: .*[бвгджзйклмнпрстфхцчшщ]ь?[<>.]*$
  -flex: .ж<.>
   gramm: sg,3sg
   gloss: 3SG
@@ -2094,6 +2106,10 @@
   gramm: sg,3sg
   gloss: 3SG
   regex-prev: .*[кпстфхцчшщ][<>.]*$
+ -flex: .ыж<.>//.ыж<.>//.ыж<.>
+  gramm: sg,3sg
+  gloss: 3SG
+  regex-prev: .*[бвгджзйклмнпрстфхцчшщ]ь?[<>.]*$
  -flex: .на<.>
   gramm: sg,1pl
   gloss: 1PL
