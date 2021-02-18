@@ -6485,7 +6485,7 @@
 
 -lexeme
  lex: бабуля
- stem: бабуля.
+ stem: бабуля.|бабуля.//бабульы.|бабуля.//бабул.//бабуль.
  gramm: N,rus,anim,hum
  paradigm: N_paroxyton_v_weak
  trans_ru: бабуля
@@ -6527,7 +6527,7 @@
 
 -lexeme
  lex: бадья
- stem: бадья.
+ stem: бадья.|бадья.//бадььы.|бадья.//бадь.//бадьь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: бадья
@@ -7087,7 +7087,7 @@
 
 -lexeme
  lex: баня
- stem: баня.
+ stem: баня.|баня.//баньы.|баня.//бан.//бань.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: баня
@@ -7318,9 +7318,9 @@
 
 -lexeme
  lex: барыня
- stem: барыня.
+ stem: барыня.|барыня.//барыньы.|барыня.//барын.//барынь.
  gramm: N,rus,anim,hum
- paradigm: N_paroxyton_v_strong
+ paradigm: N_paroxyton_v_weak
  trans_ru: барыня
 
 -lexeme
@@ -7332,9 +7332,9 @@
 
 -lexeme
  lex: барышня
- stem: барышня.
+ stem: барышня.|барышня.//барышньы.|барышня.//барышн.//барышнь.
  gramm: N,rus,anim,hum
- paradigm: N_paroxyton_v_strong
+ paradigm: N_paroxyton_v_weak
  trans_ru: барышня
 
 -lexeme
@@ -7388,9 +7388,9 @@
 
 -lexeme
  lex: басня
- stem: басня.
+ stem: басня.|басня.//басньы.|басня.//басн.//баснь.
  gramm: N,rus
- paradigm: N_paroxyton_v_strong
+ paradigm: N_paroxyton_v_weak
  trans_ru: басня
 
 -lexeme
@@ -7619,7 +7619,7 @@
 
 -lexeme
  lex: башня
- stem: башня.
+ stem: башня.|башня.//башньы.|башня.//башн.//башнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: башня
@@ -8711,7 +8711,7 @@
 
 -lexeme
  lex: блогиня
- stem: блогиня.
+ stem: блогиня.|блогиня.//блогиньы.|блогиня.//блогин.//блогинь.
  gramm: N,rus,anim,hum
  paradigm: N_paroxyton_v_weak
  trans_ru: блогиня
@@ -8865,7 +8865,7 @@
 
 -lexeme
  lex: богиня
- stem: богиня.
+ stem: богиня.|богиня.//богиньы.|богиня.//богин.//богинь.
  gramm: N,rus,anim,supernat
  paradigm: N_paroxyton_v_weak
  trans_ru: богиня
@@ -8935,7 +8935,7 @@
 
 -lexeme
  lex: бойня
- stem: бойня.
+ stem: бойня.|бойня.//бойньы.|бойня.//бойн.//бойнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: бойня
@@ -9026,7 +9026,7 @@
 
 -lexeme
  lex: болонья
- stem: болонья.
+ stem: болонья.|болонья.//болоньы.|болонья.//болоньй.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: болонья
@@ -9355,7 +9355,7 @@
 
 -lexeme
  lex: боярыня
- stem: боярыня.
+ stem: боярыня.|боярыня.//боярыньы.|боярыня.//боярын.//боярынь.
  gramm: N,rus,anim,hum
  paradigm: N_paroxyton_v_weak
  trans_ru: боярыня
@@ -10209,7 +10209,7 @@
 
 -lexeme
  lex: буря
- stem: буря.
+ stem: буря.|буря.//бурьы.|буря.//бур.//бурь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: буря
@@ -11315,9 +11315,9 @@
 
 -lexeme
  lex: вафля
- stem: вафля.
+ stem: вафля.|вафля.//вафльы.|вафля.//вафл.//вафль.
  gramm: N,rus
- paradigm: N_paroxyton_v_strong
+ paradigm: N_paroxyton_v_weak
  trans_ru: вафля
 
 -lexeme
@@ -12981,9 +12981,9 @@
 
 -lexeme
  lex: вишня
- stem: вишня.
+ stem: вишня.|вишня.//вишньы.|вишня.//вишн.//вишнь.
  gramm: N,rus
- paradigm: N_paroxyton_v_strong
+ paradigm: N_paroxyton_v_weak
  trans_ru: вишня
 
 -lexeme
@@ -14318,7 +14318,7 @@
 
 -lexeme
  lex: время
- stem: время.//врэмя.
+ stem: время.//врэмя.|время.//врэмя.//времьы.//врэмьы.|время.//врэмя.//врем.//врэм.//времь.//врэмь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: время
@@ -14339,7 +14339,7 @@
 
 -lexeme
  lex: вселенная
- stem: вселенная.//вселэнная.
+ stem: вселенная.//вселэнная.|вселенная.//вселэнная.//вселеннайы.//вселэннайы.|вселенная.//вселэнная.//вселеннай.//вселэннай.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: вселенная
@@ -17069,9 +17069,9 @@
 
 -lexeme
  lex: героиня
- stem: героиня.//гэроиня.
+ stem: героиня.//гэроиня.|героиня.//гэроиня.//героиньы.//гэроиньы.|героиня.//гэроиня.//героинь.//гэроинь.
  gramm: N,rus,anim,hum
- paradigm: N_paroxyton_v_strong
+ paradigm: N_paroxyton_v_weak
  trans_ru: героиня
 
 -lexeme
@@ -17566,7 +17566,7 @@
 
 -lexeme
  lex: гиря
- stem: гиря.
+ stem: гиря.|гиря.//гирьы.|гиря.//гир.//гирь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: гиря
@@ -18378,9 +18378,9 @@
 
 -lexeme
  lex: готовальня
- stem: готовальня.
+ stem: готовальня.|готовальня.//готовальньы.|готовальня.//готовальн.//готовальнь.
  gramm: N,rus
- paradigm: N_paroxyton_v_strong
+ paradigm: N_paroxyton_v_weak
  trans_ru: готовальня
 
 -lexeme
@@ -18644,9 +18644,9 @@
 
 -lexeme
  lex: графиня
- stem: графиня.
+ stem: графиня.|графиня.//графиньы.|графиня.//графин.//графинь.
  gramm: N,rus,anim,hum
- paradigm: N_paroxyton_v_strong
+ paradigm: N_paroxyton_v_weak
  trans_ru: графиня
 
 -lexeme
@@ -20129,7 +20129,7 @@
 
 -lexeme
  lex: деревня
- stem: деревня.//дерэвня.
+ stem: деревня.//дерэвня.|деревня.//дерэвня.//деревньы.//дерэвньы.|деревня.//дерэвня.//деревн.//дерэвн.//деревнь.//дерэвнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: деревня
@@ -21193,7 +21193,7 @@
 
 -lexeme
  lex: дитя
- stem: дитя.
+ stem: дитя.|дитя.//дитьы.|дитя.//дит.//дить.
  gramm: N,rus,anim,hum
  paradigm: N_paroxyton_v_weak
  trans_ru: дитя
@@ -21529,7 +21529,7 @@
 
 -lexeme
  lex: доля
- stem: доля.
+ stem: доля.|доля.//дольы.|доля.//дол.//доль.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: доля
@@ -21970,7 +21970,7 @@
 
 -lexeme
  lex: друзья
- stem: друзья.
+ stem: друзья.|друзья.//друзьы.|друзья.//друзьй.
  gramm: N,rus,anim,hum
  paradigm: N_paroxyton_v_weak
  trans_ru: друзья
@@ -21998,7 +21998,7 @@
 
 -lexeme
  lex: дубильня
- stem: дубильня.
+ stem: дубильня.|дубильня.//дубильньы.|дубильня.//дубильн.//дубильнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: дубильня
@@ -22061,7 +22061,7 @@
 
 -lexeme
  lex: дуля
- stem: дуля.
+ stem: дуля.|дуля.//дульы.|дуля.//дул.//дуль.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: дуля
@@ -22208,9 +22208,9 @@
 
 -lexeme
  lex: дыня
- stem: дыня.
+ stem: дыня.|дыня.//дыньы.|дыня.//дын.//дынь.
  gramm: N,rus
- paradigm: N_paroxyton_v_strong
+ paradigm: N_paroxyton_v_weak
  trans_ru: дыня
 
 -lexeme
@@ -22440,7 +22440,7 @@
 
 -lexeme
  lex: едресня
- stem: едресня.//едрэсня.
+ stem: едресня.//едрэсня.|едресня.//едрэсня.//едресньы.//едрэсньы.|едресня.//едрэсня.//едресн.//едрэсн.//едреснь.//едрэснь.
  gramm: N,rus,anim,hum
  paradigm: N_paroxyton_v_weak
  trans_ru: едресня
@@ -24204,7 +24204,7 @@
 
 -lexeme
  lex: запятая
- stem: запятая.
+ stem: запятая.|запятая.//запятаьы.|запятая.//запята.//запятаь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: запятая
@@ -24260,7 +24260,7 @@
 
 -lexeme
  lex: заря
- stem: заря.
+ stem: заря.|заря.//зарьы.|заря.//зар.//зарь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: заря
@@ -24477,7 +24477,7 @@
 
 -lexeme
  lex: збруя
- stem: збруя.
+ stem: збруя.|збруя.//збруьы.|збруя.//збру.//збруь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: збруя
@@ -24925,9 +24925,9 @@
 
 -lexeme
  lex: знамя
- stem: знамя.
+ stem: знамя.|знамя.//знамьы.|знамя.//знам.//знамь.
  gramm: N,rus
- paradigm: N_paroxyton_v_strong
+ paradigm: N_paroxyton_v_weak
  trans_ru: знамя
 
 -lexeme
@@ -25289,9 +25289,9 @@
 
 -lexeme
  lex: игуменья
- stem: игуменья.//игумэнья.
+ stem: игуменья.//игумэнья.|игуменья.//игумэнья.//игуменьы.//игумэньы.|игуменья.//игумэнья.//игуменья.//игумэньй.
  gramm: N,rus,anim,hum
- paradigm: N_paroxyton_v_strong
+ paradigm: N_paroxyton_v_weak
  trans_ru: игуменья
 
 -lexeme
@@ -25694,7 +25694,7 @@
 
 -lexeme
  lex: изба-читальня
- stem: изба-читальня.
+ stem: изба-читальня.|изба-читальня.//изба-читальньы.|изба-читальня.//изба-читальн.//изба-читальнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: изба-читальня
@@ -26781,7 +26781,7 @@
 
 -lexeme
  lex: имя
- stem: имя.
+ stem: имя.|имя.//имьы.|имя.//им.//имь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: имя
@@ -30869,7 +30869,7 @@
 
 -lexeme
  lex: каменоломня
- stem: каменоломня.//камэноломня.
+ stem: каменоломня.//камэноломня.|каменоломня.//камэноломня.//каменоломньы.//камэноломньы.|каменоломня.//камэноломня.//каменоломн.//камэноломн.//каменоломнь.//камэноломнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: каменоломня
@@ -31450,7 +31450,7 @@
 
 -lexeme
  lex: капля
- stem: капля.
+ stem: капля.|капля.//капльы.|капля.//капл.//капль.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: капля, капли
@@ -32696,7 +32696,7 @@
 
 -lexeme
  lex: кастрюля
- stem: кастрюля.
+ stem: кастрюля.|кастрюля.//кастрюльы.|кастрюля.//кастрюл.//кастрюль.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: кастрюля
@@ -33586,7 +33586,7 @@
 
 -lexeme
  lex: келья
- stem: келья.//кэлья.
+ stem: келья.//кэлья.|келья.//кэлья.//кельы.//кэльы.|келья.//кэлья.//келья.//кэльй.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: келья
@@ -35720,9 +35720,9 @@
 
 -lexeme
  lex: княгиня
- stem: княгиня.
+ stem: княгиня.|княгиня.//княгиньы.|княгиня.//княгин.//княгинь.
  gramm: N,rus,anim,hum
- paradigm: N_paroxyton_v_strong
+ paradigm: N_paroxyton_v_weak
  trans_ru: княгиня
 
 -lexeme
@@ -36757,7 +36757,7 @@
 
 -lexeme
  lex: колокольня
- stem: колокольня.
+ stem: колокольня.|колокольня.//колокольньы.|колокольня.//колокольн.//колокольнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: колокольня
@@ -37786,9 +37786,9 @@
 
 -lexeme
  lex: компиляция
- stem: компиляция.
+ stem: компиляция.|компиляция.//компиляциьы.|компиляция.//компиляци.//компиляциь.
  gramm: N,rus
- paradigm: N_paroxyton_v_strong
+ paradigm: N_paroxyton_v_weak
  trans_ru: компиляция
 
 -lexeme
@@ -38794,7 +38794,7 @@
 
 -lexeme
  lex: конюшня
- stem: конюшня.
+ stem: конюшня.|конюшня.//конюшньы.|конюшня.//конюшн.//конюшнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: конюшня
@@ -39291,7 +39291,7 @@
 
 -lexeme
  lex: кормокухня
- stem: кормокухня.
+ stem: кормокухня.|кормокухня.//кормокухньы.|кормокухня.//кормокухн.//кормокухнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: кормокухня
@@ -40608,7 +40608,7 @@
 
 -lexeme
  lex: краля
- stem: краля.
+ stem: краля.|краля.//кральы.|краля.//крал.//краль.
  gramm: N,rus,anim,hum
  paradigm: N_paroxyton_v_weak
  trans_ru: краля
@@ -41351,9 +41351,9 @@
 
 -lexeme
  lex: ксия
- stem: ксия.
+ stem: ксия.|ксия.//ксиьы.|ксия.//кси.//ксиь.
  gramm: N,rus
- paradigm: N_paroxyton_v_strong
+ paradigm: N_paroxyton_v_weak
  trans_ru: кисея
 
 -lexeme
@@ -43462,7 +43462,7 @@
 
 -lexeme
  lex: кухня
- stem: кухня.
+ stem: кухня.|кухня.//кухньы.|кухня.//кухн.//кухнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: кухня
@@ -48677,7 +48677,7 @@
 
 -lexeme
  lex: лыжня
- stem: лыжня.
+ stem: лыжня.|лыжня.//лыжньы.|лыжня.//лыжн.//лыжнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: лыжня
@@ -49622,7 +49622,7 @@
 
 -lexeme
  lex: майя
- stem: майя.
+ stem: майя.|майя.//майьы.|майя.//май.//майь.
  gramm: N,rus,anim,hum
  paradigm: N_paroxyton_v_weak
  trans_ru: майя
@@ -52877,7 +52877,7 @@
 
 -lexeme
  lex: милостыня
- stem: милостыня.
+ stem: милостыня.|милостыня.//милостыньы.|милостыня.//милостын.//милостынь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: милостыня
@@ -52891,7 +52891,7 @@
 
 -lexeme
  lex: миля
- stem: миля.
+ stem: миля.|миля.//мильы.|миля.//мил.//миль.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: миля
@@ -53927,7 +53927,7 @@
 
 -lexeme
  lex: монахиня
- stem: монахиня.
+ stem: монахиня.|монахиня.//монахиньы.|монахиня.//монахин.//монахинь.
  gramm: N,rus,anim,hum
  paradigm: N_paroxyton_v_weak
  trans_ru: монахиня
@@ -56363,7 +56363,7 @@
 
 -lexeme
  lex: наковальня
- stem: наковальня.
+ stem: наковальня.|наковальня.//наковальньы.|наковальня.//наковальн.//наковальнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: наковальня
@@ -57490,7 +57490,7 @@
 
 -lexeme
  lex: неволя
- stem: неволя.
+ stem: неволя.|неволя.//невольы.|неволя.//невол.//неволь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: неволя
@@ -59255,9 +59255,9 @@
 
 -lexeme
  lex: няня
- stem: няня.
+ stem: няня.|няня.//няньы.|няня.//нян.//нянь.
  gramm: N,rus,anim,hum
- paradigm: N_paroxyton_v_strong
+ paradigm: N_paroxyton_v_weak
  trans_ru: няня
 
 -lexeme
@@ -59577,9 +59577,9 @@
 
 -lexeme
  lex: обедня
- stem: обедня.//обэдня.
+ stem: обедня.//обэдня.|обедня.//обэдня.//обедньы.//обэдньы.|обедня.//обэдня.//обедн.//обэдн.//обеднь.//обэднь.
  gramm: N,rus
- paradigm: N_paroxyton_v_strong
+ paradigm: N_paroxyton_v_weak
  trans_ru: обедня
 
 -lexeme
@@ -61229,7 +61229,7 @@
 
 -lexeme
  lex: оладья
- stem: оладья.
+ stem: оладья.|оладья.//оладьы.|оладья.//оладьй.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: оладья
@@ -65032,7 +65032,7 @@
 
 -lexeme
  lex: пакля
- stem: пакля.
+ stem: пакля.|пакля.//пакльы.|пакля.//пакл.//пакль.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: пакля
@@ -66922,7 +66922,7 @@
 
 -lexeme
  lex: пашня
- stem: пашня.
+ stem: пашня.|пашня.//пашньы.|пашня.//пашн.//пашнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: пашня
@@ -67167,7 +67167,7 @@
 
 -lexeme
  lex: пекарня
- stem: пекарня.//пэкарня.
+ stem: пекарня.//пэкарня.|пекарня.//пэкарня.//пекарньы.//пэкарньы.|пекарня.//пэкарня.//пекарн.//пэкарн.//пекарнь.//пэкарнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: пекарня
@@ -68420,7 +68420,7 @@
 
 -lexeme
  lex: песня
- stem: песня.//пэсня.
+ stem: песня.//пэсня.|песня.//пэсня.//песньы.//пэсньы.|песня.//пэсня.//песн.//пэсн.//песнь.//пэснь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: песня
@@ -68511,7 +68511,7 @@
 
 -lexeme
  lex: петля
- stem: петля.//пэтля.
+ stem: петля.//пэтля.|петля.//пэтля.//петльы.//пэтльы.|петля.//пэтля.//петл.//пэтл.//петль.//пэтль.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: петля
@@ -68553,7 +68553,7 @@
 
 -lexeme
  lex: петунья
- stem: петунья.//пэтунья.
+ stem: петунья.//пэтунья.|петунья.//пэтунья.//петуньы.//пэтуньы.|петунья.//пэтунья.//петунья.//пэтуньй.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: петунья
@@ -69260,7 +69260,7 @@
 
 -lexeme
  lex: пилюля
- stem: пилюля.
+ stem: пилюля.|пилюля.//пилюльы.|пилюля.//пилюл.//пилюль.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: пилюля
@@ -70891,7 +70891,7 @@
 
 -lexeme
  lex: подворотня
- stem: подворотня.
+ stem: подворотня.|подворотня.//подворотньы.|подворотня.//подворотн.//подворотнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: подворотня
@@ -76989,7 +76989,7 @@
 
 -lexeme
  lex: простыня
- stem: простыня.
+ stem: простыня.|простыня.//простыньы.|простыня.//простын.//простынь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: простыня
@@ -78627,7 +78627,7 @@
 
 -lexeme
  lex: пустыня
- stem: пустыня.
+ stem: пустыня.|пустыня.//пустыньы.|пустыня.//пустын.//пустынь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: пустыня
@@ -80587,7 +80587,7 @@
 
 -lexeme
  lex: рабыня
- stem: рабыня.
+ stem: рабыня.|рабыня.//рабыньы.|рабыня.//рабын.//рабынь.
  gramm: N,rus,anim,hum
  paradigm: N_paroxyton_v_weak
  trans_ru: рабыня
@@ -84053,7 +84053,7 @@
 
 -lexeme
  lex: родня
- stem: родня.
+ stem: родня.|родня.//родньы.|родня.//родн.//роднь.
  gramm: N,rus,anim,hum
  paradigm: N_paroxyton_v_weak
  trans_ru: родня
@@ -85544,7 +85544,7 @@
 
 -lexeme
  lex: сабля
- stem: сабля.
+ stem: сабля.|сабля.//сабльы.|сабля.//сабл.//сабль.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: сабля
@@ -87203,7 +87203,7 @@
 
 -lexeme
  lex: сбруя
- stem: сбруя.
+ stem: сбруя.|сбруя.//сбруьы.|сбруя.//сбру.//сбруь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: сбруя
@@ -87266,7 +87266,7 @@
 
 -lexeme
  lex: сватья
- stem: сватья.
+ stem: сватья.|сватья.//сватьы.|сватья.//сватьй.
  gramm: N,rus,anim,hum
  paradigm: N_paroxyton_v_weak
  trans_ru: сватья
@@ -87280,7 +87280,7 @@
 
 -lexeme
  lex: свая
- stem: свая.
+ stem: свая.|свая.//сваьы.|свая.//сва.//сваь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: свая
@@ -88246,7 +88246,7 @@
 
 -lexeme
  lex: семья
- stem: семья.//сэмья.
+ stem: семья.//сэмья.|семья.//сэмья.//семьы.//сэмьы.|семья.//сэмья.//семья.//сэмьй.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: семья
@@ -89352,7 +89352,7 @@
 
 -lexeme
  lex: скамья
- stem: скамья.
+ stem: скамья.|скамья.//скамьы.|скамья.//скамьй.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: скамья
@@ -89618,7 +89618,7 @@
 
 -lexeme
  lex: скорая
- stem: скорая.
+ stem: скорая.|скорая.//скораьы.|скорая.//скора.//скораь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: скорая
@@ -91592,7 +91592,7 @@
 
 -lexeme
  lex: сотня
- stem: сотня.
+ stem: сотня.|сотня.//сотньы.|сотня.//сотн.//сотнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: сотня
@@ -91781,9 +91781,9 @@
 
 -lexeme
  lex: соя
- stem: соя.
+ stem: соя.|соя.//соьы.|соя.//со.//соь.
  gramm: N,rus
- paradigm: N_paroxyton_v_strong
+ paradigm: N_paroxyton_v_weak
  trans_ru: соя
 
 -lexeme
@@ -91816,7 +91816,7 @@
 
 -lexeme
  lex: спальня
- stem: спальня.
+ stem: спальня.|спальня.//спальньы.|спальня.//спальн.//спальнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: спальня
@@ -92502,7 +92502,7 @@
 
 -lexeme
  lex: ставня
- stem: ставня.
+ stem: ставня.|ставня.//ставньы.|ставня.//ставн.//ставнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: ставня
@@ -92838,7 +92838,7 @@
 
 -lexeme
  lex: статуя
- stem: статуя.
+ stem: статуя.|статуя.//статуьы.|статуя.//стату.//статуь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: статуя
@@ -92887,7 +92887,7 @@
 
 -lexeme
  lex: стая
- stem: стая.
+ stem: стая.|стая.//стаьы.|стая.//ста.//стаь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: стая
@@ -93776,7 +93776,7 @@
 
 -lexeme
  lex: струя
- stem: струя.
+ stem: струя.|струя.//струьы.|струя.//стру.//струь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: струя
@@ -96240,9 +96240,9 @@
 
 -lexeme
  lex: таможня
- stem: таможня.
+ stem: таможня.|таможня.//таможньы.|таможня.//таможн.//таможнь.
  gramm: N,rus
- paradigm: N_paroxyton_v_strong
+ paradigm: N_paroxyton_v_weak
  trans_ru: таможня
 
 -lexeme
@@ -98473,7 +98473,7 @@
 
 -lexeme
  lex: тля
- stem: тля.
+ stem: тля.|тля.//тльы.|тля.//тл.//тль.
  gramm: N,rus,anim
  paradigm: N_paroxyton_v_weak
  trans_ru: тля
@@ -99152,7 +99152,7 @@
 
 -lexeme
  lex: торговля
- stem: торговля.
+ stem: торговля.|торговля.//торговльы.|торговля.//торговл.//торговль.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: торговля
@@ -101849,7 +101849,7 @@
 
 -lexeme
  lex: туфля
- stem: туфля.
+ stem: туфля.|туфля.//туфльы.|туфля.//туфл.//туфль.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: туфля
@@ -101919,9 +101919,9 @@
 
 -lexeme
  lex: туя
- stem: туя.
+ stem: туя.|туя.//туьы.|туя.//ту.//туь.
  gramm: N,rus
- paradigm: N_paroxyton_v_strong
+ paradigm: N_paroxyton_v_weak
  trans_ru: туя
 
 -lexeme
@@ -102262,7 +102262,7 @@
 
 -lexeme
  lex: тюря
- stem: тюря.
+ stem: тюря.|тюря.//тюрьы.|тюря.//тюр.//тюрь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: тюря
@@ -102311,7 +102311,7 @@
 
 -lexeme
  lex: тётя
- stem: тётя.
+ stem: тётя.|тётя.//тётьы.|тётя.//тёт.//тёть.
  gramm: N,rus,anim,hum
  paradigm: N_paroxyton_v_weak
  trans_ru: тётя
@@ -105345,9 +105345,9 @@
 
 -lexeme
  lex: утреня
- stem: утреня.//утрэня.
+ stem: утреня.//утрэня.|утреня.//утрэня.//утреньы.//утрэньы.|утреня.//утрэня.//утрен.//утрэн.//утрень.//утрэнь.
  gramm: N,rus
- paradigm: N_paroxyton_v_strong
+ paradigm: N_paroxyton_v_weak
  trans_ru: утреня
 
 -lexeme
@@ -105828,7 +105828,7 @@
 
 -lexeme
  lex: фабрика-кухня
- stem: фабрика-кухня.
+ stem: фабрика-кухня.|фабрика-кухня.//фабрика-кухньы.|фабрика-кухня.//фабрика-кухн.//фабрика-кухнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: фабрика-кухня
@@ -106388,7 +106388,7 @@
 
 -lexeme
  lex: феня
- stem: феня.//фэня.
+ stem: феня.//фэня.|феня.//фэня.//феньы.//фэньы.|феня.//фэня.//фен.//фэн.//фень.//фэнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: феня
@@ -106493,7 +106493,7 @@
 
 -lexeme
  lex: фигня
- stem: фигня.
+ stem: фигня.|фигня.//фигньы.|фигня.//фигн.//фигнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: фигня
@@ -108411,14 +108411,14 @@
 
 -lexeme
  lex: харя
- stem: харя.
+ stem: харя.|харя.//харьы.|харя.//хар.//харь.
  gramm: N,rus,body
  paradigm: N_paroxyton_v_weak
  trans_ru: харя
 
 -lexeme
  lex: хвоя
- stem: хвоя.
+ stem: хвоя.|хвоя.//хвоьы.|хвоя.//хво.//хвоь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: хвоя
@@ -108607,7 +108607,7 @@
 
 -lexeme
  lex: хлебопекарня
- stem: хлебопекарня.//хлебопэкарня.
+ stem: хлебопекарня.//хлебопэкарня.|хлебопекарня.//хлебопэкарня.//хлебопекарньы.//хлебопэкарньы.|хлебопекарня.//хлебопэкарня.//хлебопекарн.//хлебопэкарн.//хлебопекарнь.//хлебопэкарнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: хлебопекарня
@@ -109279,7 +109279,7 @@
 
 -lexeme
  lex: цапля
- stem: цапля.
+ stem: цапля.|цапля.//цапльы.|цапля.//цапл.//цапль.
  gramm: N,rus,anim
  paradigm: N_paroxyton_v_weak
  trans_ru: цапля
@@ -110399,7 +110399,7 @@
 
 -lexeme
  lex: часовня
- stem: часовня.
+ stem: часовня.|часовня.//часовньы.|часовня.//часовн.//часовнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: часовня
@@ -111064,7 +111064,7 @@
 
 -lexeme
  lex: черешня
- stem: черешня.//черэшня.
+ stem: черешня.//черэшня.|черешня.//черэшня.//черешньы.//черэшньы.|черешня.//черэшня.//черешн.//черэшн.//черешнь.//черэшнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: черешня
@@ -111736,7 +111736,7 @@
 
 -lexeme
  lex: читальня
- stem: читальня.
+ stem: читальня.|читальня.//читальньы.|читальня.//читальн.//читальнь.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: читальня
@@ -122237,7 +122237,7 @@
 
 -lexeme
  lex: эскадрилья
- stem: эскадрилья.
+ stem: эскадрилья.|эскадрилья.//эскадрильы.|эскадрилья.//эскадрильй.
  gramm: N,rus,transport
  paradigm: N_paroxyton_v_weak
  trans_ru: эскадрилья

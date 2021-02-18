@@ -1799,11 +1799,11 @@
   gramm: loc,sg
   gloss: LOC
   paradigm: N_Poss_after_case_no_comp
- -flex: <0>.ч<.>
+ -flex: <1>.ч<.>
   gramm: el,sg
   gloss: EL
   paradigm: N_Poss_after_case_no_comp
- -flex: <0>.ч|ын<.>
+ -flex: <1>.ч|ын<.>
   gramm: el,el_full,sg
   gloss: EL|EL.FULL
   paradigm: N_Poss_after_case_no_comp
