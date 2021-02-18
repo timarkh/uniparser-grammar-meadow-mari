@@ -411,3 +411,37 @@
  paradigm: NUM_paroxyton_v_weak
  trans_ru: сто
 
+-lexeme
+ lex: восьмой
+ stem: восьмой.|восьмо.
+ gramm: NUM,ord,rus
+ paradigm: NUM_j
+ trans_ru: восьмой
+
+-lexeme
+ lex: девятый
+ stem: девятый.|девяты.
+ gramm: NUM,ord,rus
+ paradigm: NUM_j
+ trans_ru: девятый
+
+-lexeme
+ lex: нылде
+ stem: нылде.
+ gramm: NUM
+ paradigm: NUM_oxyton
+ trans_ru: сорок
+
+-lexeme
+ lex: третий
+ stem: третий.|трети.
+ gramm: NUM,ord,rus
+ paradigm: NUM_j
+ trans_ru: третий
+
+-lexeme
+ lex: четвёртый
+ stem: четвёртый.|четвёрты.
+ gramm: NUM,ord,rus
+ paradigm: NUM_j
+ trans_ru: четвертый

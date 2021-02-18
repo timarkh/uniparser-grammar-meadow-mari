@@ -40243,3 +40243,79 @@
  trans_ru: присмиреть
 
 
+-lexeme
+ lex: возгалаш
+ stem: возгал.
+ gramm: V,tr
+ paradigm: V_e
+ trans_ru: писать
+
+-lexeme
+ lex: иляш
+ stem: ил.|илй.
+ gramm: V,intr
+ paradigm: V_ye
+ trans_ru: жить
+
+-lexeme
+ lex: куршташ
+ stem: куршт.
+ gramm: V,tr
+ paradigm: V_e
+ trans_ru: танцевать
+
+-lexeme
+ lex: ныҥгаяш
+ stem: ныҥга.|ныҥгай.
+ gramm: V,tr
+ paradigm: V_ye
+ trans_ru: приносить
+
+-lexeme
+ lex: ойляш
+ stem: ойл.|ойлй.
+ gramm: V,tr
+ paradigm: V_ye
+ trans_ru: говорить
+
+-lexeme
+ lex: предлагатлаш
+ stem: предлагатл.
+ gramm: V,tr,rus
+ paradigm: V_e
+ trans_ru: предлагать
+
+-lexeme
+ lex: работаяш
+ stem: работа.|работай.
+ gramm: V,intr,rus
+ paradigm: V_ye
+ trans_ru: работать
+
+-lexeme
+ lex: толдалаш
+ stem: толдал.
+ gramm: V,intr
+ paradigm: V_a
+ trans_ru: приходить, приезжать
+
+-lexeme
+ lex: тыҥалаш
+ stem: тыҥал.
+ gramm: V,tr
+ paradigm: V_a
+ trans_ru: начинать
+
+-lexeme
+ lex: шарлалаш
+ stem: шарлал.
+ gramm: V,intr
+ paradigm: V_a
+ trans_ru: распуститься
+
+-lexeme
+ lex: эрталаш
+ stem: эртал.
+ gramm: V,intr
+ paradigm: V_a
+ trans_ru: проходить

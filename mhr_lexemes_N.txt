@@ -125735,3 +125735,65 @@
  paradigm: N_paroxyton_v_weak
  trans_ru: филин-пугач
 
+-lexeme
+ lex: год
+ stem: год.
+ gramm: N,time_meas,rus
+ paradigm: N_consonant
+ trans_ru: год
+
+-lexeme
+ lex: кантор
+ stem: кантор.
+ gramm: N,rus
+ paradigm: N_consonant
+ trans_ru: контора
+
+-lexeme
+ lex: корем
+ stem: корем.
+ gramm: N
+ paradigm: N_consonant
+ trans_ru: овраг
+
+-lexeme
+ lex: сорыкан
+ stem: сорыкан.
+ gramm: N
+ paradigm: N_consonant
+ trans_ru: традиционный костюм жителей Медведевского района
+
+-lexeme
+ lex: суара
+ stem: суара.|суары.//суара.|суар.//суара.
+ gramm: N
+ paradigm: N_paroxyton_v_weak
+ trans_ru: сухарь
+
+-lexeme
+ lex: ташма
+ stem: ташма.|ташмы.//ташма.|ташм.//ташма.
+ gramm: N,rus
+ paradigm: N_paroxyton_v_weak
+ trans_ru: тесьма
+
+-lexeme
+ lex: трахсестра
+ stem: трахсестра.|трахсестры.//трахсестра.|трахсестр.//трахсестра.
+ gramm: N,anim,hum,rus
+ paradigm: N_paroxyton_v_weak
+ trans_ru: медсестра, ответственная за лечение трахомы
+
+-lexeme
+ lex: тӱчӱ
+ stem: тӱчӱ.
+ gramm: N,anim,hum
+ paradigm: N_paroxyton_v_strong
+ trans_ru: дядя по матери
+
+-lexeme
+ lex: узи
+ stem: узи.
+ gramm: N,abbr,rus
+ paradigm: N_paroxyton_v_strong
+ trans_ru: УЗИ

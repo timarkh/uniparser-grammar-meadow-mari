@@ -1804,3 +1804,18 @@
  gramm: PRO
  paradigm: A_paroxyton_v_weak
  trans_ru: кое-кто, кое-что; некоторый
+
+
+-lexeme
+ lex: ныма
+ stem: ныма.
+ gramm: PRO,neg
+ paradigm: Clitics
+ trans_ru: ничто
+
+-lexeme
+ lex: ти
+ stem: ти.
+ gramm: PRO,dem
+ paradigm: Clitics
+ trans_ru: этот

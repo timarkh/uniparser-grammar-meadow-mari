@@ -33393,3 +33393,16 @@
  paradigm: A_paroxyton_v_weak
  trans_ru: смирный; тихий
 
+-lexeme
+ lex: тамыл
+ stem: тамыл.
+ gramm: A
+ paradigm: A_consonant
+ trans_ru: вкусный
+
+-lexeme
+ lex: шӱкшӱ
+ stem: шӱкшӱ.
+ gramm: A
+ paradigm: A_paroxyton_v_strong
+ trans_ru: плохонький

@@ -19745,3 +19745,80 @@
  paradigm: Clitics
  trans_ru: смиренно
 
+-lexeme
+ lex: мае
+ stem: мае.
+ gramm: PART
+ paradigm: Clitics
+ trans_ru: говорит
+
+-lexeme
+ lex: мойн
+ stem: мойн.
+ gramm: PART
+ paradigm: Clitics
+ trans_ru: и тому подобное
+
+-lexeme
+ lex: а-а
+ stem: а-а.
+ gramm: INTRJ,rus
+ paradigm: Clitics
+ trans_ru: а-а
+
+-lexeme
+ lex: гочын
+ stem: гочын.
+ gramm: POST
+ paradigm: Clitics
+ paradigm: Poss_3Sg
+ trans_ru: через
+
+-lexeme
+ lex: зра
+ stem: зра.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: очень
+
+-lexeme
+ lex: коҥгамбак
+ stem: коҥгамбак.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: на печь
+
+-lexeme
+ lex: м-м
+ stem: м-м.
+ gramm: INTRJ,rus
+ paradigm: Clitics
+ trans_ru: м-м
+
+-lexeme
+ lex: ны
+ stem: ны.
+ gramm: CONJ,rus
+ paradigm: Clitics
+ trans_ru: ни
+
+-lexeme
+ lex: о-ой
+ stem: о-ой.
+ gramm: INTRJ,rus
+ paradigm: Clitics
+ trans_ru: ой
+
+-lexeme
+ lex: угу
+ stem: угу.
+ gramm: INTRJ,rus
+ paradigm: Clitics
+ trans_ru: угу
+
+-lexeme
+ lex: эрден
+ stem: эрден.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: утром

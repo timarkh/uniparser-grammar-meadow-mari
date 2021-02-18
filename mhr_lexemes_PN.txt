@@ -78957,3 +78957,107 @@
  paradigm: N_consonant
  trans_ru: Иштымбал
 
+-lexeme
+ lex: Афанасич
+ stem: афанасич.
+ gramm: N,PN,patrn,PN
+ paradigm: N_consonant
+ trans_ru: Афанасьевич
+
+-lexeme
+ lex: Виктыр
+ stem: виктыр.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Виктор
+
+-lexeme
+ lex: Йырсалма
+ stem: йырсалма.|йырсалмы.//йырсалма.|йырсалм.//йырсалма.
+ gramm: N,PN,topn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Йырсалма
+
+-lexeme
+ lex: Кости
+ stem: кости.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Константин
+
+-lexeme
+ lex: Лариван
+ stem: лариван.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ларион
+
+-lexeme
+ lex: Ларивон
+ stem: ларивон.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ларион
+
+-lexeme
+ lex: Мику
+ stem: мику.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Николай
+
+-lexeme
+ lex: Найда
+ stem: найда.|найды.//найда.|найд.//найда.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Надежда
+
+-lexeme
+ lex: Нуренер
+ stem: нуренер.
+ gramm: N,PN,topn
+ paradigm: N_consonant
+ trans_ru: Нуренер
+
+-lexeme
+ lex: Ови
+ stem: ови.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Евдокия
+
+-lexeme
+ lex: Павыл
+ stem: павыл.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Павел
+
+-lexeme
+ lex: Параньга
+ stem: параньга.|параньгы.//параньга.|параньг.//параньга.
+ gramm: N,PN,topn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Параньга
+
+-lexeme
+ lex: Токтайбеляк
+ stem: токтайбеляк.
+ gramm: N,PN,topn
+ paradigm: N_consonant
+ trans_ru: Токтайбеляк
+
+-lexeme
+ lex: Токтайбеляк
+ stem: токтайбеляк.
+ gramm: N,PN,topn
+ paradigm: N_consonant
+ trans_ru: Токтайбеляк
+
+-lexeme
+ lex: Эчан
+ stem: эчан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эчан
