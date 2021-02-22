@@ -773,6 +773,64 @@
   paradigm: N_Pl_Case_Poss
   paradigm: N_Pl_Poss_Case
 
+ -flex: .м<.>
+  gramm: 1sg,sg
+  gloss: 1SG
+  paradigm: N_Poss_Case_consonant
+ -flex: .т<.>
+  gramm: 2sg,sg
+  gloss: 2SG
+  paradigm: N_Poss_Case_consonant
+ -flex: .ч<.>
+  gramm: 3sg,sg
+  gloss: 3SG
+  paradigm: N_Poss_Case_consonant
+ -flex: .ж<.>
+  gramm: 3sg,sg
+  gloss: 3SG
+  paradigm: N_Poss_Case_consonant
+ -flex: .на<.>
+  gramm: 1pl,sg
+  gloss: 1PL
+  paradigm: N_Poss_Case
+ -flex: .да<.>
+  gramm: 2pl,sg
+  gloss: 2PL
+  paradigm: N_Poss_Case
+ -flex: .шт<.>
+  gramm: 3pl,sg
+  gloss: 3PL
+  paradigm: N_Poss_Case_consonant
+
+ -flex: .м<.>
+  gramm: 1sg,sg,nom
+  gloss: 1SG
+  paradigm: Clitics
+ -flex: .т<.>
+  gramm: 2sg,sg,nom
+  gloss: 2SG
+  paradigm: Clitics
+ -flex: .ч<.>
+  gramm: 3sg,sg,nom
+  gloss: 3SG
+  paradigm: Clitics
+ -flex: .ж<.>
+  gramm: 3sg,sg,nom
+  gloss: 3SG
+  paradigm: Clitics
+ -flex: .на<.>
+  gramm: 1pl,sg,nom
+  gloss: 1PL
+  paradigm: Clitics
+ -flex: .да<.>
+  gramm: 2pl,sg,nom
+  gloss: 2PL
+  paradigm: Clitics
+ -flex: .шт<.>
+  gramm: 3pl,sg,nom
+  gloss: 3PL
+  paradigm: Clitics
+
 
 -paradigm: N_paroxyton_kin
  -flex: <1>.й<.>
@@ -1973,6 +2031,16 @@
  -flex: <0>.ж<.>
   gramm: 3sg
   gloss: 3SG
+  paradigm: Clitics_a
+ -flex: <0>.ше<.>//<0>.шо<.>//<0>.шӧ<.>
+  gramm: 3sg
+  gloss: 3SG
+  regex-prev: .*[кпстфхцчшщ][<>.]*$
+  paradigm: Clitics
+ -flex: <0>.ш<.>
+  gramm: 3sg
+  gloss: 3SG
+  regex-prev: .*[кпстфхцчшщ][<>.]*$
   paradigm: Clitics_a
 
 
@@ -4158,7 +4226,7 @@
   gramm: act
   paradigm: V_a_proper
   paradigm: V_nonfin_a
- -flex: .алт<.>
+ -flex: <0>.алт<.>
   gramm: pass
   gloss: PASS
   paradigm: V_a_proper
@@ -4209,12 +4277,12 @@
   gramm: act
   paradigm: V_e_proper
   paradigm: V_nonfin_e
- -flex: .алт<.>
+ -flex: <0>.алт<.>
   gramm: pass
   gloss: PASS
   paradigm: V_a_proper
   paradigm: V_nonfin_a
- -flex: .ыкт<.>
+ -flex: <0>.ыкт<.>
   gramm: act,caus
   gloss: CAUS
   paradigm: V_e_proper
@@ -4238,32 +4306,32 @@
 
 
 -paradigm: V_a_proper
- -flex: .ам<.>
+ -flex: <0>.ам<.>
   gramm: npst,1,sg
   gloss: NPST.1SG
- -flex: .ат<.>
+ -flex: <0>.ат<.>
   gramm: npst,2,sg
   gloss: NPST.2SG
- -flex: .еш<.>//.эш<.>
+ -flex: <0>.еш<.>//<0>.эш<.>
   gramm: npst,3,sg
   gloss: NPST.3SG
- -flex: .ына<.>
+ -flex: <0>.ына<.>
   gramm: npst,1,pl
   gloss: NPST.1PL
- -flex: .ыда<.>
+ -flex: <0>.ыда<.>
   gramm: npst,2,pl
   gloss: NPST.2PL
- -flex: .ыт<.>
+ -flex: <0>.ыт<.>
   gramm: npst,3,pl
   gloss: NPST.3PL
 
- -flex: .ым<.>
+ -flex: <0>.ым<.>
   gramm: pst,1,sg
   gloss: PST.1SG
- -flex: .ыт<.>
+ -flex: <0>.ыт<.>
   gramm: pst,2,sg
   gloss: PST.2SG
- -flex: .о<.>
+ -flex: <0>.о<.>//<0>.е<.>
   gramm: pst,3,sg
   gloss: PST.3SG
  -flex: .на<.>
@@ -4272,26 +4340,26 @@
  -flex: .да<.>
   gramm: pst,2,pl
   gloss: PST.2PL
- -flex: .ыч<.>
+ -flex: <0>.ыч<.>
   gramm: pst,3,pl
   gloss: PST.3PL
 
- -flex: .ынам<.>
+ -flex: <0>.ынам<.>
   gramm: pst2,1,sg
   gloss: PST2.1SG
- -flex: .ынат<.>
+ -flex: <0>.ынат<.>
   gramm: pst2,2,sg
   gloss: PST2.2SG
- -flex: .ын<.>
+ -flex: <0>.ын<.>
   gramm: pst2,3,sg
   gloss: PST2.3SG
- -flex: .ынна<.>
+ -flex: <0>.ынна<.>
   gramm: pst2,1,pl
   gloss: PST2.1PL
- -flex: .ында<.>
+ -flex: <0>.ында<.>
   gramm: pst2,2,pl
   gloss: PST2.2PL
- -flex: .ыныт<.>//.ынут<.>
+ -flex: <0>.ыныт<.>//<0>.ынут<.>
   gramm: pst2,3,pl
   gloss: PST2.3PL
 
@@ -4314,7 +4382,7 @@
   gramm: opt,3,pl
   gloss: OPT|3PL
 
- -flex: .аш<.>
+ -flex: <0>.аш<.>
   gramm: inf
   gloss: INF
   paradigm: V_Inf_CasePoss
@@ -4328,10 +4396,10 @@
  -flex: .за<.>//.са<.>//.да<.>
   gramm: imp,2,pl
   gloss: IMP.2PL
- -flex: .ышт<.>
+ -flex: <0>.ышт<.>
   gramm: imp,3,pl
   gloss: IMP.3PL
- -flex: .ыман<.>//.ман<.>
+ -flex: <0>.ыман<.>//<0>.ман<.>
   gramm: deb
   gloss: DEB
 
@@ -4364,7 +4432,7 @@
  -flex: <0>.ыт<.>
   gramm: pst,2,sg
   gloss: PST.2SG
- -flex: <0>.о<.>
+ -flex: <0>.о<.>//<0>.е<.>
   gramm: pst,3,sg
   gloss: PST.3SG
  -flex: <0>.на<.>
@@ -4543,108 +4611,108 @@
  paradigm: Clitics
 
 -paradigm: V_e_proper
- -flex: .ем<.>//.эм<.>
+ -flex: <0>.ем<.>//<0>.эм<.>
   gramm: npst,1,sg
   gloss: NPST.1SG
- -flex: .ет<.>//.эт<.>
+ -flex: <0>.ет<.>//<0>.эт<.>
   gramm: npst,2,sg
   gloss: NPST.2SG
- -flex: .а<.>
+ -flex: <0>.а<.>
   gramm: npst,3,sg
   gloss: NPST.3SG
- -flex: .ена<.>//.эна<.>
+ -flex: <0>.ена<.>//<0>.эна<.>
   gramm: npst,1,pl
   gloss: NPST.1PL
- -flex: .еда<.>//.эда<.>
+ -flex: <0>.еда<.>//<0>.эда<.>
   gramm: npst,2,pl
   gloss: NPST.2PL
- -flex: .ат<.>
+ -flex: <0>.ат<.>
   gramm: npst,3,pl
   gloss: NPST.3PL
 
- -flex: .ышым<.>
+ -flex: <0>.ышым<.>
   gramm: pst,1,sg
   gloss: PST.1SG
- -flex: .ышыт<.>
+ -flex: <0>.ышыт<.>
   gramm: pst,2,sg
   gloss: PST.2SG
- -flex: .ыш<.>
+ -flex: <0>.ыш<.>
   gramm: pst,3,sg
   gloss: PST.3SG
- -flex: .ышна<.>
+ -flex: <0>.ышна<.>
   gramm: pst,1,pl
   gloss: PST.1PL
- -flex: .ышда<.>
+ -flex: <0>.ышда<.>
   gramm: pst,2,pl
   gloss: PST.2PL
- -flex: .ышт<.>
+ -flex: <0>.ышт<.>
   gramm: pst,3,pl
   gloss: PST.3PL
 
- -flex: .енам<.>//.энам<.>
+ -flex: <0>.енам<.>//<0>.энам<.>
   gramm: pst2,1,sg
   gloss: PST2.1SG
- -flex: .енат<.>//.энат<.>
+ -flex: <0>.енат<.>//<0>.энат<.>
   gramm: pst2,2,sg
   gloss: PST2.2SG
- -flex: .ен<.>//.эн<.>
+ -flex: <0>.ен<.>//<0>.эн<.>
   gramm: pst2,3,sg
   gloss: PST2.3SG
- -flex: .енна<.>//.энна<.>
+ -flex: <0>.енна<.>//<0>.энна<.>
   gramm: pst2,1,pl
   gloss: PST2.1PL
- -flex: .енда<.>//.энда<.>
+ -flex: <0>.енда<.>//<0>.энда<.>
   gramm: pst2,2,pl
   gloss: PST2.2PL
- -flex: .еныт<.>//.эныт<.>//.енут<.>//.энут<.>
+ -flex: <0>.еныт<.>//<0>.эныт<.>//<0>.енут<.>//<0>.энут<.>
   gramm: pst2,3,pl
   gloss: PST2.3PL
 
- -flex: .ыне|м<.>
+ -flex: <0>.ыне|м<.>
   gramm: opt,1,sg
   gloss: OPT|1SG
- -flex: .ыне|т<.>
+ -flex: <0>.ыне|т<.>
   gramm: opt,2,sg
   gloss: OPT|2SG
- -flex: .ыне|же<.>
+ -flex: <0>.ыне|же<.>
   gramm: opt,3,sg
   gloss: OPT|3SG
- -flex: .ыне|на<.>
+ -flex: <0>.ыне|на<.>
   gramm: opt,1,pl
   gloss: OPT|1PL
- -flex: .ыне|да<.>
+ -flex: <0>.ыне|да<.>
   gramm: opt,2,pl
   gloss: OPT|2PL
- -flex: .ыне|шт<.>
+ -flex: <0>.ыне|шт<.>
   gramm: opt,3,pl
   gloss: OPT|3PL
 
- -flex: .аш<.>
+ -flex: <0>.аш<.>
   gramm: inf
   gloss: INF
   paradigm: V_Inf_CasePoss
  -flex: .<.>
   gramm: neg
- -flex: .е<.>//.э<.>//.о<.>//.ӧ<.>
+ -flex: <0>.е<.>//<0>.э<.>//<0>.о<.>//<0>.ӧ<.>
   gramm: imp,2,sg
   gloss: IMP.2SG
  -flex: .<.>
   gramm: imp,2,sg
   regex-stem: ^[^аеёиоӧуӱыэюя]*[аеёиоӧуӱыэюя][.<>]*$
- -flex: .ыже<.>//.ыжо<.>//.ыжӧ<.>
+ -flex: <0>.ыже<.>//<0>.ыжо<.>//<0>.ыжӧ<.>
   gramm: imp,3,sg
   gloss: IMP.3SG
- -flex: .ыза<.>//.ыда<.>
+ -flex: <0>.ыза<.>//<0>.ыда<.>
   gramm: imp,2,pl
   gloss: IMP.2PL
- -flex: .ышт<.>
+ -flex: <0>.ышт<.>
   gramm: imp,3,pl
   gloss: IMP.3PL
- -flex: .ыман<.>//.ман<.>
+ -flex: <0>.ыман<.>//.ман<.>
   gramm: deb
   gloss: DEB
 
- -flex: .маш<.>//.ымаш<.>
+ -flex: .маш<.>//<0>.ымаш<.>
   gramm: nmlz
   gloss: NMLZ
   paradigm: N_consonant
