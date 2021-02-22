@@ -26634,7 +26634,7 @@
 
 -lexeme
  lex: имне
- stem: имне.|имны.|имн.
+ stem: имне.|имньы.|имнь.//имн.
  gramm: N,anim
  paradigm: N_paroxyton_v_weak
  trans_ru: лошадь, конь
@@ -36891,6 +36891,13 @@
 -lexeme
  lex: колхоз
  stem: колхоз.
+ gramm: N,rus
+ paradigm: N_consonant
+ trans_ru: колхоз
+
+-lexeme
+ lex: колкоз
+ stem: колкоз.
  gramm: N,rus
  paradigm: N_consonant
  trans_ru: колхоз
