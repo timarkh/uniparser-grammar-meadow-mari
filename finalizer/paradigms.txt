@@ -33,6 +33,34 @@
  -flex: .-лай
   gramm: emph
   gloss: EMPH
+ -flex: .же
+  gramm: 3sg
+  gloss: 3SG
+  regex-gramm: ^(N|A|PRO),.*$
+ -flex: .ше
+  gramm: 3sg
+  gloss: 3SG
+  regex-gramm: ^(N|A|PRO),.*$
+  regex-prev: .*[кпстфхцчшщ][<>.]*$
+ -flex: .ж|ат
+  gramm: 3sg,add
+  gloss: 3SG|ADD
+  regex-gramm: ^(N|A|PRO),.*$
+ -flex: .ш|ат
+  gramm: 3sg,add
+  gloss: 3SG|ADD
+  regex-gramm: ^(N|A|PRO),.*$
+  regex-prev: .*[кпстфхцчшщ][<>.]*$
+ -flex: .ж|ак
+  gramm: 3sg,emph
+  gloss: 3SG|EMPH
+  regex-gramm: ^(N|A|PRO),.*$
+ -flex: .ш|ак
+  gramm: 3sg,emph
+  gloss: 3SG|EMPH
+  regex-gramm: ^(N|A|PRO),.*$
+  regex-prev: .*[кпстфхцчшщ][<>.]*$
+
 
 -paradigm: Clitics_j
  -flex: <0>.
@@ -2046,13 +2074,13 @@
 
 
 -paradigm: N_Poss
- -flex: .м<.>
+ -flex: .м<.>//.эм<.>
   gramm: nom,sg,1sg
   gloss: 1SG
- -flex: .т<.>
+ -flex: .т<.>//.эт<.>
   gramm: nom,sg,2sg
   gloss: 2SG
- -flex: .т|ше<.>//.т|шо<.>//.т|шӧ<.>
+ -flex: .т|ше<.>//.т|шо<.>//.т|шӧ<.>//.эт|ше<.>//.эт|шо<.>//.эт|шӧ<.>
   gramm: nom,sg,2sg,3sg
   gloss: 2SG|3SG
  -flex: .же<.>//.жо<.>//.жӧ<.>
@@ -2347,10 +2375,10 @@
  -flex: .-влак|ет<.>//.вᵊлак|ет<.>//.-шамыч|ет<.>
   gramm: nom,pl,2sg
   gloss: PL|2SG
- -flex: .-влак|ше<.>//.вᵊлак|шо<.>//.-влак|шӧ<.>//.-влак|ше<.>//.-влак|шо<.>//.-влак|шӧ<.>//.-шамыч|ше<.>//.-шамыч|шо<.>//.-шамыч|шӧ<.>
+ -flex: .-влак|ше<.>//.вᵊлак|шо<.>//.-влак|шӧ<.>//.-влак|ше<.>//.-влак|шо<.>//.-влак|шӧ<.>//.-шамыч|ше<.>//.-шамыч|шо<.>//.-шамыч|шӧ<.>//.-шамыч|ыже<.>//.-шамыч|ыжо<.>//.-шамыч|ыжӧ<.>
   gramm: nom,pl,3sg
   gloss: PL|3SG
- -flex: .-влак|ш<.>//.вᵊлак|ш<.>//.-шамыч|ш<.>
+ -flex: .-влак|ш<.>//.вᵊлак|ш<.>//.-шамыч|ш<.>//.-шамыч|ыж<.>
   gramm: nom,pl,3sg
   gloss: PL|3SG
  -flex: .-влак|на<.>//.вᵊлак|на<.>//.-шамыч|на<.>
@@ -4353,6 +4381,10 @@
  -flex: <0>.ын<.>
   gramm: pst2,3,sg
   gloss: PST2.3SG
+ -flex: <0>.маш<.>//<0>.машын<.>
+  gramm: pst2,3,sg
+  gloss: PST2.3SG
+  regex-prev: ^ул[.<>]*$
  -flex: <0>.ынна<.>
   gramm: pst2,1,pl
   gloss: PST2.1PL
@@ -4693,6 +4725,9 @@
   paradigm: V_Inf_CasePoss
  -flex: .<.>
   gramm: neg
+ -flex: <0>.е<.>//<0>.э<.>//<0>.о<.>//<0>.ӧ<.>
+  gramm: neg
+  gloss: NEG
  -flex: <0>.е<.>//<0>.э<.>//<0>.о<.>//<0>.ӧ<.>
   gramm: imp,2,sg
   gloss: IMP.2SG
