@@ -33,6 +33,9 @@
  -flex: .-лай
   gramm: emph
   gloss: EMPH
+ -flex: .-ыс
+  gramm: emph
+  gloss: EMPH
  -flex: .же
   gramm: 3sg
   gloss: 3SG
@@ -89,6 +92,21 @@
  -flex: <0>.-лай
   gramm: emph
   gloss: EMPH
+ -flex: <0>.-ыс
+  gramm: emph
+  gloss: EMPH
+ -flex: <0>.же
+  gramm: 3sg
+  gloss: 3SG
+  regex-gramm: ^(N|A|PRO),.*$
+ -flex: <0>.ж|ат
+  gramm: 3sg,add
+  gloss: 3SG|ADD
+  regex-gramm: ^(N|A|PRO),.*$
+ -flex: <0>.ж|ак
+  gramm: 3sg,emph
+  gloss: 3SG|EMPH
+  regex-gramm: ^(N|A|PRO),.*$
 
 -paradigm: Clitics_ya
  -flex: .ят
@@ -2413,6 +2431,14 @@
  -flex: .т|ым<.>
   gramm: acc,2sg
   gloss: 2SG|ACC
+ -flex: .эм|ым<.>
+  gramm: acc,1sg
+  gloss: 1SG|ACC
+  regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
+ -flex: .эт|ым<.>
+  gramm: acc,2sg
+  gloss: 2SG|ACC
+  regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
  -flex: .ж|ым<.>
   gramm: acc,3sg
   gloss: 3SG|ACC
@@ -2432,6 +2458,14 @@
  -flex: .т|ын<.>
   gramm: gen,2sg
   gloss: 2SG|GEN
+ -flex: .эм|ын<.>
+  gramm: gen,1sg
+  gloss: 1SG|GEN
+  regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
+ -flex: .эт|ын<.>
+  gramm: gen,2sg
+  gloss: 2SG|GEN
+  regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
  -flex: .ж|ын<.>
   gramm: gen,3sg
   gloss: 3SG|GEN
@@ -2451,6 +2485,14 @@
  -flex: .т|лан<.>
   gramm: dat,2sg
   gloss: 2SG|DAT
+ -flex: .эм|лан<.>
+  gramm: dat,1sg
+  gloss: 1SG|DAT
+  regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
+ -flex: .эт|лан<.>
+  gramm: dat,2sg
+  gloss: 2SG|DAT
+  regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
  -flex: .ж|лан<.>//.ж|ылан<.>
   gramm: dat,3sg
   gloss: 3SG|DAT
@@ -2470,6 +2512,14 @@
  -flex: .т|еш<.>
   gramm: lat,2sg
   gloss: 2SG|LAT
+ -flex: .эм|еш<.>
+  gramm: lat,1sg
+  gloss: 1SG|LAT
+  regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
+ -flex: .эт|еш<.>
+  gramm: lat,2sg
+  gloss: 2SG|LAT
+  regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
  -flex: .ж|еш<.>
   gramm: lat,3sg
   gloss: 3SG|LAT
@@ -2492,6 +2542,14 @@
  -flex: .ж|ышке<.>//.ж|ышко<.>//.ж|ышкӧ<.>
   gramm: ill,3sg
   gloss: 3SG|ILL
+ -flex: .эм|ышке<.>//.эм|ышко<.>//.эм|ышкӧ<.>
+  gramm: ill,1sg
+  gloss: 1SG|ILL
+  regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
+ -flex: .эт|ышке<.>//.эт|ышко<.>//.эт|ышкӧ<.>
+  gramm: ill,2sg
+  gloss: 2SG|ILL
+  regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
  -flex: .на|шке<.>//.на|шко<.>//.на|шкӧ<.>
   gramm: ill,1pl
   gloss: 1PL|ILL
@@ -2511,6 +2569,14 @@
  -flex: .ж|ыште<.>//.ж|ышто<.>//.ж|ыштӧ<.>
   gramm: loc,3sg
   gloss: 3SG|LOC
+ -flex: .эм|ыште<.>//.эм|ышто<.>//.эм|ыштӧ<.>
+  gramm: loc,1sg
+  gloss: 1SG|LOC
+  regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
+ -flex: .эт|ыште<.>//.эт|ышто<.>//.эт|ыштӧ<.>
+  gramm: loc,2sg
+  gloss: 2SG|LOC
+  regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
  -flex: .на|ште<.>//.на|што<.>//.на|штӧ<.>
   gramm: loc,1pl
   gloss: 1PL|LOC
@@ -2527,6 +2593,14 @@
  -flex: .т|ла<.>
   gramm: sim,2sg
   gloss: 2SG|SIM
+ -flex: .эм|ла<.>
+  gramm: sim,1sg
+  gloss: 1SG|SIM
+  regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
+ -flex: .эт|ла<.>
+  gramm: sim,2sg
+  gloss: 2SG|SIM
+  regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
  -flex: .ж|ла<.>
   gramm: sim,3sg
   gloss: 3SG|SIM
@@ -2546,6 +2620,14 @@
  -flex: .т|ге<.>
   gramm: com,2sg
   gloss: 2SG|COM
+ -flex: .эм|ге<.>
+  gramm: com,1sg
+  gloss: 1SG|COM
+  regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
+ -flex: .эт|ге<.>
+  gramm: com,2sg
+  gloss: 2SG|COM
+  regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
  -flex: .ж|ге<.>
   gramm: com,3sg
   gloss: 3SG|COM
@@ -2681,6 +2763,10 @@
  -flex: .ш|ым<.>//.ж|ым<.>
   gramm: acc,3sg
   gloss: 3SG|ACC
+ -flex: .ыж|ым<.>
+  gramm: acc,3sg
+  gloss: 3SG|ACC
+  regex-prev: .*[счшж][.<>]*$
  -flex: .на|м<.>
   gramm: acc,1pl
   gloss: PL|1PL|ACC
@@ -2700,6 +2786,10 @@
  -flex: .ш|ын<.>//.ж|ын<.>
   gramm: gen,3sg
   gloss: 3SG|GEN
+ -flex: .ыж|ын<.>
+  gramm: gen,3sg
+  gloss: 3SG|GEN
+  regex-prev: .*[счшж][.<>]*$
  -flex: .на|н<.>
   gramm: gen,1pl
   gloss: 1PL|GEN
@@ -2719,6 +2809,10 @@
  -flex: .ш|лан<.>//.ж|лан<.>//.ш|ылан<.>//.ж|ылан<.>
   gramm: dat,3sg
   gloss: 3SG|DAT
+ -flex: .ыж|лан<.>//.ыж|ылан<.>
+  gramm: dat,3sg
+  gloss: 3SG|DAT
+  regex-prev: .*[счшж][.<>]*$
  -flex: .на|лан<.>
   gramm: dat,1pl
   gloss: 1PL|DAT
@@ -2738,6 +2832,10 @@
  -flex: .ш|еш<.>//.ж|еш<.>
   gramm: lat,3sg
   gloss: 3SG|LAT
+ -flex: .ыж|еш<.>
+  gramm: lat,3sg
+  gloss: 3SG|LAT
+  regex-prev: .*[счшж][.<>]*$
  -flex: .на|еш<.>
   gramm: lat,1pl
   gloss: 1PL|LAT
@@ -2757,6 +2855,10 @@
  -flex: .ш|ышке<.>//.ш|ышко<.>//.ш|ышкӧ<.>//.ж|ышке<.>//.ж|ышко<.>//.ж|ышкӧ<.>
   gramm: ill,3sg
   gloss: 3SG|ILL
+ -flex: .ыж|ышке<.>//.ыж|ышко<.>//.ыж|ышкӧ<.>
+  gramm: ill,3sg
+  gloss: 3SG|ILL
+  regex-prev: .*[счшж][.<>]*$
  -flex: .на|шке<.>//.на|шко<.>//.на|шкӧ<.>
   gramm: ill,1pl
   gloss: 1PL|ILL
@@ -2776,6 +2878,10 @@
  -flex: .ш|ыште<.>//.ш|ышто<.>//.ш|ыштӧ<.>//.ж|ыште<.>//.ж|ышто<.>//.ж|ыштӧ<.>
   gramm: loc,3sg
   gloss: 3SG|LOC
+ -flex: .ыж|ыште<.>//.ыж|ышто<.>//.ыж|ыштӧ<.>
+  gramm: loc,3sg
+  gloss: 3SG|LOC
+  regex-prev: .*[счшж][.<>]*$
  -flex: .на|ште<.>//.на|што<.>//.на|штӧ<.>
   gramm: loc,1pl
   gloss: 1PL|LOC
@@ -2795,6 +2901,10 @@
  -flex: .ш|ла<.>//.ж|ла<.>
   gramm: sim,3sg
   gloss: 3SG|SIM
+ -flex: .ыж|ла<.>
+  gramm: sim,3sg
+  gloss: 3SG|SIM
+  regex-prev: .*[счшж][.<>]*$
  -flex: .на|ла<.>
   gramm: sim,1pl
   gloss: 1PL|SIM
@@ -2814,6 +2924,10 @@
  -flex: .ш|ге<.>//.ж|ге<.>
   gramm: com,3sg
   gloss: 3SG|COM
+ -flex: .ыж|ге<.>
+  gramm: com,3sg
+  gloss: 3SG|COM
+  regex-prev: .*[счшж][.<>]*$
  -flex: .на|ге<.>
   gramm: com,1pl
   gloss: 1PL|COM

@@ -1,0 +1,22 @@
+DELIMITERS = "<SENT_BOUNDARY>";
+
+LIST NegVerbs = ("ида" V) ("ит" V) ("огеш" V) ("огыда" V) ("огыдал" V) ("огыл" V) ("огым" V) ("огына" V) ("огынал" V) ("огыт" V) ("огытыл" V) ("ода" V) ("одал" V) ("ок" V) ("ом" V) ("омыл" V) ("она" V) ("онал" V) ("от" V) ("отыл" V) ("шым" V) ("шыч" V) ("ынеда" V) ("ынеж" V) ("ынем" V) ("ынена" V) ("ынет" V) ("ынешт" V) ("ынже" V) ("ынышт" V) ("ыш" V) ("ышда" V) ("ышна" V) ("ышт" V);
+LIST LightVebrs = (каяш" V) ("колташ" V) ("лекташ" V) ("лукташ" V) ("толаш" V) ("мияш" V) ("кошташ" V) ("шогаш" V) ("шинчаш" V) ("кияш" V) ("шындаш" V) ("шогалаш" V) ("шогалташ" V) ("пышташ" V) ("шуаш" V) ("шукташ" V) ("пыташ" V) ("пытараш" V) ("темаш" V) ("ситараш" V) ("эртараш" V) ("эрташ" V) ("пуаш" V) ("налаш" V) ("кышкаш" V) ("кудалташ" V) ("шуаш" V) ("опташ" V) ("кодаш" V) ("ончаш" V);
+SET NotCvbGen = (*) - (V cvb.gen);
+LIST VPred = V PREDIC;
+
+LIST BOS = (>>>);
+SET BOSPunct = (punct) | BOS;
+
+
+
+SECTION    # Verbs
+
+# Only leave V,neg analyses if there is a negative verb nearby.
+REMOVE (V neg) IF (NEGATE *-1 NegVerbs BARRIER NotCvbGen) 
+                  (NEGATE 0 NegVerbs);
+SELECT (V neg) IF (*-1 NegVerbs BARRIER NotCvbGen);
+
+
+# PST2 vs. CVB.GEN: Choose CVB.GEN before light verbs
+SELECT (V cvb.gen) IF (1 LightVebrs);

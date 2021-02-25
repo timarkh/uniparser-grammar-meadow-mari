@@ -36629,13 +36629,6 @@
  trans_ru: не
 
 -lexeme
- lex: шыч
- stem: шыч.
- gramm: V,neg,pst,2,sg
- paradigm: Clitics
- trans_ru: не
-
--lexeme
  lex: шышталгаш
  stem: шышталг.
  gramm: V
