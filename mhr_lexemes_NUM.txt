@@ -224,7 +224,7 @@
 
 -lexeme
  lex: латкок
- stem: латкок.//12.//12-.
+ stem: латкок.//латкокт.//12.//12-.
  gramm: NUM,short
  paradigm: NUM_consonant
  trans_ru: двенадцать

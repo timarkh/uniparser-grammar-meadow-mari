@@ -8,17 +8,9 @@
 
 -lexeme
  lex: мый
- stem: мыйым.
- gramm: PRO,pers,1,sg,acc
- paradigm: Clitics
- trans_ru: я
-
--lexeme
- lex: мый
- stem: мыйын.
- gramm: PRO,pers,1,sg,gen
- paradigm: Clitics
- paradigm: Case_comp
+ stem: мый.
+ gramm: PRO,pers,1,sg
+ paradigm: PRO_pers_CasePoss_j
  trans_ru: я
 
 -lexeme
@@ -28,19 +20,6 @@
  paradigm: Clitics
  trans_ru: я
 
--lexeme
- lex: мый
- stem: мыйла.
- gramm: PRO,pers,1,sg,sim
- paradigm: Clitics
- trans_ru: я
-
--lexeme
- lex: мый
- stem: мыйге.
- gramm: PRO,pers,1,sg,com
- paradigm: Clitics
- trans_ru: я
 
 
 -lexeme
@@ -53,17 +32,9 @@
 
 -lexeme
  lex: тый
- stem: тыйым.
- gramm: PRO,pers,2,sg,acc
- paradigm: Clitics
- trans_ru: ты
-
--lexeme
- lex: тый
- stem: тыйын.
- gramm: PRO,pers,2,sg,gen
- paradigm: Clitics
- paradigm: Case_comp
+ stem: тый.
+ gramm: PRO,pers,2,sg
+ paradigm: PRO_pers_CasePoss_j
  trans_ru: ты
 
 -lexeme
@@ -73,19 +44,6 @@
  paradigm: Clitics
  trans_ru: ты
 
--lexeme
- lex: тый
- stem: тыйла.
- gramm: PRO,pers,2,sg,sim
- paradigm: Clitics
- trans_ru: ты
-
--lexeme
- lex: тый
- stem: тыйге.
- gramm: PRO,pers,2,sg,com
- paradigm: Clitics
- trans_ru: ты
 
 
 -lexeme
@@ -98,22 +56,14 @@
 
 -lexeme
  lex: ме
- stem: мемнам.
- gramm: PRO,pers,1,pl,acc
- paradigm: Clitics
+ stem: мемна.
+ gramm: PRO,pers,1,pl
+ paradigm: PRO_pers_CasePoss
  trans_ru: мы
 
 -lexeme
  lex: ме
- stem: мемнан.
- gramm: PRO,pers,1,pl,gen
- paradigm: Clitics
- paradigm: Case_comp
- trans_ru: мы
-
--lexeme
- lex: ме
- stem: мыланна.//мемналан.
+ stem: мыланна.
  gramm: PRO,pers,1,pl,dat
  paradigm: Clitics
  trans_ru: мы
@@ -143,22 +93,14 @@
 
 -lexeme
  lex: те
- stem: тендам.
- gramm: PRO,pers,2,pl,acc
- paradigm: Clitics
+ stem: тенда.
+ gramm: PRO,pers,2,pl
+ paradigm: PRO_pers_CasePoss
  trans_ru: вы
 
 -lexeme
  lex: те
- stem: тендан.
- gramm: PRO,pers,2,pl,gen
- paradigm: Clitics
- paradigm: Case_comp
- trans_ru: вы
-
--lexeme
- lex: те
- stem: тыланда.//тендалан.
+ stem: тыланда.
  gramm: PRO,pers,2,pl,dat
  paradigm: Clitics
  trans_ru: вы
@@ -203,7 +145,7 @@
 
 -lexeme
  lex: шке
- stem: шке.
+ stem: шке.//шкы.
  gramm: PRO,refl,nonposs
  paradigm: N_Pl
  paradigm: N_Poss

@@ -26481,7 +26481,7 @@
 -lexeme
  lex: илыш
  stem: илыш.
- gramm: N,anim,hum
+ gramm: N
  paradigm: N_consonant
  trans_ru: жизнь
 

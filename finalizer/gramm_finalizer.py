@@ -80,13 +80,15 @@ def main():
     lemmata, lexrules = collect_lemmata()
     paradigms = collect_paradigms()
     fOutLemmata = open('lexemes.txt', 'w', encoding='utf-8')
-    fOutLemmata.write(russify(lemmata))
+    # fOutLemmata.write(russify(lemmata))
+    fOutLemmata.write(lemmata)
     fOutLemmata.close()
     fOutLexrules = open('lex_rules.txt', 'w', encoding='utf-8')
     fOutLexrules.write(lexrules)
     fOutLexrules.close()
     fOutParadigms = open('paradigms.txt', 'w', encoding='utf-8')
-    fOutParadigms.write(russify(paradigms))
+    # fOutParadigms.write(russify(paradigms))
+    fOutParadigms.write(paradigms)
     fOutParadigms.close()
 
 

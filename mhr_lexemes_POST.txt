@@ -95,3 +95,10 @@
  gramm: N,rel_n
  paradigm: POST
  trans_ru: снаружи
+
+-lexeme
+ lex: лӱвал
+ stem: лӱвал.|лӱва.
+ gramm: N,rel_n
+ paradigm: POST
+ trans_ru: под, внизу

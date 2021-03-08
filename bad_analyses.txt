@@ -8,6 +8,7 @@
   {"wf": "руш.*", "lemma": "ру"},
   {"wf": "мом", "lemma": "Мом"},
   {"gramm": ".*,imp.*", "lemma": "эргаш"},
+  {"gramm": ".*,(imp|desid).*3sg"},
   {"gramm": "(.*,(?:persn|patrn|famn|anim).*|^[^N].*)", "gloss": ".*PL\\.SHORT.*"},
   {"gloss": ".*SIM-(ACC|GEN|DAT|LOC|ILL|SIM|COM).*"},
   {"wf": "тӱрлӧ.*", "lemma": "^(тӱрлаш|тӱр)$"}

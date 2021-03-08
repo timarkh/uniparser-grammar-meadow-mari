@@ -40245,7 +40245,7 @@
 
 -lexeme
  lex: иляш
- stem: ил.|илй.
+ stem: ил.|иль.
  gramm: V,intr
  paradigm: V_ye
  trans_ru: жить
