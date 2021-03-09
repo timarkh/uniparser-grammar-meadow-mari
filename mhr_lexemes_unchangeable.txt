@@ -1991,6 +1991,13 @@
  trans_ru: с, из; в
 
 -lexeme
+ lex: дене
+ stem: ден.//дэн.
+ gramm: POST,nonst
+ paradigm: POST_ADV_Poss
+ trans_ru: с, из; в
+
+-lexeme
  lex: деран
  stem: деран.//дэран.
  gramm: POST

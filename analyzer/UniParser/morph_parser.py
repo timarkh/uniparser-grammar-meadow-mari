@@ -6,6 +6,7 @@ import wordform
 import clitic
 import morph_fst
 import time
+import json
 
 
 class ParseState:
@@ -677,6 +678,20 @@ class Parser:
             print('Start investigating states...')
         for state in states:
             analyses += self.investigate_state(state)
+
+        # Remove duplicate analyses
+        analysesJSON = set()
+        for i in range(len(analyses) - 1, -1, -1):
+            anaJSON = json.dumps(analyses[i].to_json(sort_tags=True),
+                                 indent=-1,
+                                 ensure_ascii=False,
+                                 sort_keys=True)
+            if anaJSON in analysesJSON:
+                del analyses[i]
+            analysesJSON.add(anaJSON)
+        # print(analysesJSON)
+
+        # Add lexrules
         analysesSet = set()
         for ana in analyses:
             if self.is_bad_analysis(ana):

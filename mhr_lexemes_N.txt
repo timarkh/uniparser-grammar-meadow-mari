@@ -23931,7 +23931,7 @@
 
 -lexeme
  lex: залежь
- stem: залежь.//залэжь.|залеж.//залэж.
+ stem: залежь.//залэжь.//залэж.|залеж.//залэж.
  gramm: N,rus
  paradigm: N_soft
  trans_ru: залежь
@@ -53773,7 +53773,7 @@
 
 -lexeme
  lex: молодёжь
- stem: молодёжь.|молодёж.
+ stem: молодёжь.//молодёж.|молодёж.
  gramm: N,rus,anim,hum
  paradigm: N_soft
  trans_ru: молодёжь
@@ -77920,9 +77920,9 @@
 
 -lexeme
  lex: пулвуй
- stem: пулвуй.
+ stem: пулвуй.|пулву.
  gramm: N,body
- paradigm: Clitics
+ paradigm: N_j
  trans_ru: колено
 
 -lexeme

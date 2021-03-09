@@ -201,6 +201,27 @@ class Wordform:
                                                              sublex.gloss,
                                                              flex)
 
+    def to_json(self, glossing=True, sort_tags=True):
+        """
+        Return a JSON representation of the analysis.
+        If glossing is True, include the glossing information.
+        """
+        r = {
+            'wf': self.wf,
+            'lemma': self.lemma
+        }
+        if sort_tags:
+            r['gramm'] = [tag for tag in sorted(self.gramm.split(',')) if len(tag) > 0]
+        else:
+            r['gramm'] = [tag for tag in self.gramm.split(',') if len(tag) > 0]
+        if glossing:
+            r['wfGlossed'] = self.wfGlossed
+            r['gloss'] = self.gloss
+        for field, value in self.otherData:
+            if field in Wordform.printableOtherFields:
+                r[field] = value
+        return r
+
     def to_xml(self, glossing=True):
         """
         Return an XML representation of the analysis in the format of

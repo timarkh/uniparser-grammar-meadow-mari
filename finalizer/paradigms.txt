@@ -10,6 +10,9 @@
  -flex: .рак|ак
   gramm: comp,emph
   gloss: COMP|EMPH
+ -flex: .рак|ше
+  gramm: comp,3sg
+  gloss: COMP|3SG
  -flex: .ат
   gramm: add
   gloss: ADD
@@ -39,30 +42,41 @@
  -flex: .же
   gramm: 3sg
   gloss: 3SG
-  regex-gramm: ^(N|A|PRO|NUM|V|PREDIC),.*$
  -flex: .ше
   gramm: 3sg
   gloss: 3SG
-  regex-gramm: ^(N|A|PRO|NUM|V|PREDIC),.*$
   regex-prev: .*[кпстфхцчшщ][<>.]*$
  -flex: .ж|ат
   gramm: 3sg,add
   gloss: 3SG|ADD
-  regex-gramm: ^(N|A|PRO|NUM|V|PREDIC),.*$
  -flex: .ш|ат
   gramm: 3sg,add
   gloss: 3SG|ADD
-  regex-gramm: ^(N|A|PRO|NUM|V|PREDIC),.*$
   regex-prev: .*[кпстфхцчшщ][<>.]*$
  -flex: .ж|ак
   gramm: 3sg,emph
   gloss: 3SG|EMPH
-  regex-gramm: ^(N|A|PRO|NUM|V|PREDIC),.*$
  -flex: .ш|ак
   gramm: 3sg,emph
   gloss: 3SG|EMPH
-  regex-gramm: ^(N|A|PRO|NUM|V|PREDIC),.*$
   regex-prev: .*[кпстфхцчшщ][<>.]*$
+ -flex: .ыже
+  gramm: 3sg
+  gloss: 3SG
+  regex-prev: .*[счш][<>.]*$
+ -flex: .ыж|ат
+  gramm: 3sg,add
+  gloss: 3SG|ADD
+  regex-prev: .*[счш][<>.]*$
+ -flex: .ыж|ак
+  gramm: 3sg,emph
+  gloss: 3SG|EMPH
+  regex-prev: .*[счш][<>.]*$
+ -flex: .ет//.эт
+  gramm: 2sg
+  gloss: 2SG
+  regex-prev: .*[бвгджзйклмнҥпрстфхцчшщ][<>.]*$
+  regex-gramm: .*n?pst.*
 
 -paradigm: Clitics-noreduction
  -flex: .
@@ -91,6 +105,9 @@
  -flex: .рак|ак
   gramm: comp,emph
   gloss: COMP|EMPH
+ -flex: .рак|ше
+  gramm: comp,3sg
+  gloss: COMP|3SG
  -flex: .ат
   gramm: add
   gloss: ADD
@@ -146,6 +163,9 @@
  -flex: <0>.рак|ак
   gramm: comp,emph
   gloss: COMP|EMPH
+ -flex: <0>.рак|ше
+  gramm: comp,3sg
+  gloss: COMP|3SG
  -flex: <1>.ят//<0>.ат
   gramm: add
   gloss: ADD
@@ -2057,7 +2077,7 @@
  -flex: <0>.<.>
   gramm: nom,sg,nonposs
   paradigm: Clitics-noreduction
- -flex: <2>.<.>
+ -flex: <1,2>.<.>
   gramm: nom,sg,nonposs
   paradigm: Clitics-reduction
  -flex: <2>.<.>
@@ -2156,7 +2176,7 @@
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
   paradigm: N_Poss_Case_e
- -flex: <1>.рак<.>
+ -flex: <0>.рак<.>
   gramm: comp
   gloss: COMP
   paradigm: N_Case_consonant
@@ -2276,6 +2296,10 @@
   gramm: loc,sg
   gloss: LOC
   paradigm: N_Poss_after_case_no_comp
+ -flex: <0>.ны<.>
+  gramm: loc,sg
+  gloss: LOC
+  paradigm: Clitics-reduction
  -flex: <1>.ч<.>
   gramm: el,sg
   gloss: EL
@@ -2867,11 +2891,11 @@
  -flex: .т|ым<.>
   gramm: acc,2sg
   gloss: 2SG|ACC
- -flex: .эм|ым<.>
+ -flex: .эм|ым<.>//.ем|ым<.>
   gramm: acc,1sg
   gloss: 1SG|ACC
   regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
- -flex: .эт|ым<.>
+ -flex: .эт|ым<.>//.ет|ым<.>
   gramm: acc,2sg
   gloss: 2SG|ACC
   regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
@@ -2894,11 +2918,11 @@
  -flex: .т|ын<.>
   gramm: gen,2sg
   gloss: 2SG|GEN
- -flex: .эм|ын<.>
+ -flex: .эм|ын<.>//.ем|ын<.>
   gramm: gen,1sg
   gloss: 1SG|GEN
   regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
- -flex: .эт|ын<.>
+ -flex: .эт|ын<.>//.ет|ын<.>
   gramm: gen,2sg
   gloss: 2SG|GEN
   regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
@@ -2921,11 +2945,11 @@
  -flex: .т|лан<.>
   gramm: dat,2sg
   gloss: 2SG|DAT
- -flex: .эм|лан<.>
+ -flex: .эм|лан<.>//.ем|лан<.>
   gramm: dat,1sg
   gloss: 1SG|DAT
   regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
- -flex: .эт|лан<.>
+ -flex: .эт|лан<.>//.ет|лан<.>
   gramm: dat,2sg
   gloss: 2SG|DAT
   regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
@@ -2948,11 +2972,11 @@
  -flex: .т|еш<.>
   gramm: lat,2sg
   gloss: 2SG|LAT
- -flex: .эм|еш<.>
+ -flex: .эм|еш<.>//.ем|еш<.>
   gramm: lat,1sg
   gloss: 1SG|LAT
   regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
- -flex: .эт|еш<.>
+ -flex: .эт|еш<.>//.ет|еш<.>
   gramm: lat,2sg
   gloss: 2SG|LAT
   regex-prev: .*[аеёиоӧуӱыэюя][.<>]*$
@@ -4903,13 +4927,13 @@
   gramm: npst,3,pl
   gloss: NPST.3PL
 
- -flex: <0>.ым<.>
+ -flex: <0>.ьым<.>
   gramm: pst,1,sg
   gloss: PST.1SG
- -flex: <0>.ыт<.>
+ -flex: <0>.ьыт<.>
   gramm: pst,2,sg
   gloss: PST.2SG
- -flex: <0>.о<.>//<0>.е<.>
+ -flex: <0>.ьо<.>//<0>.е<.>//<0>.ё<.>//<0>.ье<.>
   gramm: pst,3,sg
   gloss: PST.3SG
  -flex: .на<.>
@@ -4918,7 +4942,7 @@
  -flex: .да<.>
   gramm: pst,2,pl
   gloss: PST.2PL
- -flex: <0>.ыч<.>
+ -flex: <0>.ьыч<.>
   gramm: pst,3,pl
   gloss: PST.3PL
 
@@ -5008,10 +5032,10 @@
   gramm: npst,3,pl
   gloss: NPST.3PL
 
- -flex: <0>.ым<.>
+ -flex: <0>.ьым<.>
   gramm: pst,1,sg
   gloss: PST.1SG
- -flex: <0>.ыт<.>
+ -flex: <0>.ьыт<.>
   gramm: pst,2,sg
   gloss: PST.2SG
  -flex: <0>.о<.>//<0>.е<.>
@@ -5023,7 +5047,7 @@
  -flex: <0>.да<.>
   gramm: pst,2,pl
   gloss: PST.2PL
- -flex: <0>.ыч<.>
+ -flex: <0>.ьыч<.>
   gramm: pst,3,pl
   gloss: PST.3PL
 
