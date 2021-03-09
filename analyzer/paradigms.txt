@@ -4927,24 +4927,44 @@
   gramm: npst,3,pl
   gloss: NPST.3PL
 
+ -flex: <0>.ым<.>
+  gramm: pst,1,sg
+  gloss: PST.1SG
+  regex-prev: .*[^<>.лн][<>.]*$
  -flex: <0>.ьым<.>
   gramm: pst,1,sg
   gloss: PST.1SG
+  regex-prev: .*[лн][<>.]*$
+ -flex: <0>.ыт<.>
+  gramm: pst,2,sg
+  gloss: PST.2SG
+  regex-prev: .*[^<>.лн][<>.]*$
  -flex: <0>.ьыт<.>
   gramm: pst,2,sg
   gloss: PST.2SG
+  regex-prev: .*[лн][<>.]*$
+ -flex: <0>.о<.>//<0>.е<.>
+  gramm: pst,3,sg
+  gloss: PST.3SG
+  regex-prev: .*[^<>.лн][<>.]*$
  -flex: <0>.ьо<.>//<0>.е<.>//<0>.ё<.>//<0>.ье<.>
   gramm: pst,3,sg
   gloss: PST.3SG
+  regex-prev: .*[лн][<>.]*$
  -flex: .на<.>
   gramm: pst,1,pl
   gloss: PST.1PL
  -flex: .да<.>
   gramm: pst,2,pl
   gloss: PST.2PL
+ -flex: <0>.ыч<.>
+  gramm: pst,3,pl
+  gloss: PST.3PL
+  regex-prev: .*[^<>.лн][<>.]*$
  -flex: <0>.ьыч<.>
   gramm: pst,3,pl
   gloss: PST.3PL
+  regex-prev: .*[лн][<>.]*$
 
  -flex: <0>.ынам<.>
   gramm: pst2,1,sg
@@ -5032,24 +5052,44 @@
   gramm: npst,3,pl
   gloss: NPST.3PL
 
+ -flex: <0>.ым<.>
+  gramm: pst,1,sg
+  gloss: PST.1SG
+  regex-prev: .*[^<>.лн][<>.]*$
  -flex: <0>.ьым<.>
   gramm: pst,1,sg
   gloss: PST.1SG
+  regex-prev: .*[лн][<>.]*$
+ -flex: <0>.ыт<.>
+  gramm: pst,2,sg
+  gloss: PST.2SG
+  regex-prev: .*[^<>.лн][<>.]*$
  -flex: <0>.ьыт<.>
   gramm: pst,2,sg
   gloss: PST.2SG
+  regex-prev: .*[лн][<>.]*$
  -flex: <0>.о<.>//<0>.е<.>
   gramm: pst,3,sg
   gloss: PST.3SG
+  regex-prev: .*[^<>.лн][<>.]*$
+ -flex: <0>.ьо<.>//<0>.е<.>//<0>.ё<.>//<0>.ье<.>
+  gramm: pst,3,sg
+  gloss: PST.3SG
+  regex-prev: .*[лн][<>.]*$
  -flex: <0>.на<.>
   gramm: pst,1,pl
   gloss: PST.1PL
  -flex: <0>.да<.>
   gramm: pst,2,pl
   gloss: PST.2PL
+ -flex: <0>.ыч<.>
+  gramm: pst,3,pl
+  gloss: PST.3PL
+  regex-prev: .*[^<>.лн][<>.]*$
  -flex: <0>.ьыч<.>
   gramm: pst,3,pl
   gloss: PST.3PL
+  regex-prev: .*[лн][<>.]*$
 
  -flex: <0>.ынам<.>
   gramm: pst2,1,sg
