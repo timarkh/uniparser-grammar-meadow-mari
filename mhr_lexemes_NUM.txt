@@ -167,6 +167,13 @@
  trans_ru: три
 
 -lexeme
+ lex: латвич
+ stem: латвизы.
+ gramm: NUM,short
+ paradigm: NUM_paroxyton_v_weak
+ trans_ru: пятнадцать
+
+-lexeme
  lex: латвизыт
  stem: латвизыт.
  gramm: NUM,plen

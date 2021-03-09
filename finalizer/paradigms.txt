@@ -1424,7 +1424,10 @@
 -paradigm: N_paroxyton_v_weak
  -flex: <0>.<.>
   gramm: nom,sg
-  paradigm: Clitics
+  paradigm: Clitics-noreduction
+ -flex: <1,2>.<.>
+  gramm: nom,sg
+  paradigm: Clitics-reduction
  -flex: <2>.<.>
   gramm: sg
   paradigm: N_Poss_Case_e
