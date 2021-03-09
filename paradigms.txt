@@ -216,7 +216,7 @@
 
 -paradigm: NUM_paroxyton_v_strong
  -flex: .<.>
-  gramm: nom,sg,nonposs
+  gramm: nom,sg
   paradigm: Clitics
  -flex: .<.>
   gramm: sg
@@ -240,7 +240,7 @@
   paradigm: A_consonant
 
  -flex: .ымше<.>//.ымшо<.>//.ымшӧ<.>
-  gramm: ord,nom,sg,nonposs
+  gramm: ord,nom,sg
   gloss: ORD
   paradigm: Clitics
  -flex: .ымше<.>//.ымшо<.>//.ымшӧ<.>
@@ -275,7 +275,7 @@
   paradigm: N_Poss_Pl_Case_e
 
  -flex: .дыме<.>//.дымо<.>//.дымӧ<.>
-  gramm: attr,attr_neg,nom,sg,nonposs
+  gramm: attr,attr_neg,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: .дыме<.>//.дымо<.>//.дымӧ<.>
@@ -312,7 +312,7 @@
 
 -paradigm: NUM_paroxyton_v_weak
  -flex: <0>.<.>
-  gramm: nom,sg,nonposs
+  gramm: nom,sg
   paradigm: Clitics
  -flex: <2>.<.>
   gramm: sg
@@ -345,7 +345,7 @@
   paradigm: A_consonant
 
  -flex: <1>.мше<.>//<1>.мшо<.>//<1>.мшӧ<.>
-  gramm: ord,nom,sg,nonposs
+  gramm: ord,nom,sg
   gloss: ORD
   paradigm: Clitics
  -flex: <1>.мше<.>//<1>.мшо<.>//<1>.мшӧ<.>
@@ -380,7 +380,7 @@
   paradigm: N_Poss_Pl_Case_e
 
  -flex: .дыме<.>//.дымо<.>//.дымӧ<.>
-  gramm: attr,attr_neg,nom,sg,nonposs
+  gramm: attr,attr_neg,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: .дыме<.>//.дымо<.>//.дымӧ<.>
@@ -417,7 +417,7 @@
 
 -paradigm: NUM_consonant
  -flex: .<.>
-  gramm: nom,sg,nonposs
+  gramm: nom,sg
   paradigm: Clitics
  -flex: .<.>
   gramm: sg
@@ -440,7 +440,7 @@
   paradigm: A_consonant
 
  -flex: .ымше<.>//.ымшо<.>//.ымшӧ<.>
-  gramm: ord,nom,sg,nonposs
+  gramm: ord,nom,sg
   gloss: ORD
   paradigm: Clitics
  -flex: .ымше<.>//.ымшо<.>//.ымшӧ<.>
@@ -475,7 +475,7 @@
   paradigm: N_Poss_Pl_Case_e
 
  -flex: .ше<.>//.шо<.>//.шӧ<.>
-  gramm: ord,nom,sg,nonposs
+  gramm: ord,nom,sg
   gloss: ORD
   paradigm: Clitics
   regex-prev: .*м[<>.]*$
@@ -516,7 +516,7 @@
   regex-prev: .*м[<>.]*$
 
  -flex: .дыме<.>//.дымо<.>//.дымӧ<.>
-  gramm: attr,attr_neg,nom,sg,nonposs
+  gramm: attr,attr_neg,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: .дыме<.>//.дымо<.>//.дымӧ<.>
@@ -848,7 +848,7 @@
 
 -paradigm: N_oxyton
  -flex: .<.>
-  gramm: nom,sg,nonposs
+  gramm: nom,sg
   paradigm: Clitics
  -flex: .<.>
   gramm: sg
@@ -872,7 +872,7 @@
   paradigm: A_consonant
 
  -flex: .се<.>//.со<.>//.сӧ<.>
-  gramm: attr,attr_loc,nom,sg,nonposs
+  gramm: attr,attr_loc,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: .се<.>//.со<.>//.сӧ<.>
@@ -907,7 +907,7 @@
   paradigm: N_Poss_Pl_Case_e
 
  -flex: .ле<.>//.ло<.>//.лӧ<.>
-  gramm: attr,attr_le,nom,sg,nonposs
+  gramm: attr,attr_le,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: .ле<.>//.ло<.>//.лӧ<.>
@@ -942,7 +942,7 @@
   paradigm: N_Poss_Pl_Case_e
 
  -flex: .дыме<.>//.дымо<.>//.дымӧ<.>
-  gramm: attr,attr_neg,nom,sg,nonposs
+  gramm: attr,attr_neg,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: .дыме<.>//.дымо<.>//.дымӧ<.>
@@ -979,7 +979,7 @@
 
 -paradigm: N_paroxyton_v_strong
  -flex: .<.>
-  gramm: nom,sg,nonposs
+  gramm: nom,sg
   paradigm: Clitics
  -flex: .<.>
   gramm: sg
@@ -1004,7 +1004,7 @@
   paradigm: A_consonant
 
  -flex: .се<.>//.со<.>//.сӧ<.>
-  gramm: attr,attr_loc,nom,sg,nonposs
+  gramm: attr,attr_loc,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: .се<.>//.со<.>//.сӧ<.>
@@ -1039,7 +1039,7 @@
   paradigm: N_Poss_Pl_Case_e
 
  -flex: .ле<.>//.ло<.>//.лӧ<.>
-  gramm: attr,attr_le,nom,sg,nonposs
+  gramm: attr,attr_le,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: .ле<.>//.ло<.>//.лӧ<.>
@@ -1074,7 +1074,7 @@
   paradigm: N_Poss_Pl_Case_e
 
  -flex: .дыме<.>//.дымо<.>//.дымӧ<.>
-  gramm: attr,attr_neg,nom,sg,nonposs
+  gramm: attr,attr_neg,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: .дыме<.>//.дымо<.>//.дымӧ<.>
@@ -1423,7 +1423,7 @@
 
 -paradigm: N_paroxyton_v_weak
  -flex: <0>.<.>
-  gramm: nom,sg,nonposs
+  gramm: nom,sg
   paradigm: Clitics
  -flex: <2>.<.>
   gramm: sg
@@ -1459,7 +1459,7 @@
   paradigm: A_consonant
 
  -flex: .се<.>//.со<.>//.сӧ<.>
-  gramm: attr,attr_loc,nom,sg,nonposs
+  gramm: attr,attr_loc,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: .се<.>//.со<.>//.сӧ<.>
@@ -1494,7 +1494,7 @@
   paradigm: N_Poss_Pl_Case_e
 
  -flex: .ле<.>//.ло<.>//.лӧ<.>
-  gramm: attr,attr_le,nom,sg,nonposs
+  gramm: attr,attr_le,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: .ле<.>//.ло<.>//.лӧ<.>
@@ -1529,7 +1529,7 @@
   paradigm: N_Poss_Pl_Case_e
 
  -flex: .дыме<.>//.дымо<.>//.дымӧ<.>
-  gramm: attr,attr_neg,nom,sg,nonposs
+  gramm: attr,attr_neg,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: .дыме<.>//.дымо<.>//.дымӧ<.>
@@ -1565,13 +1565,13 @@
 
 -paradigm: PRO_3
  -flex: <0>.<.>
-  gramm: sg,nom,nonposs
+  gramm: sg,nom
   paradigm: Clitics
  -flex: <2>.<.>
   gramm: sg
   paradigm: N_Poss_Case_e
  -flex: <2>.лан<.>
-  gramm: sg,dat,nonposs
+  gramm: sg,dat
   paradigm: Clitics
   regex-prev: .*(т[иу]|с[ае])д[<>.]*$
  -flex: <1>.<.>
@@ -1598,7 +1598,7 @@
 
 -paradigm: N_consonant
  -flex: .<.>
-  gramm: nom,sg,nonposs
+  gramm: nom,sg
   paradigm: Clitics
  -flex: .<.>
   gramm: sg
@@ -1622,7 +1622,7 @@
   paradigm: A_consonant
 
  -flex: .ысе<.>//.ысо<.>//.ысӧ<.>
-  gramm: attr,attr_loc,nom,sg,nonposs
+  gramm: attr,attr_loc,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: .ысе<.>//.ысо<.>//.ысӧ<.>
@@ -1657,7 +1657,7 @@
   paradigm: N_Poss_Pl_Case_e
 
  -flex: .ле<.>//.ло<.>//.лӧ<.>
-  gramm: attr,attr_le,nom,sg,nonposs
+  gramm: attr,attr_le,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: .ле<.>//.ло<.>//.лӧ<.>
@@ -1692,7 +1692,7 @@
   paradigm: N_Poss_Pl_Case_e
 
  -flex: .дыме<.>//.дымо<.>//.дымӧ<.>
-  gramm: attr,attr_neg,nom,sg,nonposs
+  gramm: attr,attr_neg,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: .дыме<.>//.дымо<.>//.дымӧ<.>
@@ -1729,10 +1729,10 @@
 
 -paradigm: N_j
  -flex: <0>.<.>
-  gramm: nom,sg,nonposs
+  gramm: nom,sg
   paradigm: Clitics
  -flex: <1>.<.>
-  gramm: nom,sg,nonposs
+  gramm: nom,sg
   paradigm: Clitics_ya
  -flex: .<.>
   gramm: sg
@@ -1763,7 +1763,7 @@
   paradigm: A_consonant
 
  -flex: <0>.ысе<.>//<0>.ысо<.>//<0>.ысӧ<.>
-  gramm: attr,attr_loc,nom,sg,nonposs
+  gramm: attr,attr_loc,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: <0>.ысе<.>//<0>.ысо<.>//<0>.ысӧ<.>
@@ -1798,7 +1798,7 @@
   paradigm: N_Poss_Pl_Case_e
 
  -flex: <0>.ле<.>//<0>.ло<.>//<0>.лӧ<.>
-  gramm: attr,attr_le,nom,sg,nonposs
+  gramm: attr,attr_le,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: <0>.ле<.>//<0>.ло<.>//<0>.лӧ<.>
@@ -1833,7 +1833,7 @@
   paradigm: N_Poss_Pl_Case_e
 
  -flex: <0>.дыме<.>//<0>.дымо<.>//<0>.дымӧ<.>
-  gramm: attr,attr_neg,nom,sg,nonposs
+  gramm: attr,attr_neg,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: <0>.дыме<.>//<0>.дымо<.>//<0>.дымӧ<.>
@@ -1870,10 +1870,10 @@
 
 -paradigm: N_soft
  -flex: <0>.<.>
-  gramm: nom,sg,nonposs
+  gramm: nom,sg
   paradigm: Clitics
  -flex: <1>.<.>
-  gramm: nom,sg,nonposs
+  gramm: nom,sg
   paradigm: Clitics_ya
  -flex: <0>.<.>
   gramm: sg
@@ -1904,7 +1904,7 @@
   paradigm: A_consonant
 
  -flex: <0>.се<.>//<0>.со<.>//<0>.сӧ<.>
-  gramm: attr,attr_loc,nom,sg,nonposs
+  gramm: attr,attr_loc,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: <0>.се<.>//<0>.со<.>//<0>.сӧ<.>
@@ -1939,7 +1939,7 @@
   paradigm: N_Poss_Pl_Case_e
 
  -flex: <0>.ле<.>//<0>.ло<.>//<0>.лӧ<.>
-  gramm: attr,attr_le,nom,sg,nonposs
+  gramm: attr,attr_le,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: <0>.ле<.>//<0>.ло<.>//<0>.лӧ<.>
@@ -1974,7 +1974,7 @@
   paradigm: N_Poss_Pl_Case_e
 
  -flex: <0>.дыме<.>//<0>.дымо<.>//<0>.дымӧ<.>
-  gramm: attr,attr_neg,nom,sg,nonposs
+  gramm: attr,attr_neg,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: <0>.дыме<.>//<0>.дымо<.>//<0>.дымӧ<.>
@@ -2012,7 +2012,7 @@
 
 -paradigm: A_oxyton
  -flex: .<.>
-  gramm: nom,sg,nonposs
+  gramm: nom,sg
   paradigm: Clitics
  -flex: .<.>
   gramm: sg
@@ -2043,7 +2043,7 @@
 
 -paradigm: A_paroxyton_v_strong
  -flex: .<.>
-  gramm: nom,sg,nonposs
+  gramm: nom,sg
   paradigm: Clitics
  -flex: .<.>
   gramm: sg
@@ -2075,10 +2075,10 @@
 
 -paradigm: A_paroxyton_v_weak
  -flex: <0>.<.>
-  gramm: nom,sg,nonposs
+  gramm: nom,sg
   paradigm: Clitics-noreduction
  -flex: <1,2>.<.>
-  gramm: nom,sg,nonposs
+  gramm: nom,sg
   paradigm: Clitics-reduction
  -flex: <2>.<.>
   gramm: sg
@@ -2119,7 +2119,7 @@
 
 -paradigm: A_consonant
  -flex: .<.>
-  gramm: nom,sg,nonposs
+  gramm: nom,sg
   paradigm: Clitics
  -flex: .<.>
   gramm: sg
@@ -2150,10 +2150,10 @@
 
 -paradigm: A_j
  -flex: <0>.<.>
-  gramm: nom,sg,nonposs
+  gramm: nom,sg
   paradigm: Clitics
  -flex: <1>.<.>
-  gramm: nom,sg,nonposs
+  gramm: nom,sg
   paradigm: Clitics_ya
  -flex: .<.>
   gramm: sg
@@ -2191,10 +2191,10 @@
 
 -paradigm: A_soft
  -flex: <0>.<.>
-  gramm: nom,sg,nonposs
+  gramm: nom,sg
   paradigm: Clitics
  -flex: <1>.<.>
-  gramm: nom,sg,nonposs
+  gramm: nom,sg
   paradigm: Clitics_ya
  -flex: <0>.<.>
   gramm: sg
@@ -2236,17 +2236,17 @@
 
 -paradigm: N_Pl
  -flex: .-влак<.>//.вᵊлак<.>//.-шамыч<.>
-  gramm: nom,pl,nonposs
+  gramm: nom,pl
   gloss: PL
  -flex: .ла<.>
-  gramm: nom,pl,nonposs
+  gramm: nom,pl
   gloss: PL.SHORT
  -flex: .мыт<.>
-  gramm: nom,pl.assoc,nonposs
+  gramm: nom,pl.assoc
   gloss: PL.ASSOC
 
  -flex: .ла|се<.>//.ла|со<.>//.ла|сӧ<.>
-  gramm: attr,attr_loc,nom,pl,nonposs
+  gramm: attr,attr_loc,nom,pl
   gloss: PL.SHORT|ATTR
   paradigm: Clitics
  -flex: .ла|се<.>//.ла|со<.>//.ла|сӧ<.>
@@ -2310,7 +2310,7 @@
   paradigm: N_Poss_after_case_no_comp
  
  -flex: .ысе<.>//.ысо<.>//.ысӧ<.>
-  gramm: attr,attr_loc,nom,sg,nonposs
+  gramm: attr,attr_loc,nom,sg
   gloss: ATTR
   paradigm: Clitics
  -flex: .ысе<.>//.ысо<.>//.ысӧ<.>
@@ -2638,7 +2638,7 @@
 
 -paradigm: N_Poss_after_case
  -flex: .<.>
-  gramm: nonposs
+  gramm: 
  -flex: .м<.>
   gramm: sg,1sg
   gloss: 1SG
@@ -2705,7 +2705,7 @@
 
 -paradigm: N_Poss_after_case_no_comp
  -flex: .<.>
-  gramm: nonposs
+  gramm: 
  -flex: .м<.>
   gramm: sg,1sg
   gloss: 1SG
@@ -2771,75 +2771,75 @@
 
 -paradigm: N_Pl_Case
  -flex: .-влак|ым<.>//.вᵊлак|ым<.>//.-шамыч|ым<.>
-  gramm: acc,pl,nonposs
+  gramm: acc,pl
   gloss: PL|ACC
  -flex: .-влак|ын<.>//.вᵊлак|ын<.>//.-шамыч|ын<.>
-  gramm: gen,pl,nonposs
+  gramm: gen,pl
   gloss: PL|GEN
  -flex: .-влак|лан<.>//.вᵊлак|лан<.>//.-шамыч|лан<.>
-  gramm: dat,pl,nonposs
+  gramm: dat,pl
   gloss: PL|DAT
  -flex: .-влак|еш<.>//.вᵊлак|еш<.>//.-шамыч|еш<.>
-  gramm: lat,pl,nonposs
+  gramm: lat,pl
   gloss: PL|LAT
  -flex: .-влак|ышке<.>//.-влак|ышко<.>//.-влак|ышкӧ<.>//.-влак|ыш<.>//.вᵊлак|ышке<.>//.вᵊлак|ышко<.>//.вᵊлак|ышкӧ<.>//.вᵊлак|ыш<.>//.-шамыч|ышке<.>//.-шамыч|ышко<.>//.-шамыч|ышкӧ<.>//.-шамыч|ыш<.>
-  gramm: ill,pl,nonposs
+  gramm: ill,pl
   gloss: PL|ILL
  -flex: .-влак|ыште<.>//.-влак|ышто<.>//.-влак|ыштӧ<.>//.вᵊлак|ыште<.>//.вᵊлак|ышто<.>//.вᵊлак|ыштӧ<.>//.-шамыч|ыште<.>//.-шамыч|ышто<.>//.-шамыч|ыштӧ<.>
-  gramm: loc,pl,nonposs
+  gramm: loc,pl
   gloss: PL|LOC
  -flex: .-влак|ла<.>//.вᵊлак|ла<.>//.-шамыч|ла<.>
-  gramm: sim,pl,nonposs
+  gramm: sim,pl
   gloss: PL|SIM
  -flex: .-влак|ге<.>//.вᵊлак|ге<.>//.-шамыч|ге<.>
-  gramm: com,pl,nonposs
+  gramm: com,pl
   gloss: PL|COM
 
  -flex: .ла|м<.>
-  gramm: acc,pl,nonposs
+  gramm: acc,pl
   gloss: PL.SHORT|ACC
  -flex: .ла|лан<.>
-  gramm: dat,pl,nonposs
+  gramm: dat,pl
   gloss: PL.SHORT|DAT
  -flex: .ла|еш<.>
-  gramm: lat,pl,nonposs
+  gramm: lat,pl
   gloss: PL.SHORT|LAT
  -flex: .ла|шке<.>//.ла|шко<.>//.ла|шкӧ<.>//.ла|ш<.>
-  gramm: ill,pl,nonposs
+  gramm: ill,pl
   gloss: PL.SHORT|ILL
  -flex: .ла|ште<.>//.ла|што<.>//.ла|штӧ<.>
-  gramm: loc,pl,nonposs
+  gramm: loc,pl
   gloss: PL.SHORT|LOC
  -flex: .ла|ла<.>
-  gramm: sim,pl,nonposs
+  gramm: sim,pl
   gloss: PL.SHORT|SIM
  -flex: .ла|ге<.>
-  gramm: com,pl,nonposs
+  gramm: com,pl
   gloss: PL.SHORT|COM
 
  -flex: .мыт|ым<.>
-  gramm: acc,pl.assoc,nonposs
+  gramm: acc,pl.assoc
   gloss: PL.ASSOC|ACC
  -flex: .мыт|ын<.>
-  gramm: gen,pl.assoc,nonposs
+  gramm: gen,pl.assoc
   gloss: PL.ASSOC|GEN
  -flex: .мыт|лан<.>
-  gramm: dat,pl.assoc,nonposs
+  gramm: dat,pl.assoc
   gloss: PL.ASSOC|DAT
  -flex: .мыт|еш<.>
-  gramm: lat,pl.assoc,nonposs
+  gramm: lat,pl.assoc
   gloss: PL.ASSOC|LAT
  -flex: .мыт|ышке<.>//.мыт|ышко<.>//.мыт|ышкӧ<.>//.мыт|ыш<.>
-  gramm: ill,pl.assoc,nonposs
+  gramm: ill,pl.assoc
   gloss: PL.ASSOC|ILL
  -flex: .мыт|ыште<.>//.мыт|ышто<.>//.мыт|ыштӧ<.>
-  gramm: loc,pl.assoc,nonposs
+  gramm: loc,pl.assoc
   gloss: PL.ASSOC|LOC
  -flex: .мыт|ла<.>
-  gramm: sim,pl.assoc,nonposs
+  gramm: sim,pl.assoc
   gloss: PL.ASSOC|SIM
  -flex: .мыт|ге<.>
-  gramm: com,pl.assoc,nonposs
+  gramm: com,pl.assoc
   gloss: PL.ASSOC|COM
 
  paradigm: Clitics
@@ -5446,7 +5446,7 @@
   gloss: PTCP.PROSP
   paradigm: A_consonant
  -flex: .ше<.>//.шо<.>//.шӧ<.>
-  gramm: ptcp,ptcp.act,nom,sg,nonposs
+  gramm: ptcp,ptcp.act,nom,sg
   gloss: PTCP.ACT
   paradigm: Clitics
  -flex: .ше<.>//.шо<.>//.шӧ<.>
@@ -5480,7 +5480,7 @@
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
  -flex: .ме<.>//.мо<.>//.мӧ<.>
-  gramm: ptcp,ptcp.pass,nom,sg,nonposs
+  gramm: ptcp,ptcp.pass,nom,sg
   gloss: PTCP.PASS
   paradigm: Clitics
  -flex: .ме<.>//.мо<.>//.мӧ<.>
@@ -5514,7 +5514,7 @@
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
  -flex: .дыме<.>//.дымо<.>//.дымӧ<.>
-  gramm: ptcp,ptcp.neg,nom,sg,nonposs
+  gramm: ptcp,ptcp.neg,nom,sg
   gloss: PTCP.NEG
   paradigm: Clitics
  -flex: .дыме<.>//.дымо<.>//.дымӧ<.>
@@ -5621,7 +5621,7 @@
   gloss: PTCP.PROSP
   paradigm: A_consonant
  -flex: <1>.ше<.>//<1>.шо<.>//<1>.шӧ<.>
-  gramm: ptcp,ptcp.act,nom,sg,nonposs
+  gramm: ptcp,ptcp.act,nom,sg
   gloss: PTCP.ACT
   paradigm: Clitics
  -flex: <1>.ше<.>//<1>.шо<.>//<1>.шӧ<.>
@@ -5655,7 +5655,7 @@
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
  -flex: <1>.ме<.>//<1>.мо<.>//<1>.мӧ<.>
-  gramm: ptcp,ptcp.pass,nom,sg,nonposs
+  gramm: ptcp,ptcp.pass,nom,sg
   gloss: PTCP.PASS
   paradigm: Clitics
  -flex: <1>.ме<.>//<1>.мо<.>//<1>.мӧ<.>
@@ -5689,7 +5689,7 @@
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
  -flex: <1>.дыме<.>//<1>.дымо<.>//<1>.дымӧ<.>
-  gramm: ptcp,ptcp.neg,nom,sg,nonposs
+  gramm: ptcp,ptcp.neg,nom,sg
   gloss: PTCP.NEG
   paradigm: Clitics
  -flex: <1>.дыме<.>//<1>.дымо<.>//<1>.дымӧ<.>
@@ -5797,7 +5797,7 @@
   gloss: PTCP.PROSP
   paradigm: A_consonant
  -flex: .ыше<.>//.ышо<.>//.ышӧ<.>
-  gramm: ptcp,ptcp.act,nom,sg,nonposs
+  gramm: ptcp,ptcp.act,nom,sg
   gloss: PTCP.ACT
   paradigm: Clitics
  -flex: .ыше<.>//.ышо<.>//.ышӧ<.>
@@ -5831,7 +5831,7 @@
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
  -flex: .ыме<.>//.ымо<.>//.ымӧ<.>
-  gramm: ptcp,ptcp.pass,nom,sg,nonposs
+  gramm: ptcp,ptcp.pass,nom,sg
   gloss: PTCP.PASS
   paradigm: Clitics
  -flex: .ыме<.>//.ымо<.>//.ымӧ<.>
@@ -5865,7 +5865,7 @@
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
  -flex: .ыдыме<.>//.ыдымо<.>//.ыдымӧ<.>
-  gramm: ptcp,ptcp.neg,nom,sg,nonposs
+  gramm: ptcp,ptcp.neg,nom,sg
   gloss: PTCP.NEG
   paradigm: Clitics
  -flex: .ыдыме<.>//.ыдымо<.>//.ыдымӧ<.>
@@ -6086,7 +6086,7 @@
 
 -paradigm: N_Poss_after_case_PRO
  -flex: .<.>
-  gramm: nonposs
+  gramm: 
  -flex: .же<.>//.жо<.>//.жӧ<.>
   gramm: 3sg
   gloss: 3SG

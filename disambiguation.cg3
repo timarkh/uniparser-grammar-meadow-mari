@@ -4,6 +4,8 @@ LIST NegVerbs = ("ида" V) ("ит" V) ("огеш" V) ("огыда" V) ("огы
 LIST LightVebrs = (каяш" V) ("колташ" V) ("лекташ" V) ("лукташ" V) ("толаш" V) ("мияш" V) ("кошташ" V) ("шогаш" V) ("шинчаш" V) ("кияш" V) ("шындаш" V) ("шогалаш" V) ("шогалташ" V) ("пышташ" V) ("шуаш" V) ("шукташ" V) ("пыташ" V) ("пытараш" V) ("темаш" V) ("ситараш" V) ("эртараш" V) ("эрташ" V) ("пуаш" V) ("налаш" V) ("кышкаш" V) ("кудалташ" V) ("шуаш" V) ("опташ" V) ("кодаш" V) ("ончаш" V);
 SET NotCvbGen = (*) - (V cvb.gen);
 LIST VPred = V PREDIC;
+List Case = nom acc gen dat lat ill loc sim com;
+List Poss = 1sg 2sg 3sg 1pl 2pl 3pl;
 
 LIST BOS = (>>>);
 SET BOSPunct = (punct) | BOS;
@@ -20,3 +22,10 @@ SELECT (V neg) IF (*-1 NegVerbs BARRIER NotCvbGen);
 
 # PST2 vs. CVB.GEN: Choose CVB.GEN before light verbs
 SELECT (V cvb.gen) IF (1 LightVebrs);
+
+
+SECTION    # Nouns
+
+# Add nonposs to non-possessive words with nominal morphology
+ADD (nonposs) IF (0 Case)
+                 (NOT 0 Poss);
