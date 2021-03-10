@@ -2008,7 +2008,7 @@
  lex: деч
  stem: деч.//дэч.
  gramm: POST
- paradigm: Clitics
+ paradigm: POST_ADV_Poss
  paradigm: N_Poss_consonant
  trans_ru: от
 

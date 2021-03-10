@@ -2287,6 +2287,10 @@
 
 
 -paradigm: POST
+ -flex: <0>.<.>
+  gramm: 
+  paradigm: Clitics
+  regex-lex: ^ончыл$
  -flex: <1>.ан<.>
   gramm: lat,sg
   gloss: LAT
@@ -5181,7 +5185,7 @@
  -flex: <1>.ыт<.>
   gramm: pst,2,sg
   gloss: PST.2SG
- -flex: <1>.о<.>//<1>.е<.>//<0>.ё<.>
+ -flex: <1>.о<.>//<0>.е<.>//<0>.ё<.>
   gramm: pst,3,sg
   gloss: PST.3SG
  -flex: <1>.на<.>

@@ -3,6 +3,7 @@ import os
 import shutil
 
 rxDiacritics = re.compile('[ӧёӱ]')
+rxDiacriticsYo = re.compile('ё')
 rxDiaPartsStem = re.compile('( stem:)( *[^\r\n]+)')
 rxDiaPartsFlex = re.compile('(-flex:)( *[^\r\n]+)')
 rxStemVariants = re.compile('[^ |/]+')
@@ -42,11 +43,29 @@ def add_diacriticless(morph):
     return morph + '//' + rxDiacritics.sub(lambda m: dictDiacritics[m.group(0)], morph)
 
 
+def add_diacriticless_yo(morph):
+    """
+    Add a yo-less variant to a stem or an inflection
+    """
+    morph = morph.group(0)
+    if rxDiacriticsYo.search(morph) is None:
+        return morph
+    return morph + '//' + rxDiacriticsYo.sub(lambda m: dictDiacritics[m.group(0)], morph)
+
+
 def process_diacritics_stem(line):
     """
     Remove diacritics from one line that contains stems.
     """
     morphCorrected = rxStemVariants.sub(add_diacriticless, line.group(2))
+    return line.group(1) + morphCorrected
+
+
+def process_diacritics_stem_yo(line):
+    """
+    Remove yo diacritics from one line that contains stems.
+    """
+    morphCorrected = rxStemVariants.sub(add_diacriticless_yo, line.group(2))
     return line.group(1) + morphCorrected
 
 
@@ -67,6 +86,14 @@ def russify(text):
     return text
 
 
+def russify_yo(text):
+    """
+    Add yo-less variants for stems.
+    """
+    text = rxDiaPartsStem.sub(process_diacritics_stem_yo, text)
+    return text
+
+
 def prepare_files():
     """
     Put all the lemmata to lexemes.txt. Put all the lexical
@@ -78,7 +105,7 @@ def prepare_files():
     """
     lemmata, lexrules = collect_lemmata('.')
     fOutLemmata = open('uniparser_meadow_mari/data_strict/lexemes.txt', 'w', encoding='utf-8')
-    fOutLemmata.write(lemmata)
+    fOutLemmata.write(russify_yo(lemmata))
     fOutLemmata.close()
     fOutLemmataRus = open('uniparser_meadow_mari/data_nodiacritics/lexemes.txt', 'w', encoding='utf-8')
     fOutLemmataRus.write(russify(lemmata))
