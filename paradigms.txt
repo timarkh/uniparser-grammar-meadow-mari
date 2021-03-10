@@ -5181,7 +5181,7 @@
  -flex: <1>.ыт<.>
   gramm: pst,2,sg
   gloss: PST.2SG
- -flex: <1>.о<.>//.ё<.>
+ -flex: <1>.о<.>//<1>.е<.>//<0>.ё<.>
   gramm: pst,3,sg
   gloss: PST.3SG
  -flex: <1>.на<.>
@@ -5282,7 +5282,7 @@
  -flex: <0>.ышым<.>
   gramm: pst,1,sg
   gloss: PST.1SG
- -flex: <0>.ышыт<.>
+ -flex: <0>.ышыч<.>//<0>.ышыт<.>
   gramm: pst,2,sg
   gloss: PST.2SG
  -flex: <0>.ыш<.>
@@ -5395,7 +5395,7 @@
  -flex: <1>.ышым<.>
   gramm: pst,1,sg
   gloss: PST.1SG
- -flex: <1>.ышыт<.>
+ -flex: <1>.ышыч<.>//<1>.ышыт<.>
   gramm: pst,2,sg
   gloss: PST.2SG
  -flex: <1>.ыш<.>
@@ -5453,9 +5453,9 @@
   gramm: inf
   gloss: INF
   paradigm: V_Inf_CasePoss
- -flex: <1>.<.>
+ -flex: <0>.е<.>//<1>.о<.>//<1>.ӧ<.>//<1>.<.>
   gramm: neg
- -flex: <0>.е<.>//<1>.о<.>//<1>.ӧ<.>
+ -flex: <0>.е<.>//<1>.о<.>//<1>.ӧ<.>//<1>.<.>
   gramm: imp,2,sg
   gloss: IMP.2SG
  -flex: <1>.ыже<.>//<1>.ыжо<.>//<1>.ыжӧ<.>
