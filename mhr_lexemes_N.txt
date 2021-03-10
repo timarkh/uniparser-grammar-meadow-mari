@@ -80713,7 +80713,7 @@
 
 -lexeme
  lex: радио
- stem: радио.|радиы.|ради.
+ stem: радио.|радиы.//радио.|ради.//радио.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: радио
