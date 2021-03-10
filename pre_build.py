@@ -2,7 +2,7 @@ import re
 import os
 import shutil
 
-rxDiacritics = re.compile('[ӧёӱ]')
+rxDiacritics = re.compile('[ӧёӱҥ]')
 rxDiacriticsYo = re.compile('ё')
 rxDiaPartsStem = re.compile('( stem:)( *[^\r\n]+)')
 rxDiaPartsFlex = re.compile('(-flex:)( *[^\r\n]+)')

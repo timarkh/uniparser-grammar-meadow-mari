@@ -21545,7 +21545,7 @@
  lex: домино
  stem: домино.
  gramm: N,rus
- paradigm: Clitics
+ paradigm: N_oxyton
  trans_ru: домино
 
 -lexeme
@@ -28540,7 +28540,7 @@
  lex: йолгурык
  stem: йолгурык.
  gramm: N
- paradigm: Clitics
+ paradigm: N_consonant
  trans_ru: горка с жердями для катания
 
 -lexeme
@@ -34239,8 +34239,9 @@
  lex: кимоно
  stem: кимоно.
  gramm: N,rus
- paradigm: Clitics
+ paradigm: N_oxyton
  trans_ru: кимоно
+
 -lexeme
  lex: кинде
  stem: кинде.//киндэ.|кинды.|кинд.
@@ -47790,7 +47791,7 @@
  lex: лоймен
  stem: лоймен.//лоймэн.
  gramm: N,transport
- paradigm: Clitics
+ paradigm: N_consonant
  trans_ru: роспуски (сани)
 
 -lexeme
@@ -51089,13 +51090,6 @@
  gramm: N,rus,anim,hum
  paradigm: N_paroxyton_v_weak
  trans_ru: мафиози
-
--lexeme
- lex: мах
- stem: мах.
- gramm: N,rus
- paradigm: Clitics
- trans_ru: максомс мах -- дать маху
 
 -lexeme
  lex: махинаций
@@ -54566,7 +54560,7 @@
  lex: мочылалык
  stem: мочылалык.
  gramm: N,rus
- paradigm: Clitics
+ paradigm: N_consonant
  trans_ru: волокно, используемое на мочало
 
 -lexeme
@@ -59768,7 +59762,7 @@
  lex: облоно
  stem: облоно.
  gramm: N,rus
- paradigm: Clitics
+ paradigm: N_oxyton
  trans_ru: облоно
 
 -lexeme
@@ -77656,7 +77650,7 @@
  lex: пугомыля
  stem: пугомыля.
  gramm: N
- paradigm: Clitics
+ paradigm: N_oxyton
  trans_ru: полено
 
 -lexeme
@@ -79000,7 +78994,7 @@
  lex: пушто
  stem: пушто.
  gramm: N
- paradigm: Clitics
+ paradigm: N_oxyton
  trans_ru: толокно
 
 -lexeme
@@ -79364,7 +79358,7 @@
  lex: пырня
  stem: пырня.
  gramm: N
- paradigm: Clitics
+ paradigm: N_oxyton
  trans_ru: бревно
 
 -lexeme
@@ -107515,9 +107509,9 @@
 
 -lexeme
  lex: фортепьяно
- stem: фортепьяно.//фортэпьяно.
+ stem: фортепьяно.//фортэпьяно.|фортепьяно.//фортэпьяно.//фортепьяны.//фортэпьяны.|фортепьяно.//фортэпьяно.//фортепьян.//фортэпьян.
  gramm: N,rus
- paradigm: Clitics
+ paradigm: N_paroxyton_v_weak
  trans_ru: фортепьяно
 
 -lexeme
@@ -113076,7 +113070,7 @@
  lex: чыралык
  stem: чыралык.
  gramm: N
- paradigm: Clitics
+ paradigm: N_consonant
  trans_ru: полено для лучины
 
 -lexeme
@@ -119163,7 +119157,7 @@
  lex: шӱалтыш
  stem: шӱалтыш.
  gramm: N
- paradigm: Clitics
+ paradigm: N_consonant
  trans_ru: ополоски
 
 -lexeme
@@ -119296,7 +119290,7 @@
  lex: шӱдыр
  stem: шӱдыр.
  gramm: N
- paradigm: Clitics
+ paradigm: N_consonant
  trans_ru: веретено
 
 -lexeme
@@ -120080,7 +120074,7 @@
  lex: ылик
  stem: ылик.
  gramm: N
- paradigm: Clitics
+ paradigm: N_consonant
  trans_ru: полено для лучины
 
 -lexeme
