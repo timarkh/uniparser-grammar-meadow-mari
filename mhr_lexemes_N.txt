@@ -3825,7 +3825,7 @@
 -lexeme
  lex: англичан
  stem: англичан.
- gramm: N,rus,anim,hum
+ gramm: N,rus,anim,hum,nation
  paradigm: N_consonant
  trans_ru: англичанин; английский
 
@@ -30170,7 +30170,7 @@
 -lexeme
  lex: казах
  stem: казах.
- gramm: N,rus,anim,hum
+ gramm: N,rus,anim,hum,nation
  paradigm: N_consonant
  trans_ru: казах
 
@@ -37508,7 +37508,7 @@
 -lexeme
  lex: коми
  stem: коми.
- gramm: N,anim,hum
+ gramm: N,anim,hum,nation
  paradigm: N_paroxyton_v_strong
  trans_ru: коми
 
@@ -50317,21 +50317,21 @@
 -lexeme
  lex: мариец
  stem: мариец.
- gramm: N,rus,anim,hum
+ gramm: N,rus,anim,hum,nation
  paradigm: N_consonant
  trans_ru: мариец
 
 -lexeme
  lex: мари
  stem: мари.
- gramm: N,anim,hum
+ gramm: N,anim,hum,nation
  paradigm: N_oxyton
  trans_ru: мари, марийцы
 
 -lexeme
  lex: марий
  stem: марий.|мари.
- gramm: N,anim,hum
+ gramm: N,anim,hum,nation
  paradigm: N_j
  trans_ru: мари, марийцы
 
@@ -53642,7 +53642,7 @@
 -lexeme
  lex: мокша
  stem: мокша.
- gramm: N,anim,hum
+ gramm: N,anim,hum,nation
  paradigm: N_paroxyton_v_strong
  trans_ru: мокша
 
@@ -57800,7 +57800,7 @@
 -lexeme
  lex: немец
  stem: немец.//немэц.
- gramm: N,rus,anim,hum
+ gramm: N,rus,anim,hum,nation
  paradigm: N_consonant
  trans_ru: немец
 
@@ -60573,7 +60573,7 @@
 -lexeme
  lex: одо
  stem: одо.|оды.|од.
- gramm: N,anim,hum
+ gramm: N,anim,hum,nation
  paradigm: N_paroxyton_v_weak
  trans_ru: удмурт
 
@@ -61434,7 +61434,7 @@
 -lexeme
  lex: олыкмарий
  stem: олыкмарий.|олыкмари.
- gramm: N,anim,hum
+ gramm: N,anim,hum,nation
  paradigm: N_j
  trans_ru: луговой мариец, луговые мари
 
@@ -72559,7 +72559,7 @@
 -lexeme
  lex: поляк
  stem: поляк.
- gramm: N,rus,anim,hum
+ gramm: N,rus,anim,hum,nation
  paradigm: N_consonant
  trans_ru: поляк
 
@@ -93890,9 +93890,16 @@
 -lexeme
  lex: суас
  stem: суас.
- gramm: N,anim,hum
+ gramm: N,anim,hum,nation
  paradigm: N_consonant
  trans_ru: татарин
+
+-lexeme
+ lex: руш
+ stem: руш.
+ gramm: N,anim,hum,nation
+ paradigm: N_consonant
+ trans_ru: русский
 
 -lexeme
  lex: суаскайык
@@ -95794,7 +95801,7 @@
 -lexeme
  lex: таджик
  stem: таджик.
- gramm: N,rus,anim,hum
+ gramm: N,rus,anim,hum,nation
  paradigm: N_consonant
  trans_ru: таджик
 
@@ -103559,7 +103566,7 @@
 -lexeme
  lex: удмурт
  stem: удмурт.
- gramm: N,anim,hum
+ gramm: N,anim,hum,nation
  paradigm: N_consonant
  trans_ru: удмурт
 
@@ -107909,7 +107916,7 @@
 -lexeme
  lex: француз
  stem: француз.
- gramm: N,rus,anim,hum
+ gramm: N,rus,anim,hum,nation
  paradigm: N_consonant
  trans_ru: француз
 
@@ -112313,7 +112320,7 @@
 -lexeme
  lex: чуваш
  stem: чуваш.
- gramm: N,rus,anim,hum
+ gramm: N,rus,anim,hum,nation
  paradigm: N_consonant
  trans_ru: чуваш
 
@@ -122078,7 +122085,7 @@
 -lexeme
  lex: эрзя
  stem: эрзя.
- gramm: N,anim,hum
+ gramm: N,anim,hum,nation
  paradigm: N_paroxyton_v_strong
  trans_ru: эрзя
 

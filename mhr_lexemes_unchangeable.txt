@@ -16,24 +16,21 @@
  lex: абсолютно
  stem: абсолютно.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: абсолютно
 
 -lexeme
  lex: абстрактно
  stem: абстрактно.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: абстрактно
 
 -lexeme
  lex: автоматически
  stem: автоматически.//автоматичэски.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: автоматически
 
 -lexeme
@@ -52,9 +49,9 @@
 
 -lexeme
  lex: адакше
- stem: адакше.//адакшэ.//адакшы.
+ stem: адакше.//адакшэ.|адакшы.|адакш.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: опять же
 
 -lexeme
@@ -138,16 +135,14 @@
  lex: активно
  stem: активно.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: активно
 
 -lexeme
  lex: активнын
  stem: активнын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: активно
 
 -lexeme
@@ -222,9 +217,9 @@
 
 -lexeme
  lex: алкынымешке
- stem: алкынымешке.//алкынымешкэ.//алкынымешкы.
+ stem: алкынымешке.//алкынымешкэ.|алкынымешкы.|алкынымешк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: до отвала
 
 -lexeme
@@ -816,9 +811,9 @@
 
 -lexeme
  lex: вашке
- stem: вашке.//вашкэ.//вашкы.
+ stem: вашке.//вашкэ.|вашкы.|вашк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: скоро, быстро
 
 -lexeme
@@ -830,9 +825,9 @@
 
 -lexeme
  lex: вашкыде
- stem: вашкыде.//вашкыдэ.//вашкыды.
+ stem: вашкыде.//вашкыдэ.|вашкыды.|вашкыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: неторопливо
 
 -lexeme
@@ -872,9 +867,9 @@
 
 -lexeme
  lex: веле
- stem: веле.//велэ.//велы.
+ stem: веле.//велэ.|велы.|вел.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: всего; даже; ещё
 
 -lexeme
@@ -900,16 +895,16 @@
 
 -lexeme
  lex: велышке
- stem: велышке.//велышкэ.//велышкы.
+ stem: велышке.//велышкэ.|велышкы.|велышк.
  gramm: POST
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: в сторону; к
 
 -lexeme
  lex: велыште
- stem: велыште.//велыштэ.//велышты.
+ stem: велыште.//велыштэ.|велышты.|велышт.
  gramm: POST
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: в стороне
 
 -lexeme
@@ -921,23 +916,23 @@
 
 -lexeme
  lex: веран-верышке
- stem: веран-верышке.//веран-верышкэ.//веран-верышкы.
+ stem: веран-верышке.//веран-верышкэ.|веран-верышкы.|веран-верышк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: по местам
 
 -lexeme
  lex: вере
- stem: вере.//верэ.//веры.
+ stem: вере.//верэ.|веры.|вер.
  gramm: POST
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: в каком-либо месте
 
 -lexeme
  lex: вере-вере
- stem: вере-вере.//вере-верэ.//вере-веры.
+ stem: вере-вере.//вере-верэ.|вере-веры.|вере-вер.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: местами, вразброс
 
 -lexeme
@@ -963,9 +958,9 @@
 
 -lexeme
  lex: верын-вере
- stem: верын-вере.//верын-верэ.//верын-веры.
+ stem: верын-вере.//верын-верэ.|верын-веры.|верын-вер.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: местами, кое-где
 
 -lexeme
@@ -979,8 +974,7 @@
  lex: веселан
  stem: веселан.//весэлан.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: весело
 
 -lexeme
@@ -1162,8 +1156,7 @@
  lex: внимательно
  stem: внимательно.//вниматэльно.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: внимательно
 
 -lexeme
@@ -1247,16 +1240,14 @@
  lex: вольнан
  stem: вольнан.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: свободно
 
 -lexeme
  lex: волян
  stem: волян.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: свободно
 
 -lexeme
@@ -1352,9 +1343,9 @@
 
 -lexeme
  lex: вужге
- stem: вужге.//вужгэ.//вужгы.
+ stem: вужге.//вужгэ.|вужгы.|вужг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: пышно; с шумом
 
 -lexeme
@@ -1380,16 +1371,16 @@
 
 -lexeme
  lex: вуйге
- stem: вуйге.//вуйгэ.//вуйгы.
+ stem: вуйге.//вуйгэ.|вуйгы.|вуйг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: всё, полностью, целиком
 
 -lexeme
  lex: вуйге-почге
- stem: вуйге-почге.//вуйге-почгэ.//вуйге-почгы.
+ stem: вуйге-почге.//вуйге-почгэ.|вуйге-почгы.|вуйге-почг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: полностью, целиком, совсем
 
 -lexeme
@@ -1457,9 +1448,9 @@
 
 -lexeme
  lex: вучен-вучыде
- stem: вучен-вучыде.//вучен-вучыдэ.//вучен-вучыды.
+ stem: вучен-вучыде.//вучен-вучыдэ.|вучен-вучыды.|вучен-вучыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: неожиданно, случайно
 
 -lexeme
@@ -1478,9 +1469,9 @@
 
 -lexeme
  lex: вучыде
- stem: вучыде.//вучыдэ.//вучыды.
+ stem: вучыде.//вучыдэ.|вучыды.|вучыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: неожиданно
 
 -lexeme
@@ -1576,9 +1567,9 @@
 
 -lexeme
  lex: выжге
- stem: выжге.//выжгэ.//выжгы.
+ stem: выжге.//выжгэ.|выжгы.|выжг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: мягко, плавно, слегка; дружно; одновременно
 
 -lexeme
@@ -1632,9 +1623,9 @@
 
 -lexeme
  lex: выче-выче
- stem: выче-выче.//выче-вычэ.//выче-вычы.
+ stem: выче-выче.//выче-вычэ.|выче-вычы.|выче-выч.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: дружелюбно
 
 -lexeme
@@ -1711,16 +1702,14 @@
  lex: героически
  stem: героически.//героичэски.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: героически
 
 -lexeme
  lex: геройлын
  stem: геройлын.//гэройлын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: геройски
 
 -lexeme
@@ -1823,16 +1812,16 @@
 
 -lexeme
  lex: гутлашке
- stem: гутлашке.//гутлашкэ.//гутлашкы.
+ stem: гутлашке.//гутлашкэ.|гутлашкы.|гутлашк.
  gramm: POST
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: до, к
 
 -lexeme
  lex: гутлаште
- stem: гутлаште.//гутлаштэ.//гутлашты.
+ stem: гутлаште.//гутлаштэ.|гутлашты.|гутлашт.
  gramm: POST
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: около
 
 -lexeme
@@ -1971,9 +1960,9 @@
 
 -lexeme
  lex: деке
- stem: деке.//декэ.//декы.
+ stem: деке.//декэ.|декы.|дек.
  gramm: POST
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: до, на, за
 
 -lexeme
@@ -2044,8 +2033,7 @@
  lex: добровольно
  stem: добровольно.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: добровольно
 
 -lexeme
@@ -2066,8 +2054,7 @@
  lex: дотово
  stem: дотово.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: сильно, очень
 
 -lexeme
@@ -2268,17 +2255,16 @@
 
 -lexeme
  lex: жапыште
- stem: жапыште.//жапыштэ.//жапышты.
+ stem: жапыште.//жапыштэ.|жапышты.|жапышт.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: вовремя
 
 -lexeme
  lex: живо
  stem: живо.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: живо
 
 -lexeme
@@ -2299,8 +2285,7 @@
  lex: закондымын
  stem: закондымын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: незаконно
 
 -lexeme
@@ -2314,8 +2299,7 @@
  lex: заочно
  stem: заочно.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: заочно
 
 -lexeme
@@ -2404,9 +2388,9 @@
 
 -lexeme
  lex: иже
- stem: иже.//ижэ.//ижы.
+ stem: иже.//ижэ.|ижы.|иж.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: лишь, только
 
 -lexeme
@@ -2523,9 +2507,9 @@
 
 -lexeme
  lex: иканаште
- stem: иканаште.//иканаштэ.//иканашты.
+ stem: иканаште.//иканаштэ.|иканашты.|иканашт.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: сразу
 
 -lexeme
@@ -2551,9 +2535,9 @@
 
 -lexeme
  lex: икече
- stem: икече.//икечэ.//икечы.
+ stem: икече.//икечэ.|икечы.|икеч.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: в прошлый раз
 
 -lexeme
@@ -2600,9 +2584,9 @@
 
 -lexeme
  lex: икнаре
- stem: икнаре.//икнарэ.//икнары.
+ stem: икнаре.//икнарэ.|икнары.|икнар.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: одинаково, поровну
 
 -lexeme
@@ -2698,9 +2682,9 @@
 
 -lexeme
  lex: илен-илыде
- stem: илен-илыде.//илен-илыдэ.//илен-илыды.
+ stem: илен-илыде.//илен-илыдэ.|илен-илыды.|илен-илыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: живя кое-как; неполной жизнью, прозябая
 
 -lexeme
@@ -2756,8 +2740,7 @@
  lex: исторически
  stem: исторически.//историчэски.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: исторически
 
 -lexeme
@@ -2839,9 +2822,9 @@
 
 -lexeme
  lex: йолдырге
- stem: йолдырге.//йолдыргэ.//йолдыргы.
+ stem: йолдырге.//йолдыргэ.|йолдыргы.|йолдырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: жеманно
 
 -lexeme
@@ -2860,9 +2843,9 @@
 
 -lexeme
  lex: йолтке
- stem: йолтке.//йолткэ.//йолткы.
+ stem: йолтке.//йолткэ.|йолткы.|йолтк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: совершенно
 
 -lexeme
@@ -2895,9 +2878,9 @@
 
 -lexeme
  lex: йорге
- stem: йорге.//йоргэ.//йоргы.
+ stem: йорге.//йоргэ.|йоргы.|йорг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: ручьём; течь обильно
 
 -lexeme
@@ -2951,9 +2934,9 @@
 
 -lexeme
  lex: йотке
- stem: йотке.//йоткэ.//йоткы.
+ stem: йотке.//йоткэ.|йоткы.|йотк.
  gramm: POST
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: до, по
 
 -lexeme
@@ -2986,9 +2969,9 @@
 
 -lexeme
  lex: йоштке
- stem: йоштке.//йошткэ.//йошткы.
+ stem: йоштке.//йошткэ.|йошткы.|йоштк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: стройно, красиво
 
 -lexeme
@@ -3070,9 +3053,9 @@
 
 -lexeme
  lex: йывыге
- stem: йывыге.//йывыгэ.//йывыгы.
+ stem: йывыге.//йывыгэ.|йывыгы.|йывыг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: спокойно, бесшумно, тихо; сам по себе
 
 -lexeme
@@ -3098,9 +3081,9 @@
 
 -lexeme
  lex: йывыжге
- stem: йывыжге.//йывыжгэ.//йывыжгы.
+ stem: йывыжге.//йывыжгэ.|йывыжгы.|йывыжг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: тихо
 
 -lexeme
@@ -3140,9 +3123,9 @@
 
 -lexeme
  lex: йыгырге
- stem: йыгырге.//йыгыргэ.//йыгыргы.
+ stem: йыгырге.//йыгыргэ.|йыгыргы.|йыгырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: голодно
 
 -lexeme
@@ -3175,9 +3158,9 @@
 
 -lexeme
  lex: йыжге
- stem: йыжге.//йыжгэ.//йыжгы.
+ stem: йыжге.//йыжгэ.|йыжгы.|йыжг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: тихо; спокойно, осторожно
 
 -lexeme
@@ -3259,9 +3242,9 @@
 
 -lexeme
  lex: йылдырге
- stem: йылдырге.//йылдыргэ.//йылдыргы.
+ stem: йылдырге.//йылдыргэ.|йылдыргы.|йылдырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: игриво, кокетливо
 
 -lexeme
@@ -3280,9 +3263,9 @@
 
 -lexeme
  lex: йыле
- stem: йыле.//йылэ.//йылы.
+ stem: йыле.//йылэ.|йылы.|йыл.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: быстро, скоро
 
 -lexeme
@@ -3406,9 +3389,9 @@
 
 -lexeme
  lex: йырве-ярве
- stem: йырве-ярве.//йырве-ярвэ.//йырве-ярвы.
+ stem: йырве-ярве.//йырве-ярвэ.|йырве-ярвы.|йырве-ярв.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: лишь местами
 
 -lexeme
@@ -3427,9 +3410,9 @@
 
 -lexeme
  lex: йырге
- stem: йырге.//йыргэ.//йыргы.
+ stem: йырге.//йыргэ.|йыргы.|йырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: ручьём (о слезах)
 
 -lexeme
@@ -3637,9 +3620,9 @@
 
 -lexeme
  lex: йӧракче
- stem: йӧракче.//йӧракчэ.//йӧракчы.
+ stem: йӧракче.//йӧракчэ.|йӧракчы.|йӧракч.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: целиком, полностью
 
 -lexeme
@@ -3658,23 +3641,23 @@
 
 -lexeme
  lex: йӧре
- stem: йӧре.//йӧрэ.//йӧры.
+ stem: йӧре.//йӧрэ.|йӧры.|йӧр.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: вместе
 
 -lexeme
  lex: йӧре-варе
- stem: йӧре-варе.//йӧре-варэ.//йӧре-вары.
+ stem: йӧре-варе.//йӧре-варэ.|йӧре-вары.|йӧре-вар.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: вместе, комплексно; вперемешку; смешанный
 
 -lexeme
  lex: йӧрен-йӧрыде
- stem: йӧрен-йӧрыде.//йӧрен-йӧрыдэ.//йӧрен-йӧрыды.
+ stem: йӧрен-йӧрыде.//йӧрен-йӧрыдэ.|йӧрен-йӧрыды.|йӧрен-йӧрыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: мерцая, чуть не угасая
 
 -lexeme
@@ -3763,9 +3746,9 @@
 
 -lexeme
  lex: йӱкде-шӱлыде
- stem: йӱкде-шӱлыде.//йӱкде-шӱлыдэ.//йӱкде-шӱлыды.
+ stem: йӱкде-шӱлыде.//йӱкде-шӱлыдэ.|йӱкде-шӱлыды.|йӱкде-шӱлыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: втихомолку
 
 -lexeme
@@ -3868,9 +3851,9 @@
 
 -lexeme
  lex: каласен-каласыде
- stem: каласен-каласыде.//каласен-каласыдэ.//каласен-каласыды.
+ stem: каласен-каласыде.//каласен-каласыдэ.|каласен-каласыды.|каласен-каласыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: не досказав
 
 -lexeme
@@ -4106,9 +4089,9 @@
 
 -lexeme
  lex: кенеташте
- stem: кенеташте.//кенеташтэ.//кенеташты.
+ stem: кенеташте.//кенеташтэ.|кенеташты.|кенеташт.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: сразу же, немедленно
 
 -lexeme
@@ -4197,9 +4180,9 @@
 
 -lexeme
  lex: кеҥежше-телыже
- stem: кеҥежше-телыже.//кеҥежше-телыжэ.//кеҥежше-телыжы.
+ stem: кеҥежше-телыже.//кеҥежше-телыжэ.|кеҥежше-телыжы.|кеҥежше-телыж.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: зимой и летом; зиму и лето
 
 -lexeme
@@ -4267,9 +4250,9 @@
 
 -lexeme
  lex: ковыжге
- stem: ковыжге.//ковыжгэ.//ковыжгы.
+ stem: ковыжге.//ковыжгэ.|ковыжгы.|ковыжг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: мигом, быстро
 
 -lexeme
@@ -4288,9 +4271,9 @@
 
 -lexeme
  lex: кодыге
- stem: кодыге.//кодыгэ.//кодыгы.
+ stem: кодыге.//кодыгэ.|кодыгы.|кодыг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: дружно, одновременно
 
 -lexeme
@@ -4302,9 +4285,9 @@
 
 -lexeme
  lex: кодын-кодде
- stem: кодын-кодде.//кодын-коддэ.//кодын-кодды.
+ stem: кодын-кодде.//кодын-коддэ.|кодын-кодды.|кодын-кодд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: не отставая
 
 -lexeme
@@ -4344,9 +4327,9 @@
 
 -lexeme
  lex: кожге
- stem: кожге.//кожгэ.//кожгы.
+ stem: кожге.//кожгэ.|кожгы.|кожг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: шумно; дыбом
 
 -lexeme
@@ -4407,16 +4390,16 @@
 
 -lexeme
  lex: койын-кодде
- stem: койын-кодде.//койын-коддэ.//койын-кодды.
+ stem: койын-кодде.//койын-коддэ.|койын-кодды.|койын-кодд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: не отставая
 
 -lexeme
  lex: койын-койде
- stem: койын-койде.//койын-койдэ.//койын-койды.
+ stem: койын-койде.//койын-койдэ.|койын-койды.|койын-койд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: незаметно
 
 -lexeme
@@ -4463,23 +4446,23 @@
 
 -lexeme
  lex: коклашке
- stem: коклашке.//коклашкэ.//коклашкы.
+ stem: коклашке.//коклашкэ.|коклашкы.|коклашк.
  gramm: POST
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: в, к
 
 -lexeme
  lex: коклаште
- stem: коклаште.//коклаштэ.//коклашты.
+ stem: коклаште.//коклаштэ.|коклашты.|коклашт.
  gramm: POST
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: в; между; за
 
 -lexeme
  lex: кокыте
- stem: кокыте.//кокытэ.//кокыты.
+ stem: кокыте.//кокытэ.|кокыты.|кокыт.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: пополам; двояко
 
 -lexeme
@@ -4498,9 +4481,9 @@
 
 -lexeme
  lex: колдырге
- stem: колдырге.//колдыргэ.//колдыргы.
+ stem: колдырге.//колдыргэ.|колдыргы.|колдырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: тихо, спокойно
 
 -lexeme
@@ -4535,8 +4518,7 @@
  lex: колчан-колчан
  stem: колчан-колчан.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: кольцами
 
 -lexeme
@@ -4585,8 +4567,7 @@
  lex: комплексно
  stem: комплексно.//комплэксно.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: комплексно
 
 -lexeme
@@ -4600,8 +4581,7 @@
  lex: конкретне
  stem: конкретне.//конкрэтне.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: конкретно
 
 -lexeme
@@ -4655,9 +4635,9 @@
 
 -lexeme
  lex: копыжге
- stem: копыжге.//копыжгэ.//копыжгы.
+ stem: копыжге.//копыжгэ.|копыжгы.|копыжг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: мурашки (копыжге тарвана)
 
 -lexeme
@@ -4669,9 +4649,9 @@
 
 -lexeme
  lex: кораҥде
- stem: кораҥде.//кораҥдэ.//кораҥды.
+ stem: кораҥде.//кораҥдэ.|кораҥды.|кораҥд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: прямо, не отклоняясь
 
 -lexeme
@@ -4746,9 +4726,9 @@
 
 -lexeme
  lex: корштымешке
- stem: корштымешке.//корштымешкэ.//корштымешкы.
+ stem: корштымешке.//корштымешкэ.|корштымешкы.|корштымешк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: сильно, до боли
 
 -lexeme
@@ -4760,30 +4740,30 @@
 
 -lexeme
  lex: котырге
- stem: котырге.//котыргэ.//котыргы.
+ stem: котырге.//котыргэ.|котыргы.|котырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: с шумом, скрипом или треском
 
 -lexeme
  lex: кочде
- stem: кочде.//кочдэ.//кочды.
+ stem: кочде.//кочдэ.|кочды.|кочд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: натощак
 
 -lexeme
  lex: кочде-йӱде
- stem: кочде-йӱде.//кочде-йӱдэ.//кочде-йӱды.
+ stem: кочде-йӱде.//кочде-йӱдэ.|кочде-йӱды.|кочде-йӱд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: без пропитания
 
 -lexeme
  lex: кочкын-кочде
- stem: кочкын-кочде.//кочкын-кочдэ.//кочкын-кочды.
+ stem: кочкын-кочде.//кочкын-кочдэ.|кочкын-кочды.|кочкын-кочд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: впроголодь
 
 -lexeme
@@ -4802,9 +4782,9 @@
 
 -lexeme
  lex: кочыге
- stem: кочыге.//кочыгэ.//кочыгы.
+ stem: кочыге.//кочыгэ.|кочыгы.|кочыг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: резко и со скрипом
 
 -lexeme
@@ -4844,9 +4824,9 @@
 
 -lexeme
  lex: кочырге
- stem: кочырге.//кочыргэ.//кочыргы.
+ stem: кочырге.//кочыргэ.|кочыргы.|кочырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: со скрипом
 
 -lexeme
@@ -4949,9 +4929,9 @@
 
 -lexeme
  lex: кредалде
- stem: кредалде.//кредалдэ.//кредалды.
+ stem: кредалде.//кредалдэ.|кредалды.|кредалд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: без борьбы
 
 -lexeme
@@ -4965,8 +4945,7 @@
  lex: критически
  stem: критически.//критичэски.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: критически
 
 -lexeme
@@ -5062,9 +5041,9 @@
 
 -lexeme
  lex: кугешныде
- stem: кугешныде.//кугешныдэ.//кугешныды.
+ stem: кугешныде.//кугешныдэ.|кугешныды.|кугешныд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: скромно
 
 -lexeme
@@ -5097,9 +5076,9 @@
 
 -lexeme
  lex: кудырге
- stem: кудырге.//кудыргэ.//кудыргы.
+ stem: кудырге.//кудыргэ.|кудыргы.|кудырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: быстро и шумно
 
 -lexeme
@@ -5169,8 +5148,7 @@
  lex: культурнын
  stem: культурнын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: культурно
 
 -lexeme
@@ -5490,9 +5468,9 @@
 
 -lexeme
  lex: кывыжге
- stem: кывыжге.//кывыжгэ.//кывыжгы.
+ stem: кывыжге.//кывыжгэ.|кывыжгы.|кывыжг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: тихо
 
 -lexeme
@@ -5553,9 +5531,9 @@
 
 -lexeme
  lex: кыдыге
- stem: кыдыге.//кыдыгэ.//кыдыгы.
+ stem: кыдыге.//кыдыгэ.|кыдыгы.|кыдыг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: беспокойно
 
 -lexeme
@@ -5581,9 +5559,9 @@
 
 -lexeme
  lex: кыжге
- stem: кыжге.//кыжгэ.//кыжгы.
+ stem: кыжге.//кыжгэ.|кыжгы.|кыжг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: осторожно, незаметно, потихоньку
 
 -lexeme
@@ -5602,9 +5580,9 @@
 
 -lexeme
  lex: кызырге
- stem: кызырге.//кызыргэ.//кызыргы.
+ stem: кызырге.//кызыргэ.|кызыргы.|кызырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: тихонько, чуть слышно
 
 -lexeme
@@ -5665,9 +5643,9 @@
 
 -lexeme
  lex: кыльдырге
- stem: кыльдырге.//кыльдыргэ.//кыльдыргы.
+ stem: кыльдырге.//кыльдыргэ.|кыльдыргы.|кыльдырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: праздно, без дела
 
 -lexeme
@@ -5714,9 +5692,9 @@
 
 -lexeme
  lex: кырте-карте
- stem: кырте-карте.//кырте-картэ.//кырте-карты.
+ stem: кырте-карте.//кырте-картэ.|кырте-карты.|кырте-карт.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: кое-где, местами; немного
 
 -lexeme
@@ -5805,9 +5783,9 @@
 
 -lexeme
  lex: кӧжге
- stem: кӧжге.//кӧжгэ.//кӧжгы.
+ stem: кӧжге.//кӧжгэ.|кӧжгы.|кӧжг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: шумно, с шуршанием
 
 -lexeme
@@ -5826,9 +5804,9 @@
 
 -lexeme
  lex: кӧныде
- stem: кӧныде.//кӧныдэ.//кӧныды.
+ stem: кӧныде.//кӧныдэ.|кӧныды.|кӧныд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: нехотя
 
 -lexeme
@@ -5910,9 +5888,9 @@
 
 -lexeme
  lex: кӧтырге
- stem: кӧтырге.//кӧтыргэ.//кӧтыргы.
+ stem: кӧтырге.//кӧтыргэ.|кӧтыргы.|кӧтырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: тяжело, большой массой
 
 -lexeme
@@ -5924,9 +5902,9 @@
 
 -lexeme
  lex: кӱдыге
- stem: кӱдыге.//кӱдыгэ.//кӱдыгы.
+ stem: кӱдыге.//кӱдыгэ.|кӱдыгы.|кӱдыг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: гурьбой, шумливой толпой
 
 -lexeme
@@ -6050,9 +6028,9 @@
 
 -lexeme
  lex: кӱлдырге
- stem: кӱлдырге.//кӱлдыргэ.//кӱлдыргы.
+ stem: кӱлдырге.//кӱлдыргэ.|кӱлдыргы.|кӱлдырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: звонко, гулко, с шумом
 
 -lexeme
@@ -6085,9 +6063,9 @@
 
 -lexeme
  lex: кӱрылтде
- stem: кӱрылтде.//кӱрылтдэ.//кӱрылтды.
+ stem: кӱрылтде.//кӱрылтдэ.|кӱрылтды.|кӱрылтд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: непрерывно
 
 -lexeme
@@ -6213,8 +6191,7 @@
  lex: ладын
  stem: ладын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: каким-то образом
 
 -lexeme
@@ -6333,8 +6310,7 @@
  lex: ласкан
  stem: ласкан.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: ласково, нежно; спокойно
 
 -lexeme
@@ -6437,9 +6413,9 @@
 
 -lexeme
  lex: ловыге
- stem: ловыге.//ловыгэ.//ловыгы.
+ stem: ловыге.//ловыгэ.|ловыгы.|ловыг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: тяжело и шумно
 
 -lexeme
@@ -6458,9 +6434,9 @@
 
 -lexeme
  lex: ложге
- stem: ложге.//ложгэ.//ложгы.
+ stem: ложге.//ложгэ.|ложгы.|ложг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: с шумом
 
 -lexeme
@@ -6472,9 +6448,9 @@
 
 -lexeme
  lex: лозырге
- stem: лозырге.//лозыргэ.//лозыргы.
+ stem: лозырге.//лозыргэ.|лозыргы.|лозырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: водянисто, вязко, жидко; бессильно
 
 -lexeme
@@ -6486,9 +6462,9 @@
 
 -lexeme
  lex: лойге
- stem: лойге.//лойгэ.//лойгы.
+ stem: лойге.//лойгэ.|лойгы.|лойг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: плавно, мерно
 
 -lexeme
@@ -6626,9 +6602,9 @@
 
 -lexeme
  lex: лоптырге
- stem: лоптырге.//лоптыргэ.//лоптыргы.
+ stem: лоптырге.//лоптыргэ.|лоптыргы.|лоптырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: тяжело, грузно (сесть)
 
 -lexeme
@@ -6661,9 +6637,9 @@
 
 -lexeme
  lex: лорге
- stem: лорге.//лоргэ.//лоргы.
+ stem: лорге.//лоргэ.|лоргы.|лорг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: гортанно, громко, хрипло
 
 -lexeme
@@ -6682,9 +6658,9 @@
 
 -lexeme
  lex: лостке
- stem: лостке.//лосткэ.//лосткы.
+ stem: лостке.//лосткэ.|лосткы.|лостк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: грузно
 
 -lexeme
@@ -6731,9 +6707,9 @@
 
 -lexeme
  lex: лочыге
- stem: лочыге.//лочыгэ.//лочыгы.
+ stem: лочыге.//лочыгэ.|лочыгы.|лочыг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: об отчётливом произношении
 
 -lexeme
@@ -6759,9 +6735,9 @@
 
 -lexeme
  lex: лоштке
- stem: лоштке.//лошткэ.//лошткы.
+ stem: лоштке.//лошткэ.|лошткы.|лоштк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: широко, полностью, совсем
 
 -lexeme
@@ -6878,9 +6854,9 @@
 
 -lexeme
  lex: лывыге
- stem: лывыге.//лывыгэ.//лывыгы.
+ stem: лывыге.//лывыгэ.|лывыгы.|лывыг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: спокойно, тихо
 
 -lexeme
@@ -6913,9 +6889,9 @@
 
 -lexeme
  lex: лыге
- stem: лыге.//лыгэ.//лыгы.
+ stem: лыге.//лыгэ.|лыгы.|лыг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: перхоть; чешуйки шишки; тонкая кора сосны
 
 -lexeme
@@ -6941,9 +6917,9 @@
 
 -lexeme
  lex: лыдырге
- stem: лыдырге.//лыдыргэ.//лыдыргы.
+ stem: лыдырге.//лыдыргэ.|лыдыргы.|лыдырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: медленно, тихо, плавно
 
 -lexeme
@@ -7004,9 +6980,9 @@
 
 -lexeme
  lex: лыжге
- stem: лыжге.//лыжгэ.//лыжгы.
+ stem: лыжге.//лыжгэ.|лыжгы.|лыжг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: плавно, спокойно, вежливо
 
 -lexeme
@@ -7053,9 +7029,9 @@
 
 -lexeme
  lex: лыйге
- stem: лыйге.//лыйгэ.//лыйгы.
+ stem: лыйге.//лыйгэ.|лыйгы.|лыйг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: плавно, мягко, неторопливо
 
 -lexeme
@@ -7116,9 +7092,9 @@
 
 -lexeme
  lex: лыпке
- stem: лыпке.//лыпкэ.//лыпкы.
+ stem: лыпке.//лыпкэ.|лыпкы.|лыпк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: спокойно, тихо, безмятежно
 
 -lexeme
@@ -7172,9 +7148,9 @@
 
 -lexeme
  lex: лыптырге
- stem: лыптырге.//лыптыргэ.//лыптыргы.
+ stem: лыптырге.//лыптыргэ.|лыптыргы.|лыптырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: медленно, плавно, мягко
 
 -lexeme
@@ -7193,9 +7169,9 @@
 
 -lexeme
  lex: лыстыге
- stem: лыстыге.//лыстыгэ.//лыстыгы.
+ stem: лыстыге.//лыстыгэ.|лыстыгы.|лыстыг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: недвижно
 
 -lexeme
@@ -7249,9 +7225,9 @@
 
 -lexeme
  lex: лыштке
- stem: лыштке.//лышткэ.//лышткы.
+ stem: лыштке.//лышткэ.|лышткы.|лыштк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: спокойно, тихо, мирно
 
 -lexeme
@@ -7396,9 +7372,9 @@
 
 -lexeme
  lex: лӧтырге
- stem: лӧтырге.//лӧтыргэ.//лӧтыргы.
+ stem: лӧтырге.//лӧтыргэ.|лӧтыргы.|лӧтырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: неподвижно
 
 -lexeme
@@ -7417,23 +7393,23 @@
 
 -lexeme
  lex: лӱдде
- stem: лӱдде.//лӱддэ.//лӱдды.
+ stem: лӱдде.//лӱддэ.|лӱдды.|лӱдд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: смело
 
 -lexeme
  lex: лӱдде-вожылде
- stem: лӱдде-вожылде.//лӱдде-вожылдэ.//лӱдде-вожылды.
+ stem: лӱдде-вожылде.//лӱдде-вожылдэ.|лӱдде-вожылды.|лӱдде-вожылд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: решительно, твёрдо
 
 -lexeme
  lex: лӱддегече
- stem: лӱддегече.//лӱддегечэ.//лӱддегечы.
+ stem: лӱддегече.//лӱддегечэ.|лӱддегечы.|лӱддегеч.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: смело
 
 -lexeme
@@ -7508,9 +7484,9 @@
 
 -lexeme
  lex: лӱдын-лӱдде
- stem: лӱдын-лӱдде.//лӱдын-лӱддэ.//лӱдын-лӱдды.
+ stem: лӱдын-лӱдде.//лӱдын-лӱддэ.|лӱдын-лӱдды.|лӱдын-лӱдд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: робко, несмело, осторожно
 
 -lexeme
@@ -7536,9 +7512,9 @@
 
 -lexeme
  lex: лӱжге
- stem: лӱжге.//лӱжгэ.//лӱжгы.
+ stem: лӱжге.//лӱжгэ.|лӱжгы.|лӱжг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: навзрыд (плакать)
 
 -lexeme
@@ -7592,9 +7568,9 @@
 
 -lexeme
  lex: манмаште
- stem: манмаште.//манмаштэ.//манмашты.
+ stem: манмаште.//манмаштэ.|манмашты.|манмашт.
  gramm: POST
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: насчёт, относительно
 
 -lexeme
@@ -7648,17 +7624,16 @@
 
 -lexeme
  lex: марте
- stem: марте.//мартэ.//марты.
+ stem: марте.//мартэ.|марты.|март.
  gramm: POST
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: до
 
 -lexeme
  lex: мастарын
  stem: мастарын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: мастерски
 
 -lexeme
@@ -7805,8 +7780,7 @@
  lex: мудрёнын
  stem: мудрёнын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: мудрёно
 
 -lexeme
@@ -7832,9 +7806,9 @@
 
 -lexeme
  lex: музырге
- stem: музырге.//музыргэ.//музыргы.
+ stem: музырге.//музыргэ.|музыргы.|музырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: неуклюже
 
 -lexeme
@@ -7867,9 +7841,9 @@
 
 -lexeme
  lex: мустке
- stem: мустке.//мусткэ.//мусткы.
+ stem: мустке.//мусткэ.|мусткы.|мустк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: тихо, спокойно
 
 -lexeme
@@ -7902,16 +7876,16 @@
 
 -lexeme
  lex: мучаште
- stem: мучаште.//мучаштэ.//мучашты.
+ stem: мучаште.//мучаштэ.|мучашты.|мучашт.
  gramm: POST
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: в, на
 
 -lexeme
  lex: мучашыште
- stem: мучашыште.//мучашыштэ.//мучашышты.
+ stem: мучашыште.//мучашыштэ.|мучашышты.|мучашышт.
  gramm: POST
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: в, на
 
 -lexeme
@@ -7972,9 +7946,9 @@
 
 -lexeme
  lex: мыжге
- stem: мыжге.//мыжгэ.//мыжгы.
+ stem: мыжге.//мыжгэ.|мыжгы.|мыжг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: тихо, спокойно
 
 -lexeme
@@ -8007,16 +7981,16 @@
 
 -lexeme
  lex: мыкте
- stem: мыкте.//мыктэ.//мыкты.
+ stem: мыкте.//мыктэ.|мыкты.|мыкт.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: верхом
 
 -lexeme
  lex: мылтке
- stem: мылтке.//мылткэ.//мылткы.
+ stem: мылтке.//мылткэ.|мылткы.|мылтк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: мелькать (каяш)
 
 -lexeme
@@ -8077,9 +8051,9 @@
 
 -lexeme
  lex: мӧчырге
- stem: мӧчырге.//мӧчыргэ.//мӧчыргы.
+ stem: мӧчырге.//мӧчыргэ.|мӧчыргы.|мӧчырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: лениво, медлительно
 
 -lexeme
@@ -8177,16 +8151,14 @@
  lex: наглядне
  stem: наглядне.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: наглядно
 
 -lexeme
  lex: наизусть
  stem: наизусть.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: наизусть
 
 -lexeme
@@ -8221,39 +8193,35 @@
  lex: напрокат
  stem: напрокат.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: напрокат
 
 -lexeme
  lex: наре
- stem: наре.//нарэ.//нары.
+ stem: наре.//нарэ.|нары.|нар.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: почти
 
 -lexeme
  lex: нарошно
  stem: нарошно.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: нарочно
 
 -lexeme
  lex: научно
  stem: научно.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: научно
 
 -lexeme
  lex: нахально
  stem: нахально.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: нахально
 
 -lexeme
@@ -8293,16 +8261,16 @@
 
 -lexeme
  lex: немарсе
- stem: немарсе.//немарсэ.//немарсы.
+ stem: немарсе.//немарсэ.|немарсы.|немарс.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: до этого времени
 
 -lexeme
  lex: немерке
- stem: немерке.//немеркэ.//немеркы.
+ stem: немерке.//немеркэ.|немеркы.|немерк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: до этого времени
 
 -lexeme
@@ -8314,9 +8282,9 @@
 
 -lexeme
  lex: нергеште
- stem: нергеште.//нергештэ.//нергешты.
+ stem: нергеште.//нергештэ.|нергешты.|нергешт.
  gramm: POST
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: по поводу
 
 -lexeme
@@ -8412,9 +8380,9 @@
 
 -lexeme
  lex: нойыде
- stem: нойыде.//нойыдэ.//нойыды.
+ stem: нойыде.//нойыдэ.|нойыды.|нойыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: без устали
 
 -lexeme
@@ -8484,8 +8452,7 @@
  lex: нужнан
  stem: нужнан.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: бедно
 
 -lexeme
@@ -8567,9 +8534,9 @@
 
 -lexeme
  lex: нюрге
- stem: нюрге.//нюргэ.//нюргы.
+ stem: нюрге.//нюргэ.|нюргы.|нюрг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: слёзно
 
 -lexeme
@@ -8588,9 +8555,9 @@
 
 -lexeme
  lex: нӧлтдегече
- stem: нӧлтдегече.//нӧлтдегечэ.//нӧлтдегечы.
+ stem: нӧлтдегече.//нӧлтдегечэ.|нӧлтдегечы.|нӧлтдегеч.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: без гордости
 
 -lexeme
@@ -8611,8 +8578,7 @@
  lex: обязательно
  stem: обязательно.//обязатэльно.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: обязательно
 
 -lexeme
@@ -8736,9 +8702,9 @@
 
 -lexeme
  lex: ойырлыде
- stem: ойырлыде.//ойырлыдэ.//ойырлыды.
+ stem: ойырлыде.//ойырлыдэ.|ойырлыды.|ойырлыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: неотлучно
 
 -lexeme
@@ -8759,15 +8725,14 @@
  lex: окотан
  stem: окотан.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: охотно
 
 -lexeme
  lex: оксаде
- stem: оксаде.//оксадэ.//оксады.
+ stem: оксаде.//оксадэ.|оксады.|оксад.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: бесплатно
 
 -lexeme
@@ -8856,16 +8821,16 @@
 
 -lexeme
  lex: ончыгече
- stem: ончыгече.//ончыгечэ.//ончыгечы.
+ stem: ончыгече.//ончыгечэ.|ончыгечы.|ончыгеч.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: позавчера
 
 -lexeme
  lex: ончыде
- stem: ончыде.//ончыдэ.//ончыды.
+ stem: ончыде.//ончыдэ.|ончыды.|ончыд.
  gramm: POST
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: несмотря на
 
 -lexeme
@@ -8907,8 +8872,7 @@
  lex: оперативне
  stem: оперативне.//опэративне.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: оперативно
 
 -lexeme
@@ -8950,8 +8914,7 @@
  lex: организованно
  stem: организованно.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: организованно
 
 -lexeme
@@ -8977,9 +8940,9 @@
 
 -lexeme
  lex: орымешке
- stem: орымешке.//орымешкэ.//орымешкы.
+ stem: орымешке.//орымешкэ.|орымешкы.|орымешк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: до бешенства
 
 -lexeme
@@ -9000,8 +8963,7 @@
  lex: отлично
  stem: отлично.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: отлично
 
 -lexeme
@@ -9022,8 +8984,7 @@
  lex: официально
  stem: официально.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: официально
 
 -lexeme
@@ -9037,8 +8998,7 @@
  lex: очкола
  stem: очкола.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: в очко
 
 -lexeme
@@ -9143,8 +9103,7 @@
  lex: пайын
  stem: пайын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: на паях
 
 -lexeme
@@ -9156,9 +9115,9 @@
 
 -lexeme
  lex: палыде
- stem: палыде.//палыдэ.//палыды.
+ stem: палыде.//палыдэ.|палыды.|палыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: вслепую
 
 -lexeme
@@ -9200,8 +9159,7 @@
  lex: параллельнын
  stem: параллельнын.//параллэльнын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: параллельно
 
 -lexeme
@@ -9236,8 +9194,7 @@
  lex: пачкын-пачкын
  stem: пачкын-пачкын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: пачками
 
 -lexeme
@@ -9263,9 +9220,9 @@
 
 -lexeme
  lex: пеле-пеле
- stem: пеле-пеле.//пеле-пелэ.//пеле-пелы.
+ stem: пеле-пеле.//пеле-пелэ.|пеле-пелы.|пеле-пел.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: наполовину
 
 -lexeme
@@ -9284,9 +9241,9 @@
 
 -lexeme
  lex: пелештыде
- stem: пелештыде.//пелештыдэ.//пелештыды.
+ stem: пелештыде.//пелештыдэ.|пелештыды.|пелештыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: молча
 
 -lexeme
@@ -9321,24 +9278,21 @@
  lex: первыйрак
  stem: первыйрак.//пэрвыйрак.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: в первое время
 
 -lexeme
  lex: первыяк
  stem: первыяк.//пэрвыяк.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: в первую очередь
 
 -lexeme
  lex: персонально
  stem: персонально.//пэрсонально.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: персонально
 
 -lexeme
@@ -9394,8 +9348,7 @@
  lex: пианин
  stem: пианин.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: пианино
 
 -lexeme
@@ -9423,8 +9376,7 @@
  lex: плокан
  stem: плокан.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: плохо
 
 -lexeme
@@ -9457,9 +9409,9 @@
 
 -lexeme
  lex: пожге
- stem: пожге.//пожгэ.//пожгы.
+ stem: пожге.//пожгэ.|пожгы.|пожг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: с шумом (о дыхании)
 
 -lexeme
@@ -9485,16 +9437,16 @@
 
 -lexeme
  lex: полшыде
- stem: полшыде.//полшыдэ.//полшыды.
+ stem: полшыде.//полшыдэ.|полшыды.|полшыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: без помощи
 
 -lexeme
  lex: помыжалтде
- stem: помыжалтде.//помыжалтдэ.//помыжалтды.
+ stem: помыжалтде.//помыжалтдэ.|помыжалтды.|помыжалтд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: беспробудно
 
 -lexeme
@@ -9541,16 +9493,16 @@
 
 -lexeme
  lex: поче
- stem: поче.//почэ.//почы.
+ stem: поче.//почэ.|почы.|поч.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: один за другим, подряд
 
 -lexeme
  lex: поче-поче
- stem: поче-поче.//поче-почэ.//поче-почы.
+ stem: поче-поче.//поче-почэ.|поче-почы.|поче-поч.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: гуськом
 
 -lexeme
@@ -9585,16 +9537,14 @@
  lex: проворын
  stem: проворын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: быстро, шустро, ловко
 
 -lexeme
  lex: простан
  stem: простан.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: просто
 
 -lexeme
@@ -9608,8 +9558,7 @@
  lex: проч
  stem: проч.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: совершенно
 
 -lexeme
@@ -9649,9 +9598,9 @@
 
 -lexeme
  lex: пужге
- stem: пужге.//пужгэ.//пужгы.
+ stem: пужге.//пужгэ.|пужгы.|пужг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: с шумом
 
 -lexeme
@@ -9761,16 +9710,16 @@
 
 -lexeme
  lex: пурлашке
- stem: пурлашке.//пурлашкэ.//пурлашкы.
+ stem: пурлашке.//пурлашкэ.|пурлашкы.|пурлашк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: направо
 
 -lexeme
  lex: пурлаште
- stem: пурлаште.//пурлаштэ.//пурлашты.
+ stem: пурлаште.//пурлаштэ.|пурлашты.|пурлашт.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: направо
 
 -lexeme
@@ -9782,9 +9731,9 @@
 
 -lexeme
  lex: пуртге
- stem: пуртге.//пуртгэ.//пуртгы.
+ stem: пуртге.//пуртгэ.|пуртгы.|пуртг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: быстро, стремительно
 
 -lexeme
@@ -9840,8 +9789,7 @@
  lex: пушо
  stem: пушо.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: пуще, больше
 
 -lexeme
@@ -9853,9 +9801,9 @@
 
 -lexeme
  lex: пуыде
- stem: пуыде.//пуыдэ.//пуыды.
+ stem: пуыде.//пуыдэ.|пуыды.|пуыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: без лишних слов
 
 -lexeme
@@ -9930,16 +9878,16 @@
 
 -lexeme
  lex: пыкше
- stem: пыкше.//пыкшэ.//пыкшы.
+ stem: пыкше.//пыкшэ.|пыкшы.|пыкш.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: едва, еле
 
 -lexeme
  lex: пыкше-пыкше
- stem: пыкше-пыкше.//пыкше-пыкшэ.//пыкше-пыкшы.
+ stem: пыкше-пыкше.//пыкше-пыкшэ.|пыкше-пыкшы.|пыкше-пыкш.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: еле-еле
 
 -lexeme
@@ -10049,9 +9997,9 @@
 
 -lexeme
  lex: пыльге
- stem: пыльге.//пыльгэ.//пыльгы.
+ stem: пыльге.//пыльгэ.|пыльгы.|пыльг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: льстиво
 
 -lexeme
@@ -10063,9 +10011,9 @@
 
 -lexeme
  lex: пыльдырге
- stem: пыльдырге.//пыльдыргэ.//пыльдыргы.
+ stem: пыльдырге.//пыльдыргэ.|пыльдыргы.|пыльдырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: тихо, незаметно
 
 -lexeme
@@ -10343,9 +10291,9 @@
 
 -lexeme
  lex: пӧжге
- stem: пӧжге.//пӧжгэ.//пӧжгы.
+ stem: пӧжге.//пӧжгэ.|пӧжгы.|пӧжг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: шумно
 
 -lexeme
@@ -10492,32 +10440,28 @@
  lex: радамлын
  stem: радамлын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: по порядку
 
 -lexeme
  lex: радамын
  stem: радамын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: рядами
 
 -lexeme
  lex: радамын-радамын
  stem: радамын-радамын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: рядами
 
 -lexeme
  lex: радыге
  stem: радыге.//радыгэ.//радыгы.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: стройными рядами
 
 -lexeme
@@ -10664,16 +10608,14 @@
  lex: реалистически
  stem: реалистически.//реалистичэски.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: реалистически
 
 -lexeme
  lex: решительно
  stem: решительно.//решитэльно.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: решительно
 
 -lexeme
@@ -10685,16 +10627,16 @@
 
 -lexeme
  lex: ровыге
- stem: ровыге.//ровыгэ.//ровыгы.
+ stem: ровыге.//ровыгэ.|ровыгы.|ровыг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: дружно
 
 -lexeme
  lex: рожге
- stem: рожге.//рожгэ.//рожгы.
+ stem: рожге.//рожгэ.|рожгы.|рожг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: с шумом, шуршанием
 
 -lexeme
@@ -10706,9 +10648,9 @@
 
 -lexeme
  lex: ропке
- stem: ропке.//ропкэ.//ропкы.
+ stem: ропке.//ропкэ.|ропкы.|ропк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: быстро, торопливо
 
 -lexeme
@@ -10776,9 +10718,9 @@
 
 -lexeme
  lex: роштке
- stem: роштке.//рошткэ.//рошткы.
+ stem: роштке.//рошткэ.|рошткы.|роштк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: энергично, чётко
 
 -lexeme
@@ -10881,16 +10823,16 @@
 
 -lexeme
  lex: рыҥге
- stem: рыҥге.//рыҥгэ.//рыҥгы.
+ stem: рыҥге.//рыҥгэ.|рыҥгы.|рыҥг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: смирно, прямо; стройно
 
 -lexeme
  lex: рӱвыге
- stem: рӱвыге.//рӱвыгэ.//рӱвыгы.
+ stem: рӱвыге.//рӱвыгэ.|рӱвыгы.|рӱвыг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: дружно, шумно
 
 -lexeme
@@ -10909,9 +10851,9 @@
 
 -lexeme
  lex: рӱжге
- stem: рӱжге.//рӱжгэ.//рӱжгы.
+ stem: рӱжге.//рӱжгэ.|рӱжгы.|рӱжг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: дружно
 
 -lexeme
@@ -10937,9 +10879,9 @@
 
 -lexeme
  lex: рӱпланыде
- stem: рӱпланыде.//рӱпланыдэ.//рӱпланыды.
+ stem: рӱпланыде.//рӱпланыдэ.|рӱпланыды.|рӱпланыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: не тревожась
 
 -lexeme
@@ -10958,9 +10900,9 @@
 
 -lexeme
  lex: рӱштке
- stem: рӱштке.//рӱшткэ.//рӱшткы.
+ stem: рӱштке.//рӱшткэ.|рӱшткы.|рӱштк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: со звоном
 
 -lexeme
@@ -11093,32 +11035,28 @@
  lex: сатирически
  stem: сатирически.//сатиричэски.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: сатирически
 
 -lexeme
  lex: свежан
  stem: свежан.//свэжан.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: свежо
 
 -lexeme
  lex: свежанек
  stem: свежанек.//свэжанек.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: в свежем виде
 
 -lexeme
  lex: сдельне
  stem: сдельне.//сдэльне.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: сдельно
 
 -lexeme
@@ -11137,9 +11075,9 @@
 
 -lexeme
  lex: семешке
- stem: семешке.//семешкэ.//семешкы.
+ stem: семешке.//семешкэ.|семешкы.|семешк.
  gramm: POST
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: наподобие
 
 -lexeme
@@ -11174,15 +11112,14 @@
  lex: серьёзнын
  stem: серьёзнын.//сэрьёзнын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: серьёзно
 
 -lexeme
  lex: сеҥалтде
- stem: сеҥалтде.//сеҥалтдэ.//сеҥалтды.
+ stem: сеҥалтде.//сеҥалтдэ.|сеҥалтды.|сеҥалтд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: беспроигрышно
 
 -lexeme
@@ -11203,16 +11140,14 @@
  lex: силом
  stem: силом.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: насильно
 
 -lexeme
  lex: систематически
  stem: систематически.//систематичэски.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: систематически
 
 -lexeme
@@ -11268,24 +11203,21 @@
  lex: скромнын
  stem: скромнын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: скромно
 
 -lexeme
  lex: случайно
  stem: случайно.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: случайно
 
 -lexeme
  lex: смирно
  stem: смирно.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: смирно
 
 -lexeme
@@ -11341,8 +11273,7 @@
  lex: сознательно
  stem: сознательно.//сознатэльно.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: сознательно
 
 -lexeme
@@ -11440,8 +11371,7 @@
  lex: социально
  stem: социально.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: социально
 
 -lexeme
@@ -11476,8 +11406,7 @@
  lex: срочно
  stem: срочно.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: срочно
 
 -lexeme
@@ -11491,16 +11420,14 @@
  lex: стихийнын
  stem: стихийнын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: стихийно
 
 -lexeme
  lex: строгын
  stem: строгын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: строго
 
 -lexeme
@@ -11563,16 +11490,14 @@
  lex: схематичне
  stem: схематичне.//схэматичне.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: схематично
 
 -lexeme
  lex: сценически
  stem: сценически.//сценичэски.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: сценически
 
 -lexeme
@@ -11682,9 +11607,9 @@
 
 -lexeme
  lex: сырыде
- stem: сырыде.//сырыдэ.//сырыды.
+ stem: сырыде.//сырыдэ.|сырыды.|сырыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: незлобиво
 
 -lexeme
@@ -11866,8 +11791,7 @@
  lex: так
  stem: так.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: просто так
 
 -lexeme
@@ -11881,16 +11805,14 @@
  lex: такат
  stem: такат.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: и так
 
 -lexeme
  lex: такеш
  stem: такеш.//такэш.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: за так; даром
 
 -lexeme
@@ -11904,16 +11826,14 @@
  lex: такше
  stem: такше.//такшэ.//такшы.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: вообще-то; в целом
 
 -lexeme
  lex: такшым
  stem: такшым.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: вообще-то, так-то
 
 -lexeme
@@ -11988,9 +11908,9 @@
 
 -lexeme
  lex: тарваныде
- stem: тарваныде.//тарваныдэ.//тарваныды.
+ stem: тарваныде.//тарваныдэ.|тарваныды.|тарваныд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: неподвижно
 
 -lexeme
@@ -12030,9 +11950,9 @@
 
 -lexeme
  lex: таче
- stem: таче.//тачэ.//тачы.
+ stem: таче.//тачэ.|тачы.|тач.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: сегодня
 
 -lexeme
@@ -12074,8 +11994,7 @@
  lex: творчески
  stem: творчески.//творчэски.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: творчески
 
 -lexeme
@@ -12087,9 +12006,9 @@
 
 -lexeme
  lex: теве-теве
- stem: теве-теве.//теве-тевэ.//теве-тевы.
+ stem: теве-теве.//теве-тевэ.|теве-тевы.|теве-тев.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: чуть не; вот-вот
 
 -lexeme
@@ -12101,9 +12020,9 @@
 
 -lexeme
  lex: тегакше
- stem: тегакше.//тегакшэ.//тегакшы.
+ stem: тегакше.//тегакшэ.|тегакшы.|тегакш.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: так-то, вообще-то
 
 -lexeme
@@ -12171,9 +12090,9 @@
 
 -lexeme
  lex: теммешке
- stem: теммешке.//теммешкэ.//теммешкы.
+ stem: теммешке.//теммешкэ.|теммешкы.|теммешк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: досыта
 
 -lexeme
@@ -12185,9 +12104,9 @@
 
 -lexeme
  lex: темын-темде
- stem: темын-темде.//темын-темдэ.//темын-темды.
+ stem: темын-темде.//темын-темдэ.|темын-темды.|темын-темд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: впроголодь
 
 -lexeme
@@ -12227,9 +12146,9 @@
 
 -lexeme
  lex: тептерде
- stem: тептерде.//тептердэ.//тептерды.
+ stem: тептерде.//тептердэ.|тептерды.|тептерд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: бестолково
 
 -lexeme
@@ -12269,9 +12188,9 @@
 
 -lexeme
  lex: терке
- stem: терке.//теркэ.//теркы.
+ stem: терке.//теркэ.|теркы.|терк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: домой
 
 -lexeme
@@ -12290,9 +12209,9 @@
 
 -lexeme
  lex: теҥгече
- stem: теҥгече.//теҥгечэ.//теҥгечы.
+ stem: теҥгече.//теҥгечэ.|теҥгечы.|теҥгеч.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: вчера
 
 -lexeme
@@ -12325,9 +12244,9 @@
 
 -lexeme
  lex: титакде
- stem: титакде.//титакдэ.//титакды.
+ stem: титакде.//титакдэ.|титакды.|титакд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: безвинно, необоснованно
 
 -lexeme
@@ -12416,9 +12335,9 @@
 
 -lexeme
  lex: товыге
- stem: товыге.//товыгэ.//товыгы.
+ stem: товыге.//товыгэ.|товыгы.|товыг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: со стуком
 
 -lexeme
@@ -12432,15 +12351,14 @@
  lex: тожо
  stem: тожо.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: тоже
 
 -lexeme
  lex: тойыде
- stem: тойыде.//тойыдэ.//тойыды.
+ stem: тойыде.//тойыдэ.|тойыды.|тойыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: откровенно
 
 -lexeme
@@ -12606,16 +12524,16 @@
 
 -lexeme
  lex: торашке
- stem: торашке.//торашкэ.//торашкы.
+ stem: торашке.//торашкэ.|торашкы.|торашк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: вдаль
 
 -lexeme
  lex: тораште
- stem: тораште.//тораштэ.//торашты.
+ stem: тораште.//тораштэ.|торашты.|торашт.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: вдали
 
 -lexeme
@@ -12634,16 +12552,16 @@
 
 -lexeme
  lex: торешге-кутге
- stem: торешге-кутге.//торешге-кутгэ.//торешге-кутгы.
+ stem: торешге-кутге.//торешге-кутгэ.|торешге-кутгы.|торешге-кутг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: и в ширину, и в длину; чистый; не из разных нитей
 
 -lexeme
  lex: торешке
- stem: торешке.//торешкэ.//торешкы.
+ stem: торешке.//торешкэ.|торешкы.|торешк.
  gramm: POST
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: на, около
 
 -lexeme
@@ -12678,8 +12596,7 @@
  lex: торжественне
  stem: торжественне.//торжествэнне.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: торжественно
 
 -lexeme
@@ -12705,17 +12622,16 @@
 
 -lexeme
  lex: тортке
- stem: тортке.//торткэ.//торткы.
+ stem: тортке.//торткэ.|торткы.|тортк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: неподвижно, спокойно
 
 -lexeme
  lex: точно
  stem: точно.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: точно
 
 -lexeme
@@ -12748,9 +12664,9 @@
 
 -lexeme
  lex: тоштын-тоштде
- stem: тоштын-тоштде.//тоштын-тоштдэ.//тоштын-тоштды.
+ stem: тоштын-тоштде.//тоштын-тоштдэ.|тоштын-тоштды.|тоштын-тоштд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: нерешительно
 
 -lexeme
@@ -12776,9 +12692,9 @@
 
 -lexeme
  lex: тоҥге
- stem: тоҥге.//тоҥгэ.//тоҥгы.
+ stem: тоҥге.//тоҥгэ.|тоҥгы.|тоҥг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: ошеломлённо
 
 -lexeme
@@ -12799,16 +12715,14 @@
  lex: трук
  stem: трук.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: вдруг
 
 -lexeme
  lex: трукышто
  stem: трукышто.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: от неожиданности
 
 -lexeme
@@ -12820,9 +12734,9 @@
 
 -lexeme
  lex: туаде
- stem: туаде.//туадэ.//туады.
+ stem: туаде.//туадэ.|туады.|туад.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: сегодня
 
 -lexeme
@@ -12841,16 +12755,16 @@
 
 -lexeme
  lex: тувелышке
- stem: тувелышке.//тувелышкэ.//тувелышкы.
+ stem: тувелышке.//тувелышкэ.|тувелышкы.|тувелышк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: на ту сторону, туда
 
 -lexeme
  lex: тувешке
- stem: тувешке.//тувешкэ.//тувешкы.
+ stem: тувешке.//тувешкэ.|тувешкы.|тувешк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: до тех пор
 
 -lexeme
@@ -12883,9 +12797,9 @@
 
 -lexeme
  lex: тугудеште
- stem: тугудеште.//тугудештэ.//тугудешты.
+ stem: тугудеште.//тугудештэ.|тугудешты.|тугудешт.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: в тот момент
 
 -lexeme
@@ -12960,9 +12874,9 @@
 
 -lexeme
  lex: тумарте
- stem: тумарте.//тумартэ.//тумарты.
+ stem: тумарте.//тумартэ.|тумарты.|тумарт.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: до тех пор
 
 -lexeme
@@ -12995,16 +12909,16 @@
 
 -lexeme
  lex: тупе-ваше
- stem: тупе-ваше.//тупе-вашэ.//тупе-вашы.
+ stem: тупе-ваше.//тупе-вашэ.|тупе-вашы.|тупе-ваш.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: спиной к спине
 
 -lexeme
  lex: тупе-тупе
- stem: тупе-тупе.//тупе-тупэ.//тупе-тупы.
+ stem: тупе-тупе.//тупе-тупэ.|тупе-тупы.|тупе-туп.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: спиной к спине
 
 -lexeme
@@ -13044,16 +12958,16 @@
 
 -lexeme
  lex: турашке
- stem: турашке.//турашкэ.//турашкы.
+ stem: турашке.//турашкэ.|турашкы.|турашк.
  gramm: POST
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: до, к, на
 
 -lexeme
  lex: тураште
- stem: тураште.//тураштэ.//турашты.
+ stem: тураште.//тураштэ.|турашты.|турашт.
  gramm: POST
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: сразу; около, к
 
 -lexeme
@@ -13065,9 +12979,9 @@
 
 -lexeme
  lex: турге
- stem: турге.//тургэ.//тургы.
+ stem: турге.//тургэ.|тургы.|тург.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: с рокотом
 
 -lexeme
@@ -13079,9 +12993,9 @@
 
 -lexeme
  lex: тургыжланыде
- stem: тургыжланыде.//тургыжланыдэ.//тургыжланыды.
+ stem: тургыжланыде.//тургыжланыдэ.|тургыжланыды.|тургыжланыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: спокойно
 
 -lexeme
@@ -13240,9 +13154,9 @@
 
 -lexeme
  lex: тыглайже
- stem: тыглайже.//тыглайжэ.//тыглайжы.
+ stem: тыглайже.//тыглайжэ.|тыглайжы.|тыглайж.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: на первый взгляд
 
 -lexeme
@@ -13275,16 +13189,16 @@
 
 -lexeme
  lex: тыгудеште
- stem: тыгудеште.//тыгудештэ.//тыгудешты.
+ stem: тыгудеште.//тыгудештэ.|тыгудешты.|тыгудешт.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: в это время
 
 -lexeme
  lex: тыгутлаште
- stem: тыгутлаште.//тыгутлаштэ.//тыгутлашты.
+ stem: тыгутлаште.//тыгутлаштэ.|тыгутлашты.|тыгутлашт.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: в это время
 
 -lexeme
@@ -13345,9 +13259,9 @@
 
 -lexeme
  lex: тылге
- stem: тылге.//тылгэ.//тылгы.
+ stem: тылге.//тылгэ.|тылгы.|тылг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: плавно, покачиваясь
 
 -lexeme
@@ -13387,9 +13301,9 @@
 
 -lexeme
  lex: тыманмешке
- stem: тыманмешке.//тыманмешкэ.//тыманмешкы.
+ stem: тыманмешке.//тыманмешкэ.|тыманмешкы.|тыманмешк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: тотчас, вмиг, очень быстро, в момент, сразу же, тут же
 
 -lexeme
@@ -13401,9 +13315,9 @@
 
 -lexeme
  lex: тымарте
- stem: тымарте.//тымартэ.//тымарты.
+ stem: тымарте.//тымартэ.|тымарты.|тымарт.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: до сих пор
 
 -lexeme
@@ -13478,9 +13392,9 @@
 
 -lexeme
  lex: тыпке
- stem: тыпке.//тыпкэ.//тыпкы.
+ stem: тыпке.//тыпкэ.|тыпкы.|тыпк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: тихо
 
 -lexeme
@@ -13492,9 +13406,9 @@
 
 -lexeme
  lex: тыпланыде
- stem: тыпланыде.//тыпланыдэ.//тыпланыды.
+ stem: тыпланыде.//тыпланыдэ.|тыпланыды.|тыпланыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: без умолку
 
 -lexeme
@@ -13513,9 +13427,9 @@
 
 -lexeme
  lex: тырге
- stem: тырге.//тыргэ.//тыргы.
+ stem: тырге.//тыргэ.|тыргы.|тырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: с треском, стрекотом
 
 -lexeme
@@ -13534,9 +13448,9 @@
 
 -lexeme
  lex: тыртке
- stem: тыртке.//тырткэ.//тырткы.
+ stem: тыртке.//тырткэ.|тырткы.|тыртк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: торчком
 
 -lexeme
@@ -13667,16 +13581,16 @@
 
 -lexeme
  lex: тӧпке
- stem: тӧпке.//тӧпкэ.//тӧпкы.
+ stem: тӧпке.//тӧпкэ.|тӧпкы.|тӧпк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: грузно, тяжело, неуклюже
 
 -lexeme
  lex: тӧпке
- stem: тӧпке.//тӧпкэ.//тӧпкы.
+ stem: тӧпке.//тӧпкэ.|тӧпкы.|тӧпк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: неподвижно
 
 -lexeme
@@ -13695,16 +13609,16 @@
 
 -lexeme
  lex: тӧпырге
- stem: тӧпырге.//тӧпыргэ.//тӧпыргы.
+ stem: тӧпырге.//тӧпыргэ.|тӧпыргы.|тӧпырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: грузно, тяжело, с трудом
 
 -lexeme
  lex: тӧрге
- stem: тӧрге.//тӧргэ.//тӧргы.
+ stem: тӧрге.//тӧргэ.|тӧргы.|тӧрг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: рывками
 
 -lexeme
@@ -13751,9 +13665,9 @@
 
 -lexeme
  lex: тӱвыге
- stem: тӱвыге.//тӱвыгэ.//тӱвыгы.
+ stem: тӱвыге.//тӱвыгэ.|тӱвыгы.|тӱвыг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: шумно; шумной гурьбой
 
 -lexeme
@@ -13828,16 +13742,16 @@
 
 -lexeme
  lex: тӱкнен-тӱкныде
- stem: тӱкнен-тӱкныде.//тӱкнен-тӱкныдэ.//тӱкнен-тӱкныды.
+ stem: тӱкнен-тӱкныде.//тӱкнен-тӱкныдэ.|тӱкнен-тӱкныды.|тӱкнен-тӱкныд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: едва касаясь
 
 -lexeme
  lex: тӱкныде
- stem: тӱкныде.//тӱкныдэ.//тӱкныды.
+ stem: тӱкныде.//тӱкныдэ.|тӱкныды.|тӱкныд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: без запинки
 
 -lexeme
@@ -13849,9 +13763,9 @@
 
 -lexeme
  lex: тӱлыде
- stem: тӱлыде.//тӱлыдэ.//тӱлыды.
+ stem: тӱлыде.//тӱлыдэ.|тӱлыды.|тӱлыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: бесплатно
 
 -lexeme
@@ -13933,9 +13847,9 @@
 
 -lexeme
  lex: тӱрге
- stem: тӱрге.//тӱргэ.//тӱргы.
+ stem: тӱрге.//тӱргэ.|тӱргы.|тӱрг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: клубами, столбом
 
 -lexeme
@@ -13996,9 +13910,9 @@
 
 -lexeme
  lex: тӱсен-тӱсыде
- stem: тӱсен-тӱсыде.//тӱсен-тӱсыдэ.//тӱсен-тӱсыды.
+ stem: тӱсен-тӱсыде.//тӱсен-тӱсыдэ.|тӱсен-тӱсыды.|тӱсен-тӱсыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: кое-как мирясь
 
 -lexeme
@@ -14087,9 +14001,9 @@
 
 -lexeme
  lex: у-уге
- stem: у-уге.//у-угэ.//у-угы.
+ stem: у-уге.//у-угэ.|у-угы.|у-уг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: с шумом
 
 -lexeme
@@ -14131,16 +14045,14 @@
  lex: ударлын
  stem: ударлын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: ударно
 
 -lexeme
  lex: ударнын
  stem: ударнын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: ударно
 
 -lexeme
@@ -14245,8 +14157,7 @@
  lex: уже
  stem: уже.//ужэ.//ужы.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: уже
 
 -lexeme
@@ -14335,9 +14246,9 @@
 
 -lexeme
  lex: умбале
- stem: умбале.//умбалэ.//умбалы.
+ stem: умбале.//умбалэ.|умбалы.|умбал.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: наизнанку
 
 -lexeme
@@ -14477,8 +14388,7 @@
  lex: устно
  stem: устно.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: устно
 
 -lexeme
@@ -14497,9 +14407,9 @@
 
 -lexeme
  lex: утларакше
- stem: утларакше.//утларакшэ.//утларакшы.
+ stem: утларакше.//утларакшэ.|утларакшы.|утларакш.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: большей частью
 
 -lexeme
@@ -14553,9 +14463,9 @@
 
 -lexeme
  lex: утымешке
- stem: утымешке.//утымешкэ.//утымешкы.
+ stem: утымешке.//утымешкэ.|утымешкы.|утымешк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: очень много
 
 -lexeme
@@ -14660,8 +14570,7 @@
  lex: фактически
  stem: фактически.//фактичэски.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: фактически
 
 -lexeme
@@ -14771,9 +14680,9 @@
 
 -lexeme
  lex: чакныде
- stem: чакныде.//чакныдэ.//чакныды.
+ stem: чакныде.//чакныдэ.|чакныды.|чакныд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: неотступно
 
 -lexeme
@@ -14806,9 +14715,9 @@
 
 -lexeme
  lex: чаманыде
- stem: чаманыде.//чаманыдэ.//чаманыды.
+ stem: чаманыде.//чаманыдэ.|чаманыды.|чаманыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: безжалостно
 
 -lexeme
@@ -14932,16 +14841,16 @@
 
 -lexeme
  lex: чарныде
- stem: чарныде.//чарныдэ.//чарныды.
+ stem: чарныде.//чарныдэ.|чарныды.|чарныд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: беспрестанно
 
 -lexeme
  lex: чарныде-эксыде
- stem: чарныде-эксыде.//чарныде-эксыдэ.//чарныде-эксыды.
+ stem: чарныде-эксыде.//чарныде-эксыдэ.|чарныде-эксыды.|чарныде-эксыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: непрерывно
 
 -lexeme
@@ -15018,8 +14927,7 @@
  lex: черетде
  stem: черетде.//черетдэ.//черетды.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: без очереди
 
 -lexeme
@@ -15040,24 +14948,21 @@
  lex: чеслын
  stem: чеслын.//чэслын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: с почестями
 
 -lexeme
  lex: честне
  stem: честне.//чэстне.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: честно
 
 -lexeme
  lex: честнын
  stem: честнын.//чэстнын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: честно
 
 -lexeme
@@ -15071,8 +14976,7 @@
  lex: чечас
  stem: чечас.//чэчас.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: сейчас
 
 -lexeme
@@ -15189,9 +15093,9 @@
 
 -lexeme
  lex: човыге
- stem: човыге.//човыгэ.//човыгы.
+ stem: човыге.//човыгэ.|човыгы.|човыг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: ручьём, градом, струйкой (течь)
 
 -lexeme
@@ -15203,9 +15107,9 @@
 
 -lexeme
  lex: чодырге
- stem: чодырге.//чодыргэ.//чодыргы.
+ stem: чодырге.//чодыргэ.|чодыргы.|чодырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: с хрустом, с треском
 
 -lexeme
@@ -15217,9 +15121,9 @@
 
 -lexeme
  lex: чожге
- stem: чожге.//чожгэ.//чожгы.
+ stem: чожге.//чожгэ.|чожгы.|чожг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: с шумом
 
 -lexeme
@@ -15254,8 +15158,7 @@
  lex: чокым
  stem: чокым.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: чохом; приблизительно
 
 -lexeme
@@ -15274,9 +15177,9 @@
 
 -lexeme
  lex: чолге
- stem: чолге.//чолгэ.//чолгы.
+ stem: чолге.//чолгэ.|чолгы.|чолг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: ярко
 
 -lexeme
@@ -15302,9 +15205,9 @@
 
 -lexeme
  lex: чолдырге
- stem: чолдырге.//чолдыргэ.//чолдыргы.
+ stem: чолдырге.//чолдыргэ.|чолдыргы.|чолдырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: звонко
 
 -lexeme
@@ -15393,9 +15296,9 @@
 
 -lexeme
  lex: чорге
- stem: чорге.//чоргэ.//чоргы.
+ stem: чорге.//чоргэ.|чоргы.|чорг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: ручьём, обильно (течь)
 
 -lexeme
@@ -15449,9 +15352,9 @@
 
 -lexeme
  lex: чотырге
- stem: чотырге.//чотыргэ.//чотыргы.
+ stem: чотырге.//чотыргэ.|чотыргы.|чотырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: со скрежетом
 
 -lexeme
@@ -15484,9 +15387,9 @@
 
 -lexeme
  lex: чоштырге
- stem: чоштырге.//чоштыргэ.//чоштыргы.
+ stem: чоштырге.//чоштыргэ.|чоштыргы.|чоштырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: с хрустом; с треском
 
 -lexeme
@@ -15498,9 +15401,9 @@
 
 -lexeme
  lex: чояланыде
- stem: чояланыде.//чояланыдэ.//чояланыды.
+ stem: чояланыде.//чояланыдэ.|чояланыды.|чояланыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: бесхитростно
 
 -lexeme
@@ -15603,16 +15506,16 @@
 
 -lexeme
  lex: чуйге
- stem: чуйге.//чуйгэ.//чуйгы.
+ stem: чуйге.//чуйгэ.|чуйгы.|чуйг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: извиваясь, вытягиваясь (о дыме)
 
 -lexeme
  lex: чуйге
- stem: чуйге.//чуйгэ.//чуйгы.
+ stem: чуйге.//чуйгэ.|чуйгы.|чуйг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: пристально
 
 -lexeme
@@ -15715,9 +15618,9 @@
 
 -lexeme
  lex: чурге
- stem: чурге.//чургэ.//чургы.
+ stem: чурге.//чургэ.|чургы.|чург.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: пристально
 
 -lexeme
@@ -15778,9 +15681,9 @@
 
 -lexeme
  lex: чуҥге
- stem: чуҥге.//чуҥгэ.//чуҥгы.
+ stem: чуҥге.//чуҥгэ.|чуҥгы.|чуҥг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: неподвижно; торчком
 
 -lexeme
@@ -15883,9 +15786,9 @@
 
 -lexeme
  lex: чыдырге
- stem: чыдырге.//чыдыргэ.//чыдыргы.
+ stem: чыдырге.//чыдыргэ.|чыдыргы.|чыдырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: больно
 
 -lexeme
@@ -15967,9 +15870,9 @@
 
 -lexeme
  lex: чыйге
- stem: чыйге.//чыйгэ.//чыйгы.
+ stem: чыйге.//чыйгэ.|чыйгы.|чыйг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: неярко, тускло
 
 -lexeme
@@ -16023,9 +15926,9 @@
 
 -lexeme
  lex: чылге
- stem: чылге.//чылгэ.//чылгы.
+ stem: чылге.//чылгэ.|чылгы.|чылг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: сияя, блестя
 
 -lexeme
@@ -16044,9 +15947,9 @@
 
 -lexeme
  lex: чылдырге
- stem: чылдырге.//чылдыргэ.//чылдыргы.
+ stem: чылдырге.//чылдыргэ.|чылдыргы.|чылдырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: звонко
 
 -lexeme
@@ -16261,16 +16164,16 @@
 
 -lexeme
  lex: чырге
- stem: чырге.//чыргэ.//чыргы.
+ stem: чырге.//чыргэ.|чыргы.|чырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: внимательно
 
 -lexeme
  lex: чырге
- stem: чырге.//чыргэ.//чыргы.
+ stem: чырге.//чыргэ.|чыргы.|чырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: струйкой, ручьём
 
 -lexeme
@@ -16338,9 +16241,9 @@
 
 -lexeme
  lex: чытен-чытыде
- stem: чытен-чытыде.//чытен-чытыдэ.//чытен-чытыды.
+ stem: чытен-чытыде.//чытен-чытыдэ.|чытен-чытыды.|чытен-чытыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: нетерпеливо
 
 -lexeme
@@ -16598,9 +16501,9 @@
 
 -lexeme
  lex: шаярыде
- stem: шаярыде.//шаярыдэ.//шаярыды.
+ stem: шаярыде.//шаярыдэ.|шаярыды.|шаярыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: без шуток
 
 -lexeme
@@ -16612,9 +16515,9 @@
 
 -lexeme
  lex: шаҥге
- stem: шаҥге.//шаҥгэ.//шаҥгы.
+ stem: шаҥге.//шаҥгэ.|шаҥгы.|шаҥг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: недавно
 
 -lexeme
@@ -16626,9 +16529,9 @@
 
 -lexeme
  lex: шекланыде
- stem: шекланыде.//шекланыдэ.//шекланыды.
+ stem: шекланыде.//шекланыдэ.|шекланыды.|шекланыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: неосторожно
 
 -lexeme
@@ -16696,23 +16599,23 @@
 
 -lexeme
  lex: шижде
- stem: шижде.//шиждэ.//шижды.
+ stem: шижде.//шиждэ.|шижды.|шижд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: незаметно; неожиданно
 
 -lexeme
  lex: шижде-вучыде
- stem: шижде-вучыде.//шижде-вучыдэ.//шижде-вучыды.
+ stem: шижде-вучыде.//шижде-вучыдэ.|шижде-вучыды.|шижде-вучыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: нежданно-негаданно
 
 -lexeme
  lex: шижде-годде
- stem: шижде-годде.//шижде-годдэ.//шижде-годды.
+ stem: шижде-годде.//шижде-годдэ.|шижде-годды.|шижде-годд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: незаметно
 
 -lexeme
@@ -16745,9 +16648,9 @@
 
 -lexeme
  lex: шижын-шижде
- stem: шижын-шижде.//шижын-шиждэ.//шижын-шижды.
+ stem: шижын-шижде.//шижын-шиждэ.|шижын-шижды.|шижын-шижд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: незаметно, непроизвольно
 
 -lexeme
@@ -16822,9 +16725,9 @@
 
 -lexeme
  lex: шинчен-шинчыде
- stem: шинчен-шинчыде.//шинчен-шинчыдэ.//шинчен-шинчыды.
+ stem: шинчен-шинчыде.//шинчен-шинчыдэ.|шинчен-шинчыды.|шинчен-шинчыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: с нетерпением
 
 -lexeme
@@ -16878,16 +16781,16 @@
 
 -lexeme
  lex: шовыге
- stem: шовыге.//шовыгэ.//шовыгы.
+ stem: шовыге.//шовыгэ.|шовыгы.|шовыг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: ручьём; с шумом, с плеском
 
 -lexeme
  lex: шогалде
- stem: шогалде.//шогалдэ.//шогалды.
+ stem: шогалде.//шогалдэ.|шогалды.|шогалд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: непрерывно
 
 -lexeme
@@ -16906,17 +16809,16 @@
 
 -lexeme
  lex: шоген-шогыде
- stem: шоген-шогыде.//шоген-шогыдэ.//шоген-шогыды.
+ stem: шоген-шогыде.//шоген-шогыдэ.|шоген-шогыды.|шоген-шогыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: с нетерпением (стоять)
 
 -lexeme
  lex: шогыльын
  stem: шогыльын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: щёгольски
 
 -lexeme
@@ -16949,9 +16851,9 @@
 
 -lexeme
  lex: шодырге
- stem: шодырге.//шодыргэ.//шодыргы.
+ stem: шодырге.//шодыргэ.|шодыргы.|шодырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: с треском, с хрустом
 
 -lexeme
@@ -16977,9 +16879,9 @@
 
 -lexeme
  lex: шожге
- stem: шожге.//шожгэ.//шожгы.
+ stem: шожге.//шожгэ.|шожгы.|шожг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: шумно (о дожде)
 
 -lexeme
@@ -16998,9 +16900,9 @@
 
 -lexeme
  lex: шойге
- stem: шойге.//шойгэ.//шойгы.
+ stem: шойге.//шойгэ.|шойгы.|шойг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: со свистом
 
 -lexeme
@@ -17082,23 +16984,23 @@
 
 -lexeme
  lex: шолашке
- stem: шолашке.//шолашкэ.//шолашкы.
+ stem: шолашке.//шолашкэ.|шолашкы.|шолашк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: налево
 
 -lexeme
  lex: шолаште
- stem: шолаште.//шолаштэ.//шолашты.
+ stem: шолаште.//шолаштэ.|шолашты.|шолашт.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: слева
 
 -lexeme
  lex: шолдыге
- stem: шолдыге.//шолдыгэ.//шолдыгы.
+ stem: шолдыге.//шолдыгэ.|шолдыгы.|шолдыг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: стуча, щёлкая
 
 -lexeme
@@ -17110,9 +17012,9 @@
 
 -lexeme
  lex: шолдырге
- stem: шолдырге.//шолдыргэ.//шолдыргы.
+ stem: шолдырге.//шолдыргэ.|шолдыргы.|шолдырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: шумно, с грохотом
 
 -lexeme
@@ -17145,9 +17047,9 @@
 
 -lexeme
  lex: шолтке
- stem: шолтке.//шолткэ.//шолткы.
+ stem: шолтке.//шолткэ.|шолткы.|шолтк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: щёлкая
 
 -lexeme
@@ -17173,9 +17075,9 @@
 
 -lexeme
  lex: шоналтыде
- stem: шоналтыде.//шоналтыдэ.//шоналтыды.
+ stem: шоналтыде.//шоналтыдэ.|шоналтыды.|шоналтыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: необдуманно
 
 -lexeme
@@ -17187,9 +17089,9 @@
 
 -lexeme
  lex: шоныде
- stem: шоныде.//шоныдэ.//шоныды.
+ stem: шоныде.//шоныдэ.|шоныды.|шоныд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: необдуманно
 
 -lexeme
@@ -17229,9 +17131,9 @@
 
 -lexeme
  lex: шорге
- stem: шорге.//шоргэ.//шоргы.
+ stem: шорге.//шоргэ.|шоргы.|шорг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: журча
 
 -lexeme
@@ -17278,9 +17180,9 @@
 
 -lexeme
  lex: шотде
- stem: шотде.//шотдэ.//шотды.
+ stem: шотде.//шотдэ.|шотды.|шотд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: бестолково, понапрасну
 
 -lexeme
@@ -17418,9 +17320,9 @@
 
 -lexeme
  lex: шувырге
- stem: шувырге.//шувыргэ.//шувыргы.
+ stem: шувырге.//шувыргэ.|шувыргы.|шувырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: шумно, с бульканьем
 
 -lexeme
@@ -17432,9 +17334,9 @@
 
 -lexeme
  lex: шуге
- stem: шуге.//шугэ.//шугы.
+ stem: шуге.//шугэ.|шугы.|шуг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: с глухим шумом
 
 -lexeme
@@ -17446,9 +17348,9 @@
 
 -lexeme
  lex: шудыртке
- stem: шудыртке.//шудырткэ.//шудырткы.
+ stem: шудыртке.//шудырткэ.|шудырткы.|шудыртк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: с хрустом
 
 -lexeme
@@ -17481,9 +17383,9 @@
 
 -lexeme
  lex: шуйге
- stem: шуйге.//шуйгэ.//шуйгы.
+ stem: шуйге.//шуйгэ.|шуйгы.|шуйг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: с шипением
 
 -lexeme
@@ -17495,9 +17397,9 @@
 
 -lexeme
  lex: шукерте
- stem: шукерте.//шукертэ.//шукерты.
+ stem: шукерте.//шукертэ.|шукерты.|шукерт.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: давно
 
 -lexeme
@@ -17509,9 +17411,9 @@
 
 -lexeme
  lex: шуко
- stem: шуко.
+ stem: шуко.|шукы.|шук.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: много
 
 -lexeme
@@ -17572,9 +17474,9 @@
 
 -lexeme
  lex: шумешке
- stem: шумешке.//шумешкэ.//шумешкы.
+ stem: шумешке.//шумешкэ.|шумешкы.|шумешк.
  gramm: POST
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: до
 
 -lexeme
@@ -17593,9 +17495,9 @@
 
 -lexeme
  lex: шургыде
- stem: шургыде.//шургыдэ.//шургыды.
+ stem: шургыде.//шургыдэ.|шургыды.|шургыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: бесшумно
 
 -lexeme
@@ -17621,9 +17523,9 @@
 
 -lexeme
  lex: шуын-шуде
- stem: шуын-шуде.//шуын-шудэ.//шуын-шуды.
+ stem: шуын-шуде.//шуын-шудэ.|шуын-шуды.|шуын-шуд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: еле успевая
 
 -lexeme
@@ -17656,9 +17558,9 @@
 
 -lexeme
  lex: шывыге
- stem: шывыге.//шывыгэ.//шывыгы.
+ stem: шывыге.//шывыгэ.|шывыгы.|шывыг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: спокойно, чуть слышно
 
 -lexeme
@@ -17775,9 +17677,9 @@
 
 -lexeme
  lex: шыдырге
- stem: шыдырге.//шыдыргэ.//шыдыргы.
+ stem: шыдырге.//шыдыргэ.|шыдыргы.|шыдырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: с хрустом, с треском
 
 -lexeme
@@ -17810,9 +17712,9 @@
 
 -lexeme
  lex: шылде-галде
- stem: шылде-галде.//шылде-галдэ.//шылде-галды.
+ stem: шылде-галде.//шылде-галдэ.|шылде-галды.|шылде-галд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: очень редко, кое-где
 
 -lexeme
@@ -17831,9 +17733,9 @@
 
 -lexeme
  lex: шылдырге
- stem: шылдырге.//шылдыргэ.//шылдыргы.
+ stem: шылдырге.//шылдыргэ.|шылдыргы.|шылдырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: тихо, спокойно
 
 -lexeme
@@ -17887,16 +17789,16 @@
 
 -lexeme
  lex: шыпке
- stem: шыпке.//шыпкэ.//шыпкы.
+ stem: шыпке.//шыпкэ.|шыпкы.|шыпк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: тихо, неподвижно
 
 -lexeme
  lex: шыпланыде
- stem: шыпланыде.//шыпланыдэ.//шыпланыды.
+ stem: шыпланыде.//шыпланыдэ.|шыпланыды.|шыпланыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: неумолчно
 
 -lexeme
@@ -17971,9 +17873,9 @@
 
 -lexeme
  lex: шырге
- stem: шырге.//шыргэ.//шыргы.
+ stem: шырге.//шыргэ.|шыргы.|шырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: монотонно
 
 -lexeme
@@ -18013,9 +17915,9 @@
 
 -lexeme
  lex: шырке
- stem: шырке.//шыркэ.//шыркы.
+ stem: шырке.//шыркэ.|шыркы.|шырк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: близко, тесно, плотно
 
 -lexeme
@@ -18048,9 +17950,9 @@
 
 -lexeme
  lex: шыртке
- stem: шыртке.//шырткэ.//шырткы.
+ stem: шыртке.//шырткэ.|шырткы.|шыртк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: спокойно, тихонько
 
 -lexeme
@@ -18188,9 +18090,9 @@
 
 -lexeme
  lex: шӱлен-шӱлыде
- stem: шӱлен-шӱлыде.//шӱлен-шӱлыдэ.//шӱлен-шӱлыды.
+ stem: шӱлен-шӱлыде.//шӱлен-шӱлыдэ.|шӱлен-шӱлыды.|шӱлен-шӱлыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: не смея дохнуть
 
 -lexeme
@@ -18258,9 +18160,9 @@
 
 -lexeme
  lex: ызге
- stem: ызге.//ызгэ.//ызгы.
+ stem: ызге.//ызгэ.|ызгы.|ызг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: жужжа
 
 -lexeme
@@ -18279,9 +18181,9 @@
 
 -lexeme
  lex: ынде
- stem: ынде.//ындэ.//ынды.//ынды.
+ stem: ынде.//ындэ.|ынды.|ынд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: теперь
 
 -lexeme
@@ -18295,8 +18197,7 @@
  lex: ырес-тореш
  stem: ырес-тореш.//ырес-торэш.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: крест-накрест
 
 -lexeme
@@ -18371,9 +18272,9 @@
 
 -lexeme
  lex: эксыде
- stem: эксыде.//эксыдэ.//эксыды.
+ stem: эксыде.//эксыдэ.|эксыды.|эксыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: постоянно
 
 -lexeme
@@ -18406,9 +18307,9 @@
 
 -lexeme
  lex: эпере
- stem: эпере.//эперэ.//эперы.
+ stem: эпере.//эперэ.|эперы.|эпер.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: напрасно
 
 -lexeme
@@ -18483,9 +18384,9 @@
 
 -lexeme
  lex: эре
- stem: эре.//эрэ.//эры.
+ stem: эре.//эрэ.|эры.|эр.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: постоянно
 
 -lexeme
@@ -18616,9 +18517,9 @@
 
 -lexeme
  lex: эскерыде
- stem: эскерыде.//эскерыдэ.//эскерыды.
+ stem: эскерыде.//эскерыдэ.|эскерыды.|эскерыд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: невнимательно
 
 -lexeme
@@ -18639,8 +18540,7 @@
  lex: эффективнын
  stem: эффективнын.//эффэктивнын.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: эффективно
 
 -lexeme
@@ -18654,15 +18554,14 @@
  lex: эше
  stem: эше.//эшэ.//эшы.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: ещё
 
 -lexeme
  lex: эше-эше
- stem: эше-эше.//эше-эшэ.//эше-эшы.
+ stem: эше-эше.//эше-эшэ.|эше-эшы.|эше-эш.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: хорошо бы
 
 -lexeme
@@ -18702,9 +18601,9 @@
 
 -lexeme
  lex: ювыге
- stem: ювыге.//ювыгэ.//ювыгы.
+ stem: ювыге.//ювыгэ.|ювыгы.|ювыг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: дружно
 
 -lexeme
@@ -18730,9 +18629,9 @@
 
 -lexeme
  lex: южге
- stem: южге.//южгэ.//южгы.
+ stem: южге.//южгэ.|южгы.|южг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: прохладно
 
 -lexeme
@@ -18753,8 +18652,7 @@
  lex: юзге
  stem: юзге.//юзгэ.//юзгы.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: медленно, постепенно, юзом
 
 -lexeme
@@ -18829,9 +18727,9 @@
 
 -lexeme
  lex: юп-юалге
- stem: юп-юалге.//юп-юалгэ.//юп-юалгы.
+ stem: юп-юалге.//юп-юалгэ.|юп-юалгы.|юп-юалг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: слишком, очень прохладно
 
 -lexeme
@@ -18843,9 +18741,9 @@
 
 -lexeme
  lex: юпызге
- stem: юпызге.//юпызгэ.//юпызгы.
+ stem: юпызге.//юпызгэ.|юпызгы.|юпызг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: медленно, тихо, не спеша
 
 -lexeme
@@ -18892,9 +18790,9 @@
 
 -lexeme
  lex: юртке
- stem: юртке.//юрткэ.//юрткы.
+ stem: юртке.//юрткэ.|юрткы.|юртк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: быстро, внезапно
 
 -lexeme
@@ -18913,9 +18811,9 @@
 
 -lexeme
  lex: юстырге
- stem: юстырге.//юстыргэ.//юстыргы.
+ stem: юстырге.//юстыргэ.|юстыргы.|юстырг.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: медленно, не спеша
 
 -lexeme
@@ -18941,9 +18839,9 @@
 
 -lexeme
  lex: юштке
- stem: юштке.//юшткэ.//юшткы.
+ stem: юштке.//юшткэ.|юшткы.|юштк.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: вытянувшись
 
 -lexeme
@@ -19312,9 +19210,9 @@
 
 -lexeme
  lex: ӱжде
- stem: ӱжде.//ӱждэ.//ӱжды.
+ stem: ӱжде.//ӱждэ.|ӱжды.|ӱжд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: незванно
 
 -lexeme
@@ -19389,9 +19287,9 @@
 
 -lexeme
  lex: ӱмаште
- stem: ӱмаште.//ӱмаштэ.//ӱмашты.
+ stem: ӱмаште.//ӱмаштэ.|ӱмашты.|ӱмашт.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: в прошлом году
 
 -lexeme
@@ -19403,9 +19301,9 @@
 
 -lexeme
  lex: ӱмбаке
- stem: ӱмбаке.//ӱмбакэ.//ӱмбакы.
+ stem: ӱмбаке.//ӱмбакэ.|ӱмбакы.|ӱмбак.
  gramm: POST
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: наверх; на
 
 -lexeme
@@ -19536,9 +19434,9 @@
 
 -lexeme
  lex: ӱшаныде
- stem: ӱшаныде.//ӱшаныдэ.//ӱшаныды.
+ stem: ӱшаныде.//ӱшаныдэ.|ӱшаныды.|ӱшаныд.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: недоверчиво
 
 -lexeme
@@ -19564,9 +19462,9 @@
 
 -lexeme
  lex: ӱштыле
- stem: ӱштыле.//ӱштылэ.//ӱштылы.
+ stem: ӱштыле.//ӱштылэ.|ӱштылы.|ӱштыл.
  gramm: ADV
- paradigm: POST_ADV_Poss
+ paradigm: POST_ADV_Poss_vowel
  trans_ru: нараспашку, без пояса
 
 -lexeme
@@ -19622,8 +19520,7 @@
  lex: зра
  stem: зра.
  gramm: ADV,rus
- paradigm: Clitics
- paradigm: Poss_3Sg
+ paradigm: POST_ADV_Poss
  trans_ru: очень
 
 -lexeme

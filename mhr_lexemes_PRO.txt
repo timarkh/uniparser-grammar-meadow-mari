@@ -138,24 +138,9 @@
 
 -lexeme
  lex: шке
- stem: шке.
- gramm: PRO,refl,nom,sg,nonposs
- paradigm: Clitics
- trans_ru: сам, свой
-
--lexeme
- lex: шке
- stem: шке.//шкы.
- gramm: PRO,refl,nonposs
- paradigm: N_Pl
- paradigm: N_Poss
- trans_ru: сам, свой
-
--lexeme
- lex: шке
- stem: шке.
+ stem: шке.|шкен.|шк.
  gramm: PRO,refl
- paradigm: N_Pl_Case
+ paradigm: PRO_refl
  trans_ru: сам, свой
 
 
