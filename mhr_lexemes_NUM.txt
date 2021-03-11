@@ -452,3 +452,52 @@
  gramm: NUM,ord,rus
  paradigm: A_j
  trans_ru: четвертый
+
+-lexeme
+ lex: второй
+ stem: второй.|второ.
+ gramm: NUM,ord,rus
+ paradigm: A_j
+ trans_ru: второй
+
+-lexeme
+ lex: кудыт
+ stem: кудыто.|кудыты.//кудыто.|кудыт.//кудыто.
+ gramm: NUM,plen
+ paradigm: NUM_consonant
+ trans_ru: шесть
+
+-lexeme
+ lex: латкокыт
+ stem: латкокыто.|латкокыты.//латкокыто.|латкокыт.//латкокыто.
+ gramm: NUM,plen
+ paradigm: NUM_consonant
+ trans_ru: двенадцать
+
+-lexeme
+ lex: пятый
+ stem: пятый.|пяты.
+ gramm: NUM,ord,rus
+ paradigm: A_j
+ trans_ru: пятый
+
+-lexeme
+ lex: пӧрвый
+ stem: пӧрвый.|пӧрвы.
+ gramm: NUM,ord,rus
+ paradigm: A_j
+ trans_ru: первый
+
+-lexeme
+ lex: седьмой
+ stem: седьмой.|седьмо.
+ gramm: NUM,ord,rus
+ paradigm: A_j
+ trans_ru: седьмой
+
+-lexeme
+ lex: тридцатый
+ stem: тридцатый.|тридцаты.
+ gramm: NUM,ord,rus
+ paradigm: A_j
+ trans_ru: тридцатый

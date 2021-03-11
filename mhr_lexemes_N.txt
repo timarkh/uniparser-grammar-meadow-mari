@@ -125798,3 +125798,318 @@
  gramm: N,abbr,rus
  paradigm: N_paroxyton_v_strong
  trans_ru: УЗИ
+
+-lexeme
+ lex: авый
+ stem: авый.|авы.
+ gramm: N,anim,hum
+ paradigm: N_j
+ trans_ru: мама (обращение)
+
+-lexeme
+ lex: акый
+ stem: акый.|акы.
+ gramm: N,anim,hum
+ paradigm: N_j
+ trans_ru: обращение к старшим женщинам моложе родителей
+
+-lexeme
+ lex: больной
+ stem: больной.|больно.
+ gramm: N,anim,hum,rus
+ paradigm: N_j
+ trans_ru: больной, больная
+
+-lexeme
+ lex: быздетный
+ stem: быздетный.|быздетны.
+ gramm: N,rus
+ paradigm: N_j
+ trans_ru: налог на бездетность
+
+-lexeme
+ lex: ваннычке
+ stem: ваннычке.|ваннычкы.//ваннычке.|ваннычк.//ваннычке.
+ gramm: N,rus
+ paradigm: N_paroxyton_v_weak
+ trans_ru: ванночка
+
+-lexeme
+ lex: ветаптека
+ stem: ветаптека.|ветаптекы.//ветаптека.|ветаптек.//ветаптека.
+ gramm: N,rus
+ paradigm: N_paroxyton_v_weak
+ trans_ru: ветаптека
+
+-lexeme
+ lex: возчик
+ stem: возчик.
+ gramm: N,anim,hum,rus
+ paradigm: N_consonant
+ trans_ru: возчик
+
+-lexeme
+ lex: вуйуш
+ stem: вуйуш.
+ gramm: N
+ paradigm: N_consonant
+ trans_ru: сознание
+
+-lexeme
+ lex: делянке
+ stem: делянке.|делянкы.//делянке.|делянк.//делянке.
+ gramm: N,rus
+ paradigm: N_paroxyton_v_weak
+ trans_ru: делянка
+
+-lexeme
+ lex: деньрождений
+ stem: деньрождений.|деньрождени.
+ gramm: N
+ paradigm: N_j
+ trans_ru: день рождения
+
+-lexeme
+ lex: десятык
+ stem: десятык.
+ gramm: N,rus
+ paradigm: N_consonant
+ trans_ru: сотка
+
+-lexeme
+ lex: детясли
+ stem: детясли.
+ gramm: N,rus
+ paradigm: N_paroxyton_v_strong
+ trans_ru: детские ясли
+
+-lexeme
+ lex: дом
+ stem: дом.
+ gramm: N,rus
+ paradigm: N_consonant
+ trans_ru: дом
+
+-lexeme
+ lex: киномеханик
+ stem: киномеканик.
+ gramm: N,rus,anim,hum
+ paradigm: N_consonant
+ trans_ru: киномеханик
+
+-lexeme
+ lex: кирзавод
+ stem: кирзавод.
+ gramm: N,rus
+ paradigm: N_consonant
+ trans_ru: кирпичный завод
+
+-lexeme
+ lex: клат
+ stem: клат.
+ gramm: N,rus
+ paradigm: N_consonant
+ trans_ru: амбар
+
+-lexeme
+ lex: конюх
+ stem: конюк.
+ gramm: N,rus,anim,hum
+ paradigm: N_consonant
+ trans_ru: конюх
+
+-lexeme
+ lex: кумушка
+ stem: кумушка.|кумушкы.//кумушка.|кумушк.//кумушка.
+ gramm: N,anim,hum,rus
+ paradigm: N_paroxyton_v_weak
+ trans_ru: кумушка
+
+-lexeme
+ lex: лямга
+ stem: лямга.|лямгы.//лямга.|лямг.//лямга.
+ gramm: N,rus
+ paradigm: N_paroxyton_v_weak
+ trans_ru: лямка
+
+-lexeme
+ lex: машина
+ stem: машин.
+ gramm: N,rus,transport
+ paradigm: N_oxyton
+ trans_ru: машина
+
+-lexeme
+ lex: медучилище
+ stem: медучилище.|медучилищы.//медучилище.|медучилищ.//медучилище.
+ gramm: N,rus
+ paradigm: N_paroxyton_v_weak
+ trans_ru: медучилище
+
+-lexeme
+ lex: места
+ stem: места.|месты.//места.|мест.//места.
+ gramm: N,rus
+ paradigm: N_paroxyton_v_weak
+ trans_ru: место
+
+-lexeme
+ lex: механизаций
+ stem: меканизаций.|меканизаци.
+ gramm: N,rus
+ paradigm: N_j
+ trans_ru: механизация
+
+-lexeme
+ lex: механик
+ stem: меканик.
+ gramm: N,rus,anim,hum
+ paradigm: N_consonant
+ trans_ru: механик
+
+-lexeme
+ lex: моча
+ stem: моча.|мочы.//моча.|моч.//моча.
+ gramm: N
+ paradigm: N_paroxyton_v_weak
+ trans_ru: баня
+
+-lexeme
+ lex: моча
+ stem: моча.|мочы.//моча.|моч.//моча.
+ gramm: N,rus
+ paradigm: N_paroxyton_v_weak
+ trans_ru: моча
+
+-lexeme
+ lex: мочет
+ stem: мочет.
+ gramm: N
+ paradigm: N_consonant
+ trans_ru: и другое
+
+-lexeme
+ lex: муляж
+ stem: муляж.
+ gramm: N,rus
+ paradigm: N_consonant
+ trans_ru: муляж
+
+-lexeme
+ lex: мынер
+ stem: мынер.
+ gramm: N
+ paradigm: N_consonant
+ trans_ru: холст
+
+-lexeme
+ lex: накидушко
+ stem: накидушко.|накидушкы.//накидушко.|накидушк.//накидушко.
+ gramm: N,rus
+ paradigm: N_paroxyton_v_weak
+ trans_ru: накидка
+
+-lexeme
+ lex: очистке
+ stem: очистке.|очисткы.//очистке.|очистк.//очистке.
+ gramm: N,rus
+ paradigm: N_paroxyton_v_weak
+ trans_ru: очистки
+
+-lexeme
+ lex: перевозка
+ stem: перевозка.|перевозкы.//перевозка.|перевозк.//перевозка.
+ gramm: N,rus
+ paradigm: N_paroxyton_v_weak
+ trans_ru: перевозка
+
+-lexeme
+ lex: подарка
+ stem: подарка.|подаркы.//подарка.|подарк.//подарка.
+ gramm: N,rus
+ paradigm: N_paroxyton_v_weak
+ trans_ru: подарок
+
+-lexeme
+ lex: притоп
+ stem: притоп.
+ gramm: N,rus
+ paradigm: N_consonant
+ trans_ru: притоп
+
+-lexeme
+ lex: продолжений
+ stem: продолжений.|продолжени.
+ gramm: N,rus
+ paradigm: N_j
+ trans_ru: продолжение
+
+-lexeme
+ lex: простын
+ stem: простын.
+ gramm: N,rus
+ paradigm: N_consonant
+ trans_ru: простынь
+
+-lexeme
+ lex: пыл
+ stem: пыл.
+ gramm: N
+ paradigm: N_consonant
+ trans_ru: облако
+
+-lexeme
+ lex: руководительница
+ stem: руководительница.|руководительницы.//руководительница.|руководительниц.//руководительница.
+ gramm: N,anim,hum,rus
+ paradigm: N_paroxyton_v_weak
+ trans_ru: руководительница
+
+-lexeme
+ lex: сантройка
+ stem: сантройка.|сантройкы.//сантройка.|сантройк.//сантройка.
+ gramm: N,rus
+ paradigm: N_paroxyton_v_weak
+ trans_ru: санитарная тройка (комиссия, проверяющая чистоту)
+
+-lexeme
+ lex: соша
+ stem: соша.|сошы.//соша.|сош.//соша.
+ gramm: N,rus
+ paradigm: N_paroxyton_v_weak
+ trans_ru: шоссе
+
+-lexeme
+ lex: тос
+ stem: тос.
+ gramm: N,anim,hum
+ paradigm: N_consonant
+ trans_ru: друг
+
+-lexeme
+ lex: трактыр
+ stem: трактыр.
+ gramm: N,transport,rus
+ paradigm: N_consonant
+ trans_ru: трактор
+
+-lexeme
+ lex: черёт
+ stem: черёт.
+ gramm: N,rus
+ paradigm: N_consonant
+ trans_ru: очередь
+
+-lexeme
+ lex: чесотка
+ stem: чесотка.|чесоткы.//чесотка.|чесотк.//чесотка.
+ gramm: N,rus
+ paradigm: N_paroxyton_v_weak
+ trans_ru: чесотка
+
+-lexeme
+ lex: шондо
+ stem: шондо.|шонды.//шондо.|шонд.//шондо.
+ gramm: N
+ paradigm: N_paroxyton_v_weak
+ trans_ru: моча

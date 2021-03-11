@@ -93,7 +93,7 @@
 
 -lexeme
  lex: те
- stem: тенда.
+ stem: тенда.//темда.
  gramm: PRO,pers,2,pl
  paradigm: PRO_pers_CasePoss
  trans_ru: вы

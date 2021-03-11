@@ -33406,3 +33406,60 @@
  gramm: A
  paradigm: A_paroxyton_v_strong
  trans_ru: плохонький
+
+-lexeme
+ lex: годаш
+ stem: годаш.
+ gramm: A,rus
+ paradigm: A_consonant
+ trans_ru: относящийся к году
+
+-lexeme
+ lex: йӱштӧ
+ stem: йӱштӧ.|йӱшты.//йӱштӧ.|йӱшт.//йӱштӧ.
+ gramm: A
+ paradigm: A_paroxyton_v_weak
+ trans_ru: холодный
+
+-lexeme
+ lex: латынский
+ stem: латынский.|латынски.
+ gramm: A,rus
+ paradigm: A_j
+ trans_ru: латинский
+
+-lexeme
+ lex: простой
+ stem: простой.|просто.
+ gramm: A,rus
+ paradigm: A_j
+ trans_ru: простой
+
+-lexeme
+ lex: туйо
+ stem: туй.|ту.
+ gramm: A
+ paradigm: A_paroxyton_v_weak
+ trans_ru: больной
+
+-lexeme
+ lex: чара
+ stem: чара.|чары.//чара.|чар.//чара.
+ gramm: A
+ paradigm: A_paroxyton_v_weak
+ trans_ru: голый
+
+-lexeme
+ lex: черле
+ stem: черле.|черлы.//черле.|черл.//черле.
+ gramm: A
+ paradigm: A_paroxyton_v_weak
+ trans_ru: больной
+
+-lexeme
+ lex: шокшо
+ stem: шокшо.|шокшы.//шокшо.|шокш.//шокшо.
+ gramm: A
+ paradigm: A_paroxyton_v_weak
+ trans_ru: тёплый
+

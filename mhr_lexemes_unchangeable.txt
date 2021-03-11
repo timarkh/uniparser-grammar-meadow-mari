@@ -19667,3 +19667,108 @@
  gramm: ADV
  paradigm: POST_ADV_Poss
  trans_ru: утром
+
+-lexeme
+ lex: али
+ stem: али.
+ gramm: CONJ,rus
+ paradigm: Clitics
+ trans_ru: или
+
+-lexeme
+ lex: ах
+ stem: ах.
+ gramm: INTRJ,rus
+ paradigm: Clitics
+ trans_ru: ах
+
+-lexeme
+ lex: кастене
+ stem: кастен.
+ gramm: ADV
+ paradigm: POST_ADV_Poss
+ trans_ru: вечером
+
+-lexeme
+ lex: кызыт
+ stem: кызыте.
+ gramm: ADV
+ paradigm: POST_ADV_Poss
+ trans_ru: сейчас, теперь
+
+-lexeme
+ lex: мартек
+ stem: мартек.
+ gramm: POST
+ paradigm: POST_ADV_Poss
+ trans_ru: до
+
+-lexeme
+ lex: ноко
+ stem: ноко.
+ gramm: INTRJ,rus
+ paradigm: Clitics
+ trans_ru: ну-ка
+
+-lexeme
+ lex: о-о
+ stem: о-о.
+ gramm: INTRJ
+ paradigm: Clitics
+ trans_ru: о-о
+
+-lexeme
+ lex: опят
+ stem: опят.
+ gramm: ADV,rus
+ paradigm: POST_ADV_Poss
+ trans_ru: опять
+
+-lexeme
+ lex: пока
+ stem: пока.
+ gramm: CONJ,rus
+ paradigm: Clitics
+ trans_ru: пока
+
+-lexeme
+ lex: пӧрвый
+ stem: пӧрвый.
+ gramm: ADV,rus
+ paradigm: POST_ADV_Poss
+ trans_ru: сначала
+
+-lexeme
+ lex: пӧртӧнчылнӧ
+ stem: пӧртӧнчылнӧ.
+ gramm: ADV
+ paradigm: POST_ADV_Poss
+ trans_ru: в сенях
+
+-lexeme
+ lex: тум-тум
+ stem: тум-тум.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: тум-тум
+
+-lexeme
+ lex: уй
+ stem: уй.
+ gramm: INTRJ
+ paradigm: Clitics
+ trans_ru: уй
+
+-lexeme
+ lex: хот
+ stem: хот.
+ gramm: PART,rus
+ paradigm: Clitics
+ trans_ru: хоть
+
+-lexeme
+ lex: штобы
+ stem: штобы.
+ gramm: CONJ,rus
+ paradigm: Clitics
+ trans_ru: чтобы

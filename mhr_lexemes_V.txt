@@ -40340,3 +40340,157 @@
  gramm: V,intr
  paradigm: V_a
  trans_ru: проходить
+
+-lexeme
+ lex: болетлаш
+ stem: болетл.
+ gramm: V,intr,rus
+ paradigm: V_e
+ trans_ru: болеть
+
+-lexeme
+ lex: воеватлаш
+ stem: воеватл.
+ gramm: V,intr,rus
+ paradigm: V_e
+ trans_ru: воевать
+
+-lexeme
+ lex: возитлаш
+ stem: возитл.
+ gramm: V,tr,rus
+ paradigm: V_e
+ trans_ru: возить
+
+-lexeme
+ lex: вызываяш
+ stem: вызыва.|вызывай.
+ gramm: V,tr,rus
+ paradigm: V_ye
+ trans_ru: вызывать
+
+-lexeme
+ lex: добавитлаш
+ stem: добавитл.
+ gramm: V,tr,rus
+ paradigm: V_e
+ trans_ru: добавить
+
+-lexeme
+ lex: изучатлаш
+ stem: изучатл.
+ gramm: V,tr,rus
+ paradigm: V_e
+ trans_ru: изучать
+
+-lexeme
+ lex: кредалаш
+ stem: кредал.
+ gramm: V,intr
+ paradigm: V_a
+ trans_ru: драться
+
+-lexeme
+ lex: куанаш
+ stem: куан.
+ gramm: V,intr
+ paradigm: V_e
+ trans_ru: радоваться
+
+-lexeme
+ lex: лечитлаш
+ stem: лечитл.
+ gramm: V,tr,rus
+ paradigm: V_e
+ trans_ru: лечить
+
+-lexeme
+ lex: малдаш
+ stem: малд.
+ gramm: V,tr
+ paradigm: V_e
+ trans_ru: сказать
+
+-lexeme
+ lex: обложитлаш
+ stem: обложитл.
+ gramm: V,tr,rus
+ paradigm: V_e
+ trans_ru: обложить
+
+-lexeme
+ lex: орланаш
+ stem: орлан.
+ gramm: V,intr
+ paradigm: V_e
+ trans_ru: страдать
+
+-lexeme
+ lex: отказаш
+ stem: отказ.
+ gramm: V,intr,rus
+ paradigm: V_e
+ trans_ru: отказать
+
+-lexeme
+ lex: переводитлаш
+ stem: переводитл.
+ gramm: V,tr,rus
+ paradigm: V_e
+ trans_ru: переводить
+
+-lexeme
+ lex: подписайлаш
+ stem: подписайл.
+ gramm: V,tr,rus
+ paradigm: V_e
+ trans_ru: подписать
+
+-lexeme
+ lex: поливатлаш
+ stem: поливатл.
+ gramm: V,tr,rus
+ paradigm: V_e
+ trans_ru: поливать
+
+-lexeme
+ lex: поливаяш
+ stem: полива.|поливай.
+ gramm: V,tr,rus
+ paradigm: V_ye
+ trans_ru: поливать
+
+-lexeme
+ lex: принимаяш
+ stem: принима.|принимай.
+ gramm: V,tr,rus
+ paradigm: V_ye
+ trans_ru: принимать
+
+-lexeme
+ lex: проверяяш
+ stem: проверя.|проверяй.
+ gramm: V,tr,rus
+ paradigm: V_ye
+ trans_ru: проверять
+
+-lexeme
+ lex: раскулачитлаш
+ stem: раскулачитл.
+ gramm: V,tr,rus
+ paradigm: V_e
+ trans_ru: раскулачить
+
+-lexeme
+ lex: рисоваяш
+ stem: рисова.|рисовай.
+ gramm: V,tr,rus
+ paradigm: V_ye
+ trans_ru: рисовать
+
+-lexeme
+ lex: сукаш
+ stem: сук.
+ gramm: V,intr
+ paradigm: V_e
+ trans_ru: стоять на коленях
