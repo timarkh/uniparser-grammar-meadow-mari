@@ -125772,6 +125772,13 @@
  trans_ru: традиционный костюм жителей Медведевского района
 
 -lexeme
+ lex: сÿрет
+ stem: сÿрет.
+ gramm: N
+ paradigm: N_consonant
+ trans_ru: изображение
+
+-lexeme
  lex: суара
  stem: суара.|суары.//суара.|суар.//суара.
  gramm: N

@@ -13194,13 +13194,6 @@
  trans_ru: Веприков
 
 -lexeme
- lex: Вер
- stem: вер.
- gramm: N,PN,topn
- paradigm: N_consonant
- trans_ru: Выселок Новостройка
-
--lexeme
  lex: Верашэҥер
  stem: верашэҥер.
  gramm: N,PN,topn

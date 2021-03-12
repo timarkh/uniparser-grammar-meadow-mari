@@ -1692,9 +1692,13 @@
  -flex: <1>.ышт<.>
   gramm: 3pl
   gloss: 3PL
-  paradigm: N_Case
+  paradigm: N_Case_consonant
   paradigm: N_Pl_Case
   paradigm: N_Pl
+ -flex: <1>.ышт<.>
+  gramm: 3pl,nom
+  gloss: 3PL
+  paradigm: Clitics
  -flex: <2>.ан<.>//<2>.алан<.>
   gramm: sg,dat
   gloss: DAT
@@ -5152,210 +5156,616 @@
  paradigm: Clitics
 
 
+-paradigm: V_a_further_deriv
+ -flex: .ылт<.>//.алт<.>
+  gramm: pass
+  gloss: PASS
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+ -flex: .алт<.>
+  gramm: pnct
+  gloss: PNCT
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+ -flex: .ал<.>
+  gramm: att
+  gloss: ATT
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+ -flex: .ал|ал<.>
+  gramm: att
+  gloss: ATT|ATT
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+ -flex: .ылдал<.>
+  gramm: att
+  gloss: ATT
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+ -flex: .тар<.>
+  gramm: caus,caus_tar
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  regex-prev: .*[^<>.ьймнҥ]ь?[<>.]*$
+ -flex: .дар<.>
+  gramm: caus,caus_tar
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  regex-prev: .*[ймнҥ]ь?[<>.]*$
+ -flex: .ыкт<.>
+  gramm: caus
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+
+-paradigm: V_e_further_deriv
+ -flex: .алт<.>
+  gramm: pass
+  gloss: PASS
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+ -flex: .алт<.>
+  gramm: pnct
+  gloss: PNCT
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+ -flex: .ал<.>
+  gramm: att
+  gloss: ATT
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+ -flex: .ал|ал<.>
+  gramm: att
+  gloss: ATT|ATT
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+ -flex: .ылдал<.>
+  gramm: att
+  gloss: ATT
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+ -flex: .тар<.>
+  gramm: caus,caus_tar
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  regex-prev: .*[^<>.ьймнҥ]ь?[<>.]*$
+ -flex: .дар<.>
+  gramm: caus,caus_tar
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  regex-prev: .*[ймнҥ]ь?[<>.]*$
+ -flex: .ыкт<.>
+  gramm: caus
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+
 
 -paradigm: V_a
  -flex: .<.>
-  gramm: act
+  gramm: 
   paradigm: V_a_proper
   paradigm: V_nonfin_a
- -flex: <0>.алт<.>
+ -flex: <0>.ылт<.>//<0>.алт<.>
   gramm: pass
   gloss: PASS
-  paradigm: V_a_proper
+  paradigm: V_a_proper_deriv
   paradigm: V_nonfin_a
- -flex: .ыкт<.>
-  gramm: act,caus
+  paradigm: V_a_further_deriv
+ -flex: <0>.алт<.>
+  gramm: pnct
+  gloss: PNCT
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+ -flex: <0>.ал<.>
+  gramm: att
+  gloss: ATT
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+  paradigm: V_a_further_deriv
+ -flex: <0>.ал|ал<.>
+  gramm: att
+  gloss: ATT|ATT
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+  paradigm: V_a_further_deriv
+ -flex: <0>.ылдал<.>
+  gramm: att
+  gloss: ATT
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+  paradigm: V_a_further_deriv
+ -flex: <0>.т<.>
+  gramm: caus,caus_t
   gloss: CAUS
   paradigm: V_e_proper
   paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+  regex-prev: .*[^<>.ьймнҥ]ь?[<>.]*$
+  regex-lex: ^......+$
+ -flex: <0>.д<.>
+  gramm: caus,caus_t
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+  regex-prev: .*[ймнҥ]ь?[<>.]*$
+  regex-lex: ^......+$
+ -flex: <0>.тар<.>
+  gramm: caus,caus_tar
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+  regex-prev: .*[^<>.ьймнҥ]ь?[<>.]*$
+ -flex: <0>.дар<.>
+  gramm: caus,caus_tar
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+  regex-prev: .*[ймнҥ]ь?[<>.]*$
+ -flex: <0>.ыкт<.>
+  gramm: caus
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+
 
 -paradigm: V_a2
  -flex: .<.>
-  gramm: act
+  gramm: 
   paradigm: V_a2_proper
   paradigm: V_nonfin_a2
- -flex: <0>.алт<.>
+ -flex: <0>.ылт<.>//<0>.алт<.>
   gramm: pass
   gloss: PASS
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+  paradigm: V_a_further_deriv
+ -flex: <0>.алт<.>
+  gramm: pnct
+  gloss: PNCT
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+ -flex: <0>.ал<.>
+  gramm: att
+  gloss: ATT
   paradigm: V_a_proper
   paradigm: V_nonfin_a
- -flex: <0>.ыкт<.>
-  gramm: act,caus
+  paradigm: V_a_further_deriv
+ -flex: <0>.ал|ал<.>
+  gramm: att
+  gloss: ATT|ATT
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+  paradigm: V_a_further_deriv
+ -flex: <0>.ылдал<.>
+  gramm: att
+  gloss: ATT
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+  paradigm: V_a_further_deriv
+ -flex: <0>.т<.>
+  gramm: caus,caus_t
   gloss: CAUS
   paradigm: V_e_proper
   paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+  regex-prev: .*[^<>.ьймнҥ]ь?[<>.]*$
+  regex-lex: ^......+$
+ -flex: <0>.д<.>
+  gramm: caus,caus_t
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+  regex-prev: .*[ймнҥ]ь?[<>.]*$
+  regex-lex: ^......+$
+ -flex: <0>.тар<.>
+  gramm: caus,caus_tar
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+  regex-prev: .*[^<>.ьймнҥ]ь?[<>.]*$
+ -flex: <0>.дар<.>
+  gramm: caus,caus_tar
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+  regex-prev: .*[ймнҥ]ь?[<>.]*$
+ -flex: <0>.ыкт<.>
+  gramm: caus
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
 
 -paradigm: V_ya
  -flex: .<.>
-  gramm: act
+  gramm: 
   paradigm: V_ya_proper
  -flex: <1>.<.>
   gramm: 
   paradigm: V_nonfin_a
   paradigm: V_nonfin_e
- -flex: <0>.ялт<.>
+ -flex: <1>.ылт<.>//<0>.ялт<.>
   gramm: pass
   gloss: PASS
-  paradigm: V_a_proper
+  paradigm: V_a_proper_deriv
   paradigm: V_nonfin_a
- -flex: <1>.ыкт<.>
-  gramm: act,caus
+  paradigm: V_a_further_deriv
+ -flex: <0>.ялт<.>
+  gramm: pnct
+  gloss: PNCT
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+ -flex: <0>.ял<.>
+  gramm: att
+  gloss: ATT
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+  paradigm: V_a_further_deriv
+ -flex: <0>.ял|ал<.>
+  gramm: att
+  gloss: ATT|ATT
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+  paradigm: V_a_further_deriv
+ -flex: <1>.ылдал<.>
+  gramm: att
+  gloss: ATT
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+  paradigm: V_a_further_deriv
+ -flex: <1>.т<.>
+  gramm: caus,caus_t
   gloss: CAUS
   paradigm: V_e_proper
   paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+  regex-prev: .*[^<>.ьймнҥ]ь?[<>.]*$
+  regex-lex: ^......+$
+ -flex: <1>.д<.>
+  gramm: caus,caus_t
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+  regex-prev: .*[ймнҥ]ь?[<>.]*$
+  regex-lex: ^......+$
+ -flex: <1>.тар<.>
+  gramm: caus,caus_tar
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+  regex-prev: .*[^<>.ьймнҥ]ь?[<>.]*$
+ -flex: <1>.дар<.>
+  gramm: caus,caus_tar
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+  regex-prev: .*[ймнҥ]ь?[<>.]*$
+ -flex: <1>.ыкт<.>
+  gramm: caus
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
 
 -paradigm: V_e
  -flex: .<.>
-  gramm: act
+  gramm: 
   paradigm: V_e_proper
   paradigm: V_nonfin_e
  -flex: <0>.алт<.>
   gramm: pass
   gloss: PASS
-  paradigm: V_a_proper
+  paradigm: V_a_proper_deriv
   paradigm: V_nonfin_a
- -flex: <0>.ыкт<.>
-  gramm: act,caus
+  paradigm: V_a_further_deriv
+ -flex: <0>.алт<.>
+  gramm: pnct
+  gloss: PNCT
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+ -flex: <0>.ал<.>
+  gramm: att
+  gloss: ATT
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+  paradigm: V_a_further_deriv
+ -flex: <0>.ал|ал<.>
+  gramm: att
+  gloss: ATT|ATT
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+  paradigm: V_a_further_deriv
+ -flex: <0>.ылдал<.>
+  gramm: att
+  gloss: ATT
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+  paradigm: V_a_further_deriv
+ -flex: <0>.т<.>
+  gramm: caus,caus_t
   gloss: CAUS
   paradigm: V_e_proper
   paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+  regex-prev: .*[^<>.ьймнҥ]ь?[<>.]*$
+  regex-lex: ^......+$
+ -flex: <0>.д<.>
+  gramm: caus,caus_t
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+  regex-prev: .*[ймнҥ]ь?[<>.]*$
+  regex-lex: ^......+$
+ -flex: <0>.тар<.>
+  gramm: caus,caus_tar
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+  regex-prev: .*[^<>.ьймнҥ]ь?[<>.]*$
+ -flex: <0>.дар<.>
+  gramm: caus,caus_tar
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+  regex-prev: .*[ймнҥ]ь?[<>.]*$
+ -flex: <0>.ыкт<.>
+  gramm: caus
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
 
 -paradigm: V_ye
  -flex: .<.>
-  gramm: act
+  gramm: 
   paradigm: V_ye_proper
   paradigm: V_nonfin_e
  -flex: <0>.ялт<.>
   gramm: pass
   gloss: PASS
-  paradigm: V_a_proper
+  paradigm: V_a_proper_deriv
   paradigm: V_nonfin_a
- -flex: <1>.ыкт<.>
-  gramm: pass
-  gloss: PASS
+  paradigm: V_a_further_deriv
+ -flex: <0>.ялт<.>
+  gramm: pnct
+  gloss: PNCT
   paradigm: V_e_proper
   paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+ -flex: <0>.ял<.>
+  gramm: att
+  gloss: ATT
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+  paradigm: V_a_further_deriv
+ -flex: <0>.ял|ал<.>
+  gramm: att
+  gloss: ATT|ATT
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+  paradigm: V_a_further_deriv
+ -flex: <1>.ылдал<.>
+  gramm: att
+  gloss: ATT
+  paradigm: V_a_proper_deriv
+  paradigm: V_nonfin_a
+  paradigm: V_a_further_deriv
+ -flex: <1>.т<.>
+  gramm: caus,caus_t
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+  regex-prev: .*[^<>.ьймнҥ]ь?[<>.]*$
+  regex-lex: ^......+$
+ -flex: <1>.д<.>
+  gramm: caus,caus_t
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+  regex-prev: .*[ймнҥ]ь?[<>.]*$
+  regex-lex: ^......+$
+ -flex: <1>.тар<.>
+  gramm: caus,caus_tar
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+  regex-prev: .*[^<>.ьймнҥ]ь?[<>.]*$
+ -flex: <1>.дар<.>
+  gramm: caus,caus_tar
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
+  regex-prev: .*[ймнҥ]ь?[<>.]*$
+ -flex: <1>.ыкт<.>
+  gramm: caus
+  gloss: CAUS
+  paradigm: V_e_proper
+  paradigm: V_nonfin_e
+  paradigm: V_e_further_deriv
 
 
 -paradigm: V_a_proper
- -flex: <0>.ам<.>
-  gramm: npst,1,sg
-  gloss: NPST.1SG
- -flex: <0>.ат<.>
-  gramm: npst,2,sg
-  gloss: NPST.2SG
- -flex: <0>.еш<.>//<0>.эш<.>
-  gramm: npst,3,sg
-  gloss: NPST.3SG
- -flex: <0>.ына<.>
-  gramm: npst,1,pl
-  gloss: NPST.1PL
- -flex: <0>.ыда<.>
-  gramm: npst,2,pl
-  gloss: NPST.2PL
- -flex: <0>.ыт<.>
-  gramm: npst,3,pl
-  gloss: NPST.3PL
+ -flex: <0>.<.>
+  gramm: 
+  paradigm: V_a_proper_fullstem
+ -flex: <0,1>.<.>
+  gramm: 
+  paradigm: V_a_proper_shortstem
 
- -flex: <0>.ым<.>
-  gramm: pst,1,sg
-  gloss: PST.1SG
-  regex-prev: .*[^<>.лн][<>.]*$
- -flex: <0>.ьым<.>
-  gramm: pst,1,sg
-  gloss: PST.1SG
-  regex-prev: .*[лн][<>.]*$
- -flex: <0>.ыт<.>
-  gramm: pst,2,sg
-  gloss: PST.2SG
-  regex-prev: .*[^<>.лн][<>.]*$
- -flex: <0>.ьыт<.>
-  gramm: pst,2,sg
-  gloss: PST.2SG
-  regex-prev: .*[лн][<>.]*$
- -flex: <0>.о<.>//<0>.е<.>
-  gramm: pst,3,sg
-  gloss: PST.3SG
-  regex-prev: .*[^<>.лн][<>.]*$
- -flex: <0>.ьо<.>//<0>.е<.>//<0>.ё<.>//<0>.ье<.>
-  gramm: pst,3,sg
-  gloss: PST.3SG
-  regex-prev: .*[лн][<>.]*$
+-paradigm: V_a_proper_deriv
+ -flex: .<.>
+  gramm: 
+  paradigm: V_a_proper_fullstem
+  paradigm: V_a_proper_shortstem
+
+-paradigm: V_a_proper_shortstem
  -flex: .на<.>
   gramm: pst,1,pl
   gloss: PST.1PL
+  paradigm: Clitics
  -flex: .да<.>
   gramm: pst,2,pl
   gloss: PST.2PL
- -flex: <0>.ыч<.>
-  gramm: pst,3,pl
-  gloss: PST.3PL
-  regex-prev: .*[^<>.лн][<>.]*$
- -flex: <0>.ьыч<.>
-  gramm: pst,3,pl
-  gloss: PST.3PL
-  regex-prev: .*[лн][<>.]*$
-
- -flex: <0>.ынам<.>
-  gramm: pst2,1,sg
-  gloss: PST2.1SG
- -flex: <0>.ынат<.>
-  gramm: pst2,2,sg
-  gloss: PST2.2SG
- -flex: <0>.ын<.>
-  gramm: pst2,3,sg
-  gloss: PST2.3SG
- -flex: <0>.маш<.>//<0>.машын<.>
-  gramm: pst2,3,sg
-  gloss: PST2.3SG
-  regex-prev: ^ул[.<>]*$
- -flex: <0>.ынна<.>
-  gramm: pst2,1,pl
-  gloss: PST2.1PL
- -flex: <0>.ында<.>
-  gramm: pst2,2,pl
-  gloss: PST2.2PL
- -flex: <0>.ыныт<.>//<0>.ынут<.>
-  gramm: pst2,3,pl
-  gloss: PST2.3PL
+  paradigm: Clitics
 
  -flex: .не|м<.>
   gramm: desid,1,sg
   gloss: DESID|1SG
+  paradigm: Clitics
  -flex: .не|т<.>
   gramm: desid,2,sg
   gloss: DESID|2SG
+  paradigm: Clitics
  -flex: .не|же<.>
   gramm: desid,3,sg
   gloss: DESID|3SG
+  paradigm: Clitics
+ -flex: .не|ж<.>
+  gramm: desid,3,sg
+  gloss: DESID|3SG
+  paradigm: Clitics_a
  -flex: .не|на<.>
   gramm: desid,1,pl
   gloss: DESID|1PL
+  paradigm: Clitics
  -flex: .не|да<.>
   gramm: desid,2,pl
   gloss: DESID|2PL
+  paradigm: Clitics
  -flex: .не|шт<.>
   gramm: desid,3,pl
   gloss: DESID|3PL
-
- -flex: <0>.аш<.>
-  gramm: inf
-  gloss: INF
-  paradigm: V_Inf_CasePoss
+  paradigm: Clitics
+ 
  -flex: .<.>
   gramm: neg
+  paradigm: Clitics
  -flex: .<.>
   gramm: imp,2,sg
+  paradigm: Clitics
  -flex: .же<.>//.жо<.>//.жӧ<.>//.ше<.>//.шо<.>//.шӧ<.>
   gramm: imp,3,sg
   gloss: IMP.3SG
+  paradigm: Clitics
+ -flex: .ж<.>//.ш<.>
+  gramm: imp,3,sg
+  gloss: IMP.3SG
+  paradigm: Clitics_a
  -flex: .за<.>//.са<.>//.да<.>
   gramm: imp,2,pl
   gloss: IMP.2PL
- -flex: <0>.ышт<.>
+  paradigm: Clitics
+
+-paradigm: V_a_proper_fullstem
+ -flex: .ам<.>
+  gramm: npst,1,sg
+  gloss: NPST.1SG
+ -flex: .ат<.>
+  gramm: npst,2,sg
+  gloss: NPST.2SG
+ -flex: .еш<.>//.эш<.>
+  gramm: npst,3,sg
+  gloss: NPST.3SG
+ -flex: .ына<.>
+  gramm: npst,1,pl
+  gloss: NPST.1PL
+ -flex: .ыда<.>
+  gramm: npst,2,pl
+  gloss: NPST.2PL
+ -flex: .ыт<.>
+  gramm: npst,3,pl
+  gloss: NPST.3PL
+
+ -flex: .ым<.>
+  gramm: pst,1,sg
+  gloss: PST.1SG
+  regex-prev: .*[^<>.лн][<>.]*$
+ -flex: .ьым<.>
+  gramm: pst,1,sg
+  gloss: PST.1SG
+  regex-prev: .*[лн][<>.]*$
+ -flex: .ыт<.>
+  gramm: pst,2,sg
+  gloss: PST.2SG
+  regex-prev: .*[^<>.лн][<>.]*$
+ -flex: .ьыт<.>
+  gramm: pst,2,sg
+  gloss: PST.2SG
+  regex-prev: .*[лн][<>.]*$
+ -flex: .о<.>//.е<.>
+  gramm: pst,3,sg
+  gloss: PST.3SG
+  regex-prev: .*[^<>.лн][<>.]*$
+ -flex: .ьо<.>//.е<.>//.ё<.>//.ье<.>
+  gramm: pst,3,sg
+  gloss: PST.3SG
+  regex-prev: .*[лн][<>.]*$
+ -flex: .ыч<.>
+  gramm: pst,3,pl
+  gloss: PST.3PL
+  regex-prev: .*[^<>.лн][<>.]*$
+ -flex: .ьыч<.>
+  gramm: pst,3,pl
+  gloss: PST.3PL
+  regex-prev: .*[лн][<>.]*$
+
+ -flex: .ынам<.>
+  gramm: pst2,1,sg
+  gloss: PST2.1SG
+ -flex: .ынат<.>
+  gramm: pst2,2,sg
+  gloss: PST2.2SG
+ -flex: .ын<.>
+  gramm: pst2,3,sg
+  gloss: PST2.3SG
+ -flex: .маш<.>//.машын<.>
+  gramm: pst2,3,sg
+  gloss: PST2.3SG
+  regex-prev: ^ул[.<>]*$
+ -flex: .ынна<.>
+  gramm: pst2,1,pl
+  gloss: PST2.1PL
+ -flex: .ында<.>
+  gramm: pst2,2,pl
+  gloss: PST2.2PL
+ -flex: .ыныт<.>//.ынут<.>
+  gramm: pst2,3,pl
+  gloss: PST2.3PL
+
+ -flex: .аш<.>
+  gramm: inf
+  gloss: INF
+  paradigm: V_Inf_CasePoss
+ -flex: .ышт<.>
   gramm: imp,3,pl
   gloss: IMP.3PL
- -flex: <0>.ыман<.>//<0>.ман<.>
+ -flex: .ыман<.>//.ман<.>
   gramm: deb
   gloss: DEB
 
