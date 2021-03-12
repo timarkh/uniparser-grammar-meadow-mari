@@ -15477,7 +15477,7 @@
  stem: нерд.
  gramm: V
  paradigm: V_e
- trans_ru: посвятит) монету духу
+ trans_ru: посвятить монету духу
 
 -lexeme
  lex: нерешкаш

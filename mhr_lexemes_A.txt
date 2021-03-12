@@ -33476,3 +33476,25 @@
  gramm: A
  paradigm: A_oxyton
  trans_ru: разный
+
+-lexeme
+ lex: амырчык
+ stem: амырчык.
+ gramm: A
+ paradigm: A_consonant
+ trans_ru: грязный
+
+-lexeme
+ lex: асамат
+ stem: асамат.
+ gramm: A
+ paradigm: A_consonant
+ trans_ru: страшный, жестокий
+
+-lexeme
+ lex: асам
+ stem: асам.
+ gramm: A
+ paradigm: A_consonant
+ trans_ru: нелепый; пошлый
+

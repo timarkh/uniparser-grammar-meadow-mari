@@ -755,13 +755,6 @@
  trans_ru: по этой стороне
 
 -lexeme
- lex: тынар
- stem: тынар.
- gramm: c
- paradigm: A_consonant
- trans_ru: столько; так много
-
--lexeme
  lex: тынаре
  stem: тынаре.|тынары.|тынар.
  gramm: PRO

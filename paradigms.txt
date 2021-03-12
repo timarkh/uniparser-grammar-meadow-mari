@@ -213,6 +213,34 @@
   gramm: emph
   gloss: EMPH
 
+-paradigm: A2ADV
+ -flex: .ын<.>
+  gramm: adv
+  gloss: ADV
+ -flex: .рак|ын<.>
+  gramm: comp,adv
+  gloss: COMP|ADV
+ -flex: .ын|рак|ын<.>
+  gramm: comp,adv
+  gloss: ADV|COMP|ADV
+ paradigm: Clitics
+
+
+-paradigm: A2ADV_rus_j
+ -flex: .н<.>
+  gramm: adv
+  gloss: ADV
+  regex-prev: .*ы[<>.]*$
+ -flex: .рак|ын<.>
+  gramm: comp,adv
+  gloss: COMP|ADV
+  regex-prev: .*ы[<>.]*$
+ -flex: .н|рак|ын<.>
+  gramm: comp,adv
+  gloss: ADV|COMP|ADV
+  regex-prev: .*ы[<>.]*$
+ paradigm: Clitics
+
 
 -paradigm: NUM_paroxyton_v_strong
  -flex: .<.>
@@ -297,6 +325,7 @@
   paradigm: N_Poss_y
   paradigm: N_Poss_Pl_y
   paradigm: N_Poss_Pl_Case_y
+  paradigm: A2ADV
  -flex: .дым<.>
   gramm: attr,attr_neg,sg
   gloss: ATTR
@@ -308,6 +337,7 @@
   paradigm: N_Poss_e
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
+  paradigm: A2ADV
 
 
 -paradigm: NUM_paroxyton_v_weak
@@ -402,6 +432,7 @@
   paradigm: N_Poss_y
   paradigm: N_Poss_Pl_y
   paradigm: N_Poss_Pl_Case_y
+  paradigm: A2ADV
  -flex: .дым<.>
   gramm: attr,attr_neg,sg
   gloss: ATTR
@@ -413,6 +444,7 @@
   paradigm: N_Poss_e
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
+  paradigm: A2ADV
 
 
 -paradigm: NUM_consonant
@@ -538,6 +570,7 @@
   paradigm: N_Poss_y
   paradigm: N_Poss_Pl_y
   paradigm: N_Poss_Pl_Case_y
+  paradigm: A2ADV
  -flex: .дым<.>
   gramm: attr,attr_neg,sg
   gloss: ATTR
@@ -549,6 +582,7 @@
   paradigm: N_Poss_e
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
+  paradigm: A2ADV
 
 
 
@@ -929,6 +963,7 @@
   paradigm: N_Poss_y
   paradigm: N_Poss_Pl_y
   paradigm: N_Poss_Pl_Case_y
+  paradigm: A2ADV
  -flex: .л<.>
   gramm: attr,attr_le,sg
   gloss: ATTR
@@ -940,6 +975,7 @@
   paradigm: N_Poss_e
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
+  paradigm: A2ADV
 
  -flex: .дыме<.>//.дымо<.>//.дымӧ<.>
   gramm: attr,attr_neg,nom,sg
@@ -964,6 +1000,7 @@
   paradigm: N_Poss_y
   paradigm: N_Poss_Pl_y
   paradigm: N_Poss_Pl_Case_y
+  paradigm: A2ADV
  -flex: .дым<.>
   gramm: attr,attr_neg,sg
   gloss: ATTR
@@ -975,6 +1012,7 @@
   paradigm: N_Poss_e
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
+  paradigm: A2ADV
 
 
 -paradigm: N_paroxyton_v_strong
@@ -1061,6 +1099,7 @@
   paradigm: N_Poss_y
   paradigm: N_Poss_Pl_y
   paradigm: N_Poss_Pl_Case_y
+  paradigm: A2ADV
  -flex: .л<.>
   gramm: attr,attr_le,sg
   gloss: ATTR
@@ -1072,6 +1111,7 @@
   paradigm: N_Poss_e
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
+  paradigm: A2ADV
 
  -flex: .дыме<.>//.дымо<.>//.дымӧ<.>
   gramm: attr,attr_neg,nom,sg
@@ -1096,6 +1136,7 @@
   paradigm: N_Poss_y
   paradigm: N_Poss_Pl_y
   paradigm: N_Poss_Pl_Case_y
+  paradigm: A2ADV
  -flex: .дым<.>
   gramm: attr,attr_neg,sg
   gloss: ATTR
@@ -1107,6 +1148,7 @@
   paradigm: N_Poss_e
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
+  paradigm: A2ADV
 
 
 -paradigm: N_oxyton_kin
@@ -1519,6 +1561,7 @@
   paradigm: N_Poss_y
   paradigm: N_Poss_Pl_y
   paradigm: N_Poss_Pl_Case_y
+  paradigm: A2ADV
  -flex: .л<.>
   gramm: attr,attr_le,sg
   gloss: ATTR
@@ -1530,6 +1573,7 @@
   paradigm: N_Poss_e
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
+  paradigm: A2ADV
 
  -flex: .дыме<.>//.дымо<.>//.дымӧ<.>
   gramm: attr,attr_neg,nom,sg
@@ -1554,6 +1598,7 @@
   paradigm: N_Poss_y
   paradigm: N_Poss_Pl_y
   paradigm: N_Poss_Pl_Case_y
+  paradigm: A2ADV
  -flex: .дым<.>
   gramm: attr,attr_neg,sg
   gloss: ATTR
@@ -1565,6 +1610,7 @@
   paradigm: N_Poss_e
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
+  paradigm: A2ADV
 
 -paradigm: PRO_3
  -flex: <0>.<.>
@@ -1743,6 +1789,7 @@
   paradigm: N_Poss_y
   paradigm: N_Poss_Pl_y
   paradigm: N_Poss_Pl_Case_y
+  paradigm: A2ADV
  -flex: .л<.>
   gramm: attr,attr_le,sg
   gloss: ATTR
@@ -1754,6 +1801,7 @@
   paradigm: N_Poss_e
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
+  paradigm: A2ADV
 
  -flex: .дыме<.>//.дымо<.>//.дымӧ<.>
   gramm: attr,attr_neg,nom,sg
@@ -1778,6 +1826,7 @@
   paradigm: N_Poss_y
   paradigm: N_Poss_Pl_y
   paradigm: N_Poss_Pl_Case_y
+  paradigm: A2ADV
  -flex: .дым<.>
   gramm: attr,attr_neg,sg
   gloss: ATTR
@@ -1789,6 +1838,7 @@
   paradigm: N_Poss_e
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
+  paradigm: A2ADV
 
 
 -paradigm: N_j
@@ -1884,6 +1934,7 @@
   paradigm: N_Poss_y
   paradigm: N_Poss_Pl_y
   paradigm: N_Poss_Pl_Case_y
+  paradigm: A2ADV
  -flex: <0>.л<.>
   gramm: attr,attr_le,sg
   gloss: ATTR
@@ -1895,6 +1946,7 @@
   paradigm: N_Poss_e
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
+  paradigm: A2ADV
 
  -flex: <0>.дыме<.>//<0>.дымо<.>//<0>.дымӧ<.>
   gramm: attr,attr_neg,nom,sg
@@ -1919,6 +1971,7 @@
   paradigm: N_Poss_y
   paradigm: N_Poss_Pl_y
   paradigm: N_Poss_Pl_Case_y
+  paradigm: A2ADV
  -flex: <0>.дым<.>
   gramm: attr,attr_neg,sg
   gloss: ATTR
@@ -1930,6 +1983,7 @@
   paradigm: N_Poss_e
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
+  paradigm: A2ADV
 
 
 -paradigm: N_soft
@@ -2025,6 +2079,7 @@
   paradigm: N_Poss_y
   paradigm: N_Poss_Pl_y
   paradigm: N_Poss_Pl_Case_y
+  paradigm: A2ADV
  -flex: <0>.л<.>
   gramm: attr,attr_le,sg
   gloss: ATTR
@@ -2036,6 +2091,7 @@
   paradigm: N_Poss_e
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
+  paradigm: A2ADV
 
  -flex: <0>.дыме<.>//<0>.дымо<.>//<0>.дымӧ<.>
   gramm: attr,attr_neg,nom,sg
@@ -2060,6 +2116,7 @@
   paradigm: N_Poss_y
   paradigm: N_Poss_Pl_y
   paradigm: N_Poss_Pl_Case_y
+  paradigm: A2ADV
  -flex: <0>.дым<.>
   gramm: attr,attr_neg,sg
   gloss: ATTR
@@ -2071,6 +2128,7 @@
   paradigm: N_Poss_e
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
+  paradigm: A2ADV
 
 
 
@@ -2092,6 +2150,7 @@
   paradigm: N_Pl_Poss
   paradigm: N_Pl_Case_Poss
   paradigm: N_Pl_Poss_Case
+  paradigm: A2ADV
  -flex: .рак<.>
   gramm: comp
   gloss: COMP
@@ -2124,6 +2183,7 @@
   paradigm: N_Pl_Poss
   paradigm: N_Pl_Case_Poss
   paradigm: N_Pl_Poss_Case
+  paradigm: A2ADV
  -flex: .рак<.>
   gramm: comp
   gloss: COMP
@@ -2150,12 +2210,14 @@
  -flex: <1>.<.>
   gramm: sg
   paradigm: N_Poss_Case_y
+  paradigm: A2ADV
  -flex: <2>.<.>
   gramm: 
   paradigm: N_Case_e
   paradigm: N_Poss_e
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
+  paradigm: A2ADV
  -flex: <1>.<.>
   gramm: 
   paradigm: N_Case_y
@@ -2199,6 +2261,7 @@
   paradigm: N_Pl_Poss
   paradigm: N_Pl_Case_Poss
   paradigm: N_Pl_Poss_Case
+  paradigm: A2ADV
  -flex: .рак<.>
   gramm: comp
   gloss: COMP
@@ -2233,6 +2296,9 @@
   paradigm: N_Pl_Poss
   paradigm: N_Pl_Case_Poss
   paradigm: N_Pl_Poss_Case
+ -flex: <0>.<.>
+  gramm: 
+  paradigm: A2ADV
  -flex: <1>.<.>
   gramm: 
   paradigm: N_Case_e
@@ -2240,6 +2306,7 @@
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
   paradigm: N_Poss_Case_e
+  paradigm: A2ADV_rus_j
  -flex: <0>.рак<.>
   gramm: comp
   gloss: COMP
@@ -2274,6 +2341,7 @@
   paradigm: N_Pl_Poss
   paradigm: N_Pl_Case_Poss
   paradigm: N_Pl_Poss_Case
+  paradigm: A2ADV
  -flex: <1>.<.>
   gramm: 
   paradigm: N_Case_e
@@ -2637,7 +2705,7 @@
  -flex: <0>.<.>
   gramm: 
   paradigm: Clitics-noreduction
- -flex: <0,2>.<.>
+ -flex: <0,1,2>.<.>
   gramm: 
   paradigm: Clitics-reduction
  -flex: <0,1>.же<.>//<0,1>.жо<.>//<0,1>.жӧ<.>
@@ -5838,6 +5906,7 @@
   paradigm: N_Poss_y
   paradigm: N_Poss_Pl_y
   paradigm: N_Poss_Pl_Case_y
+  paradigm: A2ADV
  -flex: .дым<.>
   gramm: ptcp,ptcp.neg,sg
   gloss: PTCP.NEG
@@ -5849,6 +5918,7 @@
   paradigm: N_Poss_e
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
+  paradigm: A2ADV
 
  -flex: .ын<.>
   gramm: cvb,cvb.gen
@@ -6013,6 +6083,7 @@
   paradigm: N_Poss_y
   paradigm: N_Poss_Pl_y
   paradigm: N_Poss_Pl_Case_y
+  paradigm: A2ADV
  -flex: <1>.дым<.>
   gramm: ptcp,ptcp.neg,sg
   gloss: PTCP.NEG
@@ -6024,6 +6095,7 @@
   paradigm: N_Poss_e
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
+  paradigm: A2ADV
 
  -flex: <0>.ын<.>
   gramm: cvb,cvb.gen
@@ -6189,6 +6261,7 @@
   paradigm: N_Poss_y
   paradigm: N_Poss_Pl_y
   paradigm: N_Poss_Pl_Case_y
+  paradigm: A2ADV
  -flex: .ыдым<.>
   gramm: ptcp,ptcp.neg,sg
   gloss: PTCP.NEG
@@ -6200,6 +6273,7 @@
   paradigm: N_Poss_e
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
+  paradigm: A2ADV
 
  -flex: .ен<.>//.эн<.>
   gramm: cvb,cvb.gen

@@ -5395,7 +5395,7 @@
  stem: асамат.
  gramm: N
  paradigm: N_consonant
- trans_ru: скандал; страшный, жестокий
+ trans_ru: скандал
 
 -lexeme
  lex: асамшудо

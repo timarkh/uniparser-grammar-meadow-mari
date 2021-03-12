@@ -1,0 +1,2259 @@
+-lex_rule
+ -search
+  lex: азапле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: азаплын
+  trans_ru2: беспокойно
+
+-lex_rule
+ -search
+  lex: айват
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: айватын
+  trans_ru2: прекрасно
+
+-lex_rule
+ -search
+  lex: активнӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: активнын
+  trans_ru2: активно
+
+-lex_rule
+ -search
+  lex: актык
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: актыкын
+  trans_ru2: плохо
+
+-lex_rule
+ -search
+  lex: алал
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: алалын
+  trans_ru2: благословенно, благосклонно
+
+-lex_rule
+ -search
+  lex: ал
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: алдымын
+  trans_ru2: обессиленно
+
+-lex_rule
+ -search
+  lex: ал
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: алын
+  trans_ru2: багрово
+
+-lex_rule
+ -search
+  lex: амал
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: амалдымын
+  trans_ru2: беспричинно
+
+-lex_rule
+ -search
+  lex: амырчык
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: амырчыкын
+  trans_ru2: грязно
+
+-lex_rule
+ -search
+  lex: арий
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: арийын
+  trans_ru2: смело
+
+-lex_rule
+ -search
+  lex: ачывий
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: ачывийын
+  trans_ru2: ветрено
+
+-lex_rule
+ -search
+  lex: важнӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: важнын
+  trans_ru2: важно
+
+-lex_rule
+ -search
+  lex: важык
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: важыкын
+  trans_ru2: косо, криво
+
+-lex_rule
+ -search
+  lex: вестӱкӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: вестӱкын
+  trans_ru2: по-другому
+
+-lex_rule
+ -search
+  lex: вестӱрлӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: вестӱрлын
+  trans_ru2: по-другому
+
+-lex_rule
+ -search
+  lex: вий
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: вийдымын
+  trans_ru2: бессильно
+
+-lex_rule
+ -search
+  lex: винамат
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: винаматын
+  trans_ru2: виновато
+
+-lex_rule
+ -search
+  lex: вичкыж
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: вичкыжын
+  trans_ru2: тонко
+
+-lex_rule
+ -search
+  lex: вишкыде
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: вишкыдын
+  trans_ru2: жидко; слабо
+
+-lex_rule
+ -search
+  lex: вияш
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: вияшын
+  trans_ru2: прямо
+
+-lex_rule
+ -search
+  lex: вожылаш
+  gramm: V,.*ptcp\.neg.*
+  gloss: PTCP\.NEG-ADV\b
+ -add
+  lex2: вожылдымын
+  trans_ru2: бесстыдно
+
+-lex_rule
+ -search
+  lex: волгыдо
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: волгыдын
+  trans_ru2: ярко, светло
+
+-lex_rule
+ -search
+  lex: вуйвустык
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: вуйвустыкын
+  trans_ru2: упрямо
+
+-lex_rule
+ -search
+  lex: вустык
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: вустыкын
+  trans_ru2: упрямо
+
+-lex_rule
+ -search
+  lex: вуянче
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: вуянчын
+  trans_ru2: буйно
+
+-lex_rule
+ -search
+  lex: вӱдыжгӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: вӱдыжгын
+  trans_ru2: влажно, сыро
+
+-lex_rule
+ -search
+  lex: данле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: данлын
+  trans_ru2: славно
+
+-lex_rule
+ -search
+  lex: закон
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: закондымын
+  trans_ru2: незаконно
+
+-lex_rule
+ -search
+  lex: изи
+  gramm: A,.*
+  gloss: \bCOMP-ADV\b
+ -add
+  lex2: изиракын
+  trans_ru2: понемногу, потихоньку
+
+-lex_rule
+ -search
+  lex: иктӧр
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: иктӧрын
+  trans_ru2: одинаково, равномерно
+
+-lex_rule
+ -search
+  lex: инансыр
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: инансырын
+  trans_ru2: недоверчиво, подозрительно
+
+-lex_rule
+ -search
+  lex: ир
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: ирын
+  trans_ru2: дико
+
+-lex_rule
+ -search
+  lex: йомартле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: йомартлын
+  trans_ru2: весело, приветливо
+
+-lex_rule
+ -search
+  lex: йорло
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: йорлын
+  trans_ru2: бедно
+
+-lex_rule
+ -search
+  lex: йоҥгыдо
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: йоҥгыдын
+  trans_ru2: просторно, свободно, легко
+
+-lex_rule
+ -search
+  lex: йыгыжге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: йыгыжгын
+  trans_ru2: отвратительно
+
+-lex_rule
+ -search
+  lex: йымыжге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: йымыжгын
+  trans_ru2: ласково, нежно, приветливо
+
+-lex_rule
+ -search
+  lex: йыргешке
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: йыргешкын
+  trans_ru2: кругом
+
+-lex_rule
+ -search
+  lex: йӧн
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: йӧндымын
+  trans_ru2: неудобно, неприятно
+
+-lex_rule
+ -search
+  lex: йӧнлӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: йӧнлын
+  trans_ru2: удобно; хорошо
+
+-lex_rule
+ -search
+  lex: йӧнысыр
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: йӧнысырын
+  trans_ru2: неудобно, неприятно
+
+-lex_rule
+ -search
+  lex: йӧр
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: йӧрдымын
+  trans_ru2: неподходяще; недостойно
+
+-lex_rule
+ -search
+  lex: йӧсӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: йӧсын
+  trans_ru2: трудно, тяжело
+
+-lex_rule
+ -search
+  lex: йӱк
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: йӱкдымын
+  trans_ru2: беззвучно, бесшумно
+
+-lex_rule
+ -search
+  lex: йӱштӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: йӱштын
+  trans_ru2: холодно
+
+-lex_rule
+ -search
+  lex: кандалге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: кандалгын
+  trans_ru2: голубеть (кояш)
+
+-lex_rule
+ -search
+  lex: канде
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: кандын
+  trans_ru2: синеть (кояш)
+
+-lex_rule
+ -search
+  lex: каньыле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: каньылын
+  trans_ru2: легко, удобно, хорошо; без труда
+
+-lex_rule
+ -search
+  lex: каньысыр
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: каньысырын
+  trans_ru2: беспокойно
+
+-lex_rule
+ -search
+  lex: кар
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: карын
+  trans_ru2: круто, туго
+
+-lex_rule
+ -search
+  lex: келге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: келгын
+  trans_ru2: глубоко
+
+-lex_rule
+ -search
+  lex: келесыр
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: келесырын
+  trans_ru2: недовольно
+
+-lex_rule
+ -search
+  lex: кожмак
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: кожмакын
+  trans_ru2: проворно, быстро
+
+-lex_rule
+ -search
+  lex: койын-койдымо
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: койын-койдымын
+  trans_ru2: незаметно, медленно
+
+-lex_rule
+ -search
+  lex: колышаш
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: колышашын
+  trans_ru2: смертельно
+
+-lex_rule
+ -search
+  lex: копшо
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: копшын
+  trans_ru2: гордо
+
+-lex_rule
+ -search
+  lex: косир
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: косирын
+  trans_ru2: нарядно
+
+-lex_rule
+ -search
+  lex: кошарге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: кошаргын
+  trans_ru2: остро, ребром; сильно, заметно
+
+-lex_rule
+ -search
+  lex: куакш
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: куакшын
+  trans_ru2: мелко, неглубоко
+
+-lex_rule
+ -search
+  lex: куанле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: куанлын
+  trans_ru2: радостно
+
+-lex_rule
+ -search
+  lex: куатле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: куатлын
+  trans_ru2: сильно
+
+-lex_rule
+ -search
+  lex: кужаш
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: кужашын
+  trans_ru2: растянуто
+
+-lex_rule
+ -search
+  lex: кукшо
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: кукшын
+  trans_ru2: сухо
+
+-lex_rule
+ -search
+  lex: культурнӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: культурнын
+  trans_ru2: культурно
+
+-lex_rule
+ -search
+  lex: кумыл
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: кумылдымын
+  trans_ru2: скучно, печально
+
+-lex_rule
+ -search
+  lex: кумылзак
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: кумылзакын
+  trans_ru2: весело
+
+-lex_rule
+ -search
+  lex: кумылзо
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: кумылзын
+  trans_ru2: радушно
+
+-lex_rule
+ -search
+  lex: кумылсыр
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: кумылсырын
+  trans_ru2: недовольно
+
+-lex_rule
+ -search
+  lex: кун
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: кундымын
+  trans_ru2: плохо, неблагополучно, бестолково
+
+-lex_rule
+ -search
+  lex: куштылго
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: куштылгын
+  trans_ru2: легко
+
+-lex_rule
+ -search
+  lex: кӧтырем
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: кӧтыремын
+  trans_ru2: неуклюже
+
+-lex_rule
+ -search
+  lex: кӱдыратле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: кӱдыратлын
+  trans_ru2: сильно
+
+-lex_rule
+ -search
+  lex: кӱжгӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: кӱжгын
+  trans_ru2: толсто; богато; густо
+
+-lex_rule
+ -search
+  lex: кӱкшӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: кӱкшын
+  trans_ru2: высоко
+
+-lex_rule
+ -search
+  lex: кӱлаш
+  gramm: V,.*ptcp\.neg.*
+  gloss: PTCP\.NEG-ADV\b
+ -add
+  lex2: кӱлдымын
+  trans_ru2: нехорошо, неприлично
+
+-lex_rule
+ -search
+  lex: кӱчык
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: кӱчыкын
+  trans_ru2: коротко
+
+-lex_rule
+ -search
+  lex: кӱчымӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: кӱчымын
+  trans_ru2: неприятно, беспокойно (чучеш)
+
+-lex_rule
+ -search
+  lex: лат
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: латдымын
+  trans_ru2: бестолково
+
+-lex_rule
+ -search
+  lex: лачым
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: лачымын
+  trans_ru2: хорошо, аккуратно
+
+-lex_rule
+ -search
+  lex: леве
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: левын
+  trans_ru2: тепло
+
+-lex_rule
+ -search
+  lex: лудалге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: лудалгын
+  trans_ru2: серовато, сероватым
+
+-lex_rule
+ -search
+  lex: лушкыдо
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: лушкыдын
+  trans_ru2: слабо
+
+-lex_rule
+ -search
+  lex: лывырге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: лывыргын
+  trans_ru2: плавно, мягко, легко
+
+-lex_rule
+ -search
+  lex: лӱдаш
+  gramm: V,.*ptcp\.neg.*
+  gloss: PTCP\.NEG-ADV\b
+ -add
+  lex2: лӱддымын
+  trans_ru2: бесстрашно
+
+-lex_rule
+ -search
+  lex: лӱдыкшӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: лӱдыкшын
+  trans_ru2: боязливо; страшно; опасно
+
+-lex_rule
+ -search
+  lex: мондалташ
+  gramm: V,.*ptcp\.neg.*
+  gloss: PTCP\.NEG-ADV\b
+ -add
+  lex2: мондалтдымын
+  trans_ru2: незабываемо
+
+-lex_rule
+ -search
+  lex: мотор
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: моторын
+  trans_ru2: красиво, изящно
+
+-lex_rule
+ -search
+  lex: муньырий
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: муньырийын
+  trans_ru2: медлительно
+
+-lex_rule
+ -search
+  lex: мутык
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: мутыкын
+  trans_ru2: резко
+
+-lex_rule
+ -search
+  lex: мучаш
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: мучашдымын
+  trans_ru2: бесконечно
+
+-lex_rule
+ -search
+  lex: мыскынь
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: мыскыньын
+  trans_ru2: жалко
+
+-lex_rule
+ -search
+  lex: намыс
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: намысдымын
+  trans_ru2: бессовестно
+
+-lex_rule
+ -search
+  lex: неле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: нелын
+  trans_ru2: тяжело
+
+-lex_rule
+ -search
+  lex: нечке
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: нечкын
+  trans_ru2: изнеженно
+
+-lex_rule
+ -search
+  lex: ночко
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: ночкын
+  trans_ru2: мокро
+
+-lex_rule
+ -search
+  lex: нугыдо
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: нугыдын
+  trans_ru2: густо
+
+-lex_rule
+ -search
+  lex: ныжылге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: ныжылгын
+  trans_ru2: нежно, ласково
+
+-lex_rule
+ -search
+  lex: ойгырышо
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: ойгырышын
+  trans_ru2: горестно, печально
+
+-lex_rule
+ -search
+  lex: ойыпло
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: ойыплын
+  trans_ru2: зажигательно
+
+-lex_rule
+ -search
+  lex: оралге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: оралгын
+  trans_ru2: хрипло, сипло; желтовато
+
+-lex_rule
+ -search
+  lex: ошалге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: ошалгын
+  trans_ru2: беловато, бледно
+
+-lex_rule
+ -search
+  lex: оҥайсыр
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: оҥайсырын
+  trans_ru2: неудобно
+
+-lex_rule
+ -search
+  lex: оҥай
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: оҥайын
+  trans_ru2: интересно
+
+-lex_rule
+ -search
+  lex: пайдале
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: пайдалын
+  trans_ru2: с пользой
+
+-lex_rule
+ -search
+  lex: пайремле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: пайремлын
+  trans_ru2: празднично
+
+-lex_rule
+ -search
+  lex: параллельнӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: параллельнын
+  trans_ru2: параллельно
+
+-lex_rule
+ -search
+  lex: патырле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: патырлын
+  trans_ru2: мужественно
+
+-lex_rule
+ -search
+  lex: пелганде
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: пелгандын
+  trans_ru2: голубеть (кояш)
+
+-lex_rule
+ -search
+  lex: пешкыде
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: пешкыдын
+  trans_ru2: твёрдо, жёстко
+
+-lex_rule
+ -search
+  lex: пеҥгыде
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: пеҥгыдын
+  trans_ru2: твёрдо, жёстко
+
+-lex_rule
+ -search
+  lex: писе
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: писын
+  trans_ru2: быстро
+
+-lex_rule
+ -search
+  lex: полдалге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: полдалгын
+  trans_ru2: неровно
+
+-lex_rule
+ -search
+  lex: полмезе
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: полмезын
+  trans_ru2: смело, храбро, решительно
+
+-lex_rule
+ -search
+  lex: поро
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: порын
+  trans_ru2: приветливо, вежливо; по-хорошему
+
+-lex_rule
+ -search
+  lex: провор
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: проворын
+  trans_ru2: быстро, шустро, ловко
+
+-lex_rule
+ -search
+  lex: пушкыдо
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: пушкыдын
+  trans_ru2: мягко, не жёстко
+
+-lex_rule
+ -search
+  lex: пытыдымаш
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: пытыдымашын
+  trans_ru2: бесконечно
+
+-lex_rule
+ -search
+  lex: пышткойшо
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: пышткойшын
+  trans_ru2: нескромно
+
+-lex_rule
+ -search
+  lex: пӧкмӧр
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: пӧкмӧрын
+  trans_ru2: молча
+
+-lex_rule
+ -search
+  lex: пӱсӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: пӱсын
+  trans_ru2: остро
+
+-lex_rule
+ -search
+  lex: радам
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: радамдымын
+  trans_ru2: беспорядочно
+
+-lex_rule
+ -search
+  lex: рат
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: ратдымын
+  trans_ru2: бестолково, беспорядочно
+
+-lex_rule
+ -search
+  lex: ратле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: ратлын
+  trans_ru2: толково, дельно
+
+-lex_rule
+ -search
+  lex: рашкемыш
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: рашкемышын
+  trans_ru2: ясно, чётко
+
+-lex_rule
+ -search
+  lex: раш
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: рашын
+  trans_ru2: пристально, ясно
+
+-lex_rule
+ -search
+  lex: сай
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: сайын
+  trans_ru2: хорошо
+
+-lex_rule
+ -search
+  lex: самырык
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: самырыкын
+  trans_ru2: молодо
+
+-lex_rule
+ -search
+  lex: сандалге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: сандалгын
+  trans_ru2: розово, ало
+
+-lex_rule
+ -search
+  lex: саралге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: саралгын
+  trans_ru2: желтовато
+
+-lex_rule
+ -search
+  lex: сар
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: сарын
+  trans_ru2: жёлто
+
+-lex_rule
+ -search
+  lex: селт
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: селтын
+  trans_ru2: хитро
+
+-lex_rule
+ -search
+  lex: серыпле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: серыплын
+  trans_ru2: тяжело; мощно
+
+-lex_rule
+ -search
+  lex: серып
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: серыпын
+  trans_ru2: тяжело, грузно
+
+-lex_rule
+ -search
+  lex: серьёзнӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: серьёзнын
+  trans_ru2: серьёзно
+
+-lex_rule
+ -search
+  lex: скромнӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: скромнын
+  trans_ru2: скромно
+
+-lex_rule
+ -search
+  lex: согым
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: согымын
+  trans_ru2: весело
+
+-lex_rule
+ -search
+  lex: спайле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: спайлын
+  trans_ru2: стройно, чётко
+
+-lex_rule
+ -search
+  lex: спай
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: спайын
+  trans_ru2: изящно
+
+-lex_rule
+ -search
+  lex: стихийнӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: стихийнын
+  trans_ru2: стихийно
+
+-lex_rule
+ -search
+  lex: суапле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: суаплын
+  trans_ru2: плодотворно
+
+-lex_rule
+ -search
+  lex: суралге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: суралгын
+  trans_ru2: серовато
+
+-lex_rule
+ -search
+  lex: сур
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: сурын
+  trans_ru2: серо
+
+-lex_rule
+ -search
+  lex: сустык
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: сустыкын
+  trans_ru2: косно
+
+-lex_rule
+ -search
+  lex: сылне
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: сылнын
+  trans_ru2: красиво
+
+-lex_rule
+ -search
+  lex: сын
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: сындымын
+  trans_ru2: безобразно
+
+-lex_rule
+ -search
+  lex: сынле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: сынлын
+  trans_ru2: ярко, убедительно, достоверно
+
+-lex_rule
+ -search
+  lex: сырве-сорво
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: сырве-сорвын
+  trans_ru2: неряшливо
+
+-lex_rule
+ -search
+  lex: сӧрал
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: сӧралын
+  trans_ru2: красиво, приятно
+
+-lex_rule
+ -search
+  lex: сӱмсыр
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: сӱмсырын
+  trans_ru2: упрямо; хмуро, мрачно
+
+-lex_rule
+ -search
+  lex: тале
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: талын
+  trans_ru2: сильно
+
+-lex_rule
+ -search
+  lex: тамле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тамлын
+  trans_ru2: вкусно, сладко
+
+-lex_rule
+ -search
+  lex: темаш
+  gramm: V,.*ptcp\.neg.*
+  gloss: PTCP\.NEG-ADV\b
+ -add
+  lex2: темдымын
+  trans_ru2: жадно
+
+-lex_rule
+ -search
+  lex: тептер
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: тептердымын
+  trans_ru2: бестолково
+
+-lex_rule
+ -search
+  lex: тийышле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тийышлын
+  trans_ru2: как следует
+
+-lex_rule
+ -search
+  lex: титак
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: титакдымын
+  trans_ru2: с видом невиновного
+
+-lex_rule
+ -search
+  lex: тичмаш
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тичмашын
+  trans_ru2: полностью
+
+-lex_rule
+ -search
+  lex: ток
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: токын
+  trans_ru2: обильно
+
+-lex_rule
+ -search
+  lex: томам
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: томамын
+  trans_ru2: плохо
+
+-lex_rule
+ -search
+  lex: тошто
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тоштын
+  trans_ru2: решительно
+
+-lex_rule
+ -search
+  lex: туйо
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: туйын
+  trans_ru2: болезненно
+
+-lex_rule
+ -search
+  lex: туло
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тулын
+  trans_ru2: жарко, горячо
+
+-lex_rule
+ -search
+  lex: тутло
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тутлын
+  trans_ru2: вкусно
+
+-lex_rule
+ -search
+  lex: туто
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тутын
+  trans_ru2: полно, ядрёно, зрело
+
+-lex_rule
+ -search
+  lex: тушманле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тушманлын
+  trans_ru2: враждебно
+
+-lex_rule
+ -search
+  lex: тыглай
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тыглайын
+  trans_ru2: просто; обычно
+
+-lex_rule
+ -search
+  lex: тыгыде
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тыгыдын
+  trans_ru2: мелко
+
+-lex_rule
+ -search
+  lex: тыматле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тыматлын
+  trans_ru2: скромно
+
+-lex_rule
+ -search
+  lex: тынысле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тыныслын
+  trans_ru2: мирно
+
+-lex_rule
+ -search
+  lex: тыр
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тырын
+  trans_ru2: живо
+
+-lex_rule
+ -search
+  lex: тӧрсыр
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тӧрсырын
+  trans_ru2: неровно
+
+-lex_rule
+ -search
+  lex: тӱвылӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тӱвылын
+  trans_ru2: бережно, экономно
+
+-lex_rule
+ -search
+  lex: тӱвыргӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тӱвыргын
+  trans_ru2: дружно, обильно
+
+-lex_rule
+ -search
+  lex: тӱжемле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тӱжемлын
+  trans_ru2: тысячью, тысячами
+
+-lex_rule
+ -search
+  lex: тӱлыжгӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тӱлыжгын
+  trans_ru2: хило, вяло
+
+-lex_rule
+ -search
+  lex: тӱлӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тӱлын
+  trans_ru2: холодно, прохладно
+
+-lex_rule
+ -search
+  lex: тӱрлӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тӱрлын
+  trans_ru2: по-разному, разнообразно
+
+-lex_rule
+ -search
+  lex: тӱрыс
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тӱрысын
+  trans_ru2: полностью
+
+-lex_rule
+ -search
+  lex: тӱс
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: тӱсдымын
+  trans_ru2: бледно, безлико
+
+-lex_rule
+ -search
+  lex: тӱслӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тӱслын
+  trans_ru2: цветисто
+
+-lex_rule
+ -search
+  lex: тӱткӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: тӱткын
+  trans_ru2: внимательно
+
+-lex_rule
+ -search
+  lex: ударле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: ударлын
+  trans_ru2: ударно
+
+-lex_rule
+ -search
+  lex: ударне
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: ударнын
+  trans_ru2: ударно
+
+-lex_rule
+ -search
+  lex: ужарге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: ужаргын
+  trans_ru2: зелено
+
+-lex_rule
+ -search
+  lex: ужаш
+  gramm: V,.*ptcp\.neg.*
+  gloss: PTCP\.NEG-ADV\b
+ -add
+  lex2: уждымын
+  trans_ru2: невидимо
+
+-lex_rule
+ -search
+  lex: улак
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: улакын
+  trans_ru2: уединённо
+
+-lex_rule
+ -search
+  lex: урдо
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: урдын
+  trans_ru2: бережливо
+
+-lex_rule
+ -search
+  lex: уш
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: ушдымын
+  trans_ru2: глупо, нелепо
+
+-lex_rule
+ -search
+  lex: у
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: уын
+  trans_ru2: по-новом
+
+-lex_rule
+ -search
+  lex: чак
+  gramm: A,.*
+  gloss: \bCOMP-ADV\b
+ -add
+  lex2: чакракын
+  trans_ru2: ближе, теснее друг к другу
+
+-lex_rule
+ -search
+  lex: чал
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: чалын
+  trans_ru2: седым (казаться)
+
+-lex_rule
+ -search
+  lex: чапле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: чаплын
+  trans_ru2: прекрасно
+
+-lex_rule
+ -search
+  lex: чарамат
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: чараматын
+  trans_ru2: нагишом, голым
+
+-lex_rule
+ -search
+  lex: чараматыр
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: чараматырын
+  trans_ru2: нагишом, голым
+
+-lex_rule
+ -search
+  lex: чевер
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: чеверын
+  trans_ru2: красиво, прекрасно
+
+-lex_rule
+ -search
+  lex: черле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: черлын
+  trans_ru2: нездорово
+
+-lex_rule
+ -search
+  lex: чесле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: чеслын
+  trans_ru2: прекрасно; приятно
+
+-lex_rule
+ -search
+  lex: честнӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: честнын
+  trans_ru2: честно
+
+-lex_rule
+ -search
+  lex: четын
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: четынын
+  trans_ru2: нежно
+
+-lex_rule
+ -search
+  lex: чеченле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: чеченлын
+  trans_ru2: красиво; прекрасно; прелестно
+
+-lex_rule
+ -search
+  lex: чечен
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: чеченын
+  trans_ru2: красиво; прекрасно; очень хорошо
+
+-lex_rule
+ -search
+  lex: чон
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: чондымын
+  trans_ru2: бесчеловечно
+
+-lex_rule
+ -search
+  lex: чоткыдо
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: чоткыдын
+  trans_ru2: крепко, сильно
+
+-lex_rule
+ -search
+  lex: чузий
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: чузийын
+  trans_ru2: подслеповато
+
+-lex_rule
+ -search
+  lex: чулым
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: чулымын
+  trans_ru2: бойко, расторопно
+
+-lex_rule
+ -search
+  lex: чумыраш
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: чумырашын
+  trans_ru2: округло
+
+-lex_rule
+ -search
+  lex: чынле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: чынлын
+  trans_ru2: справедливо
+
+-lex_rule
+ -search
+  lex: чыр
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: чырын
+  trans_ru2: быстро, шустро, ловко, проворно
+
+-lex_rule
+ -search
+  lex: чытамсыр
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: чытамсырын
+  trans_ru2: беспокойно
+
+-lex_rule
+ -search
+  lex: чӱдӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: чӱдын
+  trans_ru2: бедно
+
+-lex_rule
+ -search
+  lex: чӱчкыдӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: чӱчкыдын
+  trans_ru2: часто
+
+-lex_rule
+ -search
+  lex: шадырге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шадыргын
+  trans_ru2: терпко, кисло
+
+-lex_rule
+ -search
+  lex: шайык
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шайыкын
+  trans_ru2: искоса
+
+-lex_rule
+ -search
+  lex: шакше
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шакшын
+  trans_ru2: мерзко
+
+-lex_rule
+ -search
+  lex: шапалге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шапалгын
+  trans_ru2: бледно
+
+-lex_rule
+ -search
+  lex: шапле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шаплын
+  trans_ru2: быстро
+
+-lex_rule
+ -search
+  lex: шап
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шапын
+  trans_ru2: безобразно
+
+-lex_rule
+ -search
+  lex: шемалге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шемалгын
+  trans_ru2: темновато, черновато
+
+-lex_rule
+ -search
+  lex: шем
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шемын
+  trans_ru2: темно, черно
+
+-lex_rule
+ -search
+  lex: шералге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шералгын
+  trans_ru2: сладковато; со сладким привкусом
+
+-lex_rule
+ -search
+  lex: шерге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шергын
+  trans_ru2: дорого
+
+-lex_rule
+ -search
+  lex: шере
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шерын
+  trans_ru2: сладко
+
+-lex_rule
+ -search
+  lex: шижаш
+  gramm: V,.*ptcp\.neg.*
+  gloss: PTCP\.NEG-ADV\b
+ -add
+  lex2: шиждымын
+  trans_ru2: неожиданно; незаметно
+
+-lex_rule
+ -search
+  lex: шокшо
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шокшын
+  trans_ru2: горячо, жарко
+
+-lex_rule
+ -search
+  lex: шолып
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шолыпын
+  trans_ru2: тайно
+
+-lex_rule
+ -search
+  lex: шот
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: шотдымын
+  trans_ru2: бестолково; страшно; слишком много
+
+-lex_rule
+ -search
+  lex: шоҥго
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шоҥгын
+  trans_ru2: старым; по-старчески
+
+-lex_rule
+ -search
+  lex: шулдо
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шулдын
+  trans_ru2: дёшево
+
+-lex_rule
+ -search
+  lex: шучко
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шучкын
+  trans_ru2: страшно
+
+-lex_rule
+ -search
+  lex: шыгыр
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шыгырын
+  trans_ru2: тесно; неспокойно
+
+-lex_rule
+ -search
+  lex: шымшык
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шымшыкын
+  trans_ru2: скрытно
+
+-lex_rule
+ -search
+  lex: шыпчык
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шыпчыкын
+  trans_ru2: тихо, осторожно
+
+-lex_rule
+ -search
+  lex: шышталге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шышталгын
+  trans_ru2: жёлтым
+
+-lex_rule
+ -search
+  lex: шыҥышыр
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шыҥышырын
+  trans_ru2: ехидно, язвительно
+
+-lex_rule
+ -search
+  lex: шӧртнялге
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шӧртнялгын
+  trans_ru2: золотисто
+
+-lex_rule
+ -search
+  lex: шӱкшӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: шӱкшын
+  trans_ru2: плохо
+
+-lex_rule
+ -search
+  lex: шӱм
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: шӱмдымын
+  trans_ru2: бессердечно
+
+-lex_rule
+ -search
+  lex: ыҥгайле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: ыҥгайлын
+  trans_ru2: удачно
+
+-lex_rule
+ -search
+  lex: эветле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: эветлын
+  trans_ru2: привередливо
+
+-lex_rule
+ -search
+  lex: эпле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: эплын
+  trans_ru2: вежливо; спокойно; ласково
+
+-lex_rule
+ -search
+  lex: эффективнӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: эффективнын
+  trans_ru2: эффективно
+
+-lex_rule
+ -search
+  lex: явык
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: явыкын
+  trans_ru2: худо
+
+-lex_rule
+ -search
+  lex: яжар
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: яжарын
+  trans_ru2: развратно
+
+-lex_rule
+ -search
+  lex: ямде
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: ямдын
+  trans_ru2: наготове
+
+-lex_rule
+ -search
+  lex: ямле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: ямлын
+  trans_ru2: красиво
+
+-lex_rule
+ -search
+  lex: яндар
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: яндарын
+  trans_ru2: чисто
+
+-lex_rule
+ -search
+  lex: яҥгар
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: яҥгарын
+  trans_ru2: дряхло, старо
+
+-lex_rule
+ -search
+  lex: ӱлыкшӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: ӱлыкшын
+  trans_ru2: низко, униженно
+
+-lex_rule
+ -search
+  lex: ӱнар
+  gramm: N,.*attr_neg.*
+  gloss: \bATTR-ADV\b
+ -add
+  lex2: ӱнардымын
+  trans_ru2: бессильно
+
+-lex_rule
+ -search
+  lex: ӱскырт
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: ӱскыртын
+  trans_ru2: упрямо, настойчиво, упорно
+
+-lex_rule
+ -search
+  lex: ӱшанле
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: ӱшанлын
+  trans_ru2: убедительно
+
+-lex_rule
+ -search
+  lex: ӱҥышӧ
+  gramm: A,.*
+  gloss: \bADV\b
+ -add
+  lex2: ӱҥышын
+  trans_ru2: смиренно
+
