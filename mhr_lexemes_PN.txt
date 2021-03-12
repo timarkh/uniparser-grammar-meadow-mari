@@ -67121,13 +67121,6 @@
  trans_ru: Укъю
 
 -lexeme
- lex: Ула
- stem: ула.|улы.//ула.|ул.//ула.
- gramm: N,PN,topn
- paradigm: N_paroxyton_v_weak
- trans_ru: Ула
-
--lexeme
  lex: Уланов
  stem: уланов.
  gramm: N,PN,famn
