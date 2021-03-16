@@ -2424,7 +2424,7 @@
   gramm: 
   paradigm: Clitics
   regex-lex: ^ончыл$
- -flex: <1>.ан<.>
+ -flex: <0>.ан<.>
   gramm: lat,sg
   gloss: LAT
   paradigm: N_Poss_after_case_no_comp

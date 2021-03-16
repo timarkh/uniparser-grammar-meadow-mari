@@ -4223,7 +4223,7 @@
 
 -lexeme
  lex: конешне
- stem: конешне.
+ stem: конешне.//конешно.
  gramm: PARENTH,rus
  paradigm: Clitics
  trans_ru: конечно
@@ -8038,7 +8038,7 @@
 
 -lexeme
  lex: ожно
- stem: ожно.
+ stem: ожно.|ожны.|ожн.
  gramm: ADV
  paradigm: POST_ADV_Poss
  trans_ru: прежде, раньше
@@ -17879,3 +17879,16 @@
  paradigm: POST_ADV_Poss
  trans_ru: хило, слабо
 
+-lexeme
+ lex: может
+ stem: может.
+ gramm: PARENTH,rus
+ paradigm: Clitics
+ trans_ru: может
+
+-lexeme
+ lex: примерно
+ stem: примерно.
+ gramm: PARENTH,rus
+ paradigm: Clitics
+ trans_ru: примерно

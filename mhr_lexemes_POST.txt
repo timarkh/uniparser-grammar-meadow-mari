@@ -102,3 +102,10 @@
  gramm: N,rel_n
  paradigm: POST
  trans_ru: под, внизу
+
+-lexeme
+ lex: вал
+ stem: вал.|ва.
+ gramm: N,rel_n
+ paradigm: POST
+ trans_ru: на; поверхность

@@ -59318,16 +59318,9 @@
 
 -lexeme
  lex: Семёновка
- stem: семёновка.
+ stem: семёновка.|сёменовкы.//сёменовка.|сёменовк.//сёменовка.
  gramm: N,PN,topn
- paradigm: N_oxyton
- trans_ru: Семёновка
-
--lexeme
- lex: Семёновка
- stem: семёновка.
- gramm: N,PN,topn
- paradigm: N_oxyton
+ paradigm: N_paroxyton_v_weak
  trans_ru: Семёновка
 
 -lexeme
@@ -78976,14 +78969,14 @@
  stem: лариван.
  gramm: N,PN,persn
  paradigm: N_consonant
- trans_ru: Ларион
+ trans_ru: Ларион (Илларион)
 
 -lexeme
  lex: Ларивон
  stem: ларивон.
  gramm: N,PN,persn
  paradigm: N_consonant
- trans_ru: Ларион
+ trans_ru: Ларион (Илларион)
 
 -lexeme
  lex: Мику
@@ -79263,7 +79256,7 @@
  stem: пеня.|пены.//пеня.|пен.//пеня.
  gramm: N,PN,persn
  paradigm: N_paroxyton_v_weak
- trans_ru: Феня
+ trans_ru: Феня (Аграфена)
 
 -lexeme
  lex: Пӧкла

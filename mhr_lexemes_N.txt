@@ -41866,7 +41866,7 @@
 
 -lexeme
  lex: кудывече
- stem: кудывече.//кудывечэ.|кудывечы.//кудывэчы.|кудывеч.//кудывэч.
+ stem: кудывече.//кудывечэ.//кудвече.//кудвечэ.|кудывечы.//кудывэчы.//кудвечы.//кудвэчы.|кудывеч.//кудывэч.//кудвеч.//кудвэч.
  gramm: N
  paradigm: N_paroxyton_v_weak
  trans_ru: двор
@@ -124401,14 +124401,7 @@
 
 -lexeme
  lex: ясле
- stem: ясле.//яслэ.|яслы.|ясл.
- gramm: N,rus
- paradigm: N_paroxyton_v_weak
- trans_ru: ясли
-
--lexeme
- lex: ясле
- stem: ясльы.|яслы.|ясл.
+ stem: ясле.//яслэ.//ясльы.|ясльы.|ясл.//ясль.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: ясли

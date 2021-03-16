@@ -48,7 +48,7 @@
 
 -lexeme
  lex: ме
- stem: ме.
+ stem: ме.//мемна.
  gramm: PRO,pers,1,pl,nom
  paradigm: Clitics
  paradigm: Poss_3Sg
@@ -85,7 +85,7 @@
 
 -lexeme
  lex: те
- stem: те.
+ stem: те.//тенда.
  gramm: PRO,pers,2,pl,nom
  paradigm: Clitics
  paradigm: Poss_3Sg
@@ -1369,112 +1369,112 @@
 
 -lexeme
  lex: нигунар
- stem: нигунар.
+ stem: нигунар.//ныгунар.
  gramm: PRO,neg
  paradigm: A_consonant
  trans_ru: нисколько
 
 -lexeme
  lex: нигӧ
- stem: нигӧ.
+ stem: нигӧ.//ныгӧ.
  gramm: PRO,neg
  paradigm: A_oxyton
  trans_ru: никто
 
 -lexeme
  lex: нимо
- stem: нимо.
+ stem: нимо.//нымо.
  gramm: PRO,neg
  paradigm: A_oxyton
  trans_ru: ничто
 
 -lexeme
  lex: нигудо
- stem: нигудо.|нигуды.|нигуд.
+ stem: нигудо.//ныгудо.|нигуды.//ныгуды.|нигуд.//ныгуд.
  gramm: PRO,neg
  paradigm: A_paroxyton_v_weak
  trans_ru: никоторый
 
 -lexeme
  lex: никунам
- stem: никунам.
+ stem: никунам.//ныкунам.
  gramm: PRO,neg
  paradigm: A_consonant
  trans_ru: никогда
 
 -lexeme
  lex: нигунам
- stem: нигунам.
+ stem: нигунам.//ныгунам.
  gramm: PRO,neg
  paradigm: A_consonant
  trans_ru: никогда
 
 -lexeme
  lex: нигушак
- stem: нигушак.
+ stem: нигушак.//ныгушак.
  gramm: PRO,neg
  paradigm: A_consonant
  trans_ru: нигде
 
 -lexeme
  lex: нигушан
- stem: нигушан.
+ stem: нигушан.//ныгушан.
  gramm: PRO,neg
  paradigm: A_consonant
  trans_ru: нигде
 
 -lexeme
  lex: нигушеч
- stem: нигушеч.
+ stem: нигушеч.//ныгушеч.
  gramm: PRO,neg
  paradigm: A_consonant
  trans_ru: ниоткуда
 
 -lexeme
  lex: нигушечын
- stem: нигушечын.
- gramm: PRO,neg
+ stem: нигушечын.//ныгушечын.
+ gramm: PRO,neg,el_full
  paradigm: A_consonant
  trans_ru: ниоткуда
 
 -lexeme
  lex: нигуш
- stem: нигуш.
+ stem: нигуш.//ныгуш.
  gramm: PRO,neg
  paradigm: A_consonant
  trans_ru: никуда
 
 -lexeme
  lex: нигушко
- stem: нигушко.|нигушкы.|нигушк.
+ stem: нигушко.//ныгушко.|нигушкы.//ныгушкы.|нигушк.//ныгушк.
  gramm: PRO,neg
  paradigm: A_paroxyton_v_weak
  trans_ru: никуда
 
 -lexeme
  lex: нигушто
- stem: нигушто.|нигушты.|нигушт.
+ stem: нигушто.//ныгушто.|нигушты.//ныгушты.|нигушт.//ныгушт.
  gramm: PRO,neg
  paradigm: A_paroxyton_v_weak
  trans_ru: нигде
 
 -lexeme
  lex: нигуҥге
- stem: нигуҥге.
+ stem: нигуҥге.//ныгуҥге.
  gramm: PRO,neg
  paradigm: A_oxyton
  trans_ru: никуда
 
 -lexeme
  lex: нимачат
- stem: нимачат.
+ stem: нимачат.//нымачат.
  gramm: PRO,neg
  paradigm: A_consonant
  trans_ru: нисколько, ничуть
 
 -lexeme
  lex: нимаят
- stem: нимаят.
+ stem: нимаят.//нымаят.
  gramm: PRO,neg
  paradigm: A_consonant
  trans_ru: нисколько, ничуть
