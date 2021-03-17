@@ -3206,7 +3206,7 @@
   gloss: 3SG|ACC
  -flex: .на|м<.>
   gramm: acc,1pl
-  gloss: PL|1PL|ACC
+  gloss: 1PL|ACC
  -flex: .да|м<.>
   gramm: acc,2pl
   gloss: 2PL|ACC
@@ -3412,7 +3412,7 @@
   gloss: 3SG|ACC
  -flex: .на|м<.>
   gramm: acc,1pl
-  gloss: PL|1PL|ACC
+  gloss: 1PL|ACC
  -flex: .да|м<.>
   gramm: acc,2pl
   gloss: 2PL|ACC
@@ -3531,7 +3531,7 @@
   regex-prev: .*[счшж][.<>]*$
  -flex: .на|м<.>
   gramm: acc,1pl
-  gloss: PL|1PL|ACC
+  gloss: 1PL|ACC
  -flex: .да|м<.>
   gramm: acc,2pl
   gloss: 2PL|ACC
@@ -3715,7 +3715,7 @@
   gloss: 3SG|ACC
  -flex: <0>.на|м<.>
   gramm: acc,1pl
-  gloss: PL|1PL|ACC
+  gloss: 1PL|ACC
  -flex: <0>.да|м<.>
   gramm: acc,2pl
   gloss: 2PL|ACC
