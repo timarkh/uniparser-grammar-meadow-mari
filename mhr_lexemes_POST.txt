@@ -109,3 +109,10 @@
  gramm: N,rel_n
  paradigm: POST
  trans_ru: на; поверхность
+
+-lexeme
+ lex: ӱл
+ stem: ӱл.|ӱлы.
+ gramm: N,rel_n
+ paradigm: POST
+ trans_ru: под
