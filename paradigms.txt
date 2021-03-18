@@ -187,15 +187,15 @@
  -flex: <0>.же
   gramm: 3sg
   gloss: 3SG
-  regex-gramm: ^(N|A|PRO),.*$
+  regex-gramm: ^(N|A|PRONUM|V),.*$
  -flex: <0>.ж|ат
   gramm: 3sg,add
   gloss: 3SG|ADD
-  regex-gramm: ^(N|A|PRO),.*$
+  regex-gramm: ^(N|A|PRO|NUM|V),.*$
  -flex: <0>.ж|ак
   gramm: 3sg,emph
   gloss: 3SG|EMPH
-  regex-gramm: ^(N|A|PRO),.*$
+  regex-gramm: ^(N|A|PRONUM|V),.*$
 
 -paradigm: Clitics_ya
  -flex: .ят
@@ -338,7 +338,11 @@
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
   paradigm: A2ADV
-
+ 
+ -flex: .нек<.>
+  gramm: coll
+  gloss: COLL
+  paradigm: Clitics
 
 -paradigm: NUM_paroxyton_v_weak
  -flex: <0>.<.>
@@ -445,7 +449,11 @@
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
   paradigm: A2ADV
-
+ 
+ -flex: <1>.нек<.>
+  gramm: coll
+  gloss: COLL
+  paradigm: Clitics
 
 -paradigm: NUM_consonant
  -flex: .<.>
@@ -583,7 +591,11 @@
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
   paradigm: A2ADV
-
+ 
+ -flex: .нек<.>
+  gramm: coll
+  gloss: COLL
+  paradigm: Clitics
 
 
 -paradigm: N_doublePoss
