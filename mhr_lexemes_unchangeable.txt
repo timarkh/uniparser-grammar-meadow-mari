@@ -17892,3 +17892,11 @@
  gramm: PARENTH,rus
  paradigm: Clitics
  trans_ru: примерно
+
+-lexeme
+ lex: адак
+ gramm: PART
+ stem: адак.
+ paradigm: Clitics
+ trans_ru: ещё
+

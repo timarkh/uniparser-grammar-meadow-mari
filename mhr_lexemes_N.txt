@@ -126120,3 +126120,10 @@
  gramm: N
  paradigm: N_paroxyton_v_weak
  trans_ru: моча
+
+-lexeme
+ lex: шӱмторык
+ gramm: N
+ stem: шӱмторык.
+ paradigm: N_consonant
+ trans_ru: творог

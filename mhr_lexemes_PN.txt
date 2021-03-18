@@ -79398,10 +79398,16 @@
  paradigm: N_consonant
  trans_ru: Яштрек
 
-
 -lexeme
  lex: Шкетан
  stem: шкетан.
  gramm: N,PN,famn
  paradigm: N_consonant
  trans_ru: М. Шкетан (псевдоним Я. П. Майорова)
+
+-lexeme
+ lex: Пали
+ stem: пали.
+ gramm: N,PN,persn
+ paradigm: N_oxyton
+ trans_ru: Пали (Пелагея)
