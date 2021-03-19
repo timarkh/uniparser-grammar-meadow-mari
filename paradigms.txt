@@ -1636,6 +1636,7 @@
   paradigm: N_Poss_Case_e
  -flex: <2>.лан<.>
   gramm: sg,dat
+  gloss: DAT
   paradigm: Clitics
   regex-prev: .*(т[иу]|с[ае])д[<>.]*$
  -flex: <0,1>.<.>
