@@ -1732,10 +1732,10 @@
   gramm: indef,indef_ala
   gloss: INDEF1
  -flex: икта-.<.>//икта.<.>
-  gramm: indef,indef_ala
+  gramm: indef,indef_ikta
   gloss: INDEF2
  -flex: икта|ж-.<.>//икта|ж.<.>
-  gramm: indef,indef_ala,3sg
+  gramm: indef,indef_ikta,3sg
   gloss: INDEF2|3SG
  -flex: .<.>-гынат//.<.>гынат//.-гынат<.>//.гынат<.>
   gramm: indef,indef_gynat
@@ -1801,10 +1801,10 @@
   gramm: indef,indef_ala
   gloss: INDEF1
  -flex: икта-.<.>//икта.<.>
-  gramm: indef,indef_ala
+  gramm: indef,indef_ikta
   gloss: INDEF2
  -flex: икта|ж-.<.>//икта|ж.<.>
-  gramm: indef,indef_ala,3sg
+  gramm: indef,indef_ikta,3sg
   gloss: INDEF2|3SG
  -flex: .<.>-гынат//.<.>гынат//.-гынат<.>//.гынат<.>
   gramm: indef,indef_gynat
@@ -1829,10 +1829,10 @@
   gramm: indef,indef_ala
   gloss: INDEF1
  -flex: икта-.<.>//икта.<.>
-  gramm: indef,indef_ala
+  gramm: indef,indef_ikta
   gloss: INDEF2
  -flex: икта|ж-.<.>//икта|ж.<.>
-  gramm: indef,indef_ala,3sg
+  gramm: indef,indef_ikta,3sg
   gloss: INDEF2|3SG
  -flex: .<.>-гынат//.<.>гынат//.-гынат<.>//.гынат<.>
   gramm: indef,indef_gynat
