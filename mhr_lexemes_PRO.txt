@@ -8,7 +8,7 @@
 
 -lexeme
  lex: мый
- stem: мый.
+ stem: мый.|мы.
  gramm: PRO,pers,1,sg
  paradigm: PRO_pers_CasePoss_j
  trans_ru: я
@@ -32,7 +32,7 @@
 
 -lexeme
  lex: тый
- stem: тый.
+ stem: тый.|ты.
  gramm: PRO,pers,2,sg
  paradigm: PRO_pers_CasePoss_j
  trans_ru: ты
@@ -195,25 +195,11 @@
  trans_ru: так
 
 -lexeme
- lex: тыште
- stem: тыште.
+ lex: туге
+ stem: туг.
  gramm: PRO
- paradigm: Clitics
- trans_ru: здесь
-
--lexeme
- lex: тышан
- stem: тышан.
- gramm: PRO
- paradigm: Clitics
- trans_ru: здесь
-
--lexeme
- lex: тышке
- stem: тышке.
- gramm: PRO
- paradigm: Clitics
- trans_ru: сюда
+ paradigm: Clitics_a
+ trans_ru: так
 
 -lexeme
  lex: тыгай
@@ -231,9 +217,9 @@
 
 -lexeme
  lex: могай
- stem: могай.|мога.
+ stem: .могай.|.мога.
  gramm: PRO
- paradigm: A_j
+ paradigm: PRO_series_j
  trans_ru: какой
 
 -lexeme
@@ -266,58 +252,65 @@
 
 -lexeme
  lex: мыняр
- stem: мыняр.
+ stem: .мыняр.
  gramm: PRO
- paradigm: A_consonant
+ paradigm: PRO_series
  trans_ru: сколько
 
 -lexeme
  lex: мыняре
- stem: мыняре.|мыняры.|мыняр.
+ stem: .мыняре.|.мыняры.|.мыняр.
  gramm: PRO
- paradigm: A_paroxyton_v_weak
+ paradigm: PRO_series
  trans_ru: сколько
 
 -lexeme
  lex: кунар
- stem: кунар.
+ stem: .кунар.//.гунар.
  gramm: PRO
- paradigm: A_consonant
+ paradigm: PRO_series
  trans_ru: сколько
 
 -lexeme
  lex: кунаре
- stem: кунаре.|кунары.|кунар.
+ stem: .кунаре.//.гунаре.|.кунары.//.гунары.|.кунар.//.гунар.
  gramm: PRO
- paradigm: A_paroxyton_v_weak
+ paradigm: PRO_series
  trans_ru: сколько
 
 -lexeme
  lex: кунарын
- stem: кунарын.
+ stem: .кунарын.//.гунарын.
  gramm: PRO
- paradigm: A_consonant
+ paradigm: PRO_series
  trans_ru: сколько
 
 -lexeme
  lex: кузе
- stem: кузе.
+ stem: .кузе.//.гузе.
  gramm: PRO
- paradigm: A_oxyton
+ paradigm: PRO_series
  trans_ru: как
 
 -lexeme
  lex: кӧ
- stem: кӧ.
+ stem: .кӧ.//.гӧ.
  gramm: PRO
- paradigm: A_oxyton
+ paradigm: PRO_series
  trans_ru: кто
 
 -lexeme
  lex: мо
- stem: мо.
+ stem: .мо.|.мо.|.мо.//.м.
  gramm: PRO
- paradigm: A_oxyton
+ paradigm: PRO_series
+ trans_ru: что
+
+-lexeme
+ lex: мо
+ stem: .ма.
+ gramm: PRO
+ paradigm: PRO_series_limited
  trans_ru: что
 
 -lexeme
@@ -329,9 +322,9 @@
 
 -lexeme
  lex: кудо
- stem: кудо.|куды.|куд.
+ stem: .кудо.//.гудо.|.куды.//.гуды.|.куд.//.гуд.
  gramm: PRO
- paradigm: A_paroxyton_v_weak
+ paradigm: PRO_series
  trans_ru: который
 
 -lexeme
@@ -392,17 +385,27 @@
 
 -lexeme
  lex: кунам
- stem: кунам.
+ stem: .кунам.//.гунам.
  gramm: PRO
- paradigm: A_consonant
+ paradigm: PRO_series
  trans_ru: когда
 
 -lexeme
  lex: кунамсек
- stem: кунамсек.
+ stem: .кунамсек.//.гунамсек.
  gramm: PRO
- paradigm: A_consonant
+ paradigm: PRO_series
  trans_ru: с каких пор
+
+
+
+-lexeme
+ lex: ку-
+ stem: .ку.//.гу.
+ gramm: PRO
+ paradigm: PRO_series
+ trans_ru: где; куда; откуда (основа пространственных местоимений)
+
 
 -lexeme
  lex: кушак
@@ -412,60 +415,20 @@
  trans_ru: где
 
 -lexeme
- lex: кушан
- stem: кушан.
- gramm: PRO
- paradigm: A_consonant
- trans_ru: где
-
--lexeme
- lex: кушеч
- stem: кушеч.
- gramm: PRO
- paradigm: A_consonant
- trans_ru: откуда
-
--lexeme
- lex: кушечын
- stem: кушечын.
- gramm: PRO
- paradigm: A_consonant
- trans_ru: откуда
-
--lexeme
- lex: куш
- stem: куш.
- gramm: PRO
- paradigm: A_consonant
- trans_ru: куда
-
--lexeme
- lex: кушко
- stem: кушко.|кушкы.|кушк.
- gramm: PRO
- paradigm: A_paroxyton_v_weak
- trans_ru: куда
-
--lexeme
- lex: кушто
- stem: кушто.|кушты.|кушт.
- gramm: PRO
- paradigm: A_paroxyton_v_weak
- trans_ru: где
-
--lexeme
  lex: кушкен
- stem: кушкен.
+ stem: .кушкен.//.гушкен.
  gramm: PRO
- paradigm: A_consonant
+ paradigm: PRO_series
  trans_ru: докуда
 
 -lexeme
  lex: куҥге
- stem: куҥге.
+ stem: .куҥге.//.гуҥге.
  gramm: PRO
- paradigm: A_oxyton
+ paradigm: PRO_series
  trans_ru: куда
+
+
 
 -lexeme
  lex: тунам
@@ -493,48 +456,6 @@
  stem: тушакын.
  gramm: PRO
  paradigm: A_consonant
- trans_ru: там
-
--lexeme
- lex: тушан
- stem: тушан.
- gramm: PRO
- paradigm: A_consonant
- trans_ru: там
-
--lexeme
- lex: тушеч
- stem: тушеч.
- gramm: PRO
- paradigm: A_consonant
- trans_ru: оттуда
-
--lexeme
- lex: тушечын
- stem: тушечын.
- gramm: PRO
- paradigm: A_consonant
- trans_ru: оттуда
-
--lexeme
- lex: туш
- stem: туш.
- gramm: PRO
- paradigm: A_consonant
- trans_ru: туда
-
--lexeme
- lex: тушко
- stem: тушко.|тушкы.|тушк.
- gramm: PRO
- paradigm: A_paroxyton_v_weak
- trans_ru: туда
-
--lexeme
- lex: тушто
- stem: тушто.|тушты.|тушт.
- gramm: PRO
- paradigm: A_paroxyton_v_weak
  trans_ru: там
 
 -lexeme
@@ -573,11 +494,11 @@
  trans_ru: так
 
 -lexeme
- lex: тыге-туге
- stem: тыге-туге.
+ lex: тыге
+ stem: тыг.
  gramm: PRO
- paradigm: A_oxyton
- trans_ru: так и этак
+ paradigm: Clitics_a
+ trans_ru: так
 
 -lexeme
  lex: тыгела
@@ -585,20 +506,6 @@
  gramm: PRO
  paradigm: A_oxyton
  trans_ru: так
-
--lexeme
- lex: тыш
- stem: тыш.
- gramm: PRO
- paradigm: A_consonant
- trans_ru: сюда
-
--lexeme
- lex: тыш-туш
- stem: тыш-туш.
- gramm: PRO
- paradigm: A_consonant
- trans_ru: туда-сюда; бестолково
 
 -lexeme
  lex: тышак
@@ -615,55 +522,6 @@
  trans_ru: здесь, тут
 
 -lexeme
- lex: тышан
- stem: тышан.
- gramm: PRO
- paradigm: A_consonant
- trans_ru: здесь, тут
-
--lexeme
- lex: тышан-тушан
- stem: тышан-тушан.
- gramm: PRO
- paradigm: A_consonant
- trans_ru: здесь и там
-
--lexeme
- lex: тышеч
- stem: тышеч.
- gramm: PRO
- paradigm: A_consonant
- trans_ru: отсюда
-
--lexeme
- lex: тышеч-тушеч
- stem: тышеч-тушеч.
- gramm: PRO
- paradigm: A_consonant
- trans_ru: и отсюда и оттуда; небрежно
-
--lexeme
- lex: тышечын
- stem: тышечын.
- gramm: PRO
- paradigm: A_consonant
- trans_ru: отсюда; здесь
-
--lexeme
- lex: тышке
- stem: тышке.|тышкы.|тышк.
- gramm: PRO
- paradigm: A_paroxyton_v_weak
- trans_ru: сюда
-
--lexeme
- lex: тышке-тушко
- stem: тышке-тушко.|тышке-тушкы.|тышке-тушк.
- gramm: PRO
- paradigm: A_paroxyton_v_weak
- trans_ru: туда-сюда; бестолково
-
--lexeme
  lex: тышкыла
  stem: тышкыла.
  gramm: PRO
@@ -671,32 +529,11 @@
  trans_ru: сюда; в эту сторону
 
 -lexeme
- lex: тыште
- stem: тыште.|тышты.|тышт.
- gramm: PRO
- paradigm: A_paroxyton_v_weak
- trans_ru: здесь, тут
-
--lexeme
- lex: тыште-тушто
- stem: тыште-тушто.|тыште-тушты.|тыште-тушт.
- gramm: PRO
- paradigm: A_paroxyton_v_weak
- trans_ru: то здесь, то там; кое-где
-
--lexeme
  lex: тыҥге
  stem: тыҥге.
  gramm: PRO
  paradigm: A_oxyton
  trans_ru: сюда
-
--lexeme
- lex: тыҥге-туҥге
- stem: тыҥге-туҥге.
- gramm: PRO
- paradigm: A_oxyton
- trans_ru: туда-сюда
 
 -lexeme
  lex: тыҥгела
@@ -770,143 +607,24 @@
 
 -lexeme
  lex: мочол
- stem: мочол.
+ stem: .мочол.
  gramm: PRO
- paradigm: A_consonant
+ paradigm: PRO_series
  trans_ru: сколько
 
 -lexeme
  lex: мочоло
- stem: мочоло.|мочолы.|мочол.
+ stem: .мочоло.|.мочолы.|.мочол.
  gramm: PRO
- paradigm: A_paroxyton_v_weak
+ paradigm: PRO_series
  trans_ru: сколько
 
-
--lexeme
- lex: кеч-могай
- stem: кеч-могай.|кеч-мога.
- gramm: PRO,indef
- paradigm: A_j
- trans_ru: какой угодно
-
--lexeme
- lex: кеч-молан
- stem: кеч-молан.
- gramm: PRO,indef
- paradigm: Clitics
- trans_ru: почему угодно
-
--lexeme
- lex: кеч-мыняр
- stem: кеч-мыняр.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: сколько угодно
-
--lexeme
- lex: кеч-мыняре
- stem: кеч-мыняре.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: сколько угодно
-
--lexeme
- lex: кеч-кунар
- stem: кеч-кунар.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: сколько угодно
-
--lexeme
- lex: кеч-кузе
- stem: кеч-кузе.
- gramm: PRO,indef
- paradigm: A_oxyton
- trans_ru: как угодно
-
--lexeme
- lex: кеч-кӧ
- stem: кеч-кӧ.
- gramm: PRO,indef
- paradigm: A_oxyton
- trans_ru: кто угодно
-
--lexeme
- lex: кеч-мо
- stem: кеч-мо.
- gramm: PRO,indef
- paradigm: A_oxyton
- trans_ru: что угодно
-
--lexeme
- lex: кеч-кудо
- stem: кеч-кудо.|кеч-куды.|кеч-куд.
- gramm: PRO,indef
- paradigm: A_paroxyton_v_weak
- trans_ru: который угодно
-
--lexeme
- lex: кеч-кунам
- stem: кеч-кунам.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: когда угодно
-
--lexeme
- lex: кеч-кунамсек
- stem: кеч-кунамсек.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: с каких угодно пор
 
 -lexeme
  lex: кеч-кушак
  stem: кеч-кушак.
  gramm: PRO,indef
  paradigm: A_consonant
- trans_ru: где угодно
-
--lexeme
- lex: кеч-кушан
- stem: кеч-кушан.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: где угодно
-
--lexeme
- lex: кеч-кушеч
- stem: кеч-кушеч.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: откуда угодно
-
--lexeme
- lex: кеч-кушечын
- stem: кеч-кушечын.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: откуда угодно
-
--lexeme
- lex: кеч-куш
- stem: кеч-куш.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: куда угодно
-
--lexeme
- lex: кеч-кушко
- stem: кеч-кушко.|кеч-кушкы.|кеч-кушк.
- gramm: PRO,indef
- paradigm: A_paroxyton_v_weak
- trans_ru: куда угодно
-
--lexeme
- lex: кеч-кушто
- stem: кеч-кушто.|кеч-кушты.|кеч-кушт.
- gramm: PRO,indef
- paradigm: A_paroxyton_v_weak
  trans_ru: где угодно
 
 -lexeme
@@ -917,129 +635,10 @@
  trans_ru: куда угодно
 
 -lexeme
- lex: керек-могай
- stem: керек-могай.|керек-мога.
- gramm: PRO,indef
- paradigm: A_j
- trans_ru: какой угодно
-
--lexeme
- lex: керек-молан
- stem: керек-молан.
- gramm: PRO,indef
- paradigm: Clitics
- trans_ru: почему угодно
-
--lexeme
- lex: керек-мыняр
- stem: керек-мыняр.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: сколько угодно
-
--lexeme
- lex: керек-мыняре
- stem: керек-мыняре.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: сколько угодно
-
--lexeme
- lex: керек-кунар
- stem: керек-кунар.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: сколько угодно
-
--lexeme
- lex: керек-кузе
- stem: керек-кузе.
- gramm: PRO,indef
- paradigm: A_oxyton
- trans_ru: как угодно
-
--lexeme
- lex: керек-кӧ
- stem: керек-кӧ.
- gramm: PRO,indef
- paradigm: A_oxyton
- trans_ru: кто угодно
-
--lexeme
- lex: керек-мо
- stem: керек-мо.
- gramm: PRO,indef
- paradigm: A_oxyton
- trans_ru: что угодно
-
--lexeme
- lex: керек-кудо
- stem: керек-кудо.|керек-куды.|керек-куд.
- gramm: PRO,indef
- paradigm: A_paroxyton_v_weak
- trans_ru: который угодно
-
--lexeme
- lex: керек-кунам
- stem: керек-кунам.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: когда угодно
-
--lexeme
- lex: керек-кунамсек
- stem: керек-кунамсек.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: с каких угодно пор
-
--lexeme
  lex: керек-кушак
  stem: керек-кушак.
  gramm: PRO,indef
  paradigm: A_consonant
- trans_ru: где угодно
-
--lexeme
- lex: керек-кушан
- stem: керек-кушан.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: где угодно
-
--lexeme
- lex: керек-кушеч
- stem: керек-кушеч.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: откуда угодно
-
--lexeme
- lex: керек-кушечын
- stem: керек-кушечын.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: откуда угодно
-
--lexeme
- lex: керек-куш
- stem: керек-куш.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: куда угодно
-
--lexeme
- lex: керек-кушко
- stem: керек-кушко.|керек-кушкы.|керек-кушк.
- gramm: PRO,indef
- paradigm: A_paroxyton_v_weak
- trans_ru: куда угодно
-
--lexeme
- lex: керек-кушто
- stem: керек-кушто.|керек-кушты.|керек-кушт.
- gramm: PRO,indef
- paradigm: A_paroxyton_v_weak
  trans_ru: где угодно
 
 -lexeme
@@ -1074,132 +673,6 @@
  trans_ru: как-нибудь
 
 -lexeme
- lex: иктаж-могай
- stem: иктаж-могай.|иктаж-мога.
- gramm: PRO,indef
- paradigm: A_j
- trans_ru: какой-нибудь
-
--lexeme
- lex: иктаж-молан
- stem: иктаж-молан.
- gramm: PRO,indef
- paradigm: Clitics
- trans_ru: почему-нибудь
-
--lexeme
- lex: иктаж-мыняр
- stem: иктаж-мыняр.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: сколько-нибудь
-
--lexeme
- lex: иктаж-мыняре
- stem: иктаж-мыняре.|иктаж-мыняры.|иктаж-мыняр.
- gramm: PRO,indef
- paradigm: A_paroxyton_v_weak
- trans_ru: сколько-нибудь
-
--lexeme
- lex: иктаж-кунар
- stem: иктаж-кунар.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: сколько-нибудь
-
--lexeme
- lex: иктаж-кузе
- stem: иктаж-кузе.
- gramm: PRO,indef
- paradigm: A_oxyton
- trans_ru: как-нибудь
-
--lexeme
- lex: иктаж-кӧ
- stem: иктаж-кӧ.
- gramm: PRO,indef
- paradigm: A_oxyton
- trans_ru: кто-нибудь
-
--lexeme
- lex: иктаж-мо
- stem: иктаж-мо.
- gramm: PRO,indef
- paradigm: A_oxyton
- trans_ru: что-нибудь
-
--lexeme
- lex: иктаж-кудо
- stem: иктаж-кудо.|иктаж-куды.|иктаж-куд.
- gramm: PRO,indef
- paradigm: A_paroxyton_v_weak
- trans_ru: который-нибудь
-
--lexeme
- lex: иктаж-кунам
- stem: иктаж-кунам.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: когда-нибудь
-
--lexeme
- lex: иктаж-кунамсек
- stem: иктаж-кунамсек.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: с давних пор
-
--lexeme
- lex: иктаж-кушак
- stem: иктаж-кушак.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: где-нибудь
-
--lexeme
- lex: иктаж-кушан
- stem: иктаж-кушан.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: где-нибудь
-
--lexeme
- lex: иктаж-кушеч
- stem: иктаж-кушеч.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: откуда-нибудь
-
--lexeme
- lex: иктаж-кушечын
- stem: иктаж-кушечын.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: откуда-нибудь
-
--lexeme
- lex: иктаж-куш
- stem: иктаж-куш.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: куда-нибудь
-
--lexeme
- lex: иктаж-кушко
- stem: иктаж-кушко.|иктаж-кушкы.|иктаж-кушк.
- gramm: PRO,indef
- paradigm: A_paroxyton_v_weak
- trans_ru: куда-нибудь
-
--lexeme
- lex: иктаж-кушто
- stem: иктаж-кушто.|иктаж-кушты.|иктаж-кушт.
- gramm: PRO,indef
- paradigm: A_paroxyton_v_weak
- trans_ru: где-нибудь
-
--lexeme
  lex: иктаж-куҥге
  stem: иктаж-куҥге.
  gramm: PRO,indef
@@ -1207,133 +680,6 @@
  trans_ru: куда-нибудь
 
 
-
-
--lexeme
- lex: ала-могай
- stem: ала-могай.|ала-мога.
- gramm: PRO,indef
- paradigm: A_j
- trans_ru: какой-то
-
--lexeme
- lex: ала-молан
- stem: ала-молан.
- gramm: PRO,indef
- paradigm: Clitics
- trans_ru: почему-то
-
--lexeme
- lex: ала-мыняр
- stem: ала-мыняр.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: сколько-то, неизвестно сколько
-
--lexeme
- lex: ала-мыняре
- stem: ала-мыняр.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: сколько-то, неизвестно сколько
-
--lexeme
- lex: ала-кунар
- stem: ала-кунар.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: сколько-то, неизвестно сколько
-
--lexeme
- lex: ала-кузе
- stem: ала-кузе.
- gramm: PRO,indef
- paradigm: A_oxyton
- trans_ru: неизвестно как, как-то
-
--lexeme
- lex: ала-кӧ
- stem: ала-кӧ.
- gramm: PRO,indef
- paradigm: A_oxyton
- trans_ru: кто-то
-
--lexeme
- lex: ала-мо
- stem: ала-мо.
- gramm: PRO,indef
- paradigm: A_oxyton
- trans_ru: что-то
-
--lexeme
- lex: ала-кудо
- stem: ала-кудо.|ала-куды.|ала-куд.
- gramm: PRO,indef
- paradigm: A_paroxyton_v_weak
- trans_ru: какой-то из нескольких
-
--lexeme
- lex: ала-кунам
- stem: ала-кунам.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: когда-то
-
--lexeme
- lex: ала-кунамсек
- stem: ала-кунамсек.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: с давних пор
-
--lexeme
- lex: ала-кушак
- stem: ала-кушак.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: где-то, неизвестно где
-
--lexeme
- lex: ала-кушан
- stem: ала-кушан.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: где-то
-
--lexeme
- lex: ала-кушеч
- stem: ала-кушеч.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: откуда-то, неизвестно откуда
-
--lexeme
- lex: ала-кушечын
- stem: ала-кушечын.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: откуда-то, неизвестно откуда
-
--lexeme
- lex: ала-куш
- stem: ала-куш.
- gramm: PRO,indef
- paradigm: A_consonant
- trans_ru: куда-то, неизвестно куда
-
--lexeme
- lex: ала-кушко
- stem: ала-кушко.|ала-кушкы.|ала-кушк.
- gramm: PRO,indef
- paradigm: A_paroxyton_v_weak
- trans_ru: куда-то, неизвестно куда
-
--lexeme
- lex: ала-кушто
- stem: ала-кушто.|ала-кушты.|ала-кушт.
- gramm: PRO,indef
- paradigm: A_paroxyton_v_weak
- trans_ru: где-то, неизвестно где
 
 -lexeme
  lex: ала-куҥге
@@ -1344,119 +690,6 @@
 
 
 
-
-
--lexeme
- lex: нимогай
- stem: нимогай.|нимога.
- gramm: PRO,neg
- paradigm: A_j
- trans_ru: никакой
-
--lexeme
- lex: нимыняр
- stem: нимыняр.
- gramm: PRO,neg
- paradigm: A_consonant
- trans_ru: нисколько
-
--lexeme
- lex: нимыняре
- stem: нимыняре.
- gramm: PRO,neg
- paradigm: A_consonant
- trans_ru: нисколько
-
--lexeme
- lex: нигунар
- stem: нигунар.//ныгунар.
- gramm: PRO,neg
- paradigm: A_consonant
- trans_ru: нисколько
-
--lexeme
- lex: нигӧ
- stem: нигӧ.//ныгӧ.
- gramm: PRO,neg
- paradigm: A_oxyton
- trans_ru: никто
-
--lexeme
- lex: нимо
- stem: нимо.//нымо.
- gramm: PRO,neg
- paradigm: A_oxyton
- trans_ru: ничто
-
--lexeme
- lex: нигудо
- stem: нигудо.//ныгудо.|нигуды.//ныгуды.|нигуд.//ныгуд.
- gramm: PRO,neg
- paradigm: A_paroxyton_v_weak
- trans_ru: никоторый
-
--lexeme
- lex: никунам
- stem: никунам.//ныкунам.
- gramm: PRO,neg
- paradigm: A_consonant
- trans_ru: никогда
-
--lexeme
- lex: нигунам
- stem: нигунам.//ныгунам.
- gramm: PRO,neg
- paradigm: A_consonant
- trans_ru: никогда
-
--lexeme
- lex: нигушак
- stem: нигушак.//ныгушак.
- gramm: PRO,neg
- paradigm: A_consonant
- trans_ru: нигде
-
--lexeme
- lex: нигушан
- stem: нигушан.//ныгушан.
- gramm: PRO,neg
- paradigm: A_consonant
- trans_ru: нигде
-
--lexeme
- lex: нигушеч
- stem: нигушеч.//ныгушеч.
- gramm: PRO,neg
- paradigm: A_consonant
- trans_ru: ниоткуда
-
--lexeme
- lex: нигушечын
- stem: нигушечын.//ныгушечын.
- gramm: PRO,neg,el_full
- paradigm: A_consonant
- trans_ru: ниоткуда
-
--lexeme
- lex: нигуш
- stem: нигуш.//ныгуш.
- gramm: PRO,neg
- paradigm: A_consonant
- trans_ru: никуда
-
--lexeme
- lex: нигушко
- stem: нигушко.//ныгушко.|нигушкы.//ныгушкы.|нигушк.//ныгушк.
- gramm: PRO,neg
- paradigm: A_paroxyton_v_weak
- trans_ru: никуда
-
--lexeme
- lex: нигушто
- stem: нигушто.//ныгушто.|нигушты.//ныгушты.|нигушт.//ныгушт.
- gramm: PRO,neg
- paradigm: A_paroxyton_v_weak
- trans_ru: нигде
 
 -lexeme
  lex: нигуҥге
@@ -1657,9 +890,9 @@
 
 -lexeme
  lex: мызар
- stem: мызар.
+ stem: .мызар.
  gramm: PRO
- paradigm: A_consonant
+ paradigm: PRO_series
  trans_ru: сколько
 
 -lexeme

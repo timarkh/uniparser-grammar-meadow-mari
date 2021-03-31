@@ -45923,7 +45923,7 @@
  stem: лапчык.
  gramm: N
  paradigm: N_consonant
- trans_ru: тряпка
+ trans_ru: кусок; тряпка
 
 -lexeme
  lex: лапчык-лапчык
@@ -77803,9 +77803,9 @@
 -lexeme
  lex: пузырь
  stem: пузырь.|пузыр.
- gramm: N,rus,body
+ gramm: N,rus
  paradigm: N_soft
- trans_ru: плавательный пузырь
+ trans_ru: пузырь
 
 -lexeme
  lex: пузырёк
@@ -80640,7 +80640,7 @@
  stem: радам.
  gramm: N,rus
  paradigm: N_consonant
- trans_ru: ряд; комплект
+ trans_ru: ряд; комплект; порядок
 
 -lexeme
  lex: радар
@@ -85758,7 +85758,7 @@
  stem: сад.
  gramm: N,rus
  paradigm: N_consonant
- trans_ru: сад
+ trans_ru: сад; растение
 
 -lexeme
  lex: сад-пакча
@@ -116013,15 +116013,8 @@
  lex: шовыр
  stem: шовыр.
  gramm: N
- paradigm: A_consonant
- trans_ru: лёгкий верхний кафтан
-
--lexeme
- lex: шовыр
- stem: шовыр.
- gramm: N
  paradigm: N_consonant
- trans_ru: кафтан, шовыр
+ trans_ru: лёгкий верхний кафтан, шовыр
 
 -lexeme
  lex: шовыч
@@ -125864,7 +125857,7 @@
 
 -lexeme
  lex: детясли
- stem: детясли.
+ stem: детясли.|детясли.//детясльы.|детясли.//детясль.
  gramm: N,rus
  paradigm: N_paroxyton_v_strong
  trans_ru: детские ясли

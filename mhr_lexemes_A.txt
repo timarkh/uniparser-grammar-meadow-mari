@@ -11259,7 +11259,7 @@
  stem: кужу.
  gramm: A
  paradigm: A_oxyton
- trans_ru: длинный
+ trans_ru: длинный, долгий
 
 -lexeme
  lex: кузнецкий
@@ -30502,7 +30502,7 @@
  stem: шала.
  gramm: A
  paradigm: A_oxyton
- trans_ru: косматый, лохматый
+ trans_ru: косматый, лохматый; разрозненный
 
 -lexeme
  lex: шала-вула
@@ -33444,7 +33444,7 @@
 
 -lexeme
  lex: туйо
- stem: туй.|ту.
+ stem: туйо.|туйы.|туй.
  gramm: A
  paradigm: A_paroxyton_v_weak
  trans_ru: больной

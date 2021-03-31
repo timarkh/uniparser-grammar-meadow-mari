@@ -76,6 +76,13 @@
  trans_ru: возле; мимо
 
 -lexeme
+ lex: тыҥгел
+ stem: тыҥгел.|тыҥге.
+ gramm: N,rel_n
+ paradigm: POST
+ trans_ru: поблизости
+
+-lexeme
  lex: тембал
  stem: тембал.|темба.
  gramm: N,rel_n

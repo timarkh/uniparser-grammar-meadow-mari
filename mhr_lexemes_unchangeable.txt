@@ -1683,7 +1683,7 @@
  stem: гын.
  gramm: CONJ
  paradigm: Clitics
- trans_ru: если; а
+ trans_ru: если; когда; а
 
 -lexeme
  lex: гына
@@ -4537,11 +4537,11 @@
  trans_ru: о пустом предмете
 
 -lexeme
- lex: коҥгамбак
- stem: коҥгамбак.
+ lex: коҥгамбал
+ stem: коҥгамбал.|коҥгамба.
  gramm: ADV
- paradigm: POST_ADV_Poss
- trans_ru: на печь
+ paradigm: POST
+ trans_ru: на печи
 
 -lexeme
  lex: коҥгок
@@ -4714,13 +4714,6 @@
 -lexeme
  lex: кужеш
  stem: кужеш.//кужэш.
- gramm: ADV
- paradigm: POST_ADV_Poss
- trans_ru: долго
-
--lexeme
- lex: кужун
- stem: кужун.
  gramm: ADV
  paradigm: POST_ADV_Poss
  trans_ru: долго
@@ -7022,20 +7015,6 @@
  trans_ru: ли
 
 -lexeme
- lex: мае
- stem: мае.
- gramm: PART
- paradigm: Clitics
- trans_ru: говорит
-
--lexeme
- lex: манеш
- stem: манеш.
- gramm: PARENTH
- paradigm: Clitics
- trans_ru: говорят; ходят слухи
-
--lexeme
  lex: манмаште
  stem: манмаште.//манмаштэ.|манмашты.|манмашт.
  gramm: POST
@@ -8707,13 +8686,6 @@
  gramm: ADV
  paradigm: POST_ADV_Poss
  trans_ru: душно, очень жарко
-
--lexeme
- lex: плокан
- stem: плокан.
- gramm: ADV,rus
- paradigm: POST_ADV_Poss
- trans_ru: плохо
 
 -lexeme
  lex: подыге
@@ -12647,7 +12619,7 @@
  stem: тӱгӧ.
  gramm: POST
  paradigm: POST_ADV_Poss
- trans_ru: наружу
+ trans_ru: на улицу
 
 -lexeme
  lex: тӱкен
@@ -15966,6 +15938,7 @@
  stem: шуко.|шукы.|шук.
  gramm: ADV
  paradigm: POST_ADV_Poss_vowel
+ paradigm: A2ADV_vowel
  trans_ru: много
 
 -lexeme
@@ -15976,25 +15949,11 @@
  trans_ru: несколько
 
 -lexeme
- lex: шуко-шуко
- stem: шуко-шуко.
- gramm: ADV
- paradigm: POST_ADV_Poss
- trans_ru: очень много
-
--lexeme
  lex: шукылан
  stem: шукылан.
  gramm: ADV
  paradigm: POST_ADV_Poss
  trans_ru: намного
-
--lexeme
- lex: шукын
- stem: шукын.
- gramm: ADV
- paradigm: POST_ADV_Poss
- trans_ru: много
 
 -lexeme
  lex: шукышкен
