@@ -203,21 +203,21 @@
 
 -lexeme
  lex: тыгай
- stem: тыгай.|тыга.
+ stem: тыгай.//тыгае.|тыга.
  gramm: PRO
  paradigm: A_j
  trans_ru: вот такой
 
 -lexeme
  lex: тугай
- stem: тугай.|туга.
+ stem: тугай.//тугае.|туга.
  gramm: PRO
  paradigm: A_j
  trans_ru: такой
 
 -lexeme
  lex: могай
- stem: .могай.|.мога.
+ stem: .могай.//.могае.|.мога.
  gramm: PRO
  paradigm: PRO_series_j
  trans_ru: какой
@@ -972,3 +972,17 @@
  gramm: PRO,dem
  paradigm: Clitics
  trans_ru: этот
+
+-lexeme
+ lex: уло
+ gramm: PRO
+ stem: уло.
+ paradigm: A_oxyton
+ trans_ru: весь
+
+-lexeme
+ lex: сакый
+ gramm: PRO,rus
+ stem: сакый.|сакы.
+ paradigm: A_j
+ trans_ru: всякий

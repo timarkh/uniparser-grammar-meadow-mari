@@ -126295,4 +126295,4 @@
  gramm: N,rus,anim,hum
  paradigm: N_oxyton
  trans_ru: ветеран войны
->>>>>>> origin/master
+

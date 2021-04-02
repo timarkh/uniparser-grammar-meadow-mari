@@ -40501,3 +40501,18 @@
  gramm: V,intr
  paradigm: V_e
  trans_ru: стоять на коленях
+
+-lexeme
+ lex: куктежталташ
+ gramm: V,intr
+ stem: куктешталт.
+ paradigm: V_a
+ trans_ru: путаться, запутаться, спутаться (о нитках, волосах и т. д.)
+
+-lexeme
+ lex: каедаш
+ gramm: V,intr
+ stem: каед.
+ paradigm: V_e
+ trans_ru: идти
+
