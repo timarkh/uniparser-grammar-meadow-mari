@@ -1,0 +1,192 @@
+-lex_rule
+ -search
+  lex: ты
+  gramm: PRO,.*
+  gloss: \bSTEM-LOC\b
+ -add
+  lex2: тыште
+  trans_ru2: здесь
+
+-lex_rule
+ -search
+  lex: ты
+  gramm: PRO,.*
+  gloss: \bSTEM-LAT\b
+ -add
+  lex2: тышан
+  trans_ru2: здесь
+
+-lex_rule
+ -search
+  lex: ты
+  gramm: PRO,.*
+  gloss: \bSTEM-LAT\b
+  wf: ^тышак.*
+ -add
+  lex2: тышак
+  trans_ru2: где
+
+-lex_rule
+ -search
+  lex: ты
+  gramm: PRO,.*
+  gloss: \bSTEM-ILL\b
+ -add
+  lex2: тышке
+  trans_ru2: сюда
+
+-lex_rule
+ -search
+  lex: ты
+  gramm: PRO,.*
+  gloss: \bSTEM-EL\b(?!-EL\.FULL)
+ -add
+  lex2: тышеч
+  trans_ru2: отсюда
+
+-lex_rule
+ -search
+  lex: ты
+  gramm: PRO,.*
+  gloss: \bSTEM-EL-EL\.FULL\b
+ -add
+  lex2: тышечын
+  trans_ru2: отсюда
+
+
+
+-lex_rule
+ -search
+  lex: ту
+  gramm: PRO,.*
+  gloss: \bSTEM-LOC\b
+ -add
+  lex2: тушто
+  trans_ru2: там
+
+-lex_rule
+ -search
+  lex: ту
+  gramm: PRO,.*
+  gloss: \bSTEM-LAT\b
+ -add
+  lex2: тушан
+  trans_ru2: там
+
+-lex_rule
+ -search
+  lex: ту
+  gramm: PRO,.*
+  gloss: \bSTEM-LAT\b
+  wf: ^тушак.*
+ -add
+  lex2: тушак
+  trans_ru2: там
+
+-lex_rule
+ -search
+  lex: ту
+  gramm: PRO,.*
+  gloss: \bSTEM-ILL\b
+ -add
+  lex2: тушко
+  trans_ru2: туда
+
+-lex_rule
+ -search
+  lex: ту
+  gramm: PRO,.*
+  gloss: \bSTEM-EL\b(?!-EL\.FULL)
+ -add
+  lex2: тушеч
+  trans_ru2: оттуда
+
+-lex_rule
+ -search
+  lex: ту
+  gramm: PRO,.*
+  gloss: \bSTEM-EL-EL\.FULL\b
+ -add
+  lex2: тушечын
+  trans_ru2: оттуда
+
+
+
+
+-lex_rule
+ -search
+  lex: ку-
+  gramm: PRO,.*
+  gloss: \bSTEM-LOC\b
+ -add
+  lex2: кушто
+  trans_ru2: где
+
+-lex_rule
+ -search
+  lex: ку-
+  gramm: PRO,.*
+  gloss: \bSTEM-LAT\b
+  wf: ^кушан.*
+ -add
+  lex2: кушан
+  trans_ru2: где
+
+-lex_rule
+ -search
+  lex: ку-
+  gramm: PRO,.*
+  gloss: \bSTEM-LAT\b
+  wf: ^кушак.*
+ -add
+  lex2: кушак
+  trans_ru2: где
+
+-lex_rule
+ -search
+  lex: ку-
+  gramm: PRO,.*
+  gloss: \bSTEM-ILL\b
+ -add
+  lex2: кушко
+  trans_ru2: куда
+
+-lex_rule
+ -search
+  lex: ку-
+  gramm: PRO,.*
+  gloss: \bSTEM-EL\b(?!-EL\.FULL)
+ -add
+  lex2: кушеч
+  trans_ru2: откуда
+
+-lex_rule
+ -search
+  lex: ку-
+  gramm: PRO,.*
+  gloss: \bSTEM-EL-EL\.FULL\b
+ -add
+  lex2: кушечын
+  trans_ru2: откуда
+
+
+
+-lex_rule
+ -search
+  lex: мо
+  gramm: PRO,.*
+  gloss: \bSTEM-DAT\b
+ -add
+  lex2: молан
+  trans_ru2: почему
+
+
+
+-lex_rule
+ -search
+  lex: икте
+  gramm: NUM,.*
+  gloss: \bSTEM-ADD\b
+ -add
+  lex2: иктат
+  trans_ru2: никто

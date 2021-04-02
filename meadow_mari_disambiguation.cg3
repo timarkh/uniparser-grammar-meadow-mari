@@ -22,7 +22,10 @@ SELECT (V neg) IF (*-1 NegVerbs BARRIER NotCvbGen);
 
 
 # PST2 vs. CVB.GEN: Choose CVB.GEN before light verbs
-SELECT (V cvb.gen) IF (1 LightVebrs);
+REMOVE (V pst2) IF (0 (V cvb.gen))
+                   (1 LightVebrs);
+REMOVE (V npst) IF (0 (V cvb.gen))
+                   (1 LightVebrs);
 
 
 SECTION    # Nouns

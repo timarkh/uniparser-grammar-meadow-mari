@@ -98,7 +98,7 @@
 
 -lexeme
  lex: кок
- stem: кок.//кокт.//2.//2-.
+ stem: кок.//кокт.//ког.//2.//2-.
  gramm: NUM,short
  paradigm: NUM_consonant
  trans_ru: два

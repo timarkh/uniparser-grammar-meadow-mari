@@ -1725,14 +1725,7 @@
  stem: вашли.|вашлий.
  gramm: V
  paradigm: V_ya
- trans_ru: встречать
-
--lexeme
- lex: вашлияш
- stem: вашли.|вашлий.
- gramm: V
- paradigm: V_ya
- trans_ru: встречаться
+ trans_ru: встречать; встречаться
 
 -lexeme
  lex: вашпижаш
@@ -13976,6 +13969,13 @@
  stem: ман.
  gramm: V
  paradigm: V_a
+ trans_ru: говорить, сказать; называть
+
+-lexeme
+ lex: манаш
+ stem: май.|ма.
+ gramm: V
+ paradigm: V_manash_add
  trans_ru: говорить, сказать; называть
 
 -lexeme
@@ -29712,7 +29712,7 @@
 
 -lexeme
  lex: тӱҥалаш
- stem: тӱҥал.
+ stem: тӱҥал.//тӱнал.
  gramm: V
  paradigm: V_a
  trans_ru: начинать(ся)

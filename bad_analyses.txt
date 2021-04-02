@@ -14,6 +14,9 @@
   {"gramm": "^CONJ.*3sg"},
   {"gramm": "(.*,(?:persn|patrn|famn|anim|lang_name).*|^[^N].*)", "gloss": ".*PL\\.SHORT.*"},
   {"gramm": "^(.(?!,nation))+$", "gloss": ".*SIM-(ACC|GEN|DAT|LAT|LOC|ILL|SIM|COM).*"},
-  {"wf": "тӱрлӧ.*", "lemma": "^(тӱрлаш|тӱр)$"}
+  {"wf": "тӱрлӧ.*", "lemma": "^(тӱрлаш|тӱр)$"},
+  {"gramm": ".*,(nom|acc|gen|dat|com|case_comp).*", "lemma": "ку-"},
+  {"gramm": "^.*nmlz(.(?!,sg))+$", "wf": ".*маш$"},
+  {"gramm": "CONJ.*", "wf": "^дена[тк]$"}
 ]
 
