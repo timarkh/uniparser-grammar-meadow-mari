@@ -126127,3 +126127,151 @@
  stem: шӱмторык.
  paradigm: N_consonant
  trans_ru: творог
+
+-lexeme
+ lex: зерна
+ gramm: N,rus
+ stem: зерна.
+ paradigm: N_oxyton
+ trans_ru: зерно
+
+-lexeme
+ lex: Онисимат
+ gramm: N
+ stem: онисимат.
+ paradigm: N_consonant
+ trans_ru: Онисимат
+
+-lexeme
+ lex: оҥа
+ gramm: N
+ stem: оҥа.
+ paradigm: N_oxyton
+ trans_ru: доска
+
+-lexeme
+ lex: покрывал
+ gramm: N,rus
+ stem: покрывало.|покрывалы.|покрывал.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: покрывало
+
+-lexeme
+ lex: рвезе
+ gramm: N
+ stem: рве.
+ paradigm: N_oxyton
+ trans_ru: парень; мальчик
+
+-lexeme
+ lex: оролпӧрт
+ gramm: N
+ stem: оролпӧрт.
+ paradigm: N_consonant
+ trans_ru: сторожка
+
+-lexeme
+ lex: андрийобед
+ gramm: N,rus
+ stem: андрийобед.
+ paradigm: N_consonant
+ trans_ru: полдник, букв. Андреев обед
+
+-lexeme
+ lex: оролоҥа
+ gramm: N
+ stem: оролоҥа.
+ paradigm: N_oxyton
+ trans_ru: колотушка, букв. доска сторожа
+
+-lexeme
+ lex: ача
+ gramm: N
+ stem: ачий.|ачи.
+ paradigm: N_j
+ trans_ru: отец; свёкор, отец мужа
+
+-lexeme
+ lex: мӧртньӧ
+ gramm: N,body
+ stem: нӧртмӧ.|нӧртмы.|нӧртм.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: икра
+
+-lexeme
+ lex: шыҥакалпак
+ gramm: N
+ stem: шыҥакалпак.
+ paradigm: N_consonant
+ trans_ru: накомарник
+
+-lexeme
+ lex: проход
+ gramm: N,rus
+ stem: проход.
+ paradigm: N_consonant
+ trans_ru: приход
+
+-lexeme
+ lex: кӧчет
+ gramm: N
+ stem: кӧчет.
+ paradigm: N_consonant
+ trans_ru: этот самый (маркер хезитации)
+
+-lexeme
+ lex: трудодень
+ gramm: N,rus
+ stem: трудодня.
+ paradigm: N_oxyton
+ trans_ru: трудодень
+
+-lexeme
+ lex: быздетный
+ gramm: N,rus
+ stem: бездетный.|бездетны.
+ paradigm: N_j
+ trans_ru: налог на бездетность
+
+-lexeme
+ lex: талгыде
+ gramm: N,anim
+ stem: талгыде.|талгыды.|талгыд.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: стригунок, жеребёнок по второму году
+
+-lexeme
+ lex: лесоучастке
+ gramm: N,rus
+ stem: лесоучастке.
+ paradigm: N_consonant
+ trans_ru: лесоучасток
+
+-lexeme
+ lex: аптеке
+ gramm: N,rus
+ stem: аптеке.|аптекы.|аптек.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: аптека
+
+-lexeme
+ lex: андрийобед
+ gramm: N
+ stem: андриобед.
+ paradigm: N_consonant
+ trans_ru: полдник, букв. обед Андрея
+
+-lexeme
+ lex: пасугӧргӧ
+ gramm: N
+ stem: пасугӧргӧ.|пасугӧргы.|пасугӧрг.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: поле, букв. внутренность поля
+
+-lexeme
+ lex: моч
+ gramm: N
+ stem: моч.
+ paradigm: N_consonant
+ trans_ru: что (маркер хезитации)
+

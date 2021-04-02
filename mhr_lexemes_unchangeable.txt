@@ -7051,7 +7051,7 @@
 
 -lexeme
  lex: манын
- stem: манын.
+ stem: манын.//ман.
  gramm: CONJ
  paradigm: Clitics
  trans_ru: что; чтобы
@@ -17899,4 +17899,165 @@
  stem: адак.
  paradigm: Clitics
  trans_ru: ещё
+
+-lexeme
+ lex: тений
+ gramm: ADV
+ stem: тене.
+ paradigm: POST_ADV_Poss
+ trans_ru: в этом году
+
+-lexeme
+ lex: заодно
+ gramm: ADV,rus
+ stem: заодно.
+ paradigm: POST_ADV_Poss
+ trans_ru: заодно
+
+-lexeme
+ lex: соромно
+ gramm: ADV,rus
+ stem: соромно.
+ paradigm: POST_ADV_Poss
+ trans_ru: всё равно
+
+-lexeme
+ lex: беда
+ gramm: ADV,rus
+ stem: беда.
+ paradigm: POST_ADV_Poss
+ trans_ru: очень
+
+-lexeme
+ lex: пока
+ gramm: ADV,rus
+ stem: пока.
+ paradigm: POST_ADV_Poss
+ trans_ru: пока
+
+-lexeme
+ lex: ӱчаш
+ gramm: ADV
+ stem: ӱчаш.
+ paradigm: POST_ADV_Poss
+ trans_ru: наперебой, наперегонки
+
+-lexeme
+ lex: вӱдйымал
+ gramm: ADV
+ stem: вӱдйымал.|вӱдйыма.
+ paradigm: POST
+ trans_ru: под воду
+
+-lexeme
+ lex: йолйымал
+ gramm: ADV
+ stem: йолйымал.|йолйыма.
+ paradigm: POST
+ trans_ru: под ногами
+
+-lexeme
+ lex: чечас
+ gramm: ADV,rus
+ stem: чечас.
+ paradigm: POST_ADV_Poss
+ trans_ru: сейчас; очень скоро, немедленно
+
+-lexeme
+ lex: первой
+ gramm: ADV,rus
+ stem: первой.
+ paradigm: POST_ADV_Poss
+ trans_ru: сперва, сначала
+
+-lexeme
+ lex: или
+ gramm: CONJ,rus
+ stem: или.
+ paradigm: Clitics
+ trans_ru: или
+
+-lexeme
+ lex: кылтик-кылтик
+ gramm: IMIT
+ stem: кылтик-кылтик.
+ paradigm: Clitics
+ trans_ru: тук-тук
+
+-lexeme
+ lex: кырык-кырык
+ gramm: IMIT
+ stem: кырык-кырык.
+ paradigm: Clitics
+ trans_ru: подражание звукам, крикам, издаваемым желной
+
+-lexeme
+ lex: кри-кри-кри
+ gramm: IMIT
+ stem: кри-кри-кри.
+ paradigm: Clitics
+ trans_ru: подражание звукам, крикам, издаваемым желной
+
+-lexeme
+ lex: тыҥге-тоҥго
+ gramm: IMIT
+ stem: тыҥге-тоҥге.
+ paradigm: Clitics
+ trans_ru: подражание ковылянию, топоту, неровным (вперевалку) шагам, покачиванию
+
+-lexeme
+ lex: э
+ gramm: INTRJ
+ stem: э-э.
+ paradigm: Clitics
+ trans_ru: выражает удивление, недоумение, негодование, возражение и т. д.
+
+-lexeme
+ lex: эк
+ gramm: INTRJ
+ stem: эк.
+ paradigm: Clitics
+ trans_ru: эх
+
+-lexeme
+ lex: чынек
+ gramm: IMIT
+ stem: чиньок.
+ paradigm: Clitics
+ trans_ru: подражание звукам, крикам, издаваемым желной; протяжные жалобные звуки
+
+-lexeme
+ lex: может
+ gramm: PART,rus
+ stem: может.
+ paradigm: Clitics
+ trans_ru: может
+
+-lexeme
+ lex: тоже
+ gramm: PART,rus
+ stem: тоже.
+ paradigm: Clitics
+ trans_ru: тоже
+
+-lexeme
+ lex: марте
+ gramm: POST
+ stem: мартен.
+ paradigm: POST_ADV_Poss
+ trans_ru: до
+
+-lexeme
+ lex: гай
+ gramm: POST
+ stem: гае.
+ paradigm: POST_ADV_Poss
+ trans_ru: как, словно
+
+-lexeme
+ lex: интересне
+ gramm: PREDIC,rus
+ stem: интересне.
+ paradigm: Clitics
+ trans_ru: интересно
 

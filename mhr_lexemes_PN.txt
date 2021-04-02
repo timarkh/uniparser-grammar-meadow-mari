@@ -79411,3 +79411,165 @@
  gramm: N,PN,persn
  paradigm: N_oxyton
  trans_ru: Пали (Пелагея)
+
+-lexeme
+ lex: Тая
+ gramm: N,persn,PN
+ stem: тая.
+ paradigm: N_oxyton
+ trans_ru: Тая
+
+-lexeme
+ lex: Ана
+ gramm: N,persn,PN
+ stem: ана.
+ paradigm: N_oxyton
+ trans_ru: Анна
+
+-lexeme
+ lex: Улана
+ gramm: N,persn,PN
+ stem: улана.|уланы.|улан.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Улана
+
+-lexeme
+ lex: Токтарсола
+ gramm: N,PN,topn
+ stem: токтар.
+ paradigm: N_consonant
+ trans_ru: Токтарсола
+
+-lexeme
+ lex: Онисим
+ gramm: N,persn,PN
+ stem: онисим.
+ paradigm: N_consonant
+ trans_ru: Онисим
+
+-lexeme
+ lex: Ондрий
+ gramm: N,persn,PN
+ stem: ондрий.|ондри.
+ paradigm: N_j
+ trans_ru: Ондрий
+
+-lexeme
+ lex: Эчук
+ gramm: N,persn,PN
+ stem: эчук.
+ paradigm: N_consonant
+ trans_ru: Эчук
+
+-lexeme
+ lex: Опанас
+ gramm: N,persn,PN
+ stem: опанас.
+ paradigm: N_consonant
+ trans_ru: Опанас
+
+-lexeme
+ lex: Андрий
+ gramm: N,persn,PN
+ stem: андрий.|андри.
+ paradigm: N_j
+ trans_ru: Андрий
+
+-lexeme
+ lex: Ониса
+ gramm: N,persn,PN
+ stem: ониса.
+ paradigm: N_consonant
+ trans_ru: Ониса
+
+-lexeme
+ lex: Микал
+ gramm: N,persn,PN
+ stem: микал.
+ paradigm: N_consonant
+ trans_ru: Михаил
+
+-lexeme
+ lex: Селина
+ gramm: N,PN,persn
+ stem: селина.|селины.|селин.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Селина
+
+-lexeme
+ lex: Ервӱд
+ gramm: N,PN,topn
+ stem: ервӱд.
+ paradigm: N_consonant
+ trans_ru: Озёрная, букв. Озёрная вода
+
+-lexeme
+ lex: Эчук
+ gramm: N,PN,persn
+ stem: эчук.
+ paradigm: N_consonant
+ trans_ru: Эчук
+
+-lexeme
+ lex: Элексей
+ gramm: N,PN,persn
+ stem: элексей.|элексе.
+ paradigm: N_j
+ trans_ru: Элексей, Алексей
+
+-lexeme
+ lex: Епий
+ gramm: N,persn,PN
+ stem: епий.|епи.
+ paradigm: N_j
+ trans_ru: Епий
+
+-lexeme
+ lex: Япий
+ gramm: N,persn,PN
+ stem: япий.|япи.
+ paradigm: N_j
+ trans_ru: Япий
+
+-lexeme
+ lex: Советский
+ gramm: N,PN,topn
+ stem: советский.|советски.
+ paradigm: N_j
+ trans_ru: Советский
+
+-lexeme
+ lex: Пеледыш
+ gramm: N,PN,topn
+ stem: пеледыш.
+ paradigm: N_consonant
+ trans_ru: Пеледыш
+
+-lexeme
+ lex: Улий
+ gramm: N,PN,persn
+ stem: улий.|ули.
+ paradigm: N_j
+ trans_ru: Ульяна (уменьш.)
+
+-lexeme
+ lex: Йыву
+ gramm: N,PN,persn
+ stem: йыву.
+ paradigm: N_oxyton
+ trans_ru: Йыву
+
+-lexeme
+ lex: Йывуш
+ gramm: N,PN,persn
+ stem: йывуш.
+ paradigm: N_consonant
+ trans_ru: Йывуш
+
+-lexeme
+ lex: Лӱян
+ gramm: N,PN,persn
+ stem: лӱян.
+ paradigm: N_consonant
+ trans_ru: Лукян
+

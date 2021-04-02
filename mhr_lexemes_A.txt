@@ -33498,3 +33498,38 @@
  paradigm: A_consonant
  trans_ru: нелепый; пошлый
 
+-lexeme
+ lex: начар
+ gramm: A
+ stem: назар.
+ paradigm: A_consonant
+ trans_ru: плохой
+
+-lexeme
+ lex: бойкой
+ gramm: A,rus
+ stem: бойкой.|бойко.
+ paradigm: A_j
+ trans_ru: бойкий
+
+-lexeme
+ lex: горномарийский
+ gramm: A,rus
+ stem: горномарийский.|горномарийски.
+ paradigm: A_j
+ trans_ru: горномарийский
+
+-lexeme
+ lex: вӱдйымал
+ gramm: A
+ stem: вӱдйымал.
+ paradigm: A_consonant
+ trans_ru: подводный
+
+-lexeme
+ lex: первой
+ gramm: A,rus
+ stem: первой.|перво.
+ paradigm: A_j
+ trans_ru: первый
+
