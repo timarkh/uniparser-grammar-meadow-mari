@@ -98,14 +98,14 @@
 
 -lexeme
  lex: кок
- stem: кок.//кокт.//ког.//2.//2-.
+ stem: кок.//ког.//2.//2-.
  gramm: NUM,short
  paradigm: NUM_consonant
  trans_ru: два
 
 -lexeme
  lex: кокыт
- stem: кокыт.
+ stem: кокыт.//кокт.
  gramm: NUM,plen
  paradigm: NUM_consonant
  trans_ru: два

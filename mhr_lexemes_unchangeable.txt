@@ -792,8 +792,15 @@
 -lexeme
  lex: веле
  stem: веле.//велэ.|велы.|вел.
- gramm: ADV
+ gramm: PART
  paradigm: POST_ADV_Poss_vowel
+ trans_ru: всего; даже; ещё
+
+-lexeme
+ lex: веле
+ stem: вел.
+ gramm: PART
+ paradigm: POST_ADV_Poss
  trans_ru: всего; даже; ещё
 
 -lexeme
