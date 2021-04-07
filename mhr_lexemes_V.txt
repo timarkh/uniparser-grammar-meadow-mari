@@ -16652,51 +16652,58 @@
 -lexeme
  lex: огеш
  stem: огеш.//огэш.
- gramm: V,neg,3,sg
+ gramm: V,neg,npst,3,sg
+ paradigm: Clitics
+ trans_ru: не; нет
+
+-lexeme
+ lex: огеш
+ stem: огеш.//огэш.
+ gramm: V,neg,proform,3,sg
  paradigm: Clitics
  trans_ru: не; нет
 
 -lexeme
  lex: огыда
  stem: огыда.
+ gramm: V,neg,proform,2,pl
+ paradigm: Clitics
+ trans_ru: не
+
+-lexeme
+ lex: улаш
+ stem: огыдал.
  gramm: V,neg,npst,2,pl
  paradigm: Clitics
- trans_ru: не
+ trans_ru: не быть (отрицание pst2 и именной предикации)
 
 -lexeme
- lex: огыдал
- stem: огыдал.
- gramm: V,neg,pst,2,pl
- paradigm: Clitics
- trans_ru: не
-
--lexeme
- lex: огыл
+ lex: улаш
  stem: огыл.
- gramm: V,pst,neg,3,sg
+ gramm: V,neg,npst,3,sg
  paradigm: Clitics
- trans_ru: не
+ trans_ru: не быть (отрицание pst2 и именной предикации)
 
 -lexeme
  lex: огым
  stem: огым.
- gramm: V,neg,1,sg
+ gramm: V,neg,proform,1,sg
  paradigm: Clitics
  trans_ru: не
 
 -lexeme
  lex: огына
  stem: огына.
- gramm: V,neg,npst,1,pl
+ gramm: V,neg,proform,1,pl
  paradigm: Clitics
  trans_ru: не
 
 -lexeme
- lex: огынал
+ lex: улаш
  stem: огынал.
- gramm: V,neg,pst,1,pl
+ gramm: V,neg,npst,1,pl
  paradigm: Clitics
- trans_ru: не
+ trans_ru: не быть (отрицание pst2 и именной предикации)
 
 -lexeme
  lex: огыт
@@ -16706,11 +16713,25 @@
  trans_ru: не
 
 -lexeme
- lex: огытыл
- stem: огытыл.
- gramm: V,neg,pst,3,pl
+ lex: огыт
+ stem: огыт.
+ gramm: V,neg,proform,3,pl
  paradigm: Clitics
  trans_ru: не
+
+-lexeme
+ lex: огыт
+ stem: огыт.
+ gramm: V,neg,proform,2,sg
+ paradigm: Clitics
+ trans_ru: не
+
+-lexeme
+ lex: улаш
+ stem: огытыл.
+ gramm: V,neg,npst,3,pl
+ paradigm: Clitics
+ trans_ru: не быть (отрицание pst2 и именной предикации)
 
 -lexeme
  lex: ода
@@ -16720,11 +16741,11 @@
  trans_ru: не
 
 -lexeme
- lex: одал
+ lex: улаш
  stem: одал.
- gramm: V,neg,pst2,2,pl
+ gramm: V,neg,npst,2,pl
  paradigm: Clitics
- trans_ru: не
+ trans_ru: не быть (отрицание pst2 и именной предикации)
 
 -lexeme
  lex: одараш
@@ -17238,11 +17259,11 @@
  trans_ru: зарасти камышом, тростником
 
 -lexeme
- lex: омыл
+ lex: улаш
  stem: омыл.
- gramm: V,neg,pst,1,pl
+ gramm: V,neg,npst,1,pl
  paradigm: Clitics
- trans_ru: не
+ trans_ru: не быть (отрицание pst2 и именной предикации)
 
 -lexeme
  lex: омыраш
@@ -17259,11 +17280,11 @@
  trans_ru: не
 
 -lexeme
- lex: онал
+ lex: улаш
  stem: онал.
- gramm: V,neg,pst,1,pl
+ gramm: V,neg,npst,1,pl
  paradigm: Clitics
- trans_ru: не
+ trans_ru: не быть (отрицание pst2 и именной предикации)
 
 -lexeme
  lex: онаш
@@ -17637,11 +17658,11 @@
  trans_ru: отступать
 
 -lexeme
- lex: отыл
+ lex: улаш
  stem: отыл.
- gramm: V,neg,pst,2,sg
+ gramm: V,neg,npst,2,sg
  paradigm: Clitics
- trans_ru: не
+ trans_ru: не быть (отрицание pst2 и именной предикации)
 
 -lexeme
  lex: оформитлаш
@@ -30084,42 +30105,42 @@
 -lexeme
  lex: улаш
  stem: ыле.//ылэ.
- gramm: V,act,pst,3,sg
+ gramm: V,pst,3,sg
  paradigm: Clitics
  trans_ru: быть
 
 -lexeme
  lex: улаш
  stem: ыльда.
- gramm: V,act,pst,2,pl
+ gramm: V,pst,2,pl
  paradigm: Clitics
  trans_ru: быть
 
 -lexeme
  lex: улаш
  stem: ыльна.
- gramm: V,act,pst,1,pl
+ gramm: V,pst,1,pl
  paradigm: Clitics
  trans_ru: быть
 
 -lexeme
  lex: улаш
  stem: ыльым.
- gramm: V,act,pst,1,sg
+ gramm: V,pst,1,sg
  paradigm: Clitics
  trans_ru: быть
 
 -lexeme
  lex: улаш
  stem: ыльыч.
- gramm: V,act,pst,2,sg
+ gramm: V,pst,2,sg
  paradigm: Clitics
  trans_ru: быть
 
 -lexeme
  lex: улаш
  stem: ыльыч.
- gramm: V,act,pst,3,pl
+ gramm: V,pst,3,pl
  paradigm: Clitics
  trans_ru: быть
 
