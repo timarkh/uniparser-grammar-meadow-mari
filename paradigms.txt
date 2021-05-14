@@ -25,6 +25,12 @@
  -flex: .ак|ше
   gramm: emph,3sg
   gloss: EMPH|3SG
+ -flex: .ат|-ыс//.ат|ыс
+  gramm: add,emph
+  gloss: ADD|EMPH
+ -flex: .ак|-ыс//.ак|ыс
+  gramm: emph
+  gloss: EMPH|EMPH
  -flex: .т
   gramm: add
   gloss: ADD
@@ -32,6 +38,14 @@
  -flex: .к
   gramm: emph
   gloss: EMPH
+  regex-prev: .*[ая][<>.]*$
+ -flex: .т|-ыс//.т|ыс
+  gramm: add,emph
+  gloss: ADD|EMPH
+  regex-prev: .*[ая][<>.]*$
+ -flex: .к|-ыс//.к|ыс
+  gramm: emph
+  gloss: EMPH|EMPH
   regex-prev: .*[ая][<>.]*$
  -flex: .-ян
   gramm: hort
@@ -42,7 +56,7 @@
  -flex: .-лай
   gramm: emph
   gloss: EMPH
- -flex: .-ыс
+ -flex: .-ыс//.ыс
   gramm: emph
   gloss: EMPH
  -flex: .же//.жо//.жӧ
@@ -96,7 +110,7 @@
  -flex: .-лай
   gramm: emph
   gloss: EMPH
- -flex: .-ыс
+ -flex: .-ыс//.ыс
   gramm: emph
   gloss: EMPH
 
@@ -5809,11 +5823,11 @@
   gramm: pst,2,sg
   gloss: PST.2SG
   regex-prev: .*[лн][<>.]*$
- -flex: .о<.>//.е<.>
+ -flex: .о<.>//.е<.>//.ӧ<.>
   gramm: pst,3,sg
   gloss: PST.3SG
   regex-prev: .*[^<>.лн][<>.]*$
- -flex: .ьо<.>//.е<.>//.ё<.>//.ье<.>
+ -flex: .ьо<.>//.е<.>//.ё<.>//.ье<.>//.ьӧ<.>
   gramm: pst,3,sg
   gloss: PST.3SG
   regex-prev: .*[лн][<>.]*$
@@ -5899,11 +5913,11 @@
   gramm: pst,2,sg
   gloss: PST.2SG
   regex-prev: .*[лн][<>.]*$
- -flex: <0>.о<.>//<0>.е<.>
+ -flex: <0>.о<.>//<0>.е<.>//<0>.ӧ<.>
   gramm: pst,3,sg
   gloss: PST.3SG
   regex-prev: .*[^<>.лн][<>.]*$
- -flex: <0>.ьо<.>//<0>.е<.>//<0>.ё<.>//<0>.ье<.>
+ -flex: <0>.ьо<.>//<0>.е<.>//<0>.ё<.>//<0>.ье<.>//<0>.ьӧ<.>
   gramm: pst,3,sg
   gloss: PST.3SG
   regex-prev: .*[лн][<>.]*$
@@ -6456,6 +6470,7 @@
   gramm: cvb,cvb.consec
   gloss: CVB.CONSEC
   paradigm: N_Poss_e
+  paradigm: Clitics
  -flex: .мешке<.>
   gramm: cvb,cvb.prec
   gloss: CVB.PREC
@@ -6468,6 +6483,7 @@
   gramm: cvb,cvb.prec
   gloss: CVB.PREC
   paradigm: N_Poss_e
+  paradigm: Clitics
  -flex: .шыла<.>//.мыла<.>
   gramm: cvb,cvb.simult
   gloss: CVB.SIMULT
@@ -6639,6 +6655,7 @@
   gramm: cvb,cvb.consec
   gloss: CVB.CONSEC
   paradigm: N_Poss_e
+  paradigm: Clitics
  -flex: <1>.мешке<.>
   gramm: cvb,cvb.prec
   gloss: CVB.PREC
@@ -6651,6 +6668,7 @@
   gramm: cvb,cvb.prec
   gloss: CVB.PREC
   paradigm: N_Poss_e
+  paradigm: Clitics
  -flex: <1>.шыла<.>//<1>.мыла<.>
   gramm: cvb,cvb.simult
   gloss: CVB.SIMULT
@@ -6824,6 +6842,7 @@
   gramm: cvb,cvb.consec
   gloss: CVB.CONSEC
   paradigm: N_Poss_e
+  paradigm: Clitics
  -flex: .ымешке<.>
   gramm: cvb,cvb.prec
   gloss: CVB.PREC
@@ -6836,6 +6855,7 @@
   gramm: cvb,cvb.prec
   gloss: CVB.PREC
   paradigm: N_Poss_e
+  paradigm: Clitics
  -flex: .ышыла<.>//.ымыла<.>
   gramm: cvb,cvb.simult
   gloss: CVB.SIMULT

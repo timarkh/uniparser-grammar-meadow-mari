@@ -2473,7 +2473,7 @@
 
 -lexeme
  lex: возаш
- stem: воз.
+ stem: воз.|воз.//воч.
  gramm: V
  paradigm: V_a
  trans_ru: лечь; упасть
