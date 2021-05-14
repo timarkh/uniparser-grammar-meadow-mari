@@ -126296,3 +126296,9 @@
  paradigm: N_oxyton
  trans_ru: ветеран войны
 
+-lexeme
+ lex: тулшол
+ gramm: N
+ stem: тулшолгым.
+ paradigm: N_consonant
+ trans_ru: горячие (раскалённые, тлеющие) угли, жар

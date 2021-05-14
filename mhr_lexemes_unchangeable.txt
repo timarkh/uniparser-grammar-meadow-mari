@@ -17754,3 +17754,150 @@
  paradigm: Clitics
  trans_ru: интересно
 
+-lexeme
+ lex: йӱдымач
+ gramm: ADV
+ stem: йӱдымач.
+ paradigm: POST_ADV_Poss
+ trans_ru: с севера
+
+-lexeme
+ lex: ӱстембалне
+ gramm: ADV
+ stem: ӱстембалне.
+ paradigm: POST_ADV_Poss
+ trans_ru: на столе
+
+-lexeme
+ lex: олымбак
+ gramm: ADV
+ stem: олымбак.
+ paradigm: POST_ADV_Poss
+ trans_ru: на лавку
+
+-lexeme
+ lex: чуйык-чуйык
+ gramm: IMIT
+ stem: чуйык-чуйык.
+ paradigm: Clitics
+ trans_ru: подражание кратковременному и быстрому мельканию чего-л. продолговатого
+
+-lexeme
+ lex: чуйык
+ gramm: IMIT
+ stem: чуйык.
+ paradigm: Clitics
+ trans_ru: вытянуто, продолговато вытягивая
+
+-lexeme
+ lex: чуйык-чуйык
+ gramm: IMIT
+ stem: чуйк-чуйк.
+ paradigm: Clitics
+ trans_ru: подражание кратковременному и быстрому мельканию чего-л. продолговатого
+
+-lexeme
+ lex: подражание звукам волынки
+ gramm: IMIT
+ stem: ри-ро-ро.
+ paradigm: Clitics
+ trans_ru: 
+
+-lexeme
+ lex: ир-ро-ро
+ gramm: IMIT
+ stem: ир-ро-ро.
+ paradigm: Clitics
+ trans_ru: подражание звукам волынки
+
+-lexeme
+ lex: ир-ро-ро
+ gramm: IMIT
+ stem: ир-ро-ро-ро.
+ paradigm: Clitics
+ trans_ru: подражание звукам волынки
+
+-lexeme
+ lex: ха-ха-ха
+ gramm: IMIT
+ stem: ах-ха-ха.
+ paradigm: Clitics
+ trans_ru: ха-ха-ха
+
+-lexeme
+ lex: кыд-кыд
+ gramm: IMIT
+ stem: кыд-кыд.
+ paradigm: Clitics
+ trans_ru: подражание кудахтанью
+
+-lexeme
+ lex: кыд-кыд
+ gramm: IMIT
+ stem: кыд-кыд-кыд.
+ paradigm: Clitics
+ trans_ru: подражание кудахтанью
+
+-lexeme
+ lex: кыт-кыт
+ gramm: IMIT
+ stem: кыд-кыд.
+ paradigm: Clitics
+ trans_ru: подражание кудахтанью курицы
+
+-lexeme
+ lex: кыт-кыт
+ gramm: IMIT
+ stem: кыд-кыд-кыд.
+ paradigm: Clitics
+ trans_ru: подражание кудахтанью курицы
+
+-lexeme
+ lex: мияу
+ gramm: IMIT
+ stem: мияу.
+ paradigm: Clitics
+ trans_ru: мяу
+
+-lexeme
+ lex: ковыж-ж
+ gramm: IMIT
+ stem: ковыж-ж.
+ paradigm: Clitics
+ trans_ru: о том, как волосы дыбом встают (от страха)
+
+-lexeme
+ lex: эй
+ gramm: INTRJ
+ stem: э-эй.
+ paradigm: Clitics
+ trans_ru: эй, эх, ой, ай
+
+-lexeme
+ lex: айста
+ gramm: INTRJ
+ stem: айдыза.
+ paradigm: Clitics
+ trans_ru: идёмте, давайте
+
+-lexeme
+ lex: до-до
+ gramm: INTRJ
+ stem: до.
+ paradigm: Clitics
+ trans_ru: возглас, которым подзывают лошадей
+
+-lexeme
+ lex: ой
+ gramm: INTRJ
+ stem: о-й.
+ paradigm: Clitics
+ trans_ru: ой
+
+-lexeme
+ lex: йори-йор-йор
+ gramm: INTRJ
+ stem: йори-йор-йор.
+ paradigm: Clitics
+ trans_ru: подражание звукам волынки
+

@@ -79573,3 +79573,136 @@
  paradigm: N_consonant
  trans_ru: Лукян
 
+-lexeme
+ lex: Йогорка
+ gramm: N,persn,PN
+ stem: йогорка.|йогоркы.|йогорк.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Егор
+
+-lexeme
+ lex: Йогыр
+ gramm: N,persn,PN
+ stem: йогырка.
+ paradigm: N_oxyton
+ trans_ru: Егор
+
+-lexeme
+ lex: Йогор
+ gramm: N,persn,PN
+ stem: йогорка.
+ paradigm: N_oxyton
+ trans_ru: Егор
+
+-lexeme
+ lex: Ильмон
+ gramm: N,persn,PN
+ stem: ильмон.
+ paradigm: N_consonant
+ trans_ru: Филимон
+
+-lexeme
+ lex: Осып
+ gramm: N,persn,PN
+ stem: осып.
+ paradigm: N_consonant
+ trans_ru: Осип
+
+-lexeme
+ lex: Лайдемыр
+ gramm: N,persn,PN
+ stem: лайдемыр.
+ paradigm: N_consonant
+ trans_ru: Владимир
+
+-lexeme
+ lex: Кристос
+ gramm: N,persn,PN
+ stem: кристос.
+ paradigm: N_consonant
+ trans_ru: Христос
+
+-lexeme
+ lex: Метрий
+ gramm: N,persn,PN
+ stem: метрий.|метри.
+ paradigm: N_j
+ trans_ru: Дмитрий
+
+-lexeme
+ lex: Семон
+ gramm: N,persn,PN
+ stem: семон.
+ paradigm: N_consonant
+ trans_ru: Семён
+
+-lexeme
+ lex: Ерӱмбал
+ gramm: N,PN,topn
+ stem: ерӱмбал.
+ paradigm: N_consonant
+ trans_ru: Ерумбал (Приозерный, букв. над озером)
+
+-lexeme
+ lex: Ведат
+ gramm: N,persn,PN
+ stem: ведат.
+ paradigm: N_consonant
+ trans_ru: Федот
+
+-lexeme
+ lex: Каври
+ gramm: N,persn,PN
+ stem: каврий.|каври.
+ paradigm: N_j
+ trans_ru: Гаврил
+
+-lexeme
+ lex: Вачий
+ gramm: N,persn,PN
+ stem: вачий.|вачи.
+ paradigm: N_j
+ trans_ru: Василий
+
+-lexeme
+ lex: Яраҥ
+ gramm: N,PN,topn
+ stem: яраҥ.
+ paradigm: N_consonant
+ trans_ru: Яранск
+
+-lexeme
+ lex: Орша
+ gramm: N,PN,topn
+ stem: орша.
+ paradigm: N_consonant
+ trans_ru: Орша
+
+-lexeme
+ lex: Шойвӱд
+ gramm: N,PN,topn
+ stem: шойвӱд.
+ paradigm: N_consonant
+ trans_ru: Шоя (река)
+
+-lexeme
+ lex: Тикын
+ gramm: N,persn,PN
+ stem: тикын.
+ paradigm: N_consonant
+ trans_ru: Тихон
+
+-lexeme
+ lex: Япий
+ gramm: N,persn,PN
+ stem: япи.
+ paradigm: N_consonant
+ trans_ru: Япи, Япий
+
+-lexeme
+ lex: Ларивон
+ gramm: N,missp,PN,persn
+ stem: лавриван.
+ paradigm: N_consonant
+ trans_ru: Ларион (Илларион)
+

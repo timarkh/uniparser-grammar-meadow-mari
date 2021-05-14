@@ -986,3 +986,11 @@
  stem: сакый.|сакы.
  paradigm: A_j
  trans_ru: всякий
+
+-lexeme
+ lex: тугай
+ gramm: PRO
+ stem: тугане.
+ paradigm: Clitics
+ trans_ru: такой
+
