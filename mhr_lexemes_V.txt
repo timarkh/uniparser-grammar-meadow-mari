@@ -40528,3 +40528,39 @@
  stem: помжалт.
  paradigm: V_e
  trans_ru: будить, разбудить
+
+-lexeme
+ lex: верешташ
+ gramm: V,impers
+ stem: верешт.
+ paradigm: V_a
+ trans_ru: приходиться что-л. делать
+
+-lexeme
+ lex: шолаш
+ gramm: V,intr
+ stem: шол.
+ paradigm: V_a
+ trans_ru: кипеть
+
+-lexeme
+ lex: яланаш
+ gramm: V,intr
+ stem: ялан.
+ paradigm: V_e
+ trans_ru: кричать, пищать, свистеть
+
+-lexeme
+ lex: чымалташ
+ gramm: V,intr
+ stem: чымалт.
+ paradigm: V_a
+ trans_ru: натягиваться; перен. устремляться
+
+-lexeme
+ lex: лийылалташ
+ gramm: V,intr
+ stem: лийылалт.
+ paradigm: V_e
+ trans_ru: быть, бывать, случаться
+

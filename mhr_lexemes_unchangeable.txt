@@ -6,6 +6,13 @@
  trans_ru: а
 
 -lexeme
+ lex: а
+ stem: а.
+ gramm: CONJ,rus
+ paradigm: Clitics
+ trans_ru: а
+
+-lexeme
  lex: а-а
  stem: а-а.
  gramm: INTRJ
@@ -17901,3 +17908,191 @@
  paradigm: Clitics
  trans_ru: подражание звукам волынки
 
+-lexeme
+ lex: шкет
+ gramm: ADV
+ stem: шкет.
+ paradigm: POST_ADV_Poss
+ trans_ru: один, без других; в одиночестве
+
+-lexeme
+ lex: ӱмбач(ын)
+ gramm: ADV
+ stem: ӱмбач.
+ paradigm: POST_ADV_Poss
+ trans_ru: сверху
+
+-lexeme
+ lex: йоҥылыш
+ gramm: ADV
+ stem: йоҥылыш.
+ paradigm: POST_ADV_Poss
+ trans_ru: ошибочно, неправильно, неточно
+
+-lexeme
+ lex: первый
+ gramm: ADV,rus
+ stem: первый.
+ paradigm: POST_ADV_Poss
+ trans_ru: сначала
+
+-lexeme
+ lex: варажым
+ gramm: ADV
+ stem: варажым.
+ paradigm: POST_ADV_Poss
+ trans_ru: потом
+
+-lexeme
+ lex: кӱшкӧ
+ gramm: ADV
+ stem: кӱш.
+ paradigm: POST_ADV_Poss
+ trans_ru: вверх, ввысь, высоко
+
+-lexeme
+ lex: чӱчкыдын
+ gramm: ADV
+ stem: чӱчкыдын.
+ paradigm: POST_ADV_Poss
+ trans_ru: часто
+
+-lexeme
+ lex: эр
+ gramm: ADV
+ stem: эр.
+ paradigm: POST_ADV_Poss
+ trans_ru: рано
+
+-lexeme
+ lex: йыгыре
+ gramm: ADV
+ stem: йыгыре.
+ paradigm: POST_ADV_Poss
+ trans_ru: рядом
+
+-lexeme
+ lex: йырвелыш
+ gramm: ADV
+ stem: йырвелыш.
+ paradigm: POST_ADV_Poss
+ trans_ru: вокруг
+
+-lexeme
+ lex: лишке
+ gramm: ADV
+ stem: лишке.
+ paradigm: POST_ADV_Poss
+ trans_ru: близко
+
+-lexeme
+ lex: йӱдйымач
+ gramm: ADV
+ stem: йӱдйымач.
+ paradigm: POST_ADV_Poss
+ trans_ru: с севера
+
+-lexeme
+ lex: ваштареш
+ gramm: ADV
+ stem: ваштареш.
+ paradigm: POST_ADV_Poss
+ trans_ru: навстречу
+
+-lexeme
+ lex: оҥай
+ gramm: ADV
+ stem: оҥай.
+ paradigm: POST_ADV_Poss
+ trans_ru: интересно, любопытно
+
+-lexeme
+ lex: раш
+ gramm: ADV
+ stem: раш.
+ paradigm: POST_ADV_Poss
+ trans_ru: ясно, известно, точно
+
+-lexeme
+ lex: чак
+ gramm: ADV
+ stem: чак.
+ paradigm: POST_ADV_Poss
+ trans_ru: близко
+
+-lexeme
+ lex: ӧрдыжтӧ
+ gramm: ADV
+ stem: ӧрдыжтӧ.
+ paradigm: POST_ADV_Poss
+ trans_ru: в стороне, поодаль
+
+-lexeme
+ lex: ювылдик
+ gramm: IMIT
+ stem: ювылдик.
+ paradigm: Clitics
+ trans_ru: о быстром движении, исчезновении
+
+-lexeme
+ lex: коп
+ gramm: IMIT
+ stem: коп.
+ paradigm: Clitics
+ trans_ru: о быстром схватывании; о лёгком стуке небольшого предмета
+
+-lexeme
+ lex: рашт
+ gramm: IMIT
+ stem: рашт.
+ paradigm: Clitics
+ trans_ru: подражание звонкому хлопанию руками или прищёлкиванию пальцами
+
+-lexeme
+ lex: ай
+ gramm: INTRJ
+ stem: ай.
+ paradigm: Clitics
+ trans_ru: ах, эх
+
+-lexeme
+ lex: мо
+ gramm: PART
+ stem: мо.
+ paradigm: Clitics
+ trans_ru: ли, разве
+
+-lexeme
+ lex: жапыште
+ gramm: POST
+ stem: жапыште.
+ paradigm: POST_ADV_Poss
+ trans_ru: в течение
+
+-lexeme
+ lex: почеш
+ gramm: POST
+ stem: почеш.
+ paradigm: POST_ADV_Poss
+ trans_ru: за, по, вслед, после
+
+-lexeme
+ lex: деч ончыч
+ gramm: POST
+ stem: деч ончыч.
+ paradigm: POST_ADV_Poss
+ trans_ru: до, раньше
+
+-lexeme
+ lex: деч вара
+ gramm: POST
+ stem: деч вара.
+ paradigm: POST_ADV_Poss
+ trans_ru: после
+
+-lexeme
+ lex: лугыч
+ gramm: POST
+ stem: лугыч.
+ paradigm: POST_ADV_Poss
+ trans_ru: не докончив

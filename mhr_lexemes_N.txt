@@ -126302,3 +126302,66 @@
  stem: тулшолгым.
  paradigm: N_consonant
  trans_ru: горячие (раскалённые, тлеющие) угли, жар
+
+-lexeme
+ lex: шонымаш
+ gramm: N
+ stem: шонымаш.
+ paradigm: N_consonant
+ trans_ru: мысль
+
+-lexeme
+ lex: эрла
+ gramm: N
+ stem: эрла.
+ paradigm: N_oxyton
+ trans_ru: завтра
+
+-lexeme
+ lex: шот
+ gramm: N,rus
+ stem: шот.
+ paradigm: N_consonant
+ trans_ru: положение, состояние; обстоятельства; возможность действовать каким-л. образом
+
+-lexeme
+ lex: ньога
+ gramm: N,anim,hum
+ stem: ньогар.
+ paradigm: N_consonant
+ trans_ru: дитя, ребёнок
+
+-lexeme
+ lex: тура
+ gramm: N,supernat
+ stem: тура.
+ paradigm: N_oxyton
+ trans_ru: полуденица (миф. существо, являющееся в полдень)
+
+-lexeme
+ lex: шошо
+ gramm: N
+ stem: шошым.
+ paradigm: N_consonant
+ trans_ru: весна
+
+-lexeme
+ lex: эрык
+ gramm: N
+ stem: эрык.
+ paradigm: N_consonant
+ trans_ru: свобода, воля
+
+-lexeme
+ lex: капка ончыл
+ gramm: N
+ stem: капкаончыл.
+ paradigm: N_consonant
+ trans_ru: место перед воротами, вне двора, приворотье
+
+-lexeme
+ lex: шаге
+ stem: шаге.|шагы.|шаг.
+ gramm: N
+ paradigm: N_paroxyton_v_weak
+ trans_ru: приспособление для подвешивания котла, ведра над костром для варки чего-л.

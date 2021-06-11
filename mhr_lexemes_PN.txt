@@ -79706,3 +79706,45 @@
  paradigm: N_consonant
  trans_ru: Ларион (Илларион)
 
+-lexeme
+ lex: Одар
+ gramm: N,famn,PN
+ stem: одар.
+ paradigm: N_consonant
+ trans_ru: Одар
+
+-lexeme
+ lex: Пибулат
+ gramm: N,persn,PN
+ stem: пивлат.
+ paradigm: N_consonant
+ trans_ru: Пибулат (Пивлат)
+
+-lexeme
+ lex: Васлий
+ gramm: N,persn,PN
+ stem: васлий.|васли.
+ paradigm: N_j
+ trans_ru: Василий (Васлий)
+
+-lexeme
+ lex: Сапан
+ gramm: N,persn,PN
+ stem: сапан.
+ paradigm: N_consonant
+ trans_ru: Сапан
+
+-lexeme
+ lex: Петрушка
+ gramm: N,persn,PN
+ stem: петрушка.
+ paradigm: N_consonant
+ trans_ru: Пётр (Петрушка)
+
+-lexeme
+ lex: Максым
+ gramm: N,persn,PN
+ stem: максым.
+ paradigm: N_consonant
+ trans_ru: Максим (Максым)
+

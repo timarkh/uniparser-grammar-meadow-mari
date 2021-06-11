@@ -33533,3 +33533,31 @@
  paradigm: A_j
  trans_ru: первый
 
+-lexeme
+ lex: кӱлеш
+ gramm: A
+ stem: кӱлеш.
+ paradigm: A_consonant
+ trans_ru: нужный
+
+-lexeme
+ lex: ӱмбал
+ gramm: A
+ stem: ӱмбал.
+ paradigm: A_consonant
+ trans_ru: верхний, внешний, наружный
+
+-lexeme
+ lex: марий
+ gramm: A
+ stem: марий.|мари.
+ paradigm: A_j
+ trans_ru: марийский
+
+-lexeme
+ lex: тӧр
+ gramm: A
+ stem: тӧр.
+ paradigm: A_consonant
+ trans_ru: ровный, гладкий, прямой
+
