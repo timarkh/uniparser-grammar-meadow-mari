@@ -41747,13 +41747,6 @@
  trans_ru: Никишкино
 
 -lexeme
- lex: Миклай
- stem: миклай.|микла.
- gramm: N,PN,persn
- paradigm: N_j
- trans_ru: Миклай
-
--lexeme
  lex: Миклансола
  stem: миклансола.
  gramm: N,PN,topn
@@ -79035,13 +79028,6 @@
  trans_ru: Токтайбеляк
 
 -lexeme
- lex: Эчан
- stem: эчан.
- gramm: N,PN,persn
- paradigm: N_consonant
- trans_ru: Эчан
-
--lexeme
  lex: Анисола
  stem: анисола.|анисолы.//анисола.|анисол.//анисола.
  gramm: N,PN,topn
@@ -79151,14 +79137,7 @@
  stem: йогыр.
  gramm: N,PN,persn
  paradigm: N_consonant
- trans_ru: Егор
-
--lexeme
- lex: Йыван
- stem: йыван.
- gramm: N,PN,persn
- paradigm: N_consonant
- trans_ru: Иван
+ trans_ru: Йогыр (Егор)
 
 -lexeme
  lex: Йыврай
@@ -79602,13 +79581,6 @@
  trans_ru: Филимон
 
 -lexeme
- lex: Осып
- gramm: N,persn,PN
- stem: осып.
- paradigm: N_consonant
- trans_ru: Осип
-
--lexeme
  lex: Лайдемыр
  gramm: N,persn,PN
  stem: лайдемыр.
@@ -79748,3 +79720,6386 @@
  paradigm: N_consonant
  trans_ru: Максим (Максым)
 
+-lexeme
+ lex: Абдай
+ stem: абдай.|абда.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Абдай
+
+-lexeme
+ lex: Абла
+ stem: абла.|аблы.//абла.|абл.//абла.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Абла
+
+-lexeme
+ lex: Абукай
+ stem: абукай.|абука.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Абукай
+
+-lexeme
+ lex: Абулек
+ stem: абулек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Абулек
+
+-lexeme
+ lex: Агапи
+ stem: агапи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Агапи (Агафия)
+
+-lexeme
+ lex: Агей
+ stem: агей.|аге.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Агей
+
+-lexeme
+ lex: Агиш
+ stem: агиш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Агиш
+
+-lexeme
+ lex: Адай
+ stem: адай.|ада.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Адай
+
+-lexeme
+ lex: Аденай
+ stem: аденай.|адена.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Аденай
+
+-lexeme
+ lex: Адибек
+ stem: адибек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Адибек
+
+-lexeme
+ lex: Адим
+ stem: адим.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Адим
+
+-lexeme
+ lex: Азамат
+ stem: азамат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Азамат
+
+-lexeme
+ lex: Азыгей
+ stem: азыгей.|азыге.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Азыгей
+
+-lexeme
+ lex: Азьмат
+ stem: азьмат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Азьмат
+
+-lexeme
+ lex: Азямбердей
+ stem: азямбердей.|азямберде.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Азямбердей
+
+-lexeme
+ lex: Аим
+ stem: аим.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Аим
+
+-lexeme
+ lex: Аит
+ stem: аит.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Аит
+
+-lexeme
+ lex: Айвак
+ stem: айвак.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Айвак
+
+-lexeme
+ lex: Айвика
+ stem: айвика.|айвикы.//айвика.|айвик.//айвика.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Айвика
+
+-lexeme
+ lex: Айгельде
+ stem: айгельде.|айгельды.//айгельде.|айгельд.//айгельде.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Айгельде
+
+-lexeme
+ lex: Айгуза
+ stem: айгуза.|айгузы.//айгуза.|айгуз.//айгуза.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Айгуза
+
+-lexeme
+ lex: Айдуван
+ stem: айдуван.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Айдуван
+
+-lexeme
+ lex: Айдуш
+ stem: айдуш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Айдуш
+
+-lexeme
+ lex: Айкави
+ stem: айкави.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Айкави
+
+-lexeme
+ lex: Аймак
+ stem: аймак.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Аймак
+
+-lexeme
+ lex: Аймет
+ stem: аймет.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Аймет
+
+-lexeme
+ lex: Айплат
+ stem: айплат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Айплат
+
+-lexeme
+ lex: Айтукай
+ stem: айтукай.|айтука.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Айтукай
+
+-lexeme
+ lex: Аказ
+ stem: аказ.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Аказ
+
+-lexeme
+ lex: Аканай
+ stem: аканай.|акана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Аканай
+
+-lexeme
+ lex: Акипай
+ stem: акипай.|акипа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Акипай
+
+-lexeme
+ lex: Акмазик
+ stem: акмазик.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Акмазик
+
+-lexeme
+ lex: Акманай
+ stem: акманай.|акмана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Акманай
+
+-lexeme
+ lex: Акоза
+ stem: акоза.|акозы.//акоза.|акоз.//акоза.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Акоза
+
+-lexeme
+ lex: Акпай
+ stem: акпай.|акпа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Акпай
+
+-lexeme
+ lex: Акпарс
+ stem: акпарс.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Акпарс
+
+-lexeme
+ lex: Акпас
+ stem: акпас.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Акпас
+
+-lexeme
+ lex: Акпатыр
+ stem: акпатыр.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Акпатыр
+
+-lexeme
+ lex: Акпика
+ stem: акпика.|акпикы.//акпика.|акпик.//акпика.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Акпика
+
+-lexeme
+ lex: Аксÿн
+ stem: аксÿн.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Аксÿн
+
+-lexeme
+ lex: Аксай
+ stem: аксай.|акса.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Аксай
+
+-lexeme
+ lex: Аксар
+ stem: аксар.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Аксар
+
+-lexeme
+ lex: Аксаран
+ stem: аксаран.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Аксаран
+
+-lexeme
+ lex: Актай
+ stem: актай.|акта.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Актай
+
+-lexeme
+ lex: Акталче
+ stem: акталче.|акталчы.//акталче.|акталч.//акталче.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Акталче
+
+-lexeme
+ lex: Актан
+ stem: актан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Актан
+
+-lexeme
+ lex: Актанай
+ stem: актанай.|актана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Актанай
+
+-lexeme
+ lex: Актерек
+ stem: актерек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Актерек
+
+-lexeme
+ lex: Актубай
+ stem: актубай.|актуба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Актубай
+
+-lexeme
+ lex: Актуган
+ stem: актуган.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Актуган
+
+-lexeme
+ lex: Актыган
+ stem: актыган.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Актыган
+
+-lexeme
+ lex: Актыгаш
+ stem: актыгаш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Актыгаш
+
+-lexeme
+ lex: Алатай
+ stem: алатай.|алата.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Алатай
+
+-lexeme
+ lex: Албача
+ stem: албача.|албачы.//албача.|албач.//албача.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Албача
+
+-lexeme
+ lex: Алей
+ stem: алей.|але.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Алей (Алексей)
+
+-lexeme
+ lex: Алек
+ stem: алек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Алек
+
+-lexeme
+ lex: Алепти
+ stem: алепти.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Алепти (Алевтина)
+
+-lexeme
+ lex: Алипа
+ stem: алипа.|алипы.//алипа.|алип.//алипа.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Алипа
+
+-lexeme
+ lex: Алкай
+ stem: алкай.|алка.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Алкай
+
+-lexeme
+ lex: Алмадай
+ stem: алмадай.|алмада.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Алмадай
+
+-lexeme
+ lex: Алмакай
+ stem: алмакай.|алмака.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Алмакай
+
+-lexeme
+ lex: Алман
+ stem: алман.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Алман
+
+-lexeme
+ lex: Алмантай
+ stem: алмантай.|алманта.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Алмантай
+
+-lexeme
+ lex: Алпай
+ stem: алпай.|алпа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Алпай
+
+-lexeme
+ lex: Алтыбай
+ stem: алтыбай.|алтыба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Алтыбай
+
+-lexeme
+ lex: Алтым
+ stem: алтым.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Алтым
+
+-lexeme
+ lex: Алтыш
+ stem: алтыш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Алтыш
+
+-lexeme
+ lex: Алшик
+ stem: алшик.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Алшик
+
+-lexeme
+ lex: Алыксий
+ stem: алыксий.|алыкси.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Алыксий (Алексей)
+
+-lexeme
+ lex: Алым
+ stem: алым.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Алым
+
+-lexeme
+ lex: Амаш
+ stem: амаш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Амаш
+
+-lexeme
+ lex: Амина
+ stem: амина.|амины.//амина.|амин.//амина.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Амина
+
+-lexeme
+ lex: Ана
+ stem: ана.|аны.//ана.|ан.//ана.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Ана (Анна)
+
+-lexeme
+ lex: Анай
+ stem: анай.|ана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Анай
+
+-lexeme
+ lex: Анай
+ stem: анай.|ана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Анай
+
+-lexeme
+ lex: Ангиш
+ stem: ангиш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ангиш
+
+-lexeme
+ lex: Анди
+ stem: анди.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Анди (Андрей)
+
+-lexeme
+ lex: Андруш
+ stem: андруш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Андруш (Андрей)
+
+-lexeme
+ lex: Андуган
+ stem: андуган.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Андуган
+
+-lexeme
+ lex: Ансай
+ stem: ансай.|анса.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Ансай
+
+-lexeme
+ lex: Ануш
+ stem: ануш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ануш (Анна)
+
+-lexeme
+ lex: Аныкай
+ stem: аныкай.|аныка.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Аныкай
+
+-lexeme
+ lex: Апай
+ stem: апай.|апа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Апай
+
+-lexeme
+ lex: Апакай
+ stem: апакай.|апака.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Апакай
+
+-lexeme
+ lex: Аписар
+ stem: аписар.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Аписар
+
+-lexeme
+ lex: Аппак
+ stem: аппак.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Аппак
+
+-lexeme
+ lex: Аптрий
+ stem: аптрий.|аптри.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Аптрий
+
+-lexeme
+ lex: Аптыш
+ stem: аптыш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Аптыш
+
+-lexeme
+ lex: Аразгелде
+ stem: аразгелде.|аразгелды.//аразгелде.|аразгелд.//аразгелде.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Аразгелде
+
+-lexeme
+ lex: Ардаш
+ stem: ардаш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ардаш
+
+-lexeme
+ lex: Арнявий
+ stem: арнявий.|арняви.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Арнявий
+
+-lexeme
+ lex: Арняша
+ stem: арняша.|арняшы.//арняша.|арняш.//арняша.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Арняша
+
+-lexeme
+ lex: Арсий
+ stem: арсий.|арси.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Арсий (Арсений)
+
+-lexeme
+ lex: Арсик
+ stem: арсик.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Арсик (Арсений)
+
+-lexeme
+ lex: Артыш
+ stem: артыш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Артыш (Артемий)
+
+-lexeme
+ lex: Артышкан
+ stem: артышкан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Артышкан (Артемий)
+
+-lexeme
+ lex: Асави
+ stem: асави.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Асави
+
+-lexeme
+ lex: Асай
+ stem: асай.|аса.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Асай
+
+-lexeme
+ lex: Асамук
+ stem: асамук.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Асамук
+
+-lexeme
+ lex: Асильдик
+ stem: асильдик.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Асильдик
+
+-lexeme
+ lex: Аскар
+ stem: аскар.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Аскар
+
+-lexeme
+ lex: Аслан
+ stem: аслан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Аслан
+
+-lexeme
+ lex: Асмай
+ stem: асмай.|асма.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Асмай
+
+-lexeme
+ lex: Астан
+ stem: астан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Астан
+
+-lexeme
+ lex: Атавай
+ stem: атавай.|атава.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Атавай
+
+-lexeme
+ lex: Атачик
+ stem: атачик.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Атачик
+
+-lexeme
+ lex: Атурай
+ stem: атурай.|атура.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Атурай
+
+-lexeme
+ lex: Атыбылка
+ stem: атыбылка.|атыбылкы.//атыбылка.|атыбылк.//атыбылка.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Атыбылка
+
+-lexeme
+ lex: Атюй
+ stem: атюй.|атю.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Атюй
+
+-lexeme
+ lex: Ачий
+ stem: ачий.|ачи.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Ачий
+
+-lexeme
+ lex: Ашкелде
+ stem: ашкелде.|ашкелды.//ашкелде.|ашкелд.//ашкелде.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Ашкелде
+
+-lexeme
+ lex: Аштывай
+ stem: аштывай.|аштыва.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Аштывай
+
+-lexeme
+ lex: Байкей
+ stem: байкей.|байке.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Байкей
+
+-lexeme
+ lex: Байрамал
+ stem: байрамал.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Байрамал
+
+-lexeme
+ lex: Байтабичка
+ stem: байтабичка.|байтабичкы.//байтабичка.|байтабичк.//байтабичка.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Байтабичка
+
+-lexeme
+ lex: Бакей
+ stem: бакей.|баке.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Бакей
+
+-lexeme
+ lex: Бакмат
+ stem: бакмат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Бакмат
+
+-lexeme
+ lex: Бальшта
+ stem: бальшта.|бальшты.//бальшта.|бальшт.//бальшта.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Бальшта (Валентин)
+
+-lexeme
+ lex: Бальшти
+ stem: бальшти.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Бальшти (Валентина)
+
+-lexeme
+ lex: Бердей
+ stem: бердей.|берде.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Бердей
+
+-lexeme
+ lex: Биталка
+ stem: биталка.|биталкы.//биталка.|биталк.//биталка.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Биталка (Виталий)
+
+-lexeme
+ lex: Болодя
+ stem: болодя.|болоды.//болодя.|болод.//болодя.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Болодя (Владимир)
+
+-lexeme
+ lex: Болой
+ stem: болой.|боло.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Болой (Владимир)
+
+-lexeme
+ lex: Вакий
+ stem: вакий.|ваки.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Вакий
+
+-lexeme
+ lex: Валитпай
+ stem: валитпай.|валитпа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Валитпай
+
+-lexeme
+ lex: Вараш
+ stem: вараш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Вараш
+
+-lexeme
+ lex: Васли
+ stem: васли.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Васли (Василий)
+
+-lexeme
+ lex: Васлиса
+ stem: васлиса.|васлисы.//васлиса.|васлис.//васлиса.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Васлиса (Василиса)
+
+-lexeme
+ lex: Вачи
+ stem: вачи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Вачи (Василий)
+
+-lexeme
+ lex: Вачий
+ stem: вачий.|вачи.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Вачий
+
+-lexeme
+ lex: Вегеней
+ stem: вегеней.|вегене.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Вегеней
+
+-lexeme
+ lex: Ведаси
+ stem: ведаси.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Ведаси (Феодосия)
+
+-lexeme
+ lex: Веруш
+ stem: веруш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Веруш (Вера)
+
+-lexeme
+ lex: Веткан
+ stem: веткан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Веткан
+
+-lexeme
+ lex: Виктыр
+ stem: виктыр.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Виктыр (Виктор)
+
+-lexeme
+ lex: Волой
+ stem: волой.|воло.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Волой
+
+-lexeme
+ lex: Вурспатыр
+ stem: вурспатыр.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Вурспатыр
+
+-lexeme
+ lex: Выльып
+ stem: выльып.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Выльып (Филипп)
+
+-lexeme
+ lex: Вӧдыр
+ stem: вӧдыр.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Вӧдыр (Фёдор)
+
+-lexeme
+ lex: Генуш
+ stem: генуш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Генуш (Геннадий)
+
+-lexeme
+ lex: Долгоза
+ stem: долгоза.|долгозы.//долгоза.|долгоз.//долгоза.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Долгоза
+
+-lexeme
+ lex: Дюкрин
+ stem: дюкрин.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Дюкрин (Юрий)
+
+-lexeme
+ lex: Евдюк
+ stem: евдюк.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Евдюк (Евгений)
+
+-lexeme
+ lex: Ексей
+ stem: ексей.|ексе.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Ексей
+
+-lexeme
+ lex: Елгоза
+ stem: елгоза.|елгозы.//елгоза.|елгоз.//елгоза.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Елгоза
+
+-lexeme
+ lex: Елей
+ stem: елей.|еле.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Елей (Елена)
+
+-lexeme
+ lex: Елос
+ stem: елос.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Елос
+
+-lexeme
+ lex: Елу
+ stem: елу.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Елу (Елена)
+
+-lexeme
+ lex: Емеш
+ stem: емеш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Емеш
+
+-lexeme
+ lex: Епиш
+ stem: епиш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Епиш
+
+-lexeme
+ lex: Есеней
+ stem: есеней.|есене.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Есеней
+
+-lexeme
+ lex: Жум
+ stem: жум.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Жум
+
+-lexeme
+ lex: Зайникай
+ stem: зайникай.|зайника.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Зайникай
+
+-lexeme
+ lex: Зенгул
+ stem: зенгул.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Зенгул
+
+-lexeme
+ lex: Зилкай
+ stem: зилкай.|зилка.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Зилкай
+
+-lexeme
+ lex: Ибат
+ stem: ибат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ибат
+
+-lexeme
+ lex: Ибрай
+ stem: ибрай.|ибра.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Ибрай
+
+-lexeme
+ lex: Ивук
+ stem: ивук.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ивук
+
+-lexeme
+ lex: Идулбай
+ stem: идулбай.|идулба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Идулбай
+
+-lexeme
+ lex: Изамбай
+ stem: изамбай.|изамба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Изамбай
+
+-lexeme
+ lex: Извай
+ stem: извай.|изва.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Извай
+
+-lexeme
+ lex: Изерге
+ stem: изерге.|изергы.//изерге.|изерг.//изерге.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Изерге
+
+-lexeme
+ lex: Изибай
+ stem: изибай.|изиба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Изибай
+
+-lexeme
+ lex: Изикай
+ stem: изикай.|изика.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Изикай
+
+-lexeme
+ lex: Изиляй
+ stem: изиляй.|изиля.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Изиляй
+
+-lexeme
+ lex: Изимар
+ stem: изимар.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Изимар
+
+-lexeme
+ lex: Изырген
+ stem: изырген.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Изырген
+
+-lexeme
+ lex: Икака
+ stem: икака.|икакы.//икака.|икак.//икака.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Икака
+
+-lexeme
+ lex: Иландай
+ stem: иландай.|иланда.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Иландай
+
+-lexeme
+ lex: Илбактай
+ stem: илбактай.|илбакта.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Илбактай
+
+-lexeme
+ lex: Иликпай
+ stem: иликпай.|иликпа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Иликпай
+
+-lexeme
+ lex: Илип
+ stem: илип.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Илип (Филипп)
+
+-lexeme
+ lex: Илмамат
+ stem: илмамат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Илмамат
+
+-lexeme
+ lex: Илсек
+ stem: илсек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Илсек
+
+-lexeme
+ lex: Имай
+ stem: имай.|има.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Имай
+
+-lexeme
+ lex: Имакай
+ stem: имакай.|имака.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Имакай
+
+-lexeme
+ lex: Иманай
+ stem: иманай.|имана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Иманай
+
+-lexeme
+ lex: Индыбай
+ stem: индыбай.|индыба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Индыбай
+
+-lexeme
+ lex: Ипай
+ stem: ипай.|ипа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Ипай
+
+-lexeme
+ lex: Ипон
+ stem: ипон.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ипон
+
+-lexeme
+ lex: Иркебай
+ stem: иркебай.|иркеба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Иркебай
+
+-lexeme
+ lex: Исан
+ stem: исан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Исан
+
+-lexeme
+ lex: Исменей
+ stem: исменей.|исмене.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Исменей
+
+-lexeme
+ lex: Истак
+ stem: истак.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Истак
+
+-lexeme
+ lex: Итвер
+ stem: итвер.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Итвер
+
+-lexeme
+ lex: Ити
+ stem: ити.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Ити
+
+-lexeme
+ lex: Итыкай
+ stem: итыкай.|итыка.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Итыкай
+
+-lexeme
+ lex: Ишим
+ stem: ишим.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ишим
+
+-lexeme
+ lex: Ишкелде
+ stem: ишкелде.|ишкелды.//ишкелде.|ишкелд.//ишкелде.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Ишкелде
+
+-lexeme
+ lex: Ишко
+ stem: ишко.|ишкы.//ишко.|ишк.//ишко.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Ишко
+
+-lexeme
+ lex: Ишмет
+ stem: ишмет.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ишмет
+
+-lexeme
+ lex: Ишпай
+ stem: ишпай.|ишпа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Ишпай
+
+-lexeme
+ lex: Иштерек
+ stem: иштерек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Иштерек
+
+-lexeme
+ lex: Йÿкталче
+ stem: йÿкталче.|йÿкталчы.//йÿкталче.|йÿкталч.//йÿкталче.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Йÿкталче
+
+-lexeme
+ lex: Йогор
+ stem: йогор.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Йогор (Егор)
+
+-lexeme
+ lex: Йолагай
+ stem: йолагай.|йолага.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Йолагай
+
+-lexeme
+ lex: Йолгыза
+ stem: йолгыза.|йолгызы.//йолгыза.|йолгыз.//йолгыза.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Йолгыза
+
+-lexeme
+ lex: Йорай
+ stem: йорай.|йора.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Йорай
+
+-lexeme
+ lex: Йоргий
+ stem: йоргий.|йорги.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Йоргий (Георгий)
+
+-lexeme
+ lex: Йормошкан
+ stem: йормошкан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Йормошкан
+
+-lexeme
+ lex: Йорок
+ stem: йорок.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Йорок
+
+-lexeme
+ lex: Йыван
+ stem: йыван.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Йыван (Иван)
+
+-lexeme
+ lex: Йыланда
+ stem: йыланда.|йыланды.//йыланда.|йыланд.//йыланда.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Йыланда
+
+-lexeme
+ lex: Йынати
+ stem: йынати.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Йынати (Игнатий)
+
+-lexeme
+ lex: Йынаш
+ stem: йынаш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Йынаш
+
+-lexeme
+ lex: Кавик
+ stem: кавик.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Кавик
+
+-lexeme
+ lex: Кавырля
+ stem: кавырля.|кавырлы.//кавырля.|кавырл.//кавырля.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Кавырля
+
+-lexeme
+ lex: Каганай
+ stem: каганай.|кагана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Каганай
+
+-lexeme
+ lex: Казаклар
+ stem: казаклар.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Казаклар
+
+-lexeme
+ lex: Казипа
+ stem: казипа.|казипы.//казипа.|казип.//казипа.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Казипа
+
+-lexeme
+ lex: Казмир
+ stem: казмир.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Казмир
+
+-lexeme
+ lex: Казулай
+ stem: казулай.|казула.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Казулай
+
+-lexeme
+ lex: Кайна
+ stem: кайна.|кайны.//кайна.|кайн.//кайна.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Кайна
+
+-lexeme
+ lex: Какалей
+ stem: какалей.|какале.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Какалей
+
+-lexeme
+ lex: Калуй
+ stem: калуй.|калу.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Калуй
+
+-lexeme
+ lex: Камай
+ stem: камай.|кама.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Камай
+
+-lexeme
+ lex: Камбар
+ stem: камбар.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Камбар
+
+-lexeme
+ lex: Канай
+ stem: канай.|кана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Канай
+
+-lexeme
+ lex: Каний
+ stem: каний.|кани.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Каний
+
+-lexeme
+ lex: Канипа
+ stem: канипа.|канипы.//канипа.|канип.//канипа.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Канипа
+
+-lexeme
+ lex: Каныкий
+ stem: каныкий.|каныки.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Каныкий
+
+-lexeme
+ lex: Карантай
+ stem: карантай.|каранта.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Карантай
+
+-lexeme
+ lex: Карачей
+ stem: карачей.|караче.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Карачей
+
+-lexeme
+ lex: Карман
+ stem: карман.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Карман
+
+-lexeme
+ lex: Катри
+ stem: катри.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Катри (Екатерина)
+
+-lexeme
+ lex: Качак
+ stem: качак.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Качак
+
+-lexeme
+ lex: Качи
+ stem: качи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Качи (Екатерина)
+
+-lexeme
+ lex: Качуш
+ stem: качуш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Качуш (Екатерина)
+
+-lexeme
+ lex: Качырий
+ stem: качырий.|качыри.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Качырий (Екатерина)
+
+-lexeme
+ lex: Качырна
+ stem: качырна.|качырны.//качырна.|качырн.//качырна.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Качырна (Екатерина)
+
+-lexeme
+ lex: Кебей
+ stem: кебей.|кебе.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Кебей
+
+-lexeme
+ lex: Кебяш
+ stem: кебяш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Кебяш
+
+-lexeme
+ lex: Келгаска
+ stem: келгаска.|келгаскы.//келгаска.|келгаск.//келгаска.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Келгаска
+
+-lexeme
+ lex: Келдуш
+ stem: келдуш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Келдуш
+
+-lexeme
+ lex: Келтей
+ stem: келтей.|келте.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Келтей
+
+-lexeme
+ lex: Кельмекей
+ stem: кельмекей.|кельмеке.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Кельмекей
+
+-lexeme
+ lex: Кендуган
+ stem: кендуган.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Кендуган
+
+-lexeme
+ lex: Кенживай
+ stem: кенживай.|кенжива.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Кенживай
+
+-lexeme
+ lex: Кенчывай
+ stem: кенчывай.|кенчыва.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Кенчывай
+
+-lexeme
+ lex: Керей
+ stem: керей.|кере.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Керей
+
+-lexeme
+ lex: Кечави
+ stem: кечави.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Кечави
+
+-lexeme
+ lex: Кечим
+ stem: кечим.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Кечим
+
+-lexeme
+ lex: Кигенешка
+ stem: кигенешка.|кигенешкы.//кигенешка.|кигенешк.//кигенешка.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Кигенешка
+
+-lexeme
+ lex: Килимбай
+ stem: килимбай.|килимба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Килимбай
+
+-lexeme
+ lex: Кильдуган
+ stem: кильдуган.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Кильдуган
+
+-lexeme
+ lex: Кильдяш
+ stem: кильдяш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Кильдяш
+
+-lexeme
+ lex: Кимай
+ stem: кимай.|кима.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Кимай
+
+-lexeme
+ lex: Кинай
+ stem: кинай.|кина.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Кинай
+
+-lexeme
+ lex: Кинаш
+ stem: кинаш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Кинаш
+
+-lexeme
+ lex: Кинду
+ stem: кинду.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Кинду
+
+-lexeme
+ lex: Киничка
+ stem: киничка.|киничкы.//киничка.|киничк.//киничка.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Киничка
+
+-lexeme
+ lex: Кирыш
+ stem: кирыш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Кирыш
+
+-lexeme
+ lex: Киспелат
+ stem: киспелат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Киспелат
+
+-lexeme
+ lex: Кистелет
+ stem: кистелет.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Кистелет
+
+-lexeme
+ lex: Кобей
+ stem: кобей.|кобе.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Кобей
+
+-lexeme
+ lex: Ковяж
+ stem: ковяж.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ковяж
+
+-lexeme
+ lex: Когой
+ stem: когой.|кого.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Когой
+
+-lexeme
+ lex: Кождемыр
+ stem: кождемыр.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Кождемыр
+
+-lexeme
+ lex: Кожер
+ stem: кожер.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Кожер
+
+-lexeme
+ lex: Козаш
+ stem: козаш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Козаш
+
+-lexeme
+ lex: Кокор
+ stem: кокор.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Кокор
+
+-lexeme
+ lex: Кокур
+ stem: кокур.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Кокур
+
+-lexeme
+ lex: Кокша
+ stem: кокша.|кокшы.//кокша.|кокш.//кокша.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Кокша
+
+-lexeme
+ lex: Кокшавуй
+ stem: кокшавуй.|кокшаву.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Кокшавуй
+
+-lexeme
+ lex: Конакпай
+ stem: конакпай.|конакпа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Конакпай
+
+-lexeme
+ lex: Копон
+ stem: копон.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Копон
+
+-lexeme
+ lex: Кори
+ stem: кори.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Кори
+
+-lexeme
+ lex: Кори
+ stem: кори.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Кори (Григорий)
+
+-lexeme
+ lex: Крапиня
+ stem: крапиня.|крапины.//крапиня.|крапин.//крапиня.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Крапиня (Агриппина)
+
+-lexeme
+ lex: Кргори
+ stem: кргори.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Кргори (Григорий)
+
+-lexeme
+ lex: Ксилбика
+ stem: ксилбика.|ксилбикы.//ксилбика.|ксилбик.//ксилбика.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Ксилбика
+
+-lexeme
+ lex: Кубакай
+ stem: кубакай.|кубака.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Кубакай
+
+-lexeme
+ lex: Кугерге
+ stem: кугерге.|кугергы.//кугерге.|кугерг.//кугерге.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Кугерге
+
+-lexeme
+ lex: Кугубай
+ stem: кугубай.|кугуба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Кугубай
+
+-lexeme
+ lex: Кулмет
+ stem: кулмет.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Кулмет
+
+-lexeme
+ lex: Кульбат
+ stem: кульбат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Кульбат
+
+-lexeme
+ lex: Кульшет
+ stem: кульшет.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Кульшет
+
+-lexeme
+ lex: Куманай
+ stem: куманай.|кумана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Куманай
+
+-lexeme
+ lex: Кумунзай
+ stem: кумунзай.|кумунза.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Кумунзай
+
+-lexeme
+ lex: Кури
+ stem: кури.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Кури
+
+-lexeme
+ lex: Курманай
+ stem: курманай.|курмана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Курманай
+
+-lexeme
+ lex: Кутÿрка
+ stem: кутÿрка.|кутÿркы.//кутÿрка.|кутÿрк.//кутÿрка.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Кутÿрка
+
+-lexeme
+ lex: Кылак
+ stem: кылак.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Кылак
+
+-lexeme
+ lex: Кырля
+ stem: кырля.|кырлы.//кырля.|кырл.//кырля.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Кырля (Кирилл)
+
+-lexeme
+ lex: Кыстынчи
+ stem: кыстынчи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Кыстынчи (Константин)
+
+-lexeme
+ lex: Лагат
+ stem: лагат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Лагат
+
+-lexeme
+ lex: Лайдемыр
+ stem: лайдемыр.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Лайдемыр (Владимир)
+
+-lexeme
+ lex: Лаймыр
+ stem: лаймыр.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Лаймыр (Владимир)
+
+-lexeme
+ lex: Лайуш
+ stem: лайуш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Лайуш (Владимир)
+
+-lexeme
+ lex: Лаксын
+ stem: лаксын.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Лаксын
+
+-lexeme
+ lex: Лапкай
+ stem: лапкай.|лапка.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Лапкай
+
+-lexeme
+ lex: Левентей
+ stem: левентей.|левенте.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Левентей
+
+-lexeme
+ lex: Лезу
+ stem: лезу.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Лезу (Елизавета)
+
+-lexeme
+ lex: Лекай
+ stem: лекай.|лека.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Лекай
+
+-lexeme
+ lex: Лекай
+ stem: лекай.|лека.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Лекай (Никандр)
+
+-lexeme
+ lex: Ленук
+ stem: ленук.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ленук (Елена)
+
+-lexeme
+ lex: Лепсей
+ stem: лепсей.|лепсе.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Лепсей (Алексей)
+
+-lexeme
+ lex: Лидук
+ stem: лидук.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Лидук (Лидия)
+
+-lexeme
+ lex: Лотай
+ stem: лотай.|лота.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Лотай
+
+-lexeme
+ lex: Ляви
+ stem: ляви.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Ляви (Вячеслав)
+
+-lexeme
+ lex: Лёнит
+ stem: лёнит.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Лёнит (Леонид)
+
+-lexeme
+ lex: Мäрки
+ stem: мäрки.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Мäрки
+
+-lexeme
+ lex: Магаза
+ stem: магаза.|магазы.//магаза.|магаз.//магаза.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Магаза
+
+-lexeme
+ lex: Мадий
+ stem: мадий.|мади.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Мадий
+
+-lexeme
+ lex: Майра
+ stem: майра.|майры.//майра.|майр.//майра.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Майра
+
+-lexeme
+ lex: Майра
+ stem: майра.|майры.//майра.|майр.//майра.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Майра (Мария)
+
+-lexeme
+ lex: Майрук
+ stem: майрук.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Майрук (Мария)
+
+-lexeme
+ lex: Макева
+ stem: макева.|макевы.//макева.|макев.//макева.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Макева
+
+-lexeme
+ lex: Максак
+ stem: максак.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Максак
+
+-lexeme
+ lex: Макси
+ stem: макси.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Макси (Максим)
+
+-lexeme
+ lex: Малика
+ stem: малика.|маликы.//малика.|малик.//малика.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Малика
+
+-lexeme
+ lex: Маматай
+ stem: маматай.|мамата.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Маматай
+
+-lexeme
+ lex: Мамич
+ stem: мамич.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Мамич
+
+-lexeme
+ lex: Мамра
+ stem: мамра.|мамры.//мамра.|мамр.//мамра.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Мамра (Мария)
+
+-lexeme
+ lex: Мамук
+ stem: мамук.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Мамук
+
+-lexeme
+ lex: Мамулай
+ stem: мамулай.|мамула.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Мамулай
+
+-lexeme
+ lex: Мамут
+ stem: мамут.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Мамут
+
+-lexeme
+ lex: Манекай
+ stem: манекай.|манека.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Манекай
+
+-lexeme
+ lex: Мардан
+ stem: мардан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Мардан
+
+-lexeme
+ lex: Маржан
+ stem: маржан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Маржан
+
+-lexeme
+ lex: Марзи
+ stem: марзи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Марзи
+
+-lexeme
+ lex: Марзива
+ stem: марзива.|марзивы.//марзива.|марзив.//марзива.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Марзива
+
+-lexeme
+ lex: Марпа
+ stem: марпа.|марпы.//марпа.|марп.//марпа.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Марпа (Марфа)
+
+-lexeme
+ lex: Маршан
+ stem: маршан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Маршан
+
+-lexeme
+ lex: Масай
+ stem: масай.|маса.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Масай
+
+-lexeme
+ lex: Матвуй
+ stem: матвуй.|матву.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Матвуй (Матвей)
+
+-lexeme
+ lex: Мати
+ stem: мати.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Мати (Матвей)
+
+-lexeme
+ lex: Матра
+ stem: матра.|матры.//матра.|матр.//матра.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Матра (Матрона)
+
+-lexeme
+ lex: Матрана
+ stem: матрана.|матраны.//матрана.|матран.//матрана.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Матрана (Матрона)
+
+-lexeme
+ lex: Матырна
+ stem: матырна.|матырны.//матырна.|матырн.//матырна.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Матырна (Матрона)
+
+-lexeme
+ lex: Мачи
+ stem: мачи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Мачи (Матвей)
+
+-lexeme
+ lex: Мекеш
+ stem: мекеш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Мекеш
+
+-lexeme
+ lex: Мемей
+ stem: мемей.|меме.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Мемей
+
+-lexeme
+ lex: Мигыта
+ stem: мигыта.|мигыты.//мигыта.|мигыт.//мигыта.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Мигыта (Никита)
+
+-lexeme
+ lex: Микай
+ stem: микай.|мика.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Микай (Михаил)
+
+-lexeme
+ lex: Микал
+ stem: микал.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Микал (Михаил)
+
+-lexeme
+ lex: Микандр
+ stem: микандр.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Микандр (Никандр)
+
+-lexeme
+ lex: Микит
+ stem: микит.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Микит (Никита)
+
+-lexeme
+ lex: Миклай
+ stem: миклай.|микла.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Миклай (Николай)
+
+-lexeme
+ lex: Миклуш
+ stem: миклуш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Миклуш (Михаил)
+
+-lexeme
+ lex: Митри
+ stem: митри.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Митри (Дмитрий)
+
+-lexeme
+ lex: Мичу
+ stem: мичу.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Мичу
+
+-lexeme
+ lex: Мичу
+ stem: мичу.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Мичу (Дмитрий)
+
+-lexeme
+ lex: Мойсе
+ stem: мойсе.|мойсы.//мойсе.|мойс.//мойсе.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Мойсе
+
+-lexeme
+ lex: Муканай
+ stem: муканай.|мукана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Муканай
+
+-lexeme
+ lex: Муликпай
+ stem: муликпай.|муликпа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Муликпай
+
+-lexeme
+ lex: Мусин
+ stem: мусин.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Мусин
+
+-lexeme
+ lex: Мустай
+ stem: мустай.|муста.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Мустай
+
+-lexeme
+ lex: Мярзи
+ stem: мярзи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Мярзи
+
+-lexeme
+ lex: Найдуш
+ stem: найдуш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Найдуш (Надежда)
+
+-lexeme
+ lex: Налтичка
+ stem: налтичка.|налтичкы.//налтичка.|налтичк.//налтичка.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Налтичка
+
+-lexeme
+ lex: Настаси
+ stem: настаси.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Настаси (Анастасия)
+
+-lexeme
+ lex: Настачи
+ stem: настачи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Настачи (Анастасия)
+
+-lexeme
+ lex: Натуш
+ stem: натуш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Натуш (Наталия)
+
+-lexeme
+ lex: Начи
+ stem: начи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Начи
+
+-lexeme
+ lex: Начи
+ stem: начи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Начи (Анастасия)
+
+-lexeme
+ lex: Нинук
+ stem: нинук.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Нинук (Нина)
+
+-lexeme
+ lex: Овдачи
+ stem: овдачи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Овдачи
+
+-lexeme
+ lex: Овдек
+ stem: овдек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Овдек
+
+-lexeme
+ lex: Овдочи
+ stem: овдочи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Овдочи (Евдокия)
+
+-lexeme
+ lex: Овой
+ stem: овой.|ово.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Овой
+
+-lexeme
+ lex: Овоп
+ stem: овоп.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Овоп
+
+-lexeme
+ lex: Овром
+ stem: овром.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Овром
+
+-lexeme
+ lex: Овроси
+ stem: овроси.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Овроси (Ефросинья)
+
+-lexeme
+ lex: Овчи
+ stem: овчи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Овчи
+
+-lexeme
+ lex: Овчи
+ stem: овчи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Овчи (Евдокия)
+
+-lexeme
+ lex: Овычи
+ stem: овычи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Овычи (Евдокия)
+
+-lexeme
+ lex: Одыган
+ stem: одыган.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Одыган
+
+-lexeme
+ lex: Озамбай
+ stem: озамбай.|озамба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Озамбай
+
+-lexeme
+ lex: Озанай
+ stem: озанай.|озана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Озанай
+
+-lexeme
+ lex: Озати
+ stem: озати.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Озати
+
+-lexeme
+ lex: Окалче
+ stem: окалче.|окалчы.//окалче.|окалч.//окалче.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Окалче
+
+-lexeme
+ lex: Окачи
+ stem: окачи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Окачи
+
+-lexeme
+ lex: Окаш
+ stem: окаш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Окаш
+
+-lexeme
+ lex: Окси
+ stem: окси.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Окси (Оксана)
+
+-lexeme
+ lex: Оксина
+ stem: оксина.|оксины.//оксина.|оксин.//оксина.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Оксина
+
+-lexeme
+ lex: Оксина
+ stem: оксина.|оксины.//оксина.|оксин.//оксина.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Оксина (Оксана)
+
+-lexeme
+ lex: Окутий
+ stem: окутий.|окути.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Окутий
+
+-lexeme
+ lex: Олдыган
+ stem: олдыган.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Олдыган
+
+-lexeme
+ lex: Олексе
+ stem: олексе.|олексы.//олексе.|олекс.//олексе.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Олексе (Алексей)
+
+-lexeme
+ lex: Олькси
+ stem: олькси.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Олькси (Алексей)
+
+-lexeme
+ lex: Ольона
+ stem: ольона.|ольоны.//ольона.|ольон.//ольона.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Ольона (Ольга)
+
+-lexeme
+ lex: Ольош
+ stem: ольош.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ольош (Алексей)
+
+-lexeme
+ lex: Олю
+ stem: олю.|олы.//олю.|ол.//олю.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Олю (Ольга)
+
+-lexeme
+ lex: Оляна
+ stem: оляна.|оляны.//оляна.|олян.//оляна.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Оляна (Ульяна)
+
+-lexeme
+ lex: Онар
+ stem: онар.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Онар
+
+-lexeme
+ lex: Онаси
+ stem: онаси.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Онаси
+
+-lexeme
+ lex: Ондри
+ stem: ондри.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Ондри (Андрей)
+
+-lexeme
+ lex: Ониса
+ stem: ониса.|онисы.//ониса.|онис.//ониса.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Ониса (Анисия)
+
+-lexeme
+ lex: Онто
+ stem: онто.|онты.//онто.|онт.//онто.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Онто
+
+-lexeme
+ lex: Ончеп
+ stem: ончеп.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ончеп
+
+-lexeme
+ lex: Опкын
+ stem: опкын.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Опкын
+
+-lexeme
+ lex: Орай
+ stem: орай.|ора.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Орай
+
+-lexeme
+ lex: Орина
+ stem: орина.|орины.//орина.|орин.//орина.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Орина
+
+-lexeme
+ lex: Орина
+ stem: орина.|орины.//орина.|орин.//орина.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Орина (Ирина)
+
+-lexeme
+ lex: Орлай
+ stem: орлай.|орла.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Орлай
+
+-lexeme
+ lex: Ормик
+ stem: ормик.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ормик
+
+-lexeme
+ lex: Орсай
+ stem: орсай.|орса.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Орсай
+
+-lexeme
+ lex: Орчама
+ stem: орчама.|орчамы.//орчама.|орчам.//орчама.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Орчама
+
+-lexeme
+ lex: Оскай
+ stem: оскай.|оска.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Оскай
+
+-lexeme
+ lex: Ослам
+ stem: ослам.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ослам
+
+-lexeme
+ lex: Осып
+ stem: осып.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Осып (Иосиф)
+
+-lexeme
+ lex: Отян
+ stem: отян.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Отян (Александр)
+
+-lexeme
+ lex: Очий
+ stem: очий.|очи.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Очий
+
+-lexeme
+ lex: Ошай
+ stem: ошай.|оша.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Ошай
+
+-lexeme
+ lex: Ошкелде
+ stem: ошкелде.|ошкелды.//ошкелде.|ошкелд.//ошкелде.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Ошкелде
+
+-lexeme
+ lex: Ошпай
+ stem: ошпай.|ошпа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Ошпай
+
+-lexeme
+ lex: Павыл
+ stem: павыл.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Павыл (Павел)
+
+-lexeme
+ lex: Пагул
+ stem: пагул.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пагул (Павел)
+
+-lexeme
+ lex: Пазач
+ stem: пазач.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пазач
+
+-lexeme
+ lex: Пайбахта
+ stem: пайбахта.|пайбахты.//пайбахта.|пайбахт.//пайбахта.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Пайбахта
+
+-lexeme
+ lex: Пайберде
+ stem: пайберде.|пайберды.//пайберде.|пайберд.//пайберде.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Пайберде
+
+-lexeme
+ lex: Пайгаш
+ stem: пайгаш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пайгаш
+
+-lexeme
+ lex: Пайгиш
+ stem: пайгиш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пайгиш
+
+-lexeme
+ lex: Пайгул
+ stem: пайгул.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пайгул
+
+-lexeme
+ lex: Пайгус
+ stem: пайгус.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пайгус
+
+-lexeme
+ lex: Пайгыт
+ stem: пайгыт.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пайгыт
+
+-lexeme
+ lex: Пайдер
+ stem: пайдер.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пайдер
+
+-lexeme
+ lex: Пайдуш
+ stem: пайдуш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пайдуш
+
+-lexeme
+ lex: Пайзука
+ stem: пайзука.|пайзукы.//пайзука.|пайзук.//пайзука.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Пайзука
+
+-lexeme
+ lex: Паймас
+ stem: паймас.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Паймас
+
+-lexeme
+ lex: Паймет
+ stem: паймет.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Паймет
+
+-lexeme
+ lex: Паймурза
+ stem: паймурза.|паймурзы.//паймурза.|паймурз.//паймурза.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Паймурза
+
+-lexeme
+ lex: Паймыр
+ stem: паймыр.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Паймыр
+
+-lexeme
+ lex: Пайрам
+ stem: пайрам.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пайрам
+
+-lexeme
+ lex: Пайсар
+ stem: пайсар.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пайсар
+
+-lexeme
+ lex: Пайсуло
+ stem: пайсуло.|пайсулы.//пайсуло.|пайсул.//пайсуло.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Пайсуло
+
+-lexeme
+ lex: Пакай
+ stem: пакай.|пака.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Пакай
+
+-lexeme
+ lex: Пакей
+ stem: пакей.|паке.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Пакей
+
+-lexeme
+ lex: Пакий
+ stem: пакий.|паки.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Пакий
+
+-lexeme
+ lex: Пакит
+ stem: пакит.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пакит
+
+-lexeme
+ lex: Пактек
+ stem: пактек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пактек
+
+-lexeme
+ lex: Пакшай
+ stem: пакшай.|пакша.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Пакшай
+
+-lexeme
+ lex: Палдай
+ stem: палдай.|палда.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Палдай
+
+-lexeme
+ lex: Пампалче
+ stem: пампалче.|пампалчы.//пампалче.|пампалч.//пампалче.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Пампалче
+
+-lexeme
+ lex: Пангелде
+ stem: пангелде.|пангелды.//пангелде.|пангелд.//пангелде.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Пангелде
+
+-lexeme
+ lex: Парастай
+ stem: парастай.|параста.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Парастай
+
+-lexeme
+ lex: Пасьывы
+ stem: пасьывы.|пасьывы.//пасьывы.|пасьыв.//пасьывы.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Пасьывы
+
+-lexeme
+ lex: Патай
+ stem: патай.|пата.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Патай
+
+-lexeme
+ lex: Патый
+ stem: патый.|паты.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Патый
+
+-lexeme
+ lex: Патык
+ stem: патык.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Патык
+
+-lexeme
+ lex: Патыраш
+ stem: патыраш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Патыраш
+
+-lexeme
+ lex: Пашатлей
+ stem: пашатлей.|пашатле.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Пашатлей
+
+-lexeme
+ lex: Пашбек
+ stem: пашбек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пашбек
+
+-lexeme
+ lex: Пашкан
+ stem: пашкан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пашкан
+
+-lexeme
+ lex: Паялче
+ stem: паялче.|паялчы.//паялче.|паялч.//паялче.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Паялче
+
+-lexeme
+ lex: Пегаш
+ stem: пегаш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пегаш
+
+-lexeme
+ lex: Пегеней
+ stem: пегеней.|пегене.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Пегеней
+
+-lexeme
+ lex: Пекей
+ stem: пекей.|пеке.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Пекей
+
+-lexeme
+ lex: Пекеш
+ stem: пекеш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пекеш
+
+-lexeme
+ lex: Пекмет
+ stem: пекмет.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пекмет
+
+-lexeme
+ lex: Пекоза
+ stem: пекоза.|пекозы.//пекоза.|пекоз.//пекоза.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Пекоза
+
+-lexeme
+ lex: Пекпатыр
+ stem: пекпатыр.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пекпатыр
+
+-lexeme
+ lex: Пекпулат
+ stem: пекпулат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пекпулат
+
+-lexeme
+ lex: Пектан
+ stem: пектан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пектан
+
+-lexeme
+ lex: Пекташ
+ stem: пекташ.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пекташ
+
+-lexeme
+ lex: Пектек
+ stem: пектек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пектек
+
+-lexeme
+ lex: Пектубай
+ stem: пектубай.|пектуба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Пектубай
+
+-lexeme
+ lex: Пектыган
+ stem: пектыган.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пектыган
+
+-lexeme
+ lex: Пекшик
+ stem: пекшик.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пекшик
+
+-lexeme
+ lex: Пеналче
+ stem: пеналче.|пеналчы.//пеналче.|пеналч.//пеналче.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Пеналче
+
+-lexeme
+ lex: Петиган
+ stem: петиган.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Петиган
+
+-lexeme
+ lex: Петыр
+ stem: петыр.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Петыр (Пётр)
+
+-lexeme
+ lex: Пиалче
+ stem: пиалче.|пиалчы.//пиалче.|пиалч.//пиалче.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Пиалче
+
+-lexeme
+ lex: Пибакай
+ stem: пибакай.|пибака.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Пибакай
+
+-lexeme
+ lex: Пибулат
+ stem: пибулат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пибулат
+
+-lexeme
+ lex: Пидалай
+ stem: пидалай.|пидала.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Пидалай
+
+-lexeme
+ lex: Пиделет
+ stem: пиделет.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пиделет
+
+-lexeme
+ lex: Пли
+ stem: пли.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Пли (Филипп)
+
+-lexeme
+ lex: Поголти
+ stem: поголти.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Поголти
+
+-lexeme
+ lex: Позанай
+ stem: позанай.|позана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Позанай
+
+-lexeme
+ lex: Покай
+ stem: покай.|пока.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Покай
+
+-lexeme
+ lex: Полтыш
+ stem: полтыш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Полтыш
+
+-lexeme
+ lex: Помбей
+ stem: помбей.|помбе.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Помбей
+
+-lexeme
+ lex: Поняй
+ stem: поняй.|поня.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Поняй
+
+-lexeme
+ lex: Порандай
+ stem: порандай.|поранда.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Порандай
+
+-lexeme
+ lex: Порзай
+ stem: порзай.|порза.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Порзай
+
+-lexeme
+ lex: Порис
+ stem: порис.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Порис (Борис)
+
+-lexeme
+ lex: Посак
+ stem: посак.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Посак
+
+-lexeme
+ lex: Посибей
+ stem: посибей.|посибе.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Посибей
+
+-lexeme
+ lex: Посьет
+ stem: посьет.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Посьет
+
+-lexeme
+ lex: Почи
+ stem: почи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Почи (Прасковья)
+
+-lexeme
+ lex: Праска
+ stem: праска.|праскы.//праска.|праск.//праска.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Праска (Прасковья)
+
+-lexeme
+ lex: Проска
+ stem: проска.|проскы.//проска.|проск.//проска.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Проска (Прасковья)
+
+-lexeme
+ lex: Проскови
+ stem: проскови.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Проскови (Прасковья)
+
+-lexeme
+ lex: Пулат
+ stem: пулат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Пулат
+
+-lexeme
+ lex: Пыргынде
+ stem: пыргынде.|пыргынды.//пыргынде.|пыргынд.//пыргынде.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Пыргынде
+
+-lexeme
+ lex: Пӧкла
+ stem: пӧкла.|пӧклы.//пӧкла.|пӧкл.//пӧкла.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Пӧкла (Фёкла)
+
+-lexeme
+ lex: Раман
+ stem: раман.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Раман (Роман)
+
+-lexeme
+ lex: Роткай
+ stem: роткай.|ротка.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Роткай
+
+-lexeme
+ lex: Русин
+ stem: русин.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Русин
+
+-lexeme
+ lex: Ряжан
+ stem: ряжан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ряжан
+
+-lexeme
+ lex: Сабати
+ stem: сабати.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Сабати
+
+-lexeme
+ lex: Савай
+ stem: савай.|сава.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Савай
+
+-lexeme
+ lex: Савак
+ stem: савак.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Савак
+
+-lexeme
+ lex: Сават
+ stem: сават.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Сават
+
+-lexeme
+ lex: Савий
+ stem: савий.|сави.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Савий
+
+-lexeme
+ lex: Савли
+ stem: савли.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Савли
+
+-lexeme
+ lex: Сагет
+ stem: сагет.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Сагет
+
+-lexeme
+ lex: Сагида
+ stem: сагида.|сагиды.//сагида.|сагид.//сагида.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Сагида
+
+-lexeme
+ lex: Саин
+ stem: саин.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Саин
+
+-lexeme
+ lex: Сайвий
+ stem: сайвий.|сайви.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Сайвий
+
+-lexeme
+ lex: Сайлан
+ stem: сайлан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Сайлан
+
+-lexeme
+ lex: Сайпан
+ stem: сайпан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Сайпан
+
+-lexeme
+ lex: Сайпытен
+ stem: сайпытен.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Сайпытен
+
+-lexeme
+ lex: Сайтук
+ stem: сайтук.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Сайтук
+
+-lexeme
+ lex: Сакай
+ stem: сакай.|сака.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Сакай
+
+-lexeme
+ lex: Сакар
+ stem: сакар.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Сакар (Захар)
+
+-lexeme
+ lex: Сакева
+ stem: сакева.|сакевы.//сакева.|сакев.//сакева.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Сакева
+
+-lexeme
+ lex: Салдай
+ stem: салдай.|салда.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Салдай
+
+-lexeme
+ lex: Салдуган
+ stem: салдуган.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Салдуган
+
+-lexeme
+ lex: Салдык
+ stem: салдык.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Салдык
+
+-lexeme
+ lex: Салика
+ stem: салика.|саликы.//салика.|салик.//салика.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Салика
+
+-lexeme
+ lex: Салима
+ stem: салима.|салимы.//салима.|салим.//салима.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Салима
+
+-lexeme
+ lex: Салмандай
+ stem: салмандай.|салманда.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Салмандай
+
+-lexeme
+ lex: Салмиян
+ stem: салмиян.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Салмиян
+
+-lexeme
+ lex: Самай
+ stem: самай.|сама.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Самай
+
+-lexeme
+ lex: Самига
+ stem: самига.|самигы.//самига.|самиг.//самига.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Самига
+
+-lexeme
+ lex: Самукай
+ stem: самукай.|самука.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Самукай
+
+-lexeme
+ lex: Самут
+ stem: самут.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Самут
+
+-lexeme
+ lex: Сандыр
+ stem: сандыр.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Сандыр
+
+-lexeme
+ lex: Сандыр
+ stem: сандыр.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Сандыр (Александра)
+
+-lexeme
+ lex: Санин
+ stem: санин.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Санин
+
+-lexeme
+ lex: Санук
+ stem: санук.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Санук
+
+-lexeme
+ lex: Санюк
+ stem: санюк.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Санюк (Александра)
+
+-lexeme
+ lex: Сапай
+ stem: сапай.|сапа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Сапай
+
+-lexeme
+ lex: Сапан
+ stem: сапан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Сапан
+
+-lexeme
+ lex: Сапан
+ stem: сапан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Сапан (Степан)
+
+-lexeme
+ lex: Сапани
+ stem: сапани.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Сапани (Степанида)
+
+-lexeme
+ lex: Сапар
+ stem: сапар.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Сапар
+
+-lexeme
+ lex: Сапья
+ stem: сапья.|сапьы.//сапья.|сапь.//сапья.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Сапья (София)
+
+-lexeme
+ lex: Саран
+ stem: саран.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Саран
+
+-lexeme
+ lex: Сарапай
+ stem: сарапай.|сарапа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Сарапай
+
+-lexeme
+ lex: Сарбос
+ stem: сарбос.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Сарбос
+
+-lexeme
+ lex: Сарвай
+ stem: сарвай.|сарва.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Сарвай
+
+-lexeme
+ lex: Сардай
+ stem: сардай.|сарда.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Сардай
+
+-lexeme
+ lex: Саркандай
+ stem: саркандай.|сарканда.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Саркандай
+
+-lexeme
+ lex: Сарман
+ stem: сарман.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Сарман
+
+-lexeme
+ lex: Сарманай
+ stem: сарманай.|сармана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Сарманай
+
+-lexeme
+ lex: Сармат
+ stem: сармат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Сармат
+
+-lexeme
+ lex: Саскавий
+ stem: саскавий.|саскави.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Саскавий
+
+-lexeme
+ lex: Саскай
+ stem: саскай.|саска.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Саскай
+
+-lexeme
+ lex: Сасканай
+ stem: сасканай.|саскана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Сасканай
+
+-lexeme
+ lex: Саслык
+ stem: саслык.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Саслык
+
+-lexeme
+ lex: Сатай
+ stem: сатай.|сата.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Сатай
+
+-lexeme
+ lex: Саткай
+ stem: саткай.|сатка.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Саткай
+
+-lexeme
+ lex: Сашук
+ stem: сашук.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Сашук (Александр)
+
+-lexeme
+ lex: Себичка
+ stem: себичка.|себичкы.//себичка.|себичк.//себичка.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Себичка
+
+-lexeme
+ lex: Сезе
+ stem: сезе.|сезы.//сезе.|сез.//сезе.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Сезе
+
+-lexeme
+ lex: Семекей
+ stem: семекей.|семеке.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Семекей
+
+-lexeme
+ lex: Семендей
+ stem: семендей.|семенде.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Семендей
+
+-lexeme
+ lex: Семон
+ stem: семон.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Семон (Семён)
+
+-lexeme
+ lex: Сепан
+ stem: сепан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Сепан (Степан)
+
+-lexeme
+ lex: Серге
+ stem: серге.|сергы.//серге.|серг.//серге.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Серге (Сергей)
+
+-lexeme
+ lex: Сетяк
+ stem: сетяк.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Сетяк
+
+-lexeme
+ lex: Сибай
+ stem: сибай.|сиба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Сибай
+
+-lexeme
+ lex: Сиделай
+ stem: сиделай.|сидела.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Сиделай
+
+-lexeme
+ lex: Сидулай
+ stem: сидулай.|сидула.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Сидулай
+
+-lexeme
+ lex: Сидуш
+ stem: сидуш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Сидуш
+
+-lexeme
+ lex: Сидыбай
+ stem: сидыбай.|сидыба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Сидыбай
+
+-lexeme
+ lex: Симяк
+ stem: симяк.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Симяк (Семён)
+
+-lexeme
+ lex: Сипатыр
+ stem: сипатыр.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Сипатыр
+
+-lexeme
+ lex: Сирук
+ stem: сирук.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Сирук (Серафима)
+
+-lexeme
+ lex: Славик
+ stem: славик.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Славик (Вячеслав)
+
+-lexeme
+ lex: Сотнай
+ stem: сотнай.|сотна.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Сотнай
+
+-lexeme
+ lex: Сото
+ stem: сото.|соты.//сото.|сот.//сото.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Сото
+
+-lexeme
+ lex: Стапан
+ stem: стапан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Стапан (Степан)
+
+-lexeme
+ lex: Суангул
+ stem: суангул.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Суангул
+
+-lexeme
+ lex: Субай
+ stem: субай.|суба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Субай
+
+-lexeme
+ lex: Султан
+ stem: султан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Султан
+
+-lexeme
+ lex: Сурманай
+ stem: сурманай.|сурмана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Сурманай
+
+-lexeme
+ lex: Суртан
+ stem: суртан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Суртан
+
+-lexeme
+ lex: Сылвика
+ stem: сылвика.|сылвикы.//сылвика.|сылвик.//сылвика.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Сылвика
+
+-lexeme
+ lex: Сӓпӓ
+ stem: сӓпӓ.|сӓпы.//сӓпӓ.|сӓп.//сӓпӓ.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Сӓпӓ
+
+-lexeme
+ lex: Тÿтÿкай
+ stem: тÿтÿкай.|тÿтÿка.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Тÿтÿкай
+
+-lexeme
+ lex: Тавгал
+ stem: тавгал.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тавгал
+
+-lexeme
+ lex: Тайвылат
+ stem: тайвылат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тайвылат
+
+-lexeme
+ lex: Тайгельде
+ stem: тайгельде.|тайгельды.//тайгельде.|тайгельд.//тайгельде.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Тайгельде
+
+-lexeme
+ lex: Тайла
+ stem: тайла.|тайлы.//тайла.|тайл.//тайла.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Тайла (Даниил)
+
+-lexeme
+ lex: Тайра
+ stem: тайра.|тайры.//тайра.|тайр.//тайра.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Тайра
+
+-lexeme
+ lex: Тайра
+ stem: тайра.|тайры.//тайра.|тайр.//тайра.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Тайра (Дарья)
+
+-lexeme
+ lex: Тайыр
+ stem: тайыр.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тайыр
+
+-lexeme
+ lex: Такина
+ stem: такина.|такины.//такина.|такин.//такина.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Такина (Татьяна)
+
+-lexeme
+ lex: Талмек
+ stem: талмек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Талмек
+
+-lexeme
+ lex: Тамас
+ stem: тамас.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тамас
+
+-lexeme
+ lex: Танагай
+ stem: танагай.|танага.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Танагай
+
+-lexeme
+ lex: Танай
+ stem: танай.|тана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Танай
+
+-lexeme
+ lex: Танакай
+ stem: танакай.|танака.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Танакай
+
+-lexeme
+ lex: Танатар
+ stem: танатар.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Танатар
+
+-lexeme
+ lex: Тантуш
+ stem: тантуш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тантуш
+
+-lexeme
+ lex: Тарай
+ stem: тарай.|тара.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Тарай
+
+-lexeme
+ lex: Тачана
+ stem: тачана.|тачаны.//тачана.|тачан.//тачана.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Тачана (Татьяна)
+
+-lexeme
+ lex: Темай
+ stem: темай.|тема.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Темай
+
+-lexeme
+ lex: Темяш
+ stem: темяш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Темяш
+
+-lexeme
+ lex: Тенбай
+ stem: тенбай.|тенба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Тенбай
+
+-lexeme
+ lex: Теникей
+ stem: теникей.|тенике.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Теникей
+
+-lexeme
+ lex: Тепай
+ stem: тепай.|тепа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Тепай
+
+-lexeme
+ lex: Терей
+ stem: терей.|тере.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Терей
+
+-lexeme
+ lex: Теренте
+ stem: теренте.|теренты.//теренте.|терент.//теренте.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Теренте (Терентий)
+
+-lexeme
+ lex: Терке
+ stem: терке.|теркы.//терке.|терк.//терке.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Терке
+
+-lexeme
+ lex: Тилмемек
+ stem: тилмемек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тилмемек
+
+-lexeme
+ lex: Тиляк
+ stem: тиляк.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тиляк
+
+-lexeme
+ lex: Тимакай
+ stem: тимакай.|тимака.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Тимакай (Тимофей)
+
+-lexeme
+ lex: Тинбай
+ stem: тинбай.|тинба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Тинбай
+
+-lexeme
+ lex: Тобулат
+ stem: тобулат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тобулат
+
+-lexeme
+ lex: Тогилдей
+ stem: тогилдей.|тогилде.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Тогилдей
+
+-lexeme
+ lex: Тоданай
+ stem: тоданай.|тодана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Тоданай
+
+-lexeme
+ lex: Той
+ stem: той.|то.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Той
+
+-lexeme
+ lex: Тойбай
+ stem: тойбай.|тойба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Тойбай
+
+-lexeme
+ lex: Тойбахта
+ stem: тойбахта.|тойбахты.//тойбахта.|тойбахт.//тойбахта.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Тойбахта
+
+-lexeme
+ lex: Тойблат
+ stem: тойблат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тойблат
+
+-lexeme
+ lex: Тойватор
+ stem: тойватор.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тойватор
+
+-lexeme
+ lex: Тойгелде
+ stem: тойгелде.|тойгелды.//тойгелде.|тойгелд.//тойгелде.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Тойгелде
+
+-lexeme
+ lex: Тойгуза
+ stem: тойгуза.|тойгузы.//тойгуза.|тойгуз.//тойгуза.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Тойгуза
+
+-lexeme
+ lex: Тойдак
+ stem: тойдак.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тойдак
+
+-lexeme
+ lex: Тойдемар
+ stem: тойдемар.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тойдемар
+
+-lexeme
+ lex: Тойдерек
+ stem: тойдерек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тойдерек
+
+-lexeme
+ lex: Тойдыбек
+ stem: тойдыбек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тойдыбек
+
+-lexeme
+ lex: Тойкей
+ stem: тойкей.|тойке.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Тойкей
+
+-lexeme
+ lex: Тоймет
+ stem: тоймет.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тоймет
+
+-lexeme
+ lex: Токай
+ stem: токай.|тока.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Токай
+
+-lexeme
+ lex: Токаш
+ stem: токаш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Токаш
+
+-lexeme
+ lex: Токей
+ stem: токей.|токе.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Токей
+
+-lexeme
+ lex: Токмай
+ stem: токмай.|токма.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Токмай
+
+-lexeme
+ lex: Токмак
+ stem: токмак.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Токмак
+
+-lexeme
+ lex: Токмаш
+ stem: токмаш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Токмаш
+
+-lexeme
+ lex: Токмурза
+ stem: токмурза.|токмурзы.//токмурза.|токмурз.//токмурза.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Токмурза
+
+-lexeme
+ lex: Токпай
+ stem: токпай.|токпа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Токпай
+
+-lexeme
+ lex: Токпулат
+ stem: токпулат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Токпулат
+
+-lexeme
+ lex: Токсубай
+ stem: токсубай.|токсуба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Токсубай
+
+-lexeme
+ lex: Токтай
+ stem: токтай.|токта.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Токтай
+
+-lexeme
+ lex: Токтамыш
+ stem: токтамыш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Токтамыш
+
+-lexeme
+ lex: Токтанай
+ stem: токтанай.|токтана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Токтанай
+
+-lexeme
+ lex: Токтар
+ stem: токтар.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Токтар
+
+-lexeme
+ lex: Токтауш
+ stem: токтауш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Токтауш
+
+-lexeme
+ lex: Токшей
+ stem: токшей.|токше.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Токшей
+
+-lexeme
+ lex: Толдугак
+ stem: толдугак.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Толдугак
+
+-lexeme
+ lex: Толи
+ stem: толи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Толи (Анатолий)
+
+-lexeme
+ lex: Толмет
+ stem: толмет.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Толмет
+
+-lexeme
+ lex: Толубай
+ stem: толубай.|толуба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Толубай
+
+-lexeme
+ lex: Толубей
+ stem: толубей.|толубе.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Толубей
+
+-lexeme
+ lex: Топкай
+ stem: топкай.|топка.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Топкай
+
+-lexeme
+ lex: Топой
+ stem: топой.|топо.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Топой
+
+-lexeme
+ lex: Тораш
+ stem: тораш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тораш
+
+-lexeme
+ lex: Торут
+ stem: торут.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Торут
+
+-lexeme
+ lex: Тосай
+ stem: тосай.|тоса.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Тосай
+
+-lexeme
+ lex: Тосак
+ stem: тосак.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тосак
+
+-lexeme
+ lex: Тотц
+ stem: тотц.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тотц
+
+-lexeme
+ lex: Тулат
+ stem: тулат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тулат
+
+-lexeme
+ lex: Тулли
+ stem: тулли.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Тулли (Анатолий)
+
+-lexeme
+ lex: Тунай
+ stem: тунай.|туна.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Тунай
+
+-lexeme
+ lex: Тунбай
+ stem: тунбай.|тунба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Тунбай
+
+-lexeme
+ lex: Турнаран
+ stem: турнаран.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Турнаран
+
+-lexeme
+ lex: Тымапи
+ stem: тымапи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Тымапи (Тимофей)
+
+-lexeme
+ lex: Тэмэр
+ stem: тэмэр.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тэмэр
+
+-lexeme
+ lex: Тюлебай
+ stem: тюлебай.|тюлеба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Тюлебай
+
+-lexeme
+ lex: Тюлей
+ stem: тюлей.|тюле.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Тюлей
+
+-lexeme
+ lex: Тюман
+ stem: тюман.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тюман
+
+-lexeme
+ lex: Тюшкай
+ stem: тюшкай.|тюшка.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Тюшкай
+
+-lexeme
+ lex: Тябикей
+ stem: тябикей.|тябике.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Тябикей
+
+-lexeme
+ lex: Тяблей
+ stem: тяблей.|тябле.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Тяблей
+
+-lexeme
+ lex: Тябянак
+ stem: тябянак.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тябянак
+
+-lexeme
+ lex: Тятюй
+ stem: тятюй.|тятю.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Тятюй
+
+-lexeme
+ lex: Тятюк
+ stem: тятюк.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тятюк (Александр)
+
+-lexeme
+ lex: Тяуш
+ stem: тяуш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Тяуш
+
+-lexeme
+ lex: Тӧпай
+ stem: тӧпай.|тӧпа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Тӧпай
+
+-lexeme
+ lex: Уксай
+ stem: уксай.|укса.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Уксай
+
+-lexeme
+ lex: Улем
+ stem: улем.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Улем
+
+-lexeme
+ lex: Ули
+ stem: ули.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Ули (Ульяна)
+
+-lexeme
+ lex: Улина
+ stem: улина.|улины.//улина.|улин.//улина.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Улина
+
+-lexeme
+ lex: Ультеча
+ stem: ультеча.|ультечы.//ультеча.|ультеч.//ультеча.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Ультеча
+
+-lexeme
+ lex: Уляна
+ stem: уляна.|уляны.//уляна.|улян.//уляна.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Уляна (Ульяна)
+
+-lexeme
+ lex: Унави
+ stem: унави.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Унави
+
+-lexeme
+ lex: Уразай
+ stem: уразай.|ураза.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Уразай
+
+-lexeme
+ lex: Урса
+ stem: урса.|урсы.//урса.|урс.//урса.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Урса
+
+-lexeme
+ lex: Усти
+ stem: усти.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Усти
+
+-lexeme
+ lex: Учай
+ stem: учай.|уча.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Учай
+
+-lexeme
+ lex: Цапай
+ stem: цапай.|цапа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Цапай
+
+-lexeme
+ lex: Цатак
+ stem: цатак.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Цатак
+
+-lexeme
+ lex: Цорабатыр
+ stem: цорабатыр.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Цорабатыр
+
+-lexeme
+ lex: Цоракай
+ stem: цоракай.|цорака.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Цоракай
+
+-lexeme
+ lex: Цотнай
+ stem: цотнай.|цотна.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Цотнай
+
+-lexeme
+ lex: Цындуш
+ stem: цындуш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Цындуш
+
+-lexeme
+ lex: Цӧрыш
+ stem: цӧрыш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Цӧрыш
+
+-lexeme
+ lex: Чÿчкай
+ stem: чÿчкай.|чÿчка.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Чÿчкай
+
+-lexeme
+ lex: Чавай
+ stem: чавай.|чава.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Чавай
+
+-lexeme
+ lex: Чави
+ stem: чави.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Чави (Вячеслав)
+
+-lexeme
+ lex: Чалай
+ stem: чалай.|чала.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Чалай
+
+-lexeme
+ lex: Чанга
+ stem: чанга.|чангы.//чанга.|чанг.//чанга.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Чанга
+
+-lexeme
+ lex: Чапей
+ stem: чапей.|чапе.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Чапей
+
+-lexeme
+ lex: Чатук
+ stem: чатук.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Чатук
+
+-lexeme
+ lex: Чачана
+ stem: чачана.|чачаны.//чачана.|чачан.//чачана.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Чачана (Татьяна)
+
+-lexeme
+ lex: Чачи
+ stem: чачи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Чачи
+
+-lexeme
+ lex: Чачи
+ stem: чачи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Чачи (Анастасия)
+
+-lexeme
+ lex: Чекеней
+ stem: чекеней.|чекене.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Чекеней
+
+-lexeme
+ lex: Чемекей
+ stem: чемекей.|чемеке.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Чемекей
+
+-lexeme
+ lex: Чепиш
+ stem: чепиш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Чепиш
+
+-lexeme
+ lex: Четнай
+ stem: четнай.|четна.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Четнай
+
+-lexeme
+ lex: Чилбичка
+ stem: чилбичка.|чилбичкы.//чилбичка.|чилбичк.//чилбичка.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Чилбичка
+
+-lexeme
+ lex: Чимай
+ stem: чимай.|чима.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Чимай
+
+-lexeme
+ lex: Чимапи
+ stem: чимапи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Чимапи (Тимофей)
+
+-lexeme
+ lex: Чимга
+ stem: чимга.|чимгы.//чимга.|чимг.//чимга.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Чимга (Тимофей)
+
+-lexeme
+ lex: Чинбейка
+ stem: чинбейка.|чинбейкы.//чинбейка.|чинбейк.//чинбейка.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Чинбейка
+
+-lexeme
+ lex: Чинчи
+ stem: чинчи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Чинчи
+
+-lexeme
+ lex: Чичави
+ stem: чичави.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Чичави
+
+-lexeme
+ lex: Чичер
+ stem: чичер.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Чичер
+
+-lexeme
+ lex: Чомпой
+ stem: чомпой.|чомпо.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Чомпой (Тимофей)
+
+-lexeme
+ lex: Чопан
+ stem: чопан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Чопан
+
+-lexeme
+ lex: Чопи
+ stem: чопи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Чопи
+
+-lexeme
+ lex: Чопой
+ stem: чопой.|чопо.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Чопой
+
+-lexeme
+ lex: Чорак
+ stem: чорак.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Чорак
+
+-lexeme
+ lex: Чораш
+ stem: чораш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Чораш
+
+-lexeme
+ lex: Чоткар
+ stem: чоткар.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Чоткар
+
+-lexeme
+ lex: Чужган
+ stem: чужган.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Чужган
+
+-lexeme
+ lex: Чузай
+ stem: чузай.|чуза.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Чузай
+
+-lexeme
+ lex: Чумблат
+ stem: чумблат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Чумблат
+
+-lexeme
+ lex: Чумбылат
+ stem: чумбылат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Чумбылат
+
+-lexeme
+ lex: Шабай
+ stem: шабай.|шаба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Шабай
+
+-lexeme
+ lex: Шабдар
+ stem: шабдар.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Шабдар
+
+-lexeme
+ lex: Шаберде
+ stem: шаберде.|шаберды.//шаберде.|шаберд.//шаберде.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Шаберде
+
+-lexeme
+ lex: Шадай
+ stem: шадай.|шада.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Шадай
+
+-lexeme
+ lex: Шайви
+ stem: шайви.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Шайви
+
+-lexeme
+ lex: Шаймардан
+ stem: шаймардан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Шаймардан
+
+-lexeme
+ lex: Шалдыбейка
+ stem: шалдыбейка.|шалдыбейкы.//шалдыбейка.|шалдыбейк.//шалдыбейка.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Шалдыбейка
+
+-lexeme
+ lex: Шамат
+ stem: шамат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Шамат
+
+-lexeme
+ lex: Шамрай
+ stem: шамрай.|шамра.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Шамрай
+
+-lexeme
+ lex: Шамыкай
+ stem: шамыкай.|шамыка.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Шамыкай
+
+-lexeme
+ lex: Шанцора
+ stem: шанцора.|шанцоры.//шанцора.|шанцор.//шанцора.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Шанцора
+
+-lexeme
+ lex: Шиик
+ stem: шиик.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Шиик
+
+-lexeme
+ lex: Шиквава
+ stem: шиквава.|шиквавы.//шиквава.|шиквав.//шиквава.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Шиквава
+
+-lexeme
+ lex: Шимай
+ stem: шимай.|шима.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Шимай
+
+-lexeme
+ lex: Шипай
+ stem: шипай.|шипа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Шипай
+
+-lexeme
+ lex: Штрек
+ stem: штрек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Штрек
+
+-lexeme
+ lex: Шумат
+ stem: шумат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Шумат
+
+-lexeme
+ lex: Шуэт
+ stem: шуэт.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Шуэт
+
+-lexeme
+ lex: Шыен
+ stem: шыен.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Шыен
+
+-lexeme
+ lex: Эбат
+ stem: эбат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эбат
+
+-lexeme
+ lex: Эвай
+ stem: эвай.|эва.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Эвай
+
+-lexeme
+ lex: Эвика
+ stem: эвика.|эвикы.//эвика.|эвик.//эвика.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Эвика
+
+-lexeme
+ lex: Эвраш
+ stem: эвраш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эвраш
+
+-lexeme
+ lex: Эйшемер
+ stem: эйшемер.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эйшемер
+
+-lexeme
+ lex: Экай
+ stem: экай.|эка.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Экай
+
+-lexeme
+ lex: Экеви
+ stem: экеви.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Экеви
+
+-lexeme
+ lex: Эксесан
+ stem: эксесан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эксесан
+
+-lexeme
+ lex: Элбахта
+ stem: элбахта.|элбахты.//элбахта.|элбахт.//элбахта.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Элбахта
+
+-lexeme
+ lex: Элдуш
+ stem: элдуш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Элдуш
+
+-lexeme
+ lex: Элексей
+ stem: элексей.|элексе.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Элексей (Алексей)
+
+-lexeme
+ lex: Элика
+ stem: элика.|эликы.//элика.|элик.//элика.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Элика
+
+-lexeme
+ lex: Эликпай
+ stem: эликпай.|эликпа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Эликпай
+
+-lexeme
+ lex: Элмурза
+ stem: элмурза.|элмурзы.//элмурза.|элмурз.//элмурза.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Элмурза
+
+-lexeme
+ lex: Элнет
+ stem: элнет.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Элнет
+
+-lexeme
+ lex: Элпай
+ stem: элпай.|элпа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Элпай
+
+-lexeme
+ lex: Элыксан
+ stem: элыксан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Элыксан (Александр)
+
+-lexeme
+ lex: Эман
+ stem: эман.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эман
+
+-lexeme
+ lex: Эманай
+ stem: эманай.|эмана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Эманай
+
+-lexeme
+ lex: Эмаш
+ stem: эмаш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эмаш
+
+-lexeme
+ lex: Эмек
+ stem: эмек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эмек
+
+-lexeme
+ lex: Эмельдуш
+ stem: эмельдуш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эмельдуш
+
+-lexeme
+ lex: Эмен
+ stem: эмен.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эмен
+
+-lexeme
+ lex: Эмян
+ stem: эмян.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эмян
+
+-lexeme
+ lex: Эмятай
+ stem: эмятай.|эмята.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Эмятай
+
+-lexeme
+ lex: Энай
+ stem: энай.|эна.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Энай
+
+-lexeme
+ lex: Энсай
+ stem: энсай.|энса.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Энсай
+
+-lexeme
+ lex: Эпай
+ stem: эпай.|эпа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Эпай
+
+-lexeme
+ lex: Эпанай
+ stem: эпанай.|эпана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Эпанай
+
+-lexeme
+ lex: Эракай
+ stem: эракай.|эрака.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Эракай
+
+-lexeme
+ lex: Эрвий
+ stem: эрвий.|эрви.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Эрвий
+
+-lexeme
+ lex: Эрвика
+ stem: эрвика.|эрвикы.//эрвика.|эрвик.//эрвика.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Эрвика
+
+-lexeme
+ lex: Эрду
+ stem: эрду.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Эрду
+
+-lexeme
+ lex: Эрика
+ stem: эрика.|эрикы.//эрика.|эрик.//эрика.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Эрика
+
+-lexeme
+ lex: Эрмек
+ stem: эрмек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эрмек
+
+-lexeme
+ lex: Эрмыза
+ stem: эрмыза.|эрмызы.//эрмыза.|эрмыз.//эрмыза.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Эрмыза
+
+-lexeme
+ lex: Эрпатыр
+ stem: эрпатыр.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эрпатыр
+
+-lexeme
+ lex: Эсек
+ stem: эсек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эсек
+
+-lexeme
+ lex: Эсик
+ stem: эсик.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эсик
+
+-lexeme
+ lex: Эскей
+ stem: эскей.|эске.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Эскей
+
+-lexeme
+ lex: Эсмек
+ stem: эсмек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эсмек
+
+-lexeme
+ lex: Эсметр
+ stem: эсметр.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эсметр
+
+-lexeme
+ lex: Эсу
+ stem: эсу.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Эсу
+
+-lexeme
+ lex: Эсян
+ stem: эсян.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эсян
+
+-lexeme
+ lex: Этвай
+ stem: этвай.|этва.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Этвай
+
+-lexeme
+ lex: Этюк
+ stem: этюк.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Этюк
+
+-lexeme
+ lex: Эчан
+ stem: эчан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эчан (Александр)
+
+-lexeme
+ lex: Эчук
+ stem: эчук.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эчук (Александр)
+
+-lexeme
+ lex: Эшай
+ stem: эшай.|эша.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Эшай
+
+-lexeme
+ lex: Эшкен
+ stem: эшкен.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эшкен
+
+-lexeme
+ lex: Эшманай
+ stem: эшманай.|эшмана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Эшманай
+
+-lexeme
+ lex: Эшмек
+ stem: эшмек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эшмек
+
+-lexeme
+ lex: Эшмяй
+ stem: эшмяй.|эшмя.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Эшмяй
+
+-lexeme
+ lex: Эшпай
+ stem: эшпай.|эшпа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Эшпай
+
+-lexeme
+ lex: Эшплат
+ stem: эшплат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эшплат
+
+-lexeme
+ lex: Эшполдо
+ stem: эшполдо.|эшполды.//эшполдо.|эшполд.//эшполдо.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Эшполдо
+
+-lexeme
+ lex: Эшпулат
+ stem: эшпулат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эшпулат
+
+-lexeme
+ lex: Эштанай
+ stem: эштанай.|эштана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Эштанай
+
+-lexeme
+ lex: Эштерек
+ stem: эштерек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Эштерек
+
+-lexeme
+ lex: Юадар
+ stem: юадар.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Юадар
+
+-lexeme
+ lex: Юанай
+ stem: юанай.|юана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Юанай
+
+-lexeme
+ lex: Юван
+ stem: юван.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Юван
+
+-lexeme
+ lex: Юванай
+ stem: юванай.|ювана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Юванай
+
+-lexeme
+ lex: Юваш
+ stem: юваш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Юваш
+
+-lexeme
+ lex: Юзай
+ stem: юзай.|юза.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Юзай
+
+-lexeme
+ lex: Юзыкай
+ stem: юзыкай.|юзыка.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Юзыкай
+
+-lexeme
+ lex: Юкез
+ stem: юкез.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Юкез
+
+-lexeme
+ lex: Юкей
+ stem: юкей.|юке.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Юкей
+
+-lexeme
+ lex: Юксер
+ stem: юксер.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Юксер
+
+-lexeme
+ lex: Юкчи
+ stem: юкчи.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Юкчи
+
+-lexeme
+ lex: Юлавий
+ stem: юлавий.|юлави.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Юлавий
+
+-lexeme
+ lex: Юмакай
+ stem: юмакай.|юмака.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Юмакай
+
+-lexeme
+ lex: Юшкелде
+ stem: юшкелде.|юшкелды.//юшкелде.|юшкелд.//юшкелде.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Юшкелде
+
+-lexeme
+ lex: Юштанай
+ stem: юштанай.|юштана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Юштанай
+
+-lexeme
+ lex: Яберде
+ stem: яберде.|яберды.//яберде.|яберд.//яберде.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Яберде
+
+-lexeme
+ lex: Ягелде
+ stem: ягелде.|ягелды.//ягелде.|ягелд.//ягелде.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Ягелде
+
+-lexeme
+ lex: Ягодар
+ stem: ягодар.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ягодар
+
+-lexeme
+ lex: Ядык
+ stem: ядык.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ядык
+
+-lexeme
+ lex: Яжай
+ stem: яжай.|яжа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Яжай
+
+-lexeme
+ lex: Яик
+ stem: яик.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Яик
+
+-lexeme
+ lex: Якай
+ stem: якай.|яка.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Якай
+
+-lexeme
+ lex: Який
+ stem: який.|яки.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Який
+
+-lexeme
+ lex: Якман
+ stem: якман.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Якман
+
+-lexeme
+ lex: Яктерге
+ stem: яктерге.|яктергы.//яктерге.|яктерг.//яктерге.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Яктерге
+
+-lexeme
+ lex: Якут
+ stem: якут.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Якут
+
+-lexeme
+ lex: Якуш
+ stem: якуш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Якуш
+
+-lexeme
+ lex: Якшик
+ stem: якшик.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Якшик
+
+-lexeme
+ lex: Ялкай
+ stem: ялкай.|ялка.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Ялкай
+
+-lexeme
+ lex: Ялкий
+ stem: ялкий.|ялки.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Ялкий
+
+-lexeme
+ lex: Ялпай
+ stem: ялпай.|ялпа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Ялпай
+
+-lexeme
+ lex: Ялтай
+ stem: ялтай.|ялта.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Ялтай
+
+-lexeme
+ lex: Ялче
+ stem: ялче.|ялчы.//ялче.|ялч.//ялче.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Ялче
+
+-lexeme
+ lex: Ямай
+ stem: ямай.|яма.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Ямай
+
+-lexeme
+ lex: Ямак
+ stem: ямак.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ямак
+
+-lexeme
+ lex: Ямакай
+ stem: ямакай.|ямака.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Ямакай
+
+-lexeme
+ lex: Ямалий
+ stem: ямалий.|ямали.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Ямалий
+
+-lexeme
+ lex: Яманай
+ stem: яманай.|ямана.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Яманай
+
+-lexeme
+ lex: Яматай
+ stem: яматай.|ямата.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Яматай
+
+-lexeme
+ lex: Ямбай
+ stem: ямбай.|ямба.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Ямбай
+
+-lexeme
+ lex: Ямбактын
+ stem: ямбактын.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ямбактын
+
+-lexeme
+ lex: Ямбарша
+ stem: ямбарша.|ямбаршы.//ямбарша.|ямбарш.//ямбарша.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Ямбарша
+
+-lexeme
+ lex: Ямберде
+ stem: ямберде.|ямберды.//ямберде.|ямберд.//ямберде.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Ямберде
+
+-lexeme
+ lex: Ямби
+ stem: ямби.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_strong
+ trans_ru: Ямби
+
+-lexeme
+ lex: Ямблат
+ stem: ямблат.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ямблат
+
+-lexeme
+ lex: Ямбос
+ stem: ямбос.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ямбос
+
+-lexeme
+ lex: Ямет
+ stem: ямет.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ямет
+
+-lexeme
+ lex: Яммурза
+ stem: яммурза.|яммурзы.//яммурза.|яммурз.//яммурза.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Яммурза
+
+-lexeme
+ lex: Ямшан
+ stem: ямшан.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ямшан
+
+-lexeme
+ lex: Ямык
+ stem: ямык.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ямык
+
+-lexeme
+ lex: Ямыш
+ stem: ямыш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ямыш
+
+-lexeme
+ lex: Янадар
+ stem: янадар.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Янадар
+
+-lexeme
+ lex: Янай
+ stem: янай.|яна.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Янай
+
+-lexeme
+ lex: Янак
+ stem: янак.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Янак
+
+-lexeme
+ lex: Янактай
+ stem: янактай.|янакта.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Янактай
+
+-lexeme
+ lex: Янаш
+ stem: янаш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Янаш
+
+-lexeme
+ lex: Янбадыш
+ stem: янбадыш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Янбадыш
+
+-lexeme
+ lex: Янбасар
+ stem: янбасар.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Янбасар
+
+-lexeme
+ lex: Янгай
+ stem: янгай.|янга.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Янгай
+
+-lexeme
+ lex: Янган
+ stem: янган.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Янган
+
+-lexeme
+ lex: Янгелде
+ stem: янгелде.|янгелды.//янгелде.|янгелд.//янгелде.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Янгелде
+
+-lexeme
+ lex: Янгерче
+ stem: янгерче.|янгерчы.//янгерче.|янгерч.//янгерче.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Янгерче
+
+-lexeme
+ lex: Янгидей
+ stem: янгидей.|янгиде.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Янгидей
+
+-lexeme
+ lex: Янгоза
+ stem: янгоза.|янгозы.//янгоза.|янгоз.//янгоза.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Янгоза
+
+-lexeme
+ lex: Янгуват
+ stem: янгуват.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Янгуват
+
+-lexeme
+ lex: Янгул
+ stem: янгул.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Янгул
+
+-lexeme
+ lex: Янгуш
+ stem: янгуш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Янгуш
+
+-lexeme
+ lex: Янгыс
+ stem: янгыс.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Янгыс
+
+-lexeme
+ lex: Яндак
+ stem: яндак.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Яндак
+
+-lexeme
+ lex: Яндемир
+ stem: яндемир.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Яндемир
+
+-lexeme
+ lex: Яндерек
+ stem: яндерек.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Яндерек
+
+-lexeme
+ lex: Яндуган
+ stem: яндуган.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Яндуган
+
+-lexeme
+ lex: Яндук
+ stem: яндук.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Яндук
+
+-lexeme
+ lex: Яндула
+ stem: яндула.|яндулы.//яндула.|яндул.//яндула.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Яндула
+
+-lexeme
+ lex: Яндуш
+ stem: яндуш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Яндуш
+
+-lexeme
+ lex: Яндыган
+ stem: яндыган.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Яндыган
+
+-lexeme
+ lex: Яндылет
+ stem: яндылет.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Яндылет
+
+-lexeme
+ lex: Яндыш
+ stem: яндыш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Яндыш
+
+-lexeme
+ lex: Яндыш
+ stem: яндыш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Яндыш
+
+-lexeme
+ lex: Яний
+ stem: яний.|яни.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Яний
+
+-lexeme
+ lex: Яникей
+ stem: яникей.|янике.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Яникей
+
+-lexeme
+ lex: Янипа
+ stem: янипа.|янипы.//янипа.|янип.//янипа.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Янипа
+
+-lexeme
+ lex: Янсай
+ stem: янсай.|янса.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Янсай
+
+-lexeme
+ lex: Янтемир
+ stem: янтемир.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Янтемир
+
+-lexeme
+ lex: Янтеча
+ stem: янтеча.|янтечы.//янтеча.|янтеч.//янтеча.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Янтеча
+
+-lexeme
+ lex: Янцит
+ stem: янцит.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Янцит
+
+-lexeme
+ lex: Янцора
+ stem: янцора.|янцоры.//янцора.|янцор.//янцора.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Янцора
+
+-lexeme
+ lex: Янчур
+ stem: янчур.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Янчур
+
+-lexeme
+ lex: Янчура
+ stem: янчура.|янчуры.//янчура.|янчур.//янчура.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Янчура
+
+-lexeme
+ lex: Яныган
+ stem: яныган.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Яныган
+
+-lexeme
+ lex: Яныгит
+ stem: яныгит.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Яныгит
+
+-lexeme
+ lex: Янык
+ stem: янык.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Янык
+
+-lexeme
+ lex: Яныкай
+ stem: яныкай.|яныка.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Яныкай
+
+-lexeme
+ lex: Яныкий
+ stem: яныкий.|яныки.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Яныкий
+
+-lexeme
+ lex: Япай
+ stem: япай.|япа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Япай
+
+-lexeme
+ lex: Япар
+ stem: япар.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Япар
+
+-lexeme
+ lex: Япуш
+ stem: япуш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Япуш
+
+-lexeme
+ lex: Яралтем
+ stem: яралтем.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Яралтем
+
+-lexeme
+ lex: Яран
+ stem: яран.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Яран
+
+-lexeme
+ lex: Ярандай
+ stem: ярандай.|яранда.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Ярандай
+
+-lexeme
+ lex: Ярмий
+ stem: ярмий.|ярми.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Ярмий
+
+-lexeme
+ lex: Ястап
+ stem: ястап.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ястап
+
+-lexeme
+ lex: Ятман
+ stem: ятман.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ятман
+
+-lexeme
+ lex: Яуш
+ stem: яуш.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Яуш
+
+-lexeme
+ lex: Ячок
+ stem: ячок.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ячок
+
+-lexeme
+ lex: Яшай
+ stem: яшай.|яша.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Яшай
+
+-lexeme
+ lex: Яшкелде
+ stem: яшкелде.|яшкелды.//яшкелде.|яшкелд.//яшкелде.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Яшкелде
+
+-lexeme
+ lex: Яшкот
+ stem: яшкот.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Яшкот
+
+-lexeme
+ lex: Яшмак
+ stem: яшмак.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Яшмак
+
+-lexeme
+ lex: Яшмурза
+ stem: яшмурза.|яшмурзы.//яшмурза.|яшмурз.//яшмурза.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Яшмурза
+
+-lexeme
+ lex: Яшпадар
+ stem: яшпадар.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Яшпадар
+
+-lexeme
+ lex: Яшпай
+ stem: яшпай.|яшпа.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Яшпай
+
+-lexeme
+ lex: Яшпатыр
+ stem: яшпатыр.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Яшпатыр
+
+-lexeme
+ lex: Яштуган
+ stem: яштуган.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Яштуган
+
+-lexeme
+ lex: Ӧрмӧк
+ stem: ӧрмӧк.
+ gramm: N,PN,persn
+ paradigm: N_consonant
+ trans_ru: Ӧрмӧк
+
+-lexeme
+ lex: Ӧртӧмӧ
+ stem: ӧртӧмӧ.|ӧртӧмы.//ӧртӧмӧ.|ӧртӧм.//ӧртӧмӧ.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Ӧртӧмӧ
+
+-lexeme
+ lex: Ӧрӧзӧй
+ stem: ӧрӧзӧй.|ӧрӧзӧ.
+ gramm: N,PN,persn
+ paradigm: N_j
+ trans_ru: Ӧрӧзӧй
