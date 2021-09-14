@@ -33561,3 +33561,17 @@
  paradigm: A_consonant
  trans_ru: ровный, гладкий, прямой
 
+-lexeme
+ lex: лыптык-лаптык
+ gramm: A
+ stem: лыптык-лоптык.
+ paradigm: A_consonant
+ trans_ru: кусочками, местами, клочками, кучками
+
+-lexeme
+ lex: рвезе
+ gramm: A
+ stem: рвезе.
+ paradigm: A_consonant
+ trans_ru: молодой
+

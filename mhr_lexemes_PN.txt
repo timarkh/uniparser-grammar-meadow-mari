@@ -85104,13 +85104,6 @@
  trans_ru: Эрду
 
 -lexeme
- lex: Эрика
- stem: эрика.|эрикы.//эрика.|эрик.//эрика.
- gramm: N,PN,persn
- paradigm: N_paroxyton_v_weak
- trans_ru: Эрика
-
--lexeme
  lex: Эрмек
  stem: эрмек.
  gramm: N,PN,persn
@@ -86103,3 +86096,46 @@
  gramm: N,PN,persn
  paradigm: N_j
  trans_ru: Ӧрӧзӧй
+
+-lexeme
+ lex: Ванюшка
+ gramm: N,persn,PN
+ stem: ванюшка.|ванюшкы.|ванюшк.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Ванька (Иван)
+
+-lexeme
+ lex: Эрик
+ gramm: N,persn,PN
+ stem: эрик.
+ paradigm: N_consonant
+ trans_ru: Эрик
+
+-lexeme
+ lex: Елуш
+ gramm: N,persn,PN
+ stem: елуш.
+ paradigm: N_consonant
+ trans_ru: Елуш (Елена)
+
+-lexeme
+ lex: Ванюша
+ gramm: N,persn,PN
+ stem: ванюша.
+ paradigm: N_oxyton
+ trans_ru: Ванюша (Иван)
+
+-lexeme
+ lex: Ӱярня
+ gramm: N,PN
+ stem: ӱарня.
+ paradigm: N_oxyton
+ trans_ru: Масленица
+
+-lexeme
+ lex: Агавайрем
+ gramm: N,PN
+ stem: аҥавайрем.
+ paradigm: N_consonant
+ trans_ru: праздник весенне-полевых работ
+

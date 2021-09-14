@@ -18096,3 +18096,66 @@
  stem: лугыч.
  paradigm: POST_ADV_Poss
  trans_ru: не докончив
+
+-lexeme
+ lex: тыве-дово
+ gramm: IMIT
+ stem: тыве-тово.
+ paradigm: Clitics
+ trans_ru: о глухому шуме быстрого или беспорядочного движения
+
+-lexeme
+ lex: ту
+ gramm: IMIT,rus
+ stem: ту.
+ paradigm: Clitics
+ trans_ru: о гудке поезда, машины, о звуке трубы
+
+-lexeme
+ lex: йор-йор
+ gramm: IMIT
+ stem: йор-йор.
+ paradigm: Clitics
+ trans_ru: о журчании воды
+
+-lexeme
+ lex: йыр
+ gramm: ADV
+ stem: йыр.
+ paradigm: POST_ADV_Poss
+ trans_ru: вокруг, около
+
+-lexeme
+ lex: уто-сите
+ gramm: ADV
+ stem: утсит.
+ paradigm: POST_ADV_Poss
+ trans_ru: слишком
+
+-lexeme
+ lex: неле
+ gramm: ADV
+ stem: неле.
+ paradigm: POST_ADV_Poss
+ trans_ru: тяжело
+
+-lexeme
+ lex: шып
+ gramm: ADV
+ stem: шып.
+ paradigm: POST_ADV_Poss
+ trans_ru: тихо
+
+-lexeme
+ lex: коклаште
+ gramm: POST
+ stem: коклашт.
+ paradigm: POST_ADV_Poss
+ trans_ru: в; между; за
+
+-lexeme
+ lex: тореш
+ gramm: POST
+ stem: тореш.
+ paradigm: POST_ADV_Poss
+ trans_ru: напротив; поперёк

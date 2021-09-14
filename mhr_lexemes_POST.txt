@@ -1,6 +1,6 @@
 -lexeme
  lex: вокте
- stem: вокте.
+ stem: вокте.//воктел.|вокте.
  gramm: N,rel_n
  paradigm: POST
  trans_ru: рядом

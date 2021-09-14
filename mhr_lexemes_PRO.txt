@@ -202,6 +202,20 @@
  trans_ru: так
 
 -lexeme
+ lex: садыге
+ gramm: PRO
+ stem: садыге.
+ paradigm: Clitics
+ trans_ru: так
+
+-lexeme
+ lex: садыге
+ gramm: PRO
+ stem: садыг.
+ paradigm: Clitics_a
+ trans_ru: так
+
+-lexeme
  lex: тыгай
  stem: тыгай.//тыгае.|тыга.
  gramm: PRO
@@ -668,7 +682,7 @@
 -lexeme
  lex: иктаж-семын
  stem: иктаж-семын.
- gramm: PRO
+ gramm: PRO,indef
  paradigm: A_consonant
  trans_ru: как-нибудь
 
@@ -678,6 +692,13 @@
  gramm: PRO,indef
  paradigm: A_oxyton
  trans_ru: куда-нибудь
+
+-lexeme
+ lex: иктаже
+ gramm: PRO,indef
+ stem: иктажше.
+ paradigm: A_oxyton
+ trans_ru: кто-нибудь
 
 
 

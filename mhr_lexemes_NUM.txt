@@ -516,3 +516,16 @@
  paradigm: NUM_paroxyton_v_strong
  trans_ru: восемьдесят
 
+-lexeme
+ lex: кокшӱдӧ
+ gramm: NUM
+ stem: кокшӱдӧ.//200.//200-.|кокшӱды.//кокшӱдӧ.//200.//200-.|кокшӱд.//кокшӱдӧ.//200.//200-.
+ paradigm: NUM_paroxyton_v_weak
+ trans_ru: двести
+
+-lexeme
+ lex: кумшӱдӧ
+ gramm: NUM
+ stem: кумшӱдӧ.//300.//300-.|кумшӱды.//кумшӱдӧ.//300.//300-.|кумшӱд.//кумшӱдӧ.//300.//300-.
+ paradigm: NUM_paroxyton_v_weak
+ trans_ru: триста

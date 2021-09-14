@@ -13954,7 +13954,7 @@
 
 -lexeme
  lex: вопшкандыра
- stem: вопшкандыра.
+ stem: вопшкандыра.//вопшкандра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: бортьевая верёвка
@@ -14164,7 +14164,7 @@
 
 -lexeme
  lex: воткандыра
- stem: воткандыра.
+ stem: воткандыра.//воткандра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: отвес; туго натянутый шнур
@@ -14479,7 +14479,7 @@
 
 -lexeme
  lex: вуйгандыра
- stem: вуйгандыра.
+ stem: вуйгандыра.//вуйгандра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: верёвка на передке телеги для закрепления бастрыка
@@ -31135,10 +31135,10 @@
 
 -lexeme
  lex: кандыра
- stem: кандыра.
+ stem: кандыра.//кандра.
  gramm: N
  paradigm: N_oxyton
- trans_ru: верёвка, бечевка; танец
+ trans_ru: верёвка, бечёвка; танец
 
 -lexeme
  lex: каникул
@@ -54929,7 +54929,7 @@
 
 -lexeme
  lex: мундыра
- stem: мундыра.
+ stem: мундыра.//мундра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: клубок
@@ -55405,7 +55405,7 @@
 
 -lexeme
  lex: мушкандыра
- stem: мушкандыра.
+ stem: мушкандыра.//мушкандра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: пеньковая верёвка
@@ -59081,7 +59081,7 @@
 
 -lexeme
  lex: нылдыраш
- stem: нылдыраш.
+ stem: нылдыраш.//нылдраш.
  gramm: N
  paradigm: N_consonant
  trans_ru: гривенник
@@ -60740,7 +60740,7 @@
 
 -lexeme
  lex: ой-мундыра
- stem: ой-мундыра.
+ stem: ой-мундыра.//ой-мундра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: мысли, думы, разговор
@@ -64837,7 +64837,7 @@
 
 -lexeme
  lex: падыраш
- stem: падыраш.
+ stem: падыраш.//падраш.
  gramm: N
  paradigm: N_consonant
  trans_ru: кусок
@@ -73440,7 +73440,7 @@
 
 -lexeme
  lex: поснагандыра
- stem: поснагандыра.
+ stem: поснагандыра.//поснагандра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: бечёвка или тесьма, наматываемая поверх онучи
@@ -73972,7 +73972,7 @@
 
 -lexeme
  lex: почкандыра
- stem: почкандыра.
+ stem: почкандыра.//почкандра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: толстая верёвка
@@ -86707,7 +86707,7 @@
 
 -lexeme
  lex: сапкандыра
- stem: сапкандыра.
+ stem: сапкандыра.//сапкандра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: вожжи
@@ -102879,7 +102879,7 @@
 
 -lexeme
  lex: тӱргандыра
- stem: тӱргандыра.
+ stem: тӱргандыра.//тӱргандра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: цветная шерстяная оторочка; кайма
@@ -111849,7 +111849,7 @@
 
 -lexeme
  lex: чодыра
- stem: чодыра.
+ stem: чодыра.//чодра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: лес
@@ -118959,7 +118959,7 @@
 
 -lexeme
  lex: шӧлдыра
- stem: шӧлдыра.
+ stem: шӧлдыра.//шӧлдра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: полати
@@ -119316,7 +119316,7 @@
 
 -lexeme
  lex: шӱдыраш
- stem: шӱдыраш.
+ stem: шӱдыраш.//шӱдраш.
  gramm: N
  paradigm: N_consonant
  trans_ru: двадцать пять копеек
@@ -124933,7 +124933,7 @@
 
 -lexeme
  lex: ӱвачкандыра
- stem: ӱвачкандыра.
+ stem: ӱвачкандыра.//ӱвачкандра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: тонкая верёвка для завязывания онучей
@@ -125017,7 +125017,7 @@
 
 -lexeme
  lex: ӱдыраш
- stem: ӱдыраш.
+ stem: ӱдыраш.//ӱдраш.
  gramm: N,anim,hum
  paradigm: N_consonant
  trans_ru: девочка
@@ -125339,7 +125339,7 @@
 
 -lexeme
  lex: ӱпкандыра
- stem: ӱпкандыра.
+ stem: ӱпкандыра.//ӱпкандра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: тесьма для волос
@@ -126365,3 +126365,74 @@
  gramm: N
  paradigm: N_paroxyton_v_weak
  trans_ru: приспособление для подвешивания котла, ведра над костром для варки чего-л.
+
+-lexeme
+ lex: комбиге
+ gramm: N,anim
+ stem: комбыиге.|комбыигы.|комбыиг.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: гусёнок
+
+-lexeme
+ lex: пӧртӧнчыл
+ gramm: N
+ stem: пӧртончыл.
+ paradigm: N_consonant
+ trans_ru: сени; крыльцо
+
+-lexeme
+ lex: метр
+ gramm: N,rus
+ stem: метыр.
+ paradigm: N_consonant
+ trans_ru: метр
+
+-lexeme
+ lex: кампетке
+ gramm: N,rus
+ stem: конфетка.|конфеткы.|конфетк.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: конфета
+
+-lexeme
+ lex: вачӱмбал
+ gramm: N,body
+ stem: вачымбал.
+ paradigm: N_consonant
+ trans_ru: часть плеча от шеи до плечевого сустава
+
+-lexeme
+ lex: нарезка
+ gramm: N,rus
+ stem: нарезка.|нарезкы.|нарезк.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: делянка
+
+-lexeme
+ lex: йолгурык
+ gramm: N
+ stem: йолкурык.
+ paradigm: N_consonant
+ trans_ru: горка с жердями для катания
+
+-lexeme
+ lex: ӱдыр-вате
+ gramm: N,hum,anim
+ stem: ӱдыр-вате.|ӱдыр-ваты.|ӱдыр-ват.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: девушки и женщины
+
+-lexeme
+ lex: учик
+ gramm: N
+ stem: утик.
+ paradigm: N_consonant
+ trans_ru: качели
+
+-lexeme
+ lex: уш-акыл
+ gramm: N
+ stem: ушакыл.
+ paradigm: N_consonant
+ trans_ru: ум, разум, рассудок
+
