@@ -148,6 +148,9 @@
   gramm: emph
   gloss: EMPH
   regex-prev: .*[ая][<>.]*$
+ -flex: .с
+  gramm: emph
+  gloss: EMPH
  -flex: .же//.жо//.жӧ
   gramm: 3sg
   gloss: 3SG

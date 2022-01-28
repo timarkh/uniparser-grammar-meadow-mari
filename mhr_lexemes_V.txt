@@ -6732,7 +6732,7 @@
 
 -lexeme
  lex: камвозаш
- stem: камвоз.
+ stem: камвоз.|камвоч.//камвоз.
  gramm: V
  paradigm: V_a
  trans_ru: упасть, выпасть
@@ -10572,7 +10572,14 @@
  stem: кылд.
  gramm: V
  paradigm: V_e
- trans_ru: связать
+ trans_ru: завязать, привязать, связать
+
+-lexeme
+ lex: кылдаш
+ stem: кылт.
+ gramm: V,missp
+ paradigm: V_e
+ trans_ru: завязать, привязать, связать
 
 -lexeme
  lex: кылдедаш
@@ -11410,7 +11417,7 @@
 
 -lexeme
  lex: кӱляш
- stem: кӱл.|кӱлй.
+ stem: кӱл.|кӱль.
  gramm: V
  paradigm: V_ye
  trans_ru: ревновать
@@ -37408,7 +37415,7 @@
 
 -lexeme
  lex: шӱртняш
- stem: шӱртн.|шӱртнй.
+ stem: шӱртн.|шӱртнь.
  gramm: V
  paradigm: V_ye
  trans_ru: спотыкаться
@@ -40570,4 +40577,60 @@
  stem: лийылалт.
  paradigm: V_e
  trans_ru: быть, бывать, случаться
+
+-lexeme
+ lex: кочыртаташ
+ gramm: V,intr
+ stem: кочыртат.
+ paradigm: V_e
+ trans_ru: скрипеть, трещать
+
+-lexeme
+ lex: кукулаш
+ gramm: V,intr
+ stem: кукукл.
+ paradigm: V_e
+ trans_ru: куковать
+
+-lexeme
+ lex: чогыматаш
+ gramm: V,intr
+ stem: чыгымат.
+ paradigm: V_e
+ trans_ru: щебетать, галдеть, чирикать
+
+-lexeme
+ lex: лывыргаш
+ gramm: V,intr
+ stem: лывырг.
+ paradigm: V_e
+ trans_ru: гнуться, размяться, ослабеть, теплеть
+
+-lexeme
+ lex: ловымаҥдаш
+ gramm: V,intr
+ stem: ловымаҥд.
+ paradigm: V_e
+ trans_ru: хлопать крыльями (о крупной птице)
+
+-lexeme
+ lex: иланаш
+ gramm: V,intr
+ stem: илаҥ.
+ paradigm: V_e
+ trans_ru: приняться
+
+-lexeme
+ lex: удетлаш
+ gramm: V,intr
+ stem: удетл.
+ paradigm: V_e
+ trans_ru: жадничать
+
+-lexeme
+ lex: подаш
+ gramm: V,intr
+ stem: под.
+ paradigm: V_e
+ trans_ru: ботать, бить шестом по воде на рыбалке
 

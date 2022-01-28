@@ -798,10 +798,10 @@
 
 -lexeme
  lex: алди-булди
- stem: алди-булди.
+ stem: алди-булди.//анди-мунди.
  gramm: A
  paradigm: A_oxyton
- trans_ru: неустойчивый
+ trans_ru: неустойчивый, бестолковый
 
 -lexeme
  lex: алик-пылик
@@ -22596,7 +22596,7 @@
 
 -lexeme
  lex: сай
- stem: сай.|са.
+ stem: сай.//сае.|са.
  gramm: A
  paradigm: A_j
  trans_ru: хороший
@@ -33574,4 +33574,60 @@
  stem: рвезе.
  paradigm: A_consonant
  trans_ru: молодой
+
+-lexeme
+ lex: йӱдымсӧ
+ gramm: A
+ stem: йӱдымсӧ.|йӱдымсы.|йӱдымс.
+ paradigm: A_paroxyton_v_weak
+ trans_ru: ночной
+
+-lexeme
+ lex: кыдыр-кудыр
+ gramm: A
+ stem: кыдыр-кудыр.
+ paradigm: A_consonant
+ trans_ru: извилистый
+
+-lexeme
+ lex: лаштыра
+ gramm: A
+ stem: лаштыра.
+ paradigm: A_oxyton
+ trans_ru: развесистый, пушистый
+
+-lexeme
+ lex: шулдакан
+ gramm: A
+ stem: шулдакан.
+ paradigm: A_consonant
+ trans_ru: дешёвый
+
+-lexeme
+ lex: шӱмбел
+ gramm: A
+ stem: шӱмбел.
+ paradigm: A_consonant
+ trans_ru: дорогой, милый, родной
+
+-lexeme
+ lex: кагура
+ gramm: A
+ stem: кагура.
+ paradigm: A_oxyton
+ trans_ru: неровный
+
+-lexeme
+ lex: шагал
+ gramm: A
+ stem: шагал.
+ paradigm: A_consonant
+ trans_ru: малый, имеющийся в небольшом количестве
+
+-lexeme
+ lex: шагал-магал
+ gramm: A
+ stem: шагал-магал.
+ paradigm: A_consonant
+ trans_ru: малый, имеющийся в небольшом количестве
 

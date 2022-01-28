@@ -40552,6 +40552,13 @@
  trans_ru: подмышка
 
 -lexeme
+ lex: коҥлайымал
+ gramm: N,body
+ stem: коҥыла.|коҥылы.|коҥыл.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: подмышка
+
+-lexeme
  lex: краб
  stem: краб.
  gramm: N,rus,anim
@@ -85181,10 +85188,10 @@
 
 -lexeme
  lex: рыжик
- stem: рыжик.
+ stem: рыжик.//рыжык.
  gramm: N,rus
  paradigm: N_consonant
- trans_ru: рыжик
+ trans_ru: рыжик (гриб)
 
 -lexeme
  lex: рызык
@@ -125003,7 +125010,7 @@
 
 -lexeme
  lex: ӱдырамаш
- stem: ӱдырамаш.
+ stem: ӱдырамаш.//ӱдрамаш.
  gramm: N,anim,hum
  paradigm: N_consonant
  trans_ru: женщина
@@ -126435,4 +126442,305 @@
  stem: ушакыл.
  paradigm: N_consonant
  trans_ru: ум, разум, рассудок
+
+-lexeme
+ lex: сарсий
+ gramm: N,anim
+ stem: сарси.
+ paradigm: N_consonant
+ trans_ru: воробей
+
+-lexeme
+ lex: моктемуро
+ gramm: N
+ stem: моктемуро.|моктемуры.|моктемур.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: хвалебная песнь
+
+-lexeme
+ lex: лудышӱр
+ gramm: N
+ stem: лудышӱр.
+ paradigm: N_consonant
+ trans_ru: суп из утки
+
+-lexeme
+ lex: музымӧр
+ gramm: N
+ stem: мызымӧр.
+ paradigm: N_consonant
+ trans_ru: костяника
+
+-lexeme
+ lex: музымӧр
+ gramm: N
+ stem: мызымӧр.
+ paradigm: N_consonant
+ trans_ru: костяника
+
+-lexeme
+ lex: лудиге
+ gramm: N,anim
+ stem: лудиге.|лудигы.|лудиг.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: утёнок
+
+-lexeme
+ lex: тулойып
+ gramm: N
+ stem: тулойып.
+ paradigm: N_consonant
+ trans_ru: искра
+
+-lexeme
+ lex: веҥе
+ gramm: N,anim,hum
+ stem: веҥе.|веҥы.|веҥ.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: зять
+
+-lexeme
+ lex: лыге
+ gramm: N
+ stem: лыге.|лыгы.|лыг.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: чешуйки сосновой шишки, тонкая кора сосны
+
+-lexeme
+ lex: лыге
+ gramm: N
+ stem: лыге.|лыгы.|лыг.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: перхоть
+
+-lexeme
+ lex: электрофонарь
+ gramm: N,rus
+ stem: электрофонарь.|электрофонар.
+ paradigm: N_soft
+ trans_ru: электрофонарь
+
+-lexeme
+ lex: куль
+ gramm: N,rus
+ stem: кульо.
+ paradigm: N_consonant
+ trans_ru: куль
+
+-lexeme
+ lex: коропка
+ gramm: N,rus
+ stem: коропка.
+ paradigm: N_oxyton
+ trans_ru: коробка
+
+-lexeme
+ lex: костромич
+ gramm: N,rus,anim,hum
+ stem: костромич.
+ paradigm: N_consonant
+ trans_ru: костромич
+
+-lexeme
+ lex: куньырий
+ gramm: N
+ stem: куньыри.
+ paradigm: N_consonant
+ trans_ru: слабый
+
+-lexeme
+ lex: ечывӱчӧ
+ gramm: N
+ stem: ечывӱчӧ.|ечывӱчы.|ечывӱч.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: крепления для лыж
+
+-lexeme
+ lex: оргкомиссий
+ gramm: N,rus
+ stem: оргкомиссий.|оргкомисси.
+ paradigm: N_j
+ trans_ru: оргкомиссия
+
+-lexeme
+ lex: стенографистка
+ gramm: N,rus,anim,hum
+ stem: стенографистка.|стенографисткы.|стенографистк.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: стенографистка
+
+-lexeme
+ lex: госохотинспекций
+ gramm: N,rus
+ stem: госохотинспекций.|госохотинспекци.
+ paradigm: N_j
+ trans_ru: госохотинспекция
+
+-lexeme
+ lex: машина
+ gramm: N,rus,transport
+ stem: машин.
+ paradigm: N_consonant
+ trans_ru: машина
+
+-lexeme
+ lex: подавондо
+ gramm: N
+ stem: подавондо.|подавонды.|подавонд.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: шест с воронкой на конце, которым бьют по воде при ловле рыбы
+
+-lexeme
+ lex: чуҥга
+ gramm: N
+ stem: чумка.
+ paradigm: N_oxyton
+ trans_ru: биточки
+
+-lexeme
+ lex: калош
+ gramm: N,rus
+ stem: колош.
+ paradigm: N_consonant
+ trans_ru: калоша, калоши
+
+-lexeme
+ lex: шемгорак
+ gramm: N,anim
+ stem: шемкорак.
+ paradigm: N_consonant
+ trans_ru: грач
+
+-lexeme
+ lex: мӧр
+ gramm: N
+ stem: мӧр.
+ paradigm: N_consonant
+ trans_ru: клубника
+
+-lexeme
+ lex: кӱжгывурго
+ gramm: N
+ stem: кӱжгывурго.|кӱжгывургы.|кӱжгывург.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: белый гриб
+
+-lexeme
+ lex: ава
+ gramm: N,hum,anim
+ stem: авий.|ави.
+ paradigm: N_j
+ trans_ru: мать
+
+-lexeme
+ lex: сарказм
+ gramm: N,rus
+ stem: сарказм.
+ paradigm: N_consonant
+ trans_ru: сарказм
+
+-lexeme
+ lex: гротеск
+ gramm: N,rus
+ stem: гротеск.
+ paradigm: N_consonant
+ trans_ru: гротеск
+
+-lexeme
+ lex: пайырка
+ gramm: N
+ stem: пайырка.
+ paradigm: N_oxyton
+ trans_ru: кусок, кусочек
+
+-lexeme
+ lex: пигол
+ gramm: N,anim
+ stem: пигол.
+ paradigm: N_consonant
+ trans_ru: усач (рыба)
+
+-lexeme
+ lex: чурий
+ gramm: N
+ stem: чырий.|чыри.
+ paradigm: N_j
+ trans_ru: лицо, румянец
+
+-lexeme
+ lex: пелеораде
+ gramm: N,hum,anim
+ stem: пелеораде.|пелеорады.|пелеорад.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: полудурок
+
+-lexeme
+ lex: лостык
+ gramm: N
+ stem: лостык.
+ paradigm: N_consonant
+ trans_ru: страница
+
+-lexeme
+ lex: кырча-марча
+ gramm: N
+ stem: кырче-марче.|кырче-марчы.|кырче-марч.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: мелочь
+
+-lexeme
+ lex: шоргемчык
+ gramm: N
+ stem: шоргемчык.
+ paradigm: N_consonant
+ trans_ru: ненастье
+
+-lexeme
+ lex: ягдташ
+ gramm: N
+ stem: ягдташ.
+ paradigm: N_consonant
+ trans_ru: сумка охотника, куда складывается подстреленная дичь
+
+-lexeme
+ lex: шинчавылыш
+ gramm: N,body
+ stem: шинчавылыш.
+ paradigm: N_consonant
+ trans_ru: глаза и уши
+
+-lexeme
+ lex: ТОЗ
+ gramm: N,abbr
+ stem: тоз.
+ paradigm: N_consonant
+ trans_ru: охотничье ружьё Тульского оружейного завода
+
+-lexeme
+ lex: шервӱд
+ gramm: N
+ stem: шервӱд.
+ paradigm: N_consonant
+ trans_ru: сок
+
+-lexeme
+ lex: амален
+ gramm: N
+ stem: амален.
+ paradigm: N_consonant
+ trans_ru: 
+
+-lexeme
+ lex: Иж
+ gramm: N,abbr
+ stem: иж.
+ paradigm: N_consonant
+ trans_ru: ружьё ижевского производства
+
+-lexeme
+ lex: кӱлеш-оккӱл
+ gramm: N
+ stem: кӱлеш-огыл.
+ paradigm: N_consonant
+ trans_ru: нелепость
 

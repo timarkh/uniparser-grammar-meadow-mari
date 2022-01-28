@@ -1711,6 +1711,7 @@
  stem: гыч.
  gramm: POST
  paradigm: POST_ADV_Poss
+ paradigm: N_Poss_consonant_nocasenum
  trans_ru: из, с, от
 
 -lexeme
@@ -2579,7 +2580,14 @@
 -lexeme
  lex: йожек-важык
  stem: йожек-важык.//йожэк-важык.
- gramm: ADV
+ gramm: IMIT
+ paradigm: POST_ADV_Poss
+ trans_ru: вкривь и вкось
+
+-lexeme
+ lex: йыжек-йожек
+ gramm: IMIT
+ stem: йыжек-йожек.
  paradigm: POST_ADV_Poss
  trans_ru: вкривь и вкось
 
@@ -8454,6 +8462,7 @@
  stem: пелен.//пелэн.
  gramm: POST
  paradigm: POST_ADV_Poss
+ paradigm: N_Poss_consonant_nocasenum
  trans_ru: к; с; рядом
 
 -lexeme
@@ -14806,6 +14815,13 @@
  trans_ru: мало, немного
 
 -lexeme
+ lex: шагал-магал
+ stem: шагал-магал.
+ gramm: ADV
+ paradigm: POST_ADV_Poss
+ trans_ru: мало, немного
+
+-lexeme
  lex: шагалже-шукыжо
  stem: шагалже-шукыжо.//шагалжэ-шукыжо.
  gramm: ADV
@@ -18159,3 +18175,416 @@
  stem: тореш.
  paradigm: POST_ADV_Poss
  trans_ru: напротив; поперёк
+
+-lexeme
+ lex: але
+ gramm: ADV
+ stem: але.
+ paradigm: POST_ADV_Poss
+ trans_ru: ещё, пока
+
+-lexeme
+ lex: кида
+ gramm: ADV
+ stem: кида.
+ paradigm: POST_ADV_Poss
+ trans_ru: руками
+
+-lexeme
+ lex: туддек
+ gramm: ADV
+ stem: туддек.
+ paradigm: POST_ADV_Poss
+ trans_ru: к нему
+
+-lexeme
+ lex: уто-сите
+ gramm: ADV
+ stem: утсите.
+ paradigm: POST_ADV_Poss
+ trans_ru: слишком
+
+-lexeme
+ lex: кидшӱма
+ gramm: ADV
+ stem: кидшӱма.
+ paradigm: POST_ADV_Poss
+ trans_ru: ощупью, на ощупь
+
+-lexeme
+ lex: ончылий
+ gramm: ADV
+ stem: ончыли.
+ paradigm: POST_ADV_Poss
+ trans_ru: в позапрошлый год
+
+-lexeme
+ lex: викшым
+ gramm: ADV
+ stem: викшым.
+ paradigm: POST_ADV_Poss
+ trans_ru: прямо
+
+-lexeme
+ lex: ниманчат
+ gramm: ADV,rus_afx
+ stem: ниманчат.
+ paradigm: POST_ADV_Poss
+ trans_ru: нисколько
+
+-lexeme
+ lex: чик
+ gramm: IMIT
+ stem: чик.
+ paradigm: Clitics
+ trans_ru: о крике рябчика
+
+-lexeme
+ lex: тара-рат
+ gramm: IMIT
+ stem: тара-рат.
+ paradigm: Clitics
+ trans_ru: о крике синицы
+
+-lexeme
+ lex: пзе-эк
+ gramm: IMIT
+ stem: пзе-эк.
+ paradigm: Clitics
+ trans_ru: о крике совы
+
+-lexeme
+ lex: ш-ш-шть
+ gramm: IMIT
+ stem: ш-ш-шть.
+ paradigm: Clitics
+ trans_ru: о крике тетерева
+
+-lexeme
+ lex: ку-кук
+ gramm: IMIT
+ stem: ку-ку.
+ paradigm: Clitics
+ trans_ru: ку-ку; о крике кукушки
+
+-lexeme
+ lex: гыж-гож
+ gramm: IMIT
+ stem: гыж-гож.
+ paradigm: Clitics
+ trans_ru: о шорохе
+
+-lexeme
+ lex: лый-луй
+ gramm: IMIT
+ stem: лый-луй.
+ paradigm: Clitics
+ trans_ru: о покачивании
+
+-lexeme
+ lex: чик
+ gramm: IMIT
+ stem: чи-ик.
+ paradigm: Clitics
+ trans_ru: о крике рябчика
+
+-lexeme
+ lex: кыш-кыш-кыш
+ gramm: IMIT
+ stem: кыш-кыш-кыш.
+ paradigm: Clitics
+ trans_ru: о хлопанье крыльев
+
+-lexeme
+ lex: кырт-карт
+ gramm: IMIT
+ stem: кырт-карт.
+ paradigm: Clitics
+ trans_ru: быстро, кое-как
+
+-lexeme
+ lex: пз-эк
+ gramm: IMIT
+ stem: пз-эк.
+ paradigm: Clitics
+ trans_ru: о крике совы
+
+-lexeme
+ lex: кыт-кыт-кыт
+ gramm: IMIT
+ stem: кыт-кыт-кыт.
+ paradigm: Clitics
+ trans_ru: о кудахтанье
+
+-lexeme
+ lex: чыж-чож
+ gramm: IMIT
+ stem: чыж-чож-ж.
+ paradigm: Clitics
+ trans_ru: о ритмичных резких звонких звуках
+
+-lexeme
+ lex: ларт-ларт
+ gramm: IMIT
+ stem: ла-арт.
+ paradigm: Clitics
+ trans_ru: о крякании утки, кря-кря
+
+-lexeme
+ lex: ззи-ззи-зин-зин-зин-н
+ gramm: IMIT
+ stem: ззи-ззи-зин-зин-зин-н.
+ paradigm: Clitics
+ trans_ru: о гуле телефонных проводов
+
+-lexeme
+ lex: шоик
+ gramm: IMIT
+ stem: шо-и-ак.
+ paradigm: Clitics
+ trans_ru: о свисте
+
+-lexeme
+ lex: шыр-шор
+ gramm: IMIT
+ stem: шор-р.
+ paradigm: Clitics
+ trans_ru: о резком шуме, треске
+
+-lexeme
+ lex: дыр-дыр
+ gramm: IMIT
+ stem: дыр-дыр-дыр.
+ paradigm: Clitics
+ trans_ru: о дрожании
+
+-lexeme
+ lex: ме-е
+ gramm: IMIT
+ stem: ме-е.
+ paradigm: Clitics
+ trans_ru: о блеянии
+
+-lexeme
+ lex: лыве-лово
+ gramm: IMIT
+ stem: лово-лово.
+ paradigm: Clitics
+ trans_ru: о шуме полёта крупных птиц
+
+-lexeme
+ lex: дыр-дыр
+ gramm: IMIT
+ stem: дыр-дыр-дыр.
+ paradigm: Clitics
+ trans_ru: о дрожании
+
+-lexeme
+ lex: ак-мук
+ gramm: IMIT
+ stem: ак-мук.
+ paradigm: Clitics
+ trans_ru: о нерешительности, смущении
+
+-lexeme
+ lex: кыштыр-кыштыр
+ gramm: IMIT
+ stem: кыштыр-кыштыр.
+ paradigm: Clitics
+ trans_ru: о скрипе снега
+
+-lexeme
+ lex: мырре-эк
+ gramm: IMIT
+ stem: мырре-эк.
+ paradigm: Clitics
+ trans_ru: о крике совы
+
+-lexeme
+ lex: пызгоп
+ gramm: IMIT
+ stem: пызгоп.
+ paradigm: Clitics
+ trans_ru: о звуке падения
+
+-lexeme
+ lex: мӧ-мӧ-мӧ
+ gramm: IMIT
+ stem: мӧ-мӧ-мӧ.
+ paradigm: Clitics
+ trans_ru: о рёве, плаче, крике
+
+-lexeme
+ lex: лыб-лыб
+ gramm: IMIT
+ stem: лыб-лыб-лыб.
+ paradigm: Clitics
+ trans_ru: о слабом дрожании
+
+-lexeme
+ lex: быр-быр-быр
+ gramm: IMIT
+ stem: быр-быр-быр.
+ paradigm: Clitics
+ trans_ru: о шуме деревьев
+
+-lexeme
+ lex: кигик-когок
+ gramm: IMIT
+ stem: кгик-когок.
+ paradigm: Clitics
+ trans_ru: о крике гусей
+
+-lexeme
+ lex: ме-е
+ gramm: IMIT
+ stem: ме-е-е.
+ paradigm: Clitics
+ trans_ru: о блеянии
+
+-lexeme
+ lex: кочыр
+ gramm: IMIT
+ stem: кочыр-р-р.
+ paradigm: Clitics
+ trans_ru: о скрипе, резком шуме при трении
+
+-lexeme
+ lex: ха
+ gramm: IMIT,rus
+ stem: ха.
+ paradigm: Clitics
+ trans_ru: ха
+
+-lexeme
+ lex: кычырик
+ gramm: IMIT
+ stem: кычы-ри-ик.
+ paradigm: Clitics
+ trans_ru: о резком скрипе
+
+-lexeme
+ lex: шотыр
+ gramm: IMIT
+ stem: шотр-р.
+ paradigm: Clitics
+ trans_ru: о скрипе
+
+-lexeme
+ lex: йыҥге-йоҥго
+ gramm: IMIT
+ stem: йыҥге-йоҥге.
+ paradigm: Clitics
+ trans_ru: о звоне
+
+-lexeme
+ lex: йыж
+ gramm: IMIT
+ stem: йыж-ж.
+ paradigm: Clitics
+ trans_ru: о лёгком шуме (о ветре)
+
+-lexeme
+ lex: чынек
+ gramm: IMIT
+ stem: чыне-ек.
+ paradigm: Clitics
+ trans_ru: о крике желны
+
+-lexeme
+ lex: пылтым-пылтым
+ gramm: IMIT
+ stem: пылтым-полтым.
+ paradigm: Clitics
+ trans_ru: о скачкообразном движении
+
+-lexeme
+ lex: кылт
+ gramm: IMIT
+ stem: кылт.
+ paradigm: Clitics
+ trans_ru: о лёгком стуке
+
+-lexeme
+ lex: шыве-шово
+ gramm: IMIT
+ stem: шыве-шуво.
+ paradigm: Clitics
+ trans_ru: о шуме воды при ходьбе по воде
+
+-lexeme
+ lex: шор-шор-шор
+ gramm: IMIT
+ stem: шор-шор-шор.
+ paradigm: Clitics
+ trans_ru: о журчании, бурлении
+
+-lexeme
+ lex: тьфу
+ gramm: INTRJ,rus
+ stem: тьфу.
+ paradigm: Clitics
+ trans_ru: тьфу
+
+-lexeme
+ lex: уть
+ gramm: INTRJ
+ stem: уть.
+ paradigm: Clitics
+ trans_ru: уть
+
+-lexeme
+ lex: ать
+ gramm: INTRJ
+ stem: ать.
+ paradigm: Clitics
+ trans_ru: ать
+
+-lexeme
+ lex: уть-ать
+ gramm: INTRJ
+ stem: уть-ать.
+ paradigm: Clitics
+ trans_ru: уть-ать
+
+-lexeme
+ lex: уть-ать
+ gramm: INTRJ
+ stem: уть-а-ать.
+ paradigm: Clitics
+ trans_ru: уть-ать
+
+-lexeme
+ lex: ать-уть
+ gramm: INTRJ
+ stem: ать-уть.
+ paradigm: Clitics
+ trans_ru: ать-уть
+
+-lexeme
+ lex: как
+ gramm: PART,rus
+ stem: как.//ка-ак.//ка-а-ак.
+ paradigm: Clitics
+ trans_ru: как
+
+-lexeme
+ lex: мо-ли
+ gramm: PART,rus_afx
+ stem: мо-ли.
+ paradigm: Clitics
+ trans_ru: что ли
+
+-lexeme
+ lex: лиеш
+ gramm: PREDIC
+ stem: лиеш.
+ paradigm: Clitics
+ trans_ru: можно, разрешается, позволительно
+
+-lexeme
+ lex: викманаш
+ gramm: PARENTH
+ stem: викманаш.
+ paradigm: Clitics
+ trans_ru: прямо сказать

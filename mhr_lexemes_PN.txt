@@ -86139,3 +86139,647 @@
  paradigm: N_consonant
  trans_ru: праздник весенне-полевых работ
 
+-lexeme
+ lex: Будило
+ gramm: N,PN,persn
+ stem: будило.|будилы.|будил.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Будило
+
+-lexeme
+ lex: Ракета
+ gramm: N,PN,persn
+ stem: ракета.|ракеты.|ракет.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Ракета
+
+-lexeme
+ lex: Тоська
+ gramm: N,PN,persn
+ stem: тоська.
+ paradigm: N_oxyton
+ trans_ru: Тоська
+
+-lexeme
+ lex: Шолеҥер
+ gramm: N,topn,PN
+ stem: шолеҥер.
+ paradigm: N_consonant
+ trans_ru: Шолнер
+
+-lexeme
+ lex: Митюрин
+ gramm: N,PN,persn
+ stem: митюрин.
+ paradigm: N_consonant
+ trans_ru: Митюрин
+
+-lexeme
+ lex: Пайгат
+ gramm: N,PN,persn
+ stem: пайгат.
+ paradigm: N_consonant
+ trans_ru: Пайгат
+
+-lexeme
+ lex: Повусь
+ gramm: N,PN,persn
+ stem: повусь.|повус.
+ paradigm: N_soft
+ trans_ru: Повусь
+
+-lexeme
+ lex: Талбаш
+ gramm: N,topn,PN
+ stem: талбаш.
+ paradigm: N_consonant
+ trans_ru: Талбаш
+
+-lexeme
+ lex: Тумъер
+ gramm: N,topn,PN
+ stem: тумъер.
+ paradigm: N_consonant
+ trans_ru: Тумер
+
+-lexeme
+ lex: Мичурин-Азмекей
+ gramm: N,PN,persn
+ stem: мичурин-азмекей.|мичурин-азмеке.
+ paradigm: N_j
+ trans_ru: Мичурин-Азмекей
+
+-lexeme
+ lex: Пӧча
+ gramm: N,PN,persn
+ stem: пӧча.
+ paradigm: N_consonant
+ trans_ru: Пёча (Петя)
+
+-lexeme
+ lex: Мирон
+ gramm: N,PN,persn
+ stem: мирон.
+ paradigm: N_consonant
+ trans_ru: Мирон
+
+-lexeme
+ lex: Чак-Чора
+ gramm: N,topn,PN
+ stem: чак-чора.
+ paradigm: N_oxyton
+ trans_ru: Чак-Чора
+
+-lexeme
+ lex: Тулыкъер
+ gramm: N,topn,PN
+ stem: тулыкъер.
+ paradigm: N_consonant
+ trans_ru: Тулыкъер (Сиротское озеро)
+
+-lexeme
+ lex: Сану
+ gramm: N,PN,persn
+ stem: сану.|саны.|сан.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Сану (Саня, Александр)
+
+-lexeme
+ lex: Тобик
+ gramm: N,PN,persn
+ stem: тобик.
+ paradigm: N_consonant
+ trans_ru: Тобик
+
+-lexeme
+ lex: Кокшайск
+ gramm: N,topn,PN
+ stem: кокшайск.
+ paradigm: N_consonant
+ trans_ru: Кокшайск
+
+-lexeme
+ lex: Тулай
+ gramm: N,PN,persn
+ stem: тулай.|тула.
+ paradigm: N_j
+ trans_ru: Тулай
+
+-lexeme
+ lex: Апаси
+ gramm: N,PN,persn
+ stem: апаси.
+ paradigm: N_oxyton
+ trans_ru: Апаси
+
+-lexeme
+ lex: Епи
+ gramm: N,PN,persn
+ stem: епи.
+ paradigm: N_oxyton
+ trans_ru: Епи
+
+-lexeme
+ lex: Михайлович
+ gramm: N,PN,patrn
+ stem: михайлыч.
+ paradigm: N_consonant
+ trans_ru: Михайлович
+
+-lexeme
+ lex: Потапыч
+ gramm: N,PN,patrn
+ stem: потапыч.
+ paradigm: N_consonant
+ trans_ru: Потапыч
+
+-lexeme
+ lex: Ламчак
+ gramm: N,PN,persn
+ stem: ламчак.
+ paradigm: N_consonant
+ trans_ru: Ламчак
+
+-lexeme
+ lex: Караси
+ gramm: N,PN,persn
+ stem: караси.
+ paradigm: N_oxyton
+ trans_ru: Караси
+
+-lexeme
+ lex: Мӧрсаран
+ gramm: N,PN,topn
+ stem: мӧрсаран.
+ paradigm: N_consonant
+ trans_ru: Морсаран
+
+-lexeme
+ lex: Архипыч
+ gramm: N,PN,patrn
+ stem: архипыч.
+ paradigm: N_consonant
+ trans_ru: Архипыч, Архипович
+
+-lexeme
+ lex: Калгай
+ gramm: N,PN,persn
+ stem: калгай.|калга.
+ paradigm: N_j
+ trans_ru: Калгай
+
+-lexeme
+ lex: Миконор
+ gramm: N,PN,persn
+ stem: миконор.
+ paradigm: N_consonant
+ trans_ru: Миконор, Никанор
+
+-lexeme
+ lex: Насти
+ gramm: N,PN,famn
+ stem: насти.
+ paradigm: N_oxyton
+ trans_ru: Насти, Настя
+
+-lexeme
+ lex: Калгаев
+ gramm: N,PN,famn
+ stem: калгаев.
+ paradigm: N_consonant
+ trans_ru: Калгаев
+
+-lexeme
+ lex: Кажаева
+ gramm: N,PN,famn
+ stem: кажаева.|кажаевы.|кажаев.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Кажаева
+
+-lexeme
+ lex: Каштанка
+ gramm: N,PN,persn
+ stem: каштанка.
+ paradigm: N_oxyton
+ trans_ru: Каштанка
+
+-lexeme
+ lex: Пигол
+ gramm: N,PN,topn
+ stem: пигол.
+ paradigm: N_consonant
+ trans_ru: Пигол
+
+-lexeme
+ lex: Пам
+ gramm: N,PN,topn
+ stem: пам.
+ paradigm: N_consonant
+ trans_ru: Пам
+
+-lexeme
+ lex: Кугу Ноля
+ gramm: N,PN,topn
+ stem: кугу-ноля.
+ paradigm: N_consonant
+ trans_ru: Большая Ноля
+
+-lexeme
+ lex: Логиныч
+ gramm: N,PN,patrn
+ stem: логиныч.
+ paradigm: N_consonant
+ trans_ru: Логиныч
+
+-lexeme
+ lex: Удышъер
+ gramm: N,PN,topn
+ stem: удышъер.
+ paradigm: N_consonant
+ trans_ru: Удышъер
+
+-lexeme
+ lex: Порпиля
+ gramm: N,PN,persn
+ stem: порпиля.
+ paradigm: N_oxyton
+ trans_ru: Порпиля
+
+-lexeme
+ lex: Торкансола
+ gramm: N,PN,topn
+ stem: торкансола.
+ paradigm: N_oxyton
+ trans_ru: Торкансола
+
+-lexeme
+ lex: Онис
+ gramm: N,PN,persn
+ stem: онис.
+ paradigm: N_consonant
+ trans_ru: Онис
+
+-lexeme
+ lex: Онтось
+ gramm: N,PN,persn
+ stem: онтось.|онтос.
+ paradigm: N_soft
+ trans_ru: Онтось, Антон
+
+-lexeme
+ lex: Анчар
+ gramm: N,PN,persn
+ stem: анчар.
+ paradigm: N_consonant
+ trans_ru: Анчар
+
+-lexeme
+ lex: Аста
+ gramm: N,PN,persn
+ stem: аста.
+ paradigm: N_oxyton
+ trans_ru: Аста
+
+-lexeme
+ lex: Логин
+ gramm: N,PN,persn
+ stem: логин.
+ paradigm: N_consonant
+ trans_ru: Логин
+
+-lexeme
+ lex: Каргаполь
+ gramm: N,PN,topn
+ stem: каргаполь.|каргапол.
+ paradigm: N_soft
+ trans_ru: Каргаполь
+
+-lexeme
+ lex: Ӱшӱт
+ gramm: N,PN,topn
+ stem: ӱшӱт.
+ paradigm: N_consonant
+ trans_ru: Юшут
+
+-lexeme
+ lex: Сидырыч
+ gramm: N,PN,patrn
+ stem: сидырыч.
+ paradigm: N_consonant
+ trans_ru: Сидырыч, Сидорович
+
+-lexeme
+ lex: Чопай
+ gramm: N,PN,persn
+ stem: чопай.|чопа.
+ paradigm: N_j
+ trans_ru: Чопай
+
+-lexeme
+ lex: Отмыл-сымак
+ gramm: N,PN,topn
+ stem: отмыл-сымак.
+ paradigm: N_consonant
+ trans_ru: Отмыл-сымак
+
+-lexeme
+ lex: Апкалтын
+ gramm: N,PN,topn
+ stem: апкалтын.
+ paradigm: N_consonant
+ trans_ru: Апкалтын
+
+-lexeme
+ lex: Моламас
+ gramm: N,PN,topn
+ stem: маламас.
+ paradigm: N_consonant
+ trans_ru: Маламасы
+
+-lexeme
+ lex: Тетеркина
+ gramm: N,PN,patrn
+ stem: тетеркина.|тетеркины.|тетеркин.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Тетеркина
+
+-lexeme
+ lex: Тетеркина
+ gramm: N,PN,famn
+ stem: тетеркина.
+ paradigm: N_consonant
+ trans_ru: Тетеркина
+
+-lexeme
+ lex: Лосев
+ gramm: N,PN,famn
+ stem: лосев.
+ paradigm: N_consonant
+ trans_ru: Лосев
+
+-lexeme
+ lex: Барсуков
+ gramm: N,PN,famn
+ stem: барсуков.
+ paradigm: N_consonant
+ trans_ru: Барсуков
+
+-lexeme
+ lex: Куницына
+ gramm: N,PN,famn
+ stem: куницына.|куницыны.|куницын.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Куницына
+
+-lexeme
+ lex: Глухарев
+ gramm: N,PN,famn
+ stem: глухарев.
+ paradigm: N_consonant
+ trans_ru: Глухарев
+
+-lexeme
+ lex: Семёныч
+ gramm: N,PN,patrn
+ stem: семёныч.
+ paradigm: N_consonant
+ trans_ru: Семёныч, Семёнович
+
+-lexeme
+ lex: Шолаҥыш
+ gramm: N,PN,topn
+ stem: шолаҥыш.
+ paradigm: N_consonant
+ trans_ru: Шоланыш
+
+-lexeme
+ lex: Камаринский
+ gramm: N,PN
+ stem: камаринский.|камарински.
+ paradigm: N_j
+ trans_ru: Камаринская
+
+-lexeme
+ lex: Мушаран
+ gramm: N,PN,topn
+ stem: мушаран.
+ paradigm: N_consonant
+ trans_ru: Мушаран
+
+-lexeme
+ lex: Нолька
+ gramm: N,PN,topn
+ stem: нолька.|нолькы.|нольк.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Нолька
+
+-lexeme
+ lex: Шуйко
+ gramm: N,PN,topn
+ stem: шуйко.|шуйкы.|шуйк.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Шуйко
+
+-lexeme
+ lex: Сандрыч
+ gramm: N,patrn,PN
+ stem: сандрыч.
+ paradigm: N_consonant
+ trans_ru: Александрович
+
+-lexeme
+ lex: Осмин
+ gramm: N,famn,PN
+ stem: осмин.
+ paradigm: N_consonant
+ trans_ru: Осмин
+
+-lexeme
+ lex: Ятманов
+ gramm: N,famn,PN
+ stem: ятманов.
+ paradigm: N_consonant
+ trans_ru: Ятманов
+
+-lexeme
+ lex: Изи Моламас
+ gramm: N,PN,topn
+ stem: изи-моламас.//изи-маламас.
+ paradigm: N_consonant
+ trans_ru: Малые Маламасы
+
+-lexeme
+ lex: Кокшамар
+ gramm: N,PN,topn
+ stem: кокшамар.
+ paradigm: N_consonant
+ trans_ru: Кокшамары
+
+-lexeme
+ lex: Волжск
+ gramm: N,PN,topn
+ stem: волжск.
+ paradigm: N_consonant
+ trans_ru: Волжск
+
+-lexeme
+ lex: Пришвин
+ gramm: N,famn,PN
+ stem: пришвин.
+ paradigm: N_consonant
+ trans_ru: Пришвин
+
+-lexeme
+ lex: Мекшина
+ gramm: N,famn,PN
+ stem: мекшина.|мекшины.|мекшин.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Мекшина
+
+-lexeme
+ lex: Маскин
+ gramm: N,famn,PN
+ stem: маскин.
+ paradigm: N_consonant
+ trans_ru: Маскин
+
+-lexeme
+ lex: Монтекки
+ gramm: N,famn,PN
+ stem: монтекки.|монтеккы.//монтекки.|монтекк.//монтекки.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Монтекки
+
+-lexeme
+ lex: Капулетти
+ gramm: N,famn,PN
+ stem: капулетти.|капулетты.//капулетти.|капулетт.//капулетти.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Капулетти
+
+-lexeme
+ lex: Ромео
+ gramm: N,PN,persn
+ stem: ромео.|ромеы.//ромео.|роме.//ромео.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Ромео
+
+-lexeme
+ lex: Охотин
+ gramm: N,famn,PN
+ stem: охотин.
+ paradigm: N_consonant
+ trans_ru: Охотин
+
+-lexeme
+ lex: Жак
+ gramm: N,PN,persn
+ stem: жак.
+ paradigm: N_consonant
+ trans_ru: Жак
+
+-lexeme
+ lex: Превер
+ gramm: N,famn,PN
+ stem: превер.
+ paradigm: N_consonant
+ trans_ru: Превер
+
+-lexeme
+ lex: Костров
+ gramm: N,famn,PN
+ stem: костров.
+ paradigm: N_consonant
+ trans_ru: Костров
+
+-lexeme
+ lex: Колумб
+ gramm: N,famn,PN
+ stem: колумб.
+ paradigm: N_consonant
+ trans_ru: Колумб
+
+-lexeme
+ lex: Музуров
+ gramm: N,famn,PN
+ stem: музуров.
+ paradigm: N_consonant
+ trans_ru: Музуров
+
+-lexeme
+ lex: Янгильдин
+ gramm: N,famn,PN
+ stem: янгильдин.
+ paradigm: N_consonant
+ trans_ru: Янгильдин
+
+-lexeme
+ lex: Речкин
+ gramm: N,famn,PN
+ stem: речкин.
+ paradigm: N_consonant
+ trans_ru: Речкин
+
+-lexeme
+ lex: Галютин
+ gramm: N,famn,PN
+ stem: галютин.
+ paradigm: N_consonant
+ trans_ru: Галютин
+
+-lexeme
+ lex: Тимиркаев
+ gramm: N,famn,PN
+ stem: тимиркаев.
+ paradigm: N_consonant
+ trans_ru: Тимиркаев
+
+-lexeme
+ lex: Россон
+ gramm: N,PN,topn
+ stem: россон.
+ paradigm: N_consonant
+ trans_ru: Россоны
+
+-lexeme
+ lex: Куйбышевский
+ gramm: A,PN,topn
+ stem: куйбышевский.|куйбышевски.
+ paradigm: A_j
+ trans_ru: Куйбышевская
+
+-lexeme
+ lex: Пам
+ gramm: N,PN,missp,topn
+ stem: пым.
+ paradigm: N_consonant
+ trans_ru: Пам
+
+-lexeme
+ lex: Шипка
+ gramm: N,PN,topn
+ stem: шипка.|шипкы.|шипк.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Шипка
+
+-lexeme
+ lex: Хорь
+ gramm: N,PN,persn
+ stem: хорь.|хор.
+ paradigm: N_soft
+ trans_ru: Хорь
+
+-lexeme
+ lex: Калиныч
+ gramm: N,patrn,PN
+ stem: калиныч.
+ paradigm: N_consonant
+ trans_ru: Калиныч
+
+-lexeme
+ lex: Ошэл
+ gramm: N,famn,PN
+ stem: ошэл.
+ paradigm: N_consonant
+ trans_ru: Ошэл
+
