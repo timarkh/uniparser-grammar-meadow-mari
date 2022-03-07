@@ -10,7 +10,7 @@
  stem: ӱмбал.|ӱмба.
  gramm: N,rel_n
  paradigm: POST
- trans_ru: поверхность; наверху
+ trans_ru: верх, поверхность; наверху
 
 -lexeme
  lex: умбал

@@ -86783,3 +86783,94 @@
  paradigm: N_consonant
  trans_ru: Ошэл
 
+-lexeme
+ lex: Юл
+ gramm: N,topn,PN
+ stem: юл.
+ paradigm: N_consonant
+ trans_ru: Волга
+
+-lexeme
+ lex: Микале
+ gramm: N,PN,persn
+ stem: микале.|микалы.|микал.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Микале, Михаил
+
+-lexeme
+ lex: Чарла
+ gramm: N,topn,PN
+ stem: чарла.
+ paradigm: N_consonant
+ trans_ru: Царевококшайск
+
+-lexeme
+ lex: Баркас
+ gramm: N,PN,persn
+ stem: баркас.
+ paradigm: N_consonant
+ trans_ru: Баркас
+
+-lexeme
+ lex: Шап
+ gramm: N,PN,topn
+ stem: шап.
+ paradigm: N_consonant
+ trans_ru: Шап
+
+-lexeme
+ lex: Какшан
+ gramm: N,PN,topn
+ stem: какшан.
+ paradigm: N_consonant
+ trans_ru: Кокшага
+
+-lexeme
+ lex: Кажай
+ gramm: N,persn,PN
+ stem: кажай.|кажа.
+ paradigm: N_j
+ trans_ru: Кажай
+
+-lexeme
+ lex: Курий
+ gramm: N,persn,PN
+ stem: курий.|кури.
+ paradigm: N_j
+ trans_ru: Курий, Гурий
+
+-lexeme
+ lex: Куван
+ gramm: N,topn,PN
+ stem: куван.
+ paradigm: N_consonant
+ trans_ru: Куван
+
+-lexeme
+ lex: Керемлак
+ gramm: N,PN,topn
+ stem: керемлак.
+ paradigm: N_consonant
+ trans_ru: Керемлак
+
+-lexeme
+ lex: Шолеҥер
+ gramm: N,PN,topn
+ stem: шолеҥер.
+ paradigm: N_consonant
+ trans_ru: Шелангер
+
+-lexeme
+ lex: Колтак
+ gramm: N,PN,topn
+ stem: колтак.
+ paradigm: N_consonant
+ trans_ru: Колтак
+
+-lexeme
+ lex: Мартын
+ gramm: N,PN,topn
+ stem: мартын.
+ paradigm: N_consonant
+ trans_ru: Мартын (озеро)
+

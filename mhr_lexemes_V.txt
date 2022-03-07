@@ -40634,3 +40634,23 @@
  paradigm: V_e
  trans_ru: ботать, бить шестом по воде на рыбалке
 
+-lexeme
+ lex: шӱялташ
+ gramm: V,tr
+ stem: шӱялт.
+ paradigm: V_e
+ trans_ru: полоскать
+
+-lexeme
+ lex: йӧралаш
+ gramm: V,tr
+ stem: йӧрал.
+ paradigm: V_a
+ trans_ru: свалить
+
+-lexeme
+ lex: амалаш
+ gramm: V,intr
+ stem: амал.
+ paradigm: V_e
+ trans_ru: ловчить, изловчиться

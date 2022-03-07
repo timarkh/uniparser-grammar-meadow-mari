@@ -18588,3 +18588,136 @@
  stem: викманаш.
  paradigm: Clitics
  trans_ru: прямо сказать
+
+-lexeme
+ lex: почеш
+ gramm: ADV
+ stem: почеш.
+ paradigm: POST_ADV_Poss
+ trans_ru: следом
+
+-lexeme
+ lex: йола
+ gramm: ADV
+ stem: йола.
+ paradigm: POST_ADV_Poss
+ trans_ru: на ногах
+
+-lexeme
+ lex: йып-йып
+ gramm: ADV
+ stem: йып.
+ paradigm: POST_ADV_Poss
+ trans_ru: совершенно, совсем
+
+-lexeme
+ lex: кӱшкыла
+ gramm: ADV
+ stem: кӱшкыла.
+ paradigm: POST_ADV_Poss
+ trans_ru: наверх
+
+-lexeme
+ lex: тура
+ gramm: ADV
+ stem: тура.
+ paradigm: POST_ADV_Poss
+ trans_ru: круто
+
+-lexeme
+ lex: ласка
+ gramm: ADV,rus
+ stem: ласка.
+ paradigm: POST_ADV_Poss
+ trans_ru: cпокойно, приятно
+
+-lexeme
+ lex: тореш
+ gramm: ADV
+ stem: тореш.
+ paradigm: POST_ADV_Poss
+ trans_ru: напротив; поперёк
+
+-lexeme
+ lex: кутынек
+ gramm: ADV
+ stem: кутынек.
+ paradigm: POST_ADV_Poss
+ trans_ru: вдоль, по
+
+-lexeme
+ lex: мучко
+ gramm: ADV
+ stem: мучко.
+ paradigm: POST_ADV_Poss
+ trans_ru: целиком; сплошь; вдоль
+
+-lexeme
+ lex: чап-чап
+ gramm: IMIT
+ stem: чап-чап.
+ paradigm: Clitics
+ trans_ru: о крике синицы
+
+-lexeme
+ lex: кыж-гож
+ gramm: IMIT
+ stem: кыж-кож.
+ paradigm: Clitics
+ trans_ru: о звуке шороха, шелеста
+
+-lexeme
+ lex: фыр
+ gramm: IMIT,rus
+ stem: фыр.
+ paradigm: Clitics
+ trans_ru: фыр, о выходе воздуха, пара
+
+-lexeme
+ lex: пышт
+ gramm: IMIT
+ stem: пышт.
+ paradigm: Clitics
+ trans_ru: о пыхтении
+
+-lexeme
+ lex: ай-ай
+ gramm: INTRJ
+ stem: ай-ай.//ай-яй.
+ paradigm: Clitics
+ trans_ru: ах, эх
+
+-lexeme
+ lex: ау
+ gramm: INTRJ,rus
+ stem: а-у-у.
+ paradigm: Clitics
+ trans_ru: ау, отклик на зов, окрик при поиске
+
+-lexeme
+ lex: кыр-лук
+ gramm: IMIT
+ stem: кыр-лук.
+ paradigm: Clitics
+ trans_ru: о крике журавля
+
+-lexeme
+ lex: гоч
+ gramm: POST
+ stem: коч.
+ paradigm: POST_ADV_Poss
+ trans_ru: через; пока
+
+-lexeme
+ lex: верч
+ gramm: POST
+ stem: верч.
+ paradigm: POST_ADV_Poss
+ trans_ru: для, ради, из-за
+
+-lexeme
+ lex: кӱлеш
+ gramm: PREDIC
+ stem: кӱлеш.
+ paradigm: Clitics
+ trans_ru: нужно

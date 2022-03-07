@@ -33631,3 +33631,17 @@
  paradigm: A_consonant
  trans_ru: малый, имеющийся в небольшом количестве
 
+-lexeme
+ lex: леп-леве
+ gramm: A
+ stem: леп-леп.
+ paradigm: A_consonant
+ trans_ru: тёплый
+
+-lexeme
+ lex: кочо
+ gramm: A
+ stem: кочо.|кочы.|коч.
+ paradigm: A_paroxyton_v_weak
+ trans_ru: горький
+
