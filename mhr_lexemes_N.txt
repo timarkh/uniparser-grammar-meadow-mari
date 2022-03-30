@@ -4412,7 +4412,7 @@
 
 -lexeme
  lex: аптыратыш
- stem: аптыратыш.
+ stem: аптыратыш.//аптратыш.
  gramm: N
  paradigm: N_consonant
  trans_ru: неожиданность, опасность, несправедливость
@@ -4828,6 +4828,13 @@
  stem: аркамбал.
  gramm: N
  paradigm: N_consonant
+ trans_ru: холм, возвышенность
+
+-lexeme
+ lex: аркамбал
+ stem: аркамбал.|аркамба.
+ gramm: N
+ paradigm: POST
  trans_ru: холм, возвышенность
 
 -lexeme
@@ -11385,6 +11392,13 @@
 
 -lexeme
  lex: вачӱмбал
+ stem: вачӱмбал.|вачӱмба.
+ gramm: N
+ paradigm: POST
+ trans_ru: вышивка на плечах
+
+-lexeme
+ lex: вачӱмбал
  stem: вачӱмбал.
  gramm: N,body
  paradigm: N_consonant
@@ -15676,7 +15690,7 @@
 
 -lexeme
  lex: вӱдшедыра
- stem: вӱдшедыра.//вӱдшэдыра.
+ stem: вӱдшедыра.//вӱдшедра.//вӱдшэдыра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: ветряная оспа
@@ -15774,7 +15788,7 @@
 
 -lexeme
  lex: вӱдшӱвыроҥ
- stem: вӱдшӱвыроҥ.
+ stem: вӱдшӱвыроҥ.//вӱдшӱвроҥ.
  gramm: N,anim
  paradigm: N_consonant
  trans_ru: водяной пузырь
@@ -16008,6 +16022,13 @@
  stem: вӱтамбал.
  gramm: N
  paradigm: N_consonant
+ trans_ru: сеновал
+
+-lexeme
+ lex: вӱтамбал
+ stem: вӱтамбал.|вӱтамба.
+ gramm: N
+ paradigm: POST
  trans_ru: сеновал
 
 -lexeme
@@ -28705,6 +28726,13 @@
  trans_ru: пелёнка
 
 -lexeme
+ lex: йолымбал
+ stem: йолымбал.|йолымба.
+ gramm: N
+ paradigm: POST
+ trans_ru: пелёнка
+
+-lexeme
  lex: йомак
  stem: йомак.
  gramm: N
@@ -29559,6 +29587,13 @@
  trans_ru: север
 
 -lexeme
+ lex: йӱдйымал
+ stem: йӱдйымал.|йӱдйыма.
+ gramm: N
+ paradigm: POST
+ trans_ru: север
+
+-lexeme
  lex: йӱдпел
  stem: йӱдпел.//йӱдпэл.
  gramm: N
@@ -30050,7 +30085,7 @@
 
 -lexeme
  lex: кадырик
- stem: кадырик.
+ stem: кадырик.//кадрик.
  gramm: N
  paradigm: N_consonant
  trans_ru: закорючка; кривой, перекошенный
@@ -30249,6 +30284,13 @@
  stem: казнамбал.
  gramm: N
  paradigm: N_consonant
+ trans_ru: место над опечьем
+
+-lexeme
+ lex: казнамбал
+ stem: казнамбал.|казнамба.
+ gramm: N
+ paradigm: POST
  trans_ru: место над опечьем
 
 -lexeme
@@ -31618,7 +31660,7 @@
 
 -lexeme
  lex: каравыра
- stem: каравыра.
+ stem: каравыра.//каравра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: свинка
@@ -33865,6 +33907,13 @@
  trans_ru: юг
 
 -lexeme
+ lex: кечывалйымал
+ stem: кечывалйымал.|кечывалйыма.
+ gramm: N
+ paradigm: POST
+ trans_ru: юг
+
+-lexeme
  lex: кечывоштек
  stem: кечывоштек.//кечывоштэк.
  gramm: N
@@ -34016,6 +34065,13 @@
  stem: кидйымал.
  gramm: N
  paradigm: N_consonant
+ trans_ru: метка из соломы на полосе
+
+-lexeme
+ lex: кидйымал
+ stem: кидйымал.|кидйыма.
+ gramm: N
+ paradigm: POST
  trans_ru: метка из соломы на полосе
 
 -lexeme
@@ -35335,6 +35391,13 @@
  trans_ru: балкон двухэтажного амбара или место перед амбаром
 
 -lexeme
+ lex: клатончыл
+ stem: клатончыл.|клатончы.
+ gramm: N
+ paradigm: POST
+ trans_ru: балкон двухэтажного амбара или место перед амбаром
+
+-lexeme
  lex: клевер
  stem: клевер.//клевэр.
  gramm: N,rus
@@ -35897,21 +35960,21 @@
 
 -lexeme
  lex: ковыра
- stem: ковыра.
+ stem: ковыра.//ковра.
  gramm: N,anim,hum
  paradigm: N_oxyton
  trans_ru: щёголь, франт; красота
 
 -lexeme
  lex: ковыравоч
- stem: ковыравоч.
+ stem: ковыравоч.//ковравоч.
  gramm: N,anim
  paradigm: N_consonant
  trans_ru: щегол
 
 -lexeme
  lex: ковыралык
- stem: ковыралык.
+ stem: ковыралык.//ковралык.
  gramm: N
  paradigm: N_consonant
  trans_ru: щегольство; красота
@@ -37969,7 +38032,7 @@
 
 -lexeme
  lex: комыля
- stem: комыля.
+ stem: комыля.//комля.
  gramm: N
  paradigm: N_oxyton
  trans_ru: кусок
@@ -38991,7 +39054,7 @@
 
 -lexeme
  lex: коптыра
- stem: коптыра.
+ stem: коптыра.//коптра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: кусок луба, коры берёзы
@@ -39414,6 +39477,13 @@
  stem: корнӱмбал.
  gramm: N
  paradigm: N_consonant
+ trans_ru: придорожье
+
+-lexeme
+ lex: корнӱмбал
+ stem: корнӱмбал.|корнӱмба.
+ gramm: N
+ paradigm: POST
  trans_ru: придорожье
 
 -lexeme
@@ -40412,6 +40482,13 @@
  trans_ru: подпечье
 
 -lexeme
+ lex: коҥгайымал
+ stem: коҥгайымал.|коҥгайыма.
+ gramm: N
+ paradigm: POST
+ trans_ru: подпечье
+
+-lexeme
  lex: коҥгалук
  stem: коҥгалук.
  gramm: N
@@ -40433,6 +40510,13 @@
  trans_ru: лежанка у печи
 
 -lexeme
+ lex: коҥгамбал
+ stem: коҥгамбал.|коҥгамба.
+ gramm: N
+ paradigm: POST
+ trans_ru: лежанка у печи
+
+-lexeme
  lex: коҥгаолмо
  stem: коҥгаолмо.|коҥгаолмы.|коҥгаолм.
  gramm: N
@@ -40444,6 +40528,13 @@
  stem: коҥгаончыл.
  gramm: N
  paradigm: N_consonant
+ trans_ru: предпечье, шесток
+
+-lexeme
+ lex: коҥгаончыл
+ stem: коҥгаончыл.|коҥгаончы.
+ gramm: N
+ paradigm: POST
  trans_ru: предпечье, шесток
 
 -lexeme
@@ -40493,6 +40584,13 @@
  stem: коҥгашеҥгел.//коҥгашеҥгэл.
  gramm: N
  paradigm: N_consonant
+ trans_ru: запечье
+
+-lexeme
+ lex: коҥгашеҥгел
+ stem: коҥгашеҥгел.|коҥгашеҥге.
+ gramm: N
+ paradigm: POST
  trans_ru: запечье
 
 -lexeme
@@ -44674,7 +44772,7 @@
 
 -lexeme
  lex: кӱдырат
- stem: кӱдырат.
+ stem: кӱдырат.//кӱдрат.
  gramm: N
  paradigm: N_consonant
  trans_ru: сила, мощь; величие
@@ -44709,7 +44807,7 @@
 
 -lexeme
  lex: кӱдыроҥгыр
- stem: кӱдыроҥгыр.
+ stem: кӱдыроҥгыр.//кӱдроҥгыр.
  gramm: N
  paradigm: N_consonant
  trans_ru: сон-трава, прострел
@@ -45472,14 +45570,14 @@
 
 -lexeme
  lex: лавыра
- stem: лавыра.
+ stem: лавыра.//лавра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: грязь
 
 -lexeme
  lex: лавыран
- stem: лавыран.
+ stem: лавыран.//лавран.
  gramm: N
  paradigm: N_consonant
  trans_ru: грязи; лечебный ил
@@ -45863,6 +45961,13 @@
  trans_ru: полка
 
 -lexeme
+ lex: лапкамбал
+ stem: лапкамбал.|лапкамба.
+ gramm: N
+ paradigm: POST
+ trans_ru: полка
+
+-lexeme
  lex: лапке
  stem: лапке.//лапкэ.|лапкы.|лапк.
  gramm: N,rus
@@ -45920,7 +46025,7 @@
 
 -lexeme
  lex: лаптырашудо
- stem: лаптырашудо.|лаптырашуды.|лаптырашуд.
+ stem: лаптырашудо.//лаптрашудо.|лаптырашуды.//лаптрашуды.|лаптырашуд.//лаптрашуд.
  gramm: N
  paradigm: N_paroxyton_v_weak
  trans_ru: подорожник
@@ -47662,6 +47767,13 @@
  trans_ru: нашейное украшение из серебряных монет и бус
 
 -lexeme
+ lex: логарйымал
+ stem: логарйымал.|логарйыма.
+ gramm: N
+ paradigm: POST
+ trans_ru: нашейное украшение из серебряных монет и бус
+
+-lexeme
  lex: логика
  stem: логика.|логика.//логикы.|логика.//логик.
  gramm: N,rus
@@ -48450,6 +48562,13 @@
  stem: лумйымал.
  gramm: N
  paradigm: N_consonant
+ trans_ru: первоцвет весенний
+
+-lexeme
+ lex: лумйымал
+ stem: лумйымал.|лумйыма.
+ gramm: N
+ paradigm: POST
  trans_ru: первоцвет весенний
 
 -lexeme
@@ -51667,7 +51786,7 @@
 
 -lexeme
  lex: мелгандыра
- stem: мелгандыра.//мэлгандыра.
+ stem: мелгандыра.//мелгандра.//мэлгандыра.//мэлгандра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: завязка на верхней части грудного выреза рубахи
@@ -53346,6 +53465,13 @@
  trans_ru: поверхность земли
 
 -lexeme
+ lex: мландӱмбал
+ stem: мландӱмбал.|мландӱмба.
+ gramm: N
+ paradigm: POST
+ trans_ru: поверхность земли
+
+-lexeme
  lex: мнений
  stem: мнений.|мнени.
  gramm: N,rus
@@ -54099,6 +54225,13 @@
  stem: мончаончыл.
  gramm: N
  paradigm: N_consonant
+ trans_ru: предбанник
+
+-lexeme
+ lex: мончаончыл
+ stem: мончаончыл.|мончаончы.
+ gramm: N
+ paradigm: POST
  trans_ru: предбанник
 
 -lexeme
@@ -55933,6 +56066,13 @@
  stem: мӱшкырйымал.
  gramm: N
  paradigm: N_consonant
+ trans_ru: подпруга
+
+-lexeme
+ lex: мӱшкырйымал
+ stem: мӱшкырйымал.|мӱшкырйыма.
+ gramm: N
+ paradigm: POST
  trans_ru: подпруга
 
 -lexeme
@@ -61481,6 +61621,13 @@
  trans_ru: лавка для сидения
 
 -lexeme
+ lex: олымбал
+ stem: олымбал.|олымба.
+ gramm: N
+ paradigm: POST
+ trans_ru: лавка для сидения
+
+-lexeme
  lex: омарта
  stem: омарта.
  gramm: N
@@ -64549,6 +64696,13 @@
  trans_ru: полка
 
 -lexeme
+ lex: оҥамбал
+ stem: оҥамбал.|оҥамба.
+ gramm: N
+ paradigm: POST
+ trans_ru: полка
+
+-lexeme
  lex: оҥартыш
  stem: оҥартыш.
  gramm: N
@@ -64693,6 +64847,13 @@
  stem: оҥылашйымал.
  gramm: N
  paradigm: N_consonant
+ trans_ru: украшение из монет, которое подвешивается под подбородком
+
+-lexeme
+ lex: оҥылашйымал
+ stem: оҥылашйымал.|оҥылашйыма.
+ gramm: N
+ paradigm: POST
  trans_ru: украшение из монет, которое подвешивается под подбородком
 
 -lexeme
@@ -64851,7 +65012,7 @@
 
 -lexeme
  lex: падыренгӹ
- stem: падыренгӹ.//падырэнгӹ.
+ stem: падыренгӹ.//падренгӹ.//падырэнгӹ.
  gramm: N
  paradigm: N_paroxyton_v_strong
  trans_ru: стебель хмеля
@@ -79852,6 +80013,13 @@
  trans_ru: подполье
 
 -lexeme
+ lex: пӧртйымал
+ stem: пӧртйымал.|пӧртйыма.
+ gramm: N
+ paradigm: POST
+ trans_ru: подполье
+
+-lexeme
  lex: пӧртйыр
  stem: пӧртйыр.
  gramm: N
@@ -79898,6 +80066,13 @@
  stem: пӧртӧнчыл.
  gramm: N
  paradigm: N_consonant
+ trans_ru: сени; крыльцо
+
+-lexeme
+ lex: пӧртӧнчыл
+ stem: пӧртӧнчыл.|пӧртӧнчы.
+ gramm: N
+ paradigm: POST
  trans_ru: сени; крыльцо
 
 -lexeme
@@ -80322,49 +80497,49 @@
 
 -lexeme
  lex: пӱтыралтыш
- stem: пӱтыралтыш.
+ stem: пӱтыралтыш.//пӱтралтыш.
  gramm: N
  paradigm: N_consonant
  trans_ru: вертушка (для запора)
 
 -lexeme
  lex: пӱтыралтыш
- stem: пӱтыралтыш.
+ stem: пӱтыралтыш.//пӱтралтыш.
  gramm: N
  paradigm: N_consonant
  trans_ru: квиток, завиток
 
 -lexeme
  lex: пӱтыралтышшудо
- stem: пӱтыралтышшудо.|пӱтыралтышшуды.|пӱтыралтышшуд.
+ stem: пӱтыралтышшудо.//пӱтралтышшудо.|пӱтыралтышшуды.//пӱтралтышшуды.|пӱтыралтышшуд.//пӱтралтышшуд.
  gramm: N
  paradigm: N_paroxyton_v_weak
  trans_ru: вьюнок полевой
 
 -lexeme
  lex: пӱтырем
- stem: пӱтырем.//пӱтырэм.
+ stem: пӱтырем.//пӱтрем.//пӱтырэм.
  gramm: N
  paradigm: N_consonant
  trans_ru: вихрь, смерч
 
 -lexeme
  lex: пӱтыремвоч
- stem: пӱтыремвоч.//пӱтырэмвоч.
+ stem: пӱтыремвоч.//пӱтремвоч.//пӱтырэмвоч.
  gramm: N,anim,hum
  paradigm: N_consonant
  trans_ru: вертихвостка
 
 -lexeme
  lex: пӱтыремшудо
- stem: пӱтыремшудо.//пӱтырэмшудо.|пӱтыремшуды.//пӱтырэмшуды.|пӱтыремшуд.//пӱтырэмшуд.
+ stem: пӱтыремшудо.//пӱтремшудо.//пӱтырэмшудо.|пӱтыремшуды.//пӱтремшуды.//пӱтырэмшуды.|пӱтыремшуд.//пӱтремшуд.//пӱтырэмшуд.
  gramm: N
  paradigm: N_paroxyton_v_weak
  trans_ru: вьюнок
 
 -lexeme
  lex: пӱтыреч
- stem: пӱтыреч.//пӱтырэч.
+ stem: пӱтыреч.//пӱтреч.//пӱтырэч.
  gramm: N
  paradigm: N_consonant
  trans_ru: мутовка; скалка
@@ -84299,9 +84474,23 @@
 
 -lexeme
  lex: рокйымал
+ stem: рокйымал.|рокйыма.
+ gramm: N
+ paradigm: POST
+ trans_ru: белый груздь; подгруздень
+
+-lexeme
+ lex: рокйымал
  stem: рокйымал.
  gramm: N
  paradigm: N_consonant
+ trans_ru: подпочва
+
+-lexeme
+ lex: рокйымал
+ stem: рокйымал.|рокйыма.
+ gramm: N
+ paradigm: POST
  trans_ru: подпочва
 
 -lexeme
@@ -90893,7 +91082,7 @@
 
 -lexeme
  lex: сокырӱвыра
- stem: сокырӱвыра.
+ stem: сокырӱвыра.//сокырӱвра.
  gramm: N,anim
  paradigm: N_oxyton
  trans_ru: мошкара
@@ -91327,7 +91516,7 @@
 
 -lexeme
  lex: соптырий
- stem: соптырий.|соптыри.
+ stem: соптырий.//соптрий.|соптыри.//соптри.
  gramm: N,anim,hum
  paradigm: N_j
  trans_ru: плохо одетый, грязный человек
@@ -98089,7 +98278,7 @@
 
 -lexeme
  lex: тетыра
- stem: тетыра.//тэтыра.
+ stem: тетыра.//тетра.//тэтыра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: круг, колесо
@@ -98463,6 +98652,13 @@
  stem: тиштымбал.
  gramm: N
  paradigm: N_consonant
+ trans_ru: территориальное и религиозное объединение марийцев
+
+-lexeme
+ lex: тиштымбал
+ stem: тиштымбал.|тиштымба.
+ gramm: N
+ paradigm: POST
  trans_ru: территориальное и религиозное объединение марийцев
 
 -lexeme
@@ -100721,7 +100917,7 @@
 
 -lexeme
  lex: туйыс
- stem: туйыс.
+ stem: туйыс.//туйс.
  gramm: N,rus
  paradigm: N_consonant
  trans_ru: бурак, туес
@@ -101038,7 +101234,7 @@
 
 -lexeme
  lex: тулуп
- stem: тулуп.
+ stem: тулуп.//тулып.
  gramm: N,rus
  paradigm: N_consonant
  trans_ru: тулуп
@@ -101069,6 +101265,13 @@
  stem: тулымбал.
  gramm: N
  paradigm: N_consonant
+ trans_ru: сушилка
+
+-lexeme
+ lex: тулымбал
+ stem: тулымбал.|тулымба.
+ gramm: N
+ paradigm: POST
  trans_ru: сушилка
 
 -lexeme
@@ -102480,14 +102683,14 @@
 
 -lexeme
  lex: тӧтыреткайык
- stem: тӧтыреткайык.//тӧтырэткайык.
+ stem: тӧтыреткайык.//тӧтреткайык.//тӧтырэткайык.
  gramm: N,anim
  paradigm: N_consonant
  trans_ru: удод
 
 -lexeme
  lex: тӧтыретпуч
- stem: тӧтыретпуч.//тӧтырэтпуч.
+ stem: тӧтыретпуч.//тӧтретпуч.//тӧтырэтпуч.
  gramm: N
  paradigm: N_consonant
  trans_ru: дудка из бересты
@@ -102536,7 +102739,7 @@
 
 -lexeme
  lex: тӱвыра
- stem: тӱвыра.
+ stem: тӱвыра.//тӱвра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: культура
@@ -102836,6 +103039,13 @@
  trans_ru: земля; мир
 
 -lexeme
+ lex: тӱнямбал
+ stem: тӱнямбал.|тӱнямба.
+ gramm: N
+ paradigm: POST
+ trans_ru: земля; мир
+
+-lexeme
  lex: тӱняончалтыш
  stem: тӱняончалтыш.
  gramm: N
@@ -102991,14 +103201,14 @@
 
 -lexeme
  lex: тӱтыра
- stem: тӱтыра.
+ stem: тӱтыра.//тӱтра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: туман
 
 -lexeme
  lex: тӱтырашудо
- stem: тӱтырашудо.|тӱтырашуды.|тӱтырашуд.
+ stem: тӱтырашудо.//тӱтрашудо.|тӱтырашуды.//тӱтрашуды.|тӱтырашуд.//тӱтрашуд.
  gramm: N
  paradigm: N_paroxyton_v_weak
  trans_ru: синеголовник плосколистный
@@ -103869,6 +104079,13 @@
  stem: ужарӱмбал.
  gramm: N
  paradigm: N_consonant
+ trans_ru: сыроежка зелёная
+
+-lexeme
+ lex: ужарӱмбал
+ stem: ужарӱмбал.|ужарӱмба.
+ gramm: N
+ paradigm: POST
  trans_ru: сыроежка зелёная
 
 -lexeme
@@ -109889,7 +110106,7 @@
 
 -lexeme
  lex: чадыра
- stem: чадыра.
+ stem: чадыра.//чадра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: чадра
@@ -112914,7 +113131,7 @@
 
 -lexeme
  lex: чызе
- stem: чызе.//чызэ.|чызы.|чыз.
+ stem: чызе.//чызэ.//чизе.//чизэ.|чызы.//чизы.|чыз.//чиз.
  gramm: N,body
  paradigm: N_paroxyton_v_weak
  trans_ru: грудь; сосок
@@ -114456,7 +114673,7 @@
 
 -lexeme
  lex: шедыра
- stem: шедыра.//шэдыра.
+ stem: шедыра.//шедра.//шэдыра.
  gramm: N
  paradigm: N_oxyton
  trans_ru: оспа; заразная болезнь
@@ -118973,9 +119190,16 @@
 
 -lexeme
  lex: шӧлдырамбал
- stem: шӧлдырамбал.
+ stem: шӧлдырамбал.//шӧлдрамбал.
  gramm: N
  paradigm: N_consonant
+ trans_ru: полати
+
+-lexeme
+ lex: шӧлдырамбал
+ stem: шӧлдырамбал.//шӧлдрамбал.|шӧлдырамба.//шӧлдрамба.
+ gramm: N
+ paradigm: POST
  trans_ru: полати
 
 -lexeme
@@ -119161,6 +119385,13 @@
  trans_ru: сливки
 
 -lexeme
+ lex: шӧрӱмбал
+ stem: шӧрӱмбал.|шӧрӱмба.
+ gramm: N
+ paradigm: POST
+ trans_ru: сливки
+
+-lexeme
  lex: шӱалтыш
  stem: шӱалтыш.
  gramm: N
@@ -119225,7 +119456,7 @@
 
 -lexeme
  lex: шӱвыроҥ
- stem: шӱвыроҥ.
+ stem: шӱвыроҥ.//шӱвроҥ.
  gramm: N,body
  paradigm: N_consonant
  trans_ru: пузырь, волдырь
@@ -119431,6 +119662,13 @@
  stem: шӱйымал.
  gramm: N
  paradigm: N_consonant
+ trans_ru: ожерелье из серебряных монет
+
+-lexeme
+ lex: шӱйымал
+ stem: шӱйымал.|шӱйыма.
+ gramm: N
+ paradigm: POST
  trans_ru: ожерелье из серебряных монет
 
 -lexeme
@@ -123364,6 +123602,13 @@
  trans_ru: божница
 
 -lexeme
+ lex: юмончыл
+ stem: юмончыл.|юмончы.
+ gramm: N
+ paradigm: POST
+ trans_ru: божница
+
+-lexeme
  lex: юмор
  stem: юмор.
  gramm: N,rus
@@ -125506,6 +125751,13 @@
  trans_ru: стол
 
 -lexeme
+ lex: ӱстембал
+ stem: ӱстембал.|ӱстемба.
+ gramm: N
+ paradigm: POST
+ trans_ru: стол
+
+-lexeme
  lex: ӱстембалшовыч
  stem: ӱстембалшовыч.//ӱстэмбалшовыч.
  gramm: N
@@ -126744,3 +126996,86 @@
  paradigm: N_consonant
  trans_ru: нелепость
 
+-lexeme
+ lex: садок
+ gramm: N,rus
+ stem: садок.
+ paradigm: N_consonant
+ trans_ru: садок; рыболовная снасть
+
+-lexeme
+ lex: лач
+ gramm: N
+ stem: лач.
+ paradigm: N_consonant
+ trans_ru: правда
+
+-lexeme
+ lex: ятыр
+ gramm: N
+ stem: ятыр.
+ paradigm: N_consonant
+ trans_ru: многие
+
+-lexeme
+ lex: яндау
+ gramm: N
+ stem: яндау.
+ paradigm: N_oxyton
+ trans_ru: стекло
+
+-lexeme
+ lex: подлиза
+ gramm: N,anim,hum,rus
+ stem: подлиза.|подлизы.|подлиз.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: подлиза
+
+-lexeme
+ lex: старука
+ gramm: N,anim,rus,hum
+ stem: старука.|старукы.|старук.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: старука
+
+-lexeme
+ lex: чайгорка
+ gramm: N,rus
+ stem: чайкорка.
+ paradigm: N_oxyton
+ trans_ru: чашка для чая
+
+-lexeme
+ lex: юрдий
+ gramm: N,anim
+ stem: юрди.
+ paradigm: N_oxyton
+ trans_ru: пескарь
+
+-lexeme
+ lex: больнице
+ gramm: N,rus
+ stem: больнице.|больницы.|больниц.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: больница
+
+-lexeme
+ lex: пионервожатый
+ gramm: N,rus,anim,hum
+ stem: пионервожатый.|пионервожаты.
+ paradigm: N_j
+ trans_ru: пионервожатый
+
+-lexeme
+ lex: каннель
+ gramm: N,rus
+ stem: каннель.|каннел.
+ paradigm: N_soft
+ trans_ru: каннель (эстонские гусли)
+
+-lexeme
+ lex: волгыдо
+ stem: волгыдо.|волгыды.|волгыд.
+ gramm: N
+ paradigm: N_paroxyton_v_weak
+ trans_ru: свет

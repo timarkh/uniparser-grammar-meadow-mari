@@ -8785,7 +8785,7 @@
 
 -lexeme
  lex: йытыра
- stem: йытыра.
+ stem: йытыра.//йытра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: красивый
@@ -9422,7 +9422,7 @@
 
 -lexeme
  lex: каптыра
- stem: каптыра.
+ stem: каптыра.//каптра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: убогий
@@ -10626,14 +10626,14 @@
 
 -lexeme
  lex: коптыра
- stem: коптыра.
+ stem: коптыра.//коптра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: грубый, жёсткий, ломкий
 
 -lexeme
  lex: коптыра
- stem: коптыра.
+ stem: коптыра.//коптра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: непривлекательный, негладкий
@@ -10843,7 +10843,7 @@
 
 -lexeme
  lex: коштыра
- stem: коштыра.
+ stem: коштыра.//коштра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: грубый, шершавый
@@ -11221,7 +11221,7 @@
 
 -lexeme
  lex: кугыра
- stem: кугыра.
+ stem: кугыра.//кугра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: жёсткий
@@ -11487,7 +11487,7 @@
 
 -lexeme
  lex: куптыра
- stem: куптыра.
+ stem: куптыра.//куптра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: морщинистый
@@ -11963,7 +11963,7 @@
 
 -lexeme
  lex: кӧҥгыра
- stem: кӧҥгыра.
+ stem: кӧҥгыра.//кӧҥгра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: неровный, бугристый
@@ -12201,7 +12201,7 @@
 
 -lexeme
  lex: ладыра
- stem: ладыра.
+ stem: ладыра.//ладра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: раскидистый
@@ -12320,7 +12320,7 @@
 
 -lexeme
  lex: лаптыра
- stem: лаптыра.
+ stem: лаптыра.//лаптра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: приземистый
@@ -12845,7 +12845,7 @@
 
 -lexeme
  lex: лоптыра
- stem: лоптыра.
+ stem: лоптыра.//лоптра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: неаккуратный
@@ -13027,7 +13027,7 @@
 
 -lexeme
  lex: луштыра
- stem: луштыра.
+ stem: луштыра.//луштра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: слабый, вялый
@@ -13300,7 +13300,7 @@
 
 -lexeme
  lex: люптыра
- stem: люптыра.
+ stem: люптыра.//люптра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: крупный, тяжёлый
@@ -13475,7 +13475,7 @@
 
 -lexeme
  lex: лӱштыра
- stem: лӱштыра.
+ stem: лӱштыра.//лӱштра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: лохматый, мохнатый, длинношёрстый
@@ -18025,7 +18025,7 @@
 
 -lexeme
  lex: падыра
- stem: падыра.
+ stem: падыра.//падра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: хрупкий, ломкий; крупитчатый
@@ -19425,7 +19425,7 @@
 
 -lexeme
  lex: полдыра
- stem: полдыра.
+ stem: полдыра.//полдра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: крупный, большой
@@ -21357,7 +21357,7 @@
 
 -lexeme
  lex: пӧдыра
- stem: пӧдыра.
+ stem: пӧдыра.//пӧдра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: крупный (по размеру)
@@ -24073,7 +24073,7 @@
 
 -lexeme
  lex: соптыра
- stem: соптыра.
+ stem: соптыра.//соптра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: плохой
@@ -24220,7 +24220,7 @@
 
 -lexeme
  lex: соҥгыра
- stem: соҥгыра.
+ stem: соҥгыра.//соҥгра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: глухой
@@ -26383,7 +26383,7 @@
 
 -lexeme
  lex: тотыра
- stem: тотыра.
+ stem: тотыра.//тотра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: корявый (о дереве); неуклюжий (о человеке)
@@ -26929,7 +26929,7 @@
 
 -lexeme
  lex: туҥгыра
- stem: туҥгыра.
+ stem: туҥгыра.//туҥгра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: очень грязный
@@ -27244,7 +27244,7 @@
 
 -lexeme
  lex: тӧтыра
- stem: тӧтыра.
+ stem: тӧтыра.//тӧтра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: невнятный
@@ -29680,7 +29680,7 @@
 
 -lexeme
  lex: чаҥгыра
- stem: чаҥгыра.
+ stem: чаҥгыра.//чаҥгра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: звонкий
@@ -29995,7 +29995,7 @@
 
 -lexeme
  lex: чодыра
- stem: чодыра.
+ stem: чодыра.//чодра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: крупный (о помоле)
@@ -30142,7 +30142,7 @@
 
 -lexeme
  lex: чоштыра
- stem: чоштыра.
+ stem: чоштыра.//чоштра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: грубый
@@ -30464,7 +30464,7 @@
 
 -lexeme
  lex: шадыра
- stem: шадыра.
+ stem: шадыра.//шадра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: шероховатый
@@ -30527,7 +30527,7 @@
 
 -lexeme
  lex: шалдыра
- stem: шалдыра.
+ stem: шалдыра.//шалдра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: из жердей (ворота)
@@ -31247,7 +31247,7 @@
 
 -lexeme
  lex: шолдыра
- stem: шолдыра.
+ stem: шолдыра.//шолдра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: крупный
@@ -31408,7 +31408,7 @@
 
 -lexeme
  lex: шудыра
- stem: шудыра.
+ stem: шудыра.//шудра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: зелёный
@@ -31821,7 +31821,7 @@
 
 -lexeme
  lex: шӱштыра
- stem: шӱштыра.
+ stem: шӱштыра.//шӱштра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: рассыпчатый
@@ -32745,7 +32745,7 @@
 
 -lexeme
  lex: юштыра
- stem: юштыра.
+ stem: юштыра.//юштра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: рассыпчатый
@@ -33592,7 +33592,7 @@
 -lexeme
  lex: лаштыра
  gramm: A
- stem: лаштыра.
+ stem: лаштыра.//лаштра.
  paradigm: A_oxyton
  trans_ru: развесистый, пушистый
 

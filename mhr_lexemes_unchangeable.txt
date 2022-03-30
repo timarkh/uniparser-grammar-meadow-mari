@@ -1603,9 +1603,10 @@
 
 -lexeme
  lex: гоч
- stem: гоч.
+ stem: гоч.//коч.
  gramm: POST
  paradigm: POST_ADV_Poss
+ paradigm: N_Poss_consonant_nocasenum
  trans_ru: через; пока
 
 -lexeme
@@ -1811,6 +1812,7 @@
  stem: ден.//дэн.
  gramm: POST,nonst
  paradigm: POST_ADV_Poss
+ paradigm: N_Poss_consonant_nocasenum
  trans_ru: с, из; в
 
 -lexeme
@@ -1832,7 +1834,7 @@
  stem: деч.//дэч.
  gramm: POST
  paradigm: POST_ADV_Poss
- paradigm: N_Poss_consonant
+ paradigm: N_Poss_consonant_nocasenum
  trans_ru: от
 
 -lexeme
@@ -6198,7 +6200,7 @@
 
 -lexeme
  lex: луйык
- stem: луйык.
+ stem: луйык.//луйк.
  gramm: ADV
  paradigm: POST_ADV_Poss
  trans_ru: спокойно
@@ -7087,7 +7089,7 @@
 
 -lexeme
  lex: молгунам
- stem: молгунам.
+ stem: молгунам.//молыгунам.
  gramm: ADV
  paradigm: POST_ADV_Poss
  trans_ru: раньше, обычно
@@ -8464,6 +8466,14 @@
  paradigm: POST_ADV_Poss
  paradigm: N_Poss_consonant_nocasenum
  trans_ru: к; с; рядом
+
+-lexeme
+ lex: пелен
+ stem: пелен.//пелэн.
+ gramm: ADV
+ paradigm: POST_ADV_Poss
+ paradigm: N_Poss_consonant_nocasenum
+ trans_ru: рядом
 
 -lexeme
  lex: пелештыде
@@ -10889,7 +10899,7 @@
 
 -lexeme
  lex: теве
- stem: теве.//тевэ.//тевы.
+ stem: теве.//тевэ.//тевы.//тӧвӧ.
  gramm: PART
  paradigm: Clitics
  trans_ru: вот
@@ -13514,7 +13524,7 @@
 
 -lexeme
  lex: чечас
- stem: чечас.//чэчас.
+ stem: чечас.//чэчас.//сейчас.
  gramm: ADV,rus
  paradigm: POST_ADV_Poss
  trans_ru: сейчас
@@ -18702,13 +18712,6 @@
  trans_ru: о крике журавля
 
 -lexeme
- lex: гоч
- gramm: POST
- stem: коч.
- paradigm: POST_ADV_Poss
- trans_ru: через; пока
-
--lexeme
  lex: верч
  gramm: POST
  stem: верч.
@@ -18721,3 +18724,87 @@
  stem: кӱлеш.
  paradigm: Clitics
  trans_ru: нужно
+
+-lexeme
+ lex: тӱрыс
+ gramm: ADV
+ stem: тӱрыс.
+ paradigm: POST_ADV_Poss
+ trans_ru: полностью
+
+-lexeme
+ lex: эрвелне
+ gramm: ADV
+ stem: эрвелне.
+ paradigm: POST_ADV_Poss
+ trans_ru: на востоке
+
+-lexeme
+ lex: сразе
+ gramm: ADV,rus
+ stem: сразе.
+ paradigm: POST_ADV_Poss
+ trans_ru: сразу
+
+-lexeme
+ lex: кышт
+ gramm: IMIT
+ stem: кышт.
+ paradigm: Clitics
+ trans_ru: о тихом шорохе, шуршании
+
+-lexeme
+ lex: йырт-юрт
+ gramm: IMIT
+ stem: йырт-йорт.
+ paradigm: Clitics
+ trans_ru: о быстром, резком движении
+
+-lexeme
+ lex: чи-чи-чи
+ gramm: IMIT
+ stem: чи-чи-чи.
+ paradigm: Clitics
+ trans_ru: о щебетании синицы
+
+-lexeme
+ lex: лык-лык-лук
+ gramm: IMIT
+ stem: лык-лык-лук.
+ paradigm: Clitics
+ trans_ru: о пении дроздов, свиристелей
+
+-lexeme
+ lex: мустык-мустык
+ gramm: IMIT
+ stem: мустык-мустык.
+ paradigm: Clitics
+ trans_ru: о неспешном беге лошади
+
+-lexeme
+ lex: чеверын
+ gramm: INTRJ
+ stem: чеверын.
+ paradigm: Clitics
+ trans_ru: до свидания
+
+-lexeme
+ lex: салам
+ gramm: INTRJ
+ stem: салам.
+ paradigm: Clitics
+ trans_ru: привет
+
+-lexeme
+ lex: тыр-р
+ gramm: INTRJ
+ stem: тыр-р.
+ paradigm: Clitics
+ trans_ru: тпру, окрик для остановки лошади
+
+-lexeme
+ lex: кумышешын
+ gramm: ADV
+ stem: кумышешын.
+ paradigm: POST_ADV_Poss
+ trans_ru: послезавтра, третьего дня

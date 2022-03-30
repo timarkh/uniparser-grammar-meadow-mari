@@ -18,6 +18,7 @@
   {"gramm": "^[^VN].*", "gloss": ".*PL\\.SHORT.*"},
   {"gramm": "^(.(?!,nation))+$", "gloss": ".*SIM-(ACC|GEN|DAT|LAT|LOC|ILL|SIM|COM).*"},
   {"wf": "тӱрлӧ.*", "lemma": "^(тӱрлаш|тӱр)$"},
+  {"wf": "кугыжаныш(?!т).*", "lemma": "кугыжа"},
   {"gramm": ".*,(nom|acc|gen|dat|com|case_comp).*", "lemma": "ку-"},
   {"gramm": "^.*nmlz(.(?!,sg))+$", "wf": ".*маш$"},
   {"gramm": "CONJ.*", "wf": "^дена[тк]$"}

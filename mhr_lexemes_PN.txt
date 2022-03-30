@@ -86874,3 +86874,121 @@
  paradigm: N_consonant
  trans_ru: Мартын (озеро)
 
+-lexeme
+ lex: Ондре
+ gramm: N,persn,PN
+ stem: ондре.
+ paradigm: N_oxyton
+ trans_ru: Ондре (Андрей)
+
+-lexeme
+ lex: Эйно
+ gramm: N,persn,PN
+ stem: эйно.|эйны.|эйн.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Эйно
+
+-lexeme
+ lex: Шемеч
+ gramm: N,persn,PN
+ stem: шемеч.
+ paradigm: N_consonant
+ trans_ru: Шемеч
+
+-lexeme
+ lex: Пӧтыр
+ gramm: N,persn,PN
+ stem: пӧтыр.
+ paradigm: N_consonant
+ trans_ru: Пётр
+
+-lexeme
+ lex: Тенис
+ gramm: N,persn,PN
+ stem: тенис.
+ paradigm: N_consonant
+ trans_ru: Тенис (Денис)
+
+-lexeme
+ lex: Лайна
+ gramm: N,persn,PN
+ stem: лайна.|лайны.|лайн.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Лайна
+
+-lexeme
+ lex: Ару
+ gramm: N,famn,PN
+ stem: ару.
+ paradigm: N_oxyton
+ trans_ru: Ару
+
+-lexeme
+ lex: Юхан
+ gramm: N,persn,PN
+ stem: юхан.
+ paradigm: N_consonant
+ trans_ru: Юхан
+
+-lexeme
+ lex: Талман
+ gramm: N,topn,PN
+ stem: талман.
+ paradigm: N_consonant
+ trans_ru: Талман
+
+-lexeme
+ lex: Олюк
+ gramm: N,PN,prod_deriv,persn
+ stem: олюк.
+ paradigm: N_consonant
+ trans_ru: Олюк (Оля, Ольга)
+
+-lexeme
+ lex: Торма
+ gramm: N,PN,topn
+ stem: торма.|тормы.|торм.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Торма
+
+-lexeme
+ lex: Ондруш
+ gramm: N,persn,PN
+ stem: ондруш.
+ paradigm: N_consonant
+ trans_ru: Ондруш (Андрей)
+
+-lexeme
+ lex: Ручкин
+ gramm: N,famn,PN
+ stem: ручкин.
+ paradigm: N_consonant
+ trans_ru: Ручкин
+
+-lexeme
+ lex: Березино
+ gramm: N,PN,topn
+ stem: березино.|березины.|березин.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Березино
+
+-lexeme
+ lex: Юденич
+ gramm: N,famn,PN
+ stem: юденич.
+ paradigm: N_consonant
+ trans_ru: Юденич
+
+-lexeme
+ lex: Ольшанка
+ gramm: N,PN,topn
+ stem: ольшанка.|ольшанкы.|ольшанк.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Ольшанка
+
+-lexeme
+ lex: Овдаки
+ gramm: N,persn,PN
+ stem: овдаки.
+ paradigm: N_oxyton
+ trans_ru: Овдаки (Евдокия)

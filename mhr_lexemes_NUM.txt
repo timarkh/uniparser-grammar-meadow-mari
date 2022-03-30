@@ -48,6 +48,13 @@
  trans_ru: один
 
 -lexeme
+ lex: икте
+ stem: икыт.
+ gramm: NUM,plen
+ paradigm: NUM_consonant
+ trans_ru: один
+
+-lexeme
  lex: иктетыт
  stem: иктетыт.
  gramm: NUM,plen

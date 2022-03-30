@@ -707,42 +707,42 @@
 
 -lexeme
  lex: аптыраналташ
- stem: аптыраналт.
+ stem: аптыраналт.//аптраналт.
  gramm: V
  paradigm: V_e
  trans_ru: растеряться
 
 -lexeme
  lex: аптыранаш
- stem: аптыран.
+ stem: аптыран.//аптран.
  gramm: V
  paradigm: V_e
  trans_ru: стесняться
 
 -lexeme
  lex: аптыраныкташ
- stem: аптыраныкт.|аптыранык.
+ stem: аптыраныкт.//аптраныкт.|аптыранык.//аптранык.
  gramm: V
  paradigm: V_e
  trans_ru: смутить
 
 -lexeme
  lex: аптыранылаш
- stem: аптыраныл.
+ stem: аптыраныл.//аптраныл.
  gramm: V
  paradigm: V_a
  trans_ru: тушеваться
 
 -lexeme
  lex: аптыраташ
- stem: аптырат.
+ stem: аптырат.//аптрат.
  gramm: V
  paradigm: V_e
  trans_ru: смутить
 
 -lexeme
  lex: аптыратылаш
- stem: аптыратыл.
+ stem: аптыратыл.//аптратыл.
  gramm: V
  paradigm: V_a
  trans_ru: беспокоиться
@@ -12482,14 +12482,14 @@
 
 -lexeme
  lex: лоптыраҥаш
- stem: лоптыраҥ.
+ stem: лоптыраҥ.//лоптраҥ.
  gramm: V
  paradigm: V_a
  trans_ru: стать широким, неаккуратным
 
 -lexeme
  lex: лоптыраҥдаш
- stem: лоптыраҥд.
+ stem: лоптыраҥд.//лоптраҥд.
  gramm: V
  paradigm: V_e
  trans_ru: делать пошире
@@ -13746,6 +13746,13 @@
  gramm: V
  paradigm: V_e
  trans_ru: шуметь
+
+-lexeme
+ lex: лӱшкаш
+ gramm: V,intr
+ stem: лӱшк.
+ paradigm: V_e
+ trans_ru: колыхаться, покачиваться
 
 -lexeme
  lex: лӱшкыкташ
@@ -19138,7 +19145,7 @@
 
 -lexeme
  lex: поккаш
- stem: покк.
+ stem: покк.//пык.
  gramm: V
  paradigm: V_e
  trans_ru: курить (трубку)
@@ -22226,7 +22233,7 @@
 
 -lexeme
  lex: пӱялаш
- stem: пӱял.
+ stem: пӱял.//пӱал.
  gramm: V
  paradigm: V_a
  trans_ru: мигнуть, моргнуть
@@ -24952,7 +24959,7 @@
 
 -lexeme
  lex: соптыраҥаш
- stem: соптыраҥ.
+ stem: соптыраҥ.//соптраҥ.
  gramm: V
  paradigm: V_a
  trans_ru: дряхлеть
@@ -24966,7 +24973,7 @@
 
 -lexeme
  lex: соптырийланаш
- stem: соптырийлан.
+ stem: соптырийлан.//соптрийлан.
  gramm: V
  paradigm: V_e
  trans_ru: вести себя неряшливо
