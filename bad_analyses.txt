@@ -14,7 +14,7 @@
   {"gramm": ".*,imp.*", "lemma": "эргаш"},
   {"gramm": ".*,(imp|desid|neg).*3sg"},
   {"gramm": "^CONJ.*3sg"},
-  {"gramm": ".*,(?:persn|patrn|famn|anim|lang_name).*", "gloss": ".*PL\\.SHORT($|(-[^LI]|-L[^O]|-I[^L]|-LO[^C]|-IL[^L]).*)"},
+  {"gramm": ".*,(persn|patrn|famn|anim|lang_name).*", "gloss": ".*PL\\.SHORT($|(-[^LI]|-L[^O]|-I[^L]|-LO[^C]|-IL[^L]).*)"},
   {"gramm": "^[^VN].*", "gloss": ".*PL\\.SHORT.*"},
   {"gramm": "^(.(?!,nation))+$", "gloss": ".*SIM-(ACC|GEN|DAT|LAT|LOC|ILL|SIM|COM).*"},
   {"wf": "тӱрлӧ.*", "lemma": "^(тӱрлаш|тӱр)$"},

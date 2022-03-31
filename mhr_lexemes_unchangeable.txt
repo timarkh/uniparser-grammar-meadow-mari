@@ -8468,14 +8468,6 @@
  trans_ru: к; с; рядом
 
 -lexeme
- lex: пелен
- stem: пелен.//пелэн.
- gramm: ADV
- paradigm: POST_ADV_Poss
- paradigm: N_Poss_consonant_nocasenum
- trans_ru: рядом
-
--lexeme
  lex: пелештыде
  stem: пелештыде.//пелештыдэ.|пелештыды.|пелештыд.
  gramm: ADV
@@ -10079,6 +10071,13 @@
  trans_ru: поэтому
 
 -lexeme
+ lex: сандене
+ stem: санден.//сандэн.
+ gramm: CONJ
+ paradigm: Clitics_a
+ trans_ru: поэтому
+
+-lexeme
  lex: сатирически
  stem: сатирически.//сатиричэски.
  gramm: ADV,rus
@@ -10846,6 +10845,7 @@
  stem: тау.
  gramm: PART
  paradigm: Clitics
+ paradigm: Acc_clitics_vowel
  trans_ru: спасибо
 
 -lexeme
@@ -11438,7 +11438,7 @@
 
 -lexeme
  lex: торжественне
- stem: торжественне.//торжествэнне.
+ stem: торжественне.//торжественно.//торжествэнне.
  gramm: ADV,rus
  paradigm: POST_ADV_Poss
  trans_ru: торжественно

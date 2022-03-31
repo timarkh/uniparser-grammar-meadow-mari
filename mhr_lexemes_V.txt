@@ -12386,7 +12386,7 @@
  lex: локтылаш
  stem: локтыл.
  gramm: V
- paradigm: V_e
+ paradigm: V_a
  trans_ru: портить
 
 -lexeme

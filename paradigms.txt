@@ -300,6 +300,37 @@
   regex-prev: .*ы[<>.]*$
  paradigm: Clitics
 
+-paradigm: Acc_clitics_consonant
+ -flex: .ым<.>
+  gramm: acc
+  gloss: ACC
+  paradigm: Clitics
+ -flex: .ж|ым<.>
+  gramm: 3sg,acc
+  gloss: 3SG|ACC
+  paradigm: Clitics
+ -flex: .ыж|ым<.>
+  gramm: 3sg,acc
+  gloss: 3SG|ACC
+  regex-prev: .*[счш][<>.]*$
+  paradigm: Clitics
+ -flex: .ш|ым<.>
+  gramm: 3sg,acc
+  gloss: 3SG|ACC
+  regex-prev: .*[кпстфхцчшщ][<>.]*$
+  paradigm: Clitics
+
+
+-paradigm: Acc_clitics_vowel
+ -flex: .м<.>
+  gramm: acc
+  gloss: ACC
+  paradigm: Clitics
+ -flex: .ж|ым<.>
+  gramm: 3sg,acc
+  gloss: 3SG|ACC
+  paradigm: Clitics
+
 
 -paradigm: NUM_paroxyton_v_strong
  -flex: .<.>
@@ -2539,6 +2570,11 @@
   gramm: acc,sg
   gloss: ACC
   paradigm: N_Poss_after_case_no_comp
+ -flex: .ым<.>
+  gramm: acc,sg
+  gloss: ACC
+  regex-prev: .*[у][<>.]*$
+  paradigm: N_Poss_after_case_no_comp
  -flex: .н<.>
   gramm: gen,sg
   gloss: GEN
@@ -2784,6 +2820,7 @@
  -flex: <0,1,2>.<.>
   gramm: 
   paradigm: Clitics-reduction
+  paradigm: Acc_clitics_vowel
  -flex: <0,1>.же<.>//<0,1>.жо<.>//<0,1>.жӧ<.>
   gramm: 3sg
   gloss: 3SG
@@ -3088,6 +3125,9 @@
   paradigm: Case_comp
 
 
+
+# No case compounding, except for the accusative
+
 -paradigm: N_Poss_after_case_no_comp
  -flex: .<.>
   gramm: 
@@ -3135,6 +3175,15 @@
   gloss: 3SG
   regex-prev: .*[кпстфхцчшщ][<>.]*$
   paradigm: Clitics_a
+ -flex: .жы|м<.>
+  gramm: 3sg,acc
+  gloss: 3SG|ACC
+  paradigm: Clitics
+ -flex: .шы|м<.>
+  gramm: 3sg,acc
+  gloss: 3SG|ACC
+  regex-prev: .*[кпстфхцчшщ][<>.]*$
+  paradigm: Clitics
  -flex: .ыж<.>
   gramm: sg,3sg
   gloss: 3SG
@@ -3222,6 +3271,15 @@
   gloss: 3SG
   regex-prev: .*[кпстфхцчшщ][<>.]*$
   paradigm: Clitics_a
+ -flex: .жы|м<.>
+  gramm: 3sg,acc
+  gloss: 3SG|ACC
+  paradigm: Clitics
+ -flex: .шы|м<.>
+  gramm: 3sg,acc
+  gloss: 3SG|ACC
+  regex-prev: .*[кпстфхцчшщ][<>.]*$
+  paradigm: Clitics
  -flex: .на<.>
   gramm: 1pl
   gloss: 1PL
@@ -3266,6 +3324,10 @@
   gramm: 3sg
   gloss: 3SG
   paradigm: Clitics_a
+ -flex: .жы|м<.>
+  gramm: 3sg,acc
+  gloss: 3SG|ACC
+  paradigm: Clitics
  -flex: .на<.>
   gramm: 1pl
   gloss: 1PL
@@ -4312,6 +4374,52 @@
  -flex: .-влак|ге|шт<.>//.вᵊлак|ге|шт<.>//.-шамыч|ге|шт<.>
   gramm: com,pl,3pl
   gloss: PL|COM|3PL
+
+ -flex: .ла|шк|ем<.>
+  gramm: ill,pl,1sg
+  gloss: PL.SHORT|ILL|1SG
+ -flex: .ла|шк|ет<.>
+  gramm: ill,pl,2sg
+  gloss: PL.SHORT|ILL|2SG
+ -flex: .ла|шкы|же<.>//.ла|шкы|жо<.>//.ла|шкы|жӧ<.>
+  gramm: ill,pl,3sg
+  gloss: PL.SHORT|ILL|3SG
+ -flex: .ла|шкы|ж<.>
+  gramm: ill,pl,3sg
+  gloss: PL.SHORT|ILL|3SG
+ -flex: .ла|шкы|на<.>
+  gramm: ill,pl,1pl
+  gloss: PL.SHORT|ILL|1PL
+ -flex: .ла|шкы|да<.>
+  gramm: ill,pl,2pl
+  gloss: PL.SHORT|ILL|2PL
+ -flex: .ла|шкы|шт<.>
+  gramm: ill,pl,3pl
+  gloss: PL.SHORT|ILL|3PL
+
+ -flex: .ла|шт|ем<.>
+  gramm: loc,pl,1sg
+  gloss: PL.SHORT|LOC|1SG
+ -flex: .ла|шт|ет<.>
+  gramm: loc,pl,2sg
+  gloss: PL.SHORT|LOC|2SG
+ -flex: .ла|шты|же<.>//.ла|шты|жо<.>//.ла|шты|жӧ<.>
+  gramm: loc,pl,3sg
+  gloss: PL.SHORT|LOC|3SG
+ -flex: .ла|шты|ж<.>
+  gramm: loc,pl,3sg
+  gloss: PL.SHORT|LOC|3SG
+ -flex: .ла|шты|на<.>
+  gramm: loc,pl,1pl
+  gloss: PL.SHORT|LOC|1PL
+ -flex: .ла|шты|да<.>
+  gramm: loc,pl,2pl
+  gloss: PL.SHORT|LOC|2PL
+ -flex: .ла|шты|шт<.>
+  gramm: loc,pl,3pl
+  gloss: PL.SHORT|LOC|3PL
+
+
 
  paradigm: Clitics
  paradigm: Case_comp

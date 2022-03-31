@@ -14965,6 +14965,13 @@
  trans_ru: муниципальный
 
 -lexeme
+ lex: межмуниципальный
+ stem: межмуниципальный.|межмуниципальны.
+ gramm: A,rus
+ paradigm: A_j
+ trans_ru: межмуниципальный
+
+-lexeme
  lex: муниципиальный
  stem: муниципиальный.|муниципиальны.
  gramm: A,rus
@@ -27446,6 +27453,13 @@
  trans_ru: совсем, совершенно; главный
 
 -lexeme
+ lex: тÿҥ
+ stem: тÿҥ.
+ gramm: A
+ paradigm: A_consonant
+ trans_ru: главный
+
+-lexeme
  lex: тӱрка
  stem: тӱрка.
  gramm: A
@@ -33645,3 +33659,23 @@
  paradigm: A_paroxyton_v_weak
  trans_ru: горький
 
+-lexeme
+ lex: муниципал
+ stem: муниципал.
+ gramm: A,rus
+ paradigm: A_consonant
+ trans_ru: муниципальный
+
+-lexeme
+ lex: федерал
+ stem: федерал.
+ gramm: A,rus
+ paradigm: A_consonant
+ trans_ru: федеральный
+
+-lexeme
+ lex: автоном
+ stem: автоном.
+ gramm: A,rus
+ paradigm: A_consonant
+ trans_ru: автономный

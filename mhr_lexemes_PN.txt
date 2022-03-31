@@ -25487,10 +25487,17 @@
 
 -lexeme
  lex: ИжГТУ
- stem: ижгту.
+ stem: ижгту.//ижгту-.
  gramm: N,abbr,PN
  paradigm: N_paroxyton_v_weak
  trans_ru: ИжГТУ
+
+-lexeme
+ lex: МарГТУ
+ stem: маргту.//маргту-.
+ gramm: N,abbr,PN
+ paradigm: N_paroxyton_v_weak
+ trans_ru: МарГТУ
 
 -lexeme
  lex: Ижавиа
@@ -34300,7 +34307,7 @@
 
 -lexeme
  lex: Кужэҥер
- stem: кужэҥер.
+ stem: кужэҥер.//кужэҥэр.//кужеҥер.//куженер.//кужэнер.//кужэнэр.
  gramm: N,PN,topn
  paradigm: N_consonant
  trans_ru: Куженер
@@ -55923,6 +55930,13 @@
 
 -lexeme
  lex: Россий
+ stem: россия.
+ gramm: N,PN,topn,sg,nom
+ paradigm: Clitics
+ trans_ru: Россия
+
+-lexeme
+ lex: Россий
  stem: росссий.|россси.
  gramm: N,PN,topn,missp
  paradigm: N_j
@@ -71321,10 +71335,17 @@
  trans_ru: Чебоксарова
 
 -lexeme
- lex: Чебоксары
+ lex: Чебоксар
  stem: чебоксары.
+ gramm: N,PN,topn,sg,nom
+ paradigm: Clitics
+ trans_ru: Чебоксары
+
+-lexeme
+ lex: Чебоксар
+ stem: чебоксар.
  gramm: N,PN,topn
- paradigm: N_paroxyton_v_weak
+ paradigm: N_consonant
  trans_ru: Чебоксары
 
 -lexeme
@@ -86980,6 +87001,90 @@
  trans_ru: Юденич
 
 -lexeme
+ lex: Васютин
+ gramm: N,famn,PN
+ stem: васютин.
+ paradigm: N_consonant
+ trans_ru: Васютин
+
+-lexeme
+ lex: Смоленцев
+ gramm: N,famn,PN
+ stem: смоленцев.
+ paradigm: N_consonant
+ trans_ru: Смоленцев
+
+-lexeme
+ lex: Сапаев
+ gramm: N,famn,PN
+ stem: сапаев.
+ paradigm: N_consonant
+ trans_ru: Сапаев
+
+-lexeme
+ lex: Шамиев
+ gramm: N,famn,PN
+ stem: шамиев.
+ paradigm: N_consonant
+ trans_ru: Шамиев
+
+-lexeme
+ lex: Тойшева
+ gramm: N,famn,PN
+ stem: тойшева.
+ paradigm: N_vowel
+ trans_ru: Тойшева
+
+-lexeme
+ lex: Эшкинина
+ gramm: N,famn,PN
+ stem: эшкинина.
+ paradigm: N_vowel
+ trans_ru: Эшкинина
+
+-lexeme
+ lex: Куклина
+ gramm: N,famn,PN
+ stem: куклина.
+ paradigm: N_vowel
+ trans_ru: Куклина
+
+-lexeme
+ lex: Шабдарова
+ gramm: N,famn,PN
+ stem: шабдарова.
+ paradigm: N_vowel
+ trans_ru: Шабдарова
+
+-lexeme
+ lex: Яндимирова
+ gramm: N,famn,PN
+ stem: яндимирова.
+ paradigm: N_vowel
+ trans_ru: Яндимирова
+
+-lexeme
+ lex: Пехметова
+ gramm: N,famn,PN
+ stem: пехметова.
+ paradigm: N_vowel
+ trans_ru: Пехметова
+
+-lexeme
+ lex: Пчёлкина
+ gramm: N,famn,PN
+ stem: пчёлкина.
+ paradigm: N_vowel
+ trans_ru: Пчёлкина
+
+-lexeme
+ lex: Эманова
+ gramm: N,famn,PN
+ stem: эманова.
+ paradigm: N_vowel
+ trans_ru: Эманова
+
+-lexeme
  lex: Ольшанка
  gramm: N,PN,topn
  stem: ольшанка.|ольшанкы.|ольшанк.
@@ -86987,8 +87092,57 @@
  trans_ru: Ольшанка
 
 -lexeme
+ lex: Оршанка
+ gramm: N,PN,topn
+ stem: оршанка.|оршанкы.|оршанк.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Оршанка
+
+-lexeme
  lex: Овдаки
  gramm: N,persn,PN
  stem: овдаки.
  paradigm: N_oxyton
  trans_ru: Овдаки (Евдокия)
+
+-lexeme
+ lex: Волжский
+ stem: волжский.|волжски.
+ gramm: N,PN,topn
+ paradigm: N_j
+ trans_ru: Волжский (район)
+
+-lexeme
+ lex: Красногорский
+ stem: красногорский.|красногорски.
+ gramm: N,PN,topn
+ paradigm: N_j
+ trans_ru: Красногорский (район)
+
+-lexeme
+ lex: Палантай
+ stem: палантай.|паланта.
+ gramm: N,PN,famn
+ paradigm: N_j
+ trans_ru: Палантай
+
+-lexeme
+ lex: Кырла
+ stem: кырла.|кырлы.//кырла.|кырл.//кырла.
+ gramm: N,PN,persn
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Кырла (Кирилл)
+
+-lexeme
+ lex: ВийАр
+ gramm: N,PN
+ stem: вийар.
+ paradigm: N_consonant
+ trans_ru: ВийАр ("Мудрость", общество культурных связей)
+
+-lexeme
+ lex: Марисола
+ stem: марисола.
+ gramm: N,PN,topn
+ paradigm: N_oxyton
+ trans_ru: Марисола

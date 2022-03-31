@@ -5742,7 +5742,7 @@
 
 -lexeme
  lex: атлетика
- stem: атлетика.//атлэтика.|атлетика.//атлэтика.//атлетикы.//атлэтикы.|атлетика.//атлэтика.//атлетик.//атлэтик.
+ stem: атлетика.//атлетике.//атлэтика.|атлетика.//атлэтика.//атлетикы.//атлэтикы.|атлетика.//атлэтика.//атлетик.//атлэтик.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: атлетика
@@ -8228,7 +8228,7 @@
 
 -lexeme
  lex: библиотека
- stem: библиотека.//библиотэка.|библиотека.//библиотэка.//библиотекы.//библиотэкы.|библиотека.//библиотэка.//библиотек.//библиотэк.
+ stem: библиотека.//библиотеке.//библиотэка.|библиотека.//библиотэка.//библиотекы.//библиотэкы.|библиотека.//библиотэка.//библиотек.//библиотэк.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: библиотека
@@ -15095,7 +15095,7 @@
 
 -lexeme
  lex: выставка
- stem: выставка.|выставка.//выставкы.|выставка.//выставк.
+ stem: выставка.//выставке.|выставка.//выставкы.|выставка.//выставк.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: выставка
@@ -21816,7 +21816,7 @@
 
 -lexeme
  lex: драма
- stem: драма.|драма.//драмы.|драма.//драм.
+ stem: драма.//драме.|драма.//драмы.|драма.//драм.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: драма
@@ -30390,6 +30390,13 @@
  gramm: N
  paradigm: N_paroxyton_v_weak
  trans_ru: отава
+
+-lexeme
+ lex: сурткайык
+ stem: сурткайык.
+ gramm: N,anim
+ paradigm: N_consonant
+ trans_ru: птица
 
 -lexeme
  lex: кайык
@@ -43928,7 +43935,7 @@
  stem: кыл.
  gramm: N
  paradigm: N_consonant
- trans_ru: струна; шнур
+ trans_ru: струна; шнур; связь
 
 -lexeme
  lex: кыл-кучем
@@ -43992,6 +43999,13 @@
  gramm: N
  paradigm: N_consonant
  trans_ru: мерзлота
+
+-lexeme
+ lex: лӱдыкшыдымылык
+ stem: лӱдыкшыдымылык.
+ gramm: N
+ paradigm: N_consonant
+ trans_ru: безопасность
 
 -lexeme
  lex: кылмымужо
@@ -57330,7 +57344,7 @@
 
 -lexeme
  lex: наука
- stem: наука.|наука.//наукы.|наука.//наук.
+ stem: наука.//науко.|наука.//наукы.|наука.//наук.
  gramm: N,rus
  paradigm: N_paroxyton_v_weak
  trans_ru: наука
@@ -85957,6 +85971,13 @@
  trans_ru: сад; растение
 
 -lexeme
+ lex: йочасад
+ stem: йочасад.
+ gramm: N,rus
+ paradigm: N_consonant
+ trans_ru: детский сад
+
+-lexeme
  lex: сад-пакча
  stem: сад-пакча.
  gramm: N,rus
@@ -100935,6 +100956,13 @@
  gramm: N
  paradigm: N_consonant
  trans_ru: род
+
+-lexeme
+ lex: самырыктукым
+ stem: самырыктукым.
+ gramm: N,anim,hum
+ paradigm: N_consonant
+ trans_ru: молодёжь
 
 -lexeme
  lex: тукымвуй
@@ -127009,6 +127037,13 @@
  stem: лач.
  paradigm: N_consonant
  trans_ru: правда
+
+-lexeme
+ lex: кечышот
+ gramm: N
+ stem: кечышот.
+ paradigm: N_consonant
+ trans_ru: календарь
 
 -lexeme
  lex: ятыр
