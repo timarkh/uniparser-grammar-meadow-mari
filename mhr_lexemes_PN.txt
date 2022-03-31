@@ -87031,57 +87031,57 @@
 -lexeme
  lex: Тойшева
  gramm: N,famn,PN
- stem: тойшева.
- paradigm: N_vowel
+ stem: тойшева.|тойшевы.|тойшев.
+ paradigm: N_paroxyton_v_weak
  trans_ru: Тойшева
 
 -lexeme
  lex: Эшкинина
  gramm: N,famn,PN
- stem: эшкинина.
- paradigm: N_vowel
+ stem: эшкинина.|эшкинины.|эшкинин.
+ paradigm: N_paroxyton_v_weak
  trans_ru: Эшкинина
 
 -lexeme
  lex: Куклина
  gramm: N,famn,PN
- stem: куклина.
- paradigm: N_vowel
+ stem: куклина.|куклины.|куклин.
+ paradigm: N_paroxyton_v_weak
  trans_ru: Куклина
 
 -lexeme
  lex: Шабдарова
  gramm: N,famn,PN
- stem: шабдарова.
- paradigm: N_vowel
+ stem: шабдарова.|шабдаровы.|шабдаров.
+ paradigm: N_paroxyton_v_weak
  trans_ru: Шабдарова
 
 -lexeme
  lex: Яндимирова
  gramm: N,famn,PN
- stem: яндимирова.
- paradigm: N_vowel
+ stem: яндимирова.|яндимировы.|яндимиров.
+ paradigm: N_paroxyton_v_weak
  trans_ru: Яндимирова
 
 -lexeme
  lex: Пехметова
  gramm: N,famn,PN
- stem: пехметова.
- paradigm: N_vowel
+ stem: пехметова.|пехметовы.|пехметов.
+ paradigm: N_paroxyton_v_weak
  trans_ru: Пехметова
 
 -lexeme
  lex: Пчёлкина
  gramm: N,famn,PN
- stem: пчёлкина.
- paradigm: N_vowel
+ stem: пчёлкина.|пчёлкины.|пчёлкин.
+ paradigm: N_paroxyton_v_weak
  trans_ru: Пчёлкина
 
 -lexeme
  lex: Эманова
  gramm: N,famn,PN
- stem: эманова.
- paradigm: N_vowel
+ stem: эманова.|эмановы.|эманов.
+ paradigm: N_paroxyton_v_weak
  trans_ru: Эманова
 
 -lexeme
