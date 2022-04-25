@@ -18808,3 +18808,81 @@
  stem: кумышешын.
  paradigm: POST_ADV_Poss
  trans_ru: послезавтра, третьего дня
+
+-lexeme
+ lex: низаштат
+ gramm: ADV,rus
+ stem: низаштат.
+ paradigm: POST_ADV_Poss
+ trans_ru: ни за что
+
+-lexeme
+ lex: мӧҥгӧ
+ gramm: ADV
+ stem: мӧҥгӧ.
+ paradigm: POST_ADV_Poss
+ trans_ru: домой
+
+-lexeme
+ lex: шылдыр
+ gramm: IMIT
+ stem: шылдыр-р.
+ paradigm: Clitics
+ trans_ru: о звоне, стуке, грохоте
+
+-lexeme
+ lex: йыҥгыр
+ gramm: IMIT
+ stem: йыҥгыр.
+ paradigm: Clitics
+ trans_ru: о звоне
+
+-lexeme
+ lex: мяу
+ gramm: IMIT
+ stem: мяу-у.
+ paradigm: Clitics
+ trans_ru: о мяуканье кошки
+
+-lexeme
+ lex: шывыр-шовыр
+ gramm: IMIT
+ stem: шывыр-шувыр.
+ paradigm: Clitics
+ trans_ru: о резком шуме воды при падении, барахтании
+
+-lexeme
+ lex: шувырдик
+ gramm: IMIT
+ stem: шувырдӱк.
+ paradigm: Clitics
+ trans_ru: о шуме падения в воду, плеске; плюх, шлёп
+
+-lexeme
+ lex: шытыр-шытыр
+ gramm: IMIT
+ stem: шытыр-шотыр.
+ paradigm: Clitics
+ trans_ru: о скрипе, хрусте
+
+-lexeme
+ lex: гӱр
+ gramm: IMIT
+ stem: гӱр-р.
+ paradigm: Clitics
+ trans_ru: о курлыканье голубей
+
+-lexeme
+ lex: чож
+ gramm: IMIT
+ stem: чож.
+ paradigm: Clitics
+ trans_ru: о шипении, звоне
+
+-lexeme
+ lex: мотри
+ gramm: INTRJ,rus
+ stem: мотри.
+ paradigm: Clitics
+ trans_ru: смотри
+

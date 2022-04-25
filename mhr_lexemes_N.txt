@@ -69597,7 +69597,7 @@
 
 -lexeme
  lex: пире
- stem: пире.//пирэ.|пиры.|пир.
+ stem: пире.//пирэ.//пи-ре.|пиры.//пи-ры.|пир.//пи-р.
  gramm: N,anim
  paradigm: N_paroxyton_v_weak
  trans_ru: волк
@@ -127114,3 +127114,107 @@
  gramm: N
  paradigm: N_paroxyton_v_weak
  trans_ru: свет
+-lexeme
+ lex: процент
+ gramm: N,rus
+ stem: прочент.
+ paradigm: N_consonant
+ trans_ru: процент
+
+-lexeme
+ lex: сопло
+ gramm: N,rus
+ stem: сопло.
+ paradigm: N_oxyton
+ trans_ru: сопло
+
+-lexeme
+ lex: столовый
+ gramm: N,rus
+ stem: столовой.|столово.
+ paradigm: N_j
+ trans_ru: столовая
+
+-lexeme
+ lex: муныпулашка
+ gramm: N
+ stem: муныпулашка.
+ paradigm: N_oxyton
+ trans_ru: яичница; омлет
+
+-lexeme
+ lex: спартанец
+ gramm: N,rus,anim,hum
+ stem: спартанец.
+ paradigm: N_consonant
+ trans_ru: спартанец
+
+-lexeme
+ lex: карбит
+ gramm: N,rus
+ stem: карбит.
+ paradigm: N_consonant
+ trans_ru: карбит
+
+-lexeme
+ lex: сестра
+ gramm: N,rus,anim,hum
+ stem: сестра.
+ paradigm: N_oxyton
+ trans_ru: сестра (медицинская)
+
+-lexeme
+ lex: авиамоделист
+ gramm: N,hum,anim,rus
+ stem: авиамоделист.
+ paradigm: N_consonant
+ trans_ru: авиамоделист
+
+-lexeme
+ lex: локамавондо
+ gramm: N
+ stem: локамавондо.|локамавонды.|локамавонд.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: шиповник
+
+-lexeme
+ lex: эҥыртоя
+ gramm: N
+ stem: эҥыртоя.
+ paradigm: N_oxyton
+ trans_ru: удочка, удилище
+
+-lexeme
+ lex: модма
+ gramm: N
+ stem: модма.
+ paradigm: N_oxyton
+ trans_ru: игра
+
+-lexeme
+ lex: йокрок
+ gramm: N
+ stem: йокрок.
+ paradigm: N_consonant
+ trans_ru: скука
+
+-lexeme
+ lex: нечкылык
+ gramm: N
+ stem: нечкылык.
+ paradigm: N_consonant
+ trans_ru: изнеженность
+
+-lexeme
+ lex: масхалат
+ gramm: N,rus
+ stem: масхалат.
+ paradigm: N_consonant
+ trans_ru: маскхалат
+
+-lexeme
+ lex: семена
+ gramm: N,rus
+ stem: семена.
+ paradigm: N_oxyton
+ trans_ru: семена

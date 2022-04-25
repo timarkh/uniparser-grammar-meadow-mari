@@ -26222,7 +26222,7 @@
 
 -lexeme
  lex: топката
- stem: топката.
+ stem: топката.//тӧпката.
  gramm: A
  paradigm: A_oxyton
  trans_ru: крепкий
@@ -31513,7 +31513,7 @@
 
 -lexeme
  lex: шучко
- stem: шучко.|шучкы.|шучк.
+ stem: шучко.//шуч-ко.|шучкы.//шуч-кы.|шучк.//шуч-к.
  gramm: A
  paradigm: A_paroxyton_v_weak
  trans_ru: страшный, ужасный
@@ -33679,3 +33679,31 @@
  gramm: A,rus
  paradigm: A_consonant
  trans_ru: автономный
+
+-lexeme
+ lex: авиамодельный
+ gramm: A,rus
+ stem: авиамодельный.|авиамодельны.
+ paradigm: A_j
+ trans_ru: авиамодельный
+
+-lexeme
+ lex: пиротехнический
+ gramm: A,rus
+ stem: пиротехнический.|пиротехнически.
+ paradigm: A_j
+ trans_ru: пиротехнический
+
+-lexeme
+ lex: бортовой
+ gramm: A,rus
+ stem: бортовой.|бортово.
+ paradigm: A_j
+ trans_ru: бортовой
+
+-lexeme
+ lex: тепловой
+ gramm: A,rus
+ stem: тепловой.|теплово.
+ paradigm: A_j
+ trans_ru: тепловой

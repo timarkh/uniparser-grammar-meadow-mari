@@ -86903,13 +86903,6 @@
  trans_ru: Ондре (Андрей)
 
 -lexeme
- lex: Эйно
- gramm: N,persn,PN
- stem: эйно.|эйны.|эйн.
- paradigm: N_paroxyton_v_weak
- trans_ru: Эйно
-
--lexeme
  lex: Шемеч
  gramm: N,persn,PN
  stem: шемеч.
@@ -87146,3 +87139,228 @@
  gramm: N,PN,topn
  paradigm: N_oxyton
  trans_ru: Марисола
+
+-lexeme
+ lex: Оръя
+ gramm: N,PN,topn
+ stem: оръя.
+ paradigm: N_oxyton
+ trans_ru: Оръя
+
+-lexeme
+ lex: Опаня
+ gramm: N,PN,persn
+ stem: опаня.
+ paradigm: N_oxyton
+ trans_ru: Опаня (Афоня)
+
+-lexeme
+ lex: Эрканов
+ gramm: N,PN,famn
+ stem: эрканов.
+ paradigm: N_consonant
+ trans_ru: Эрканов
+
+-lexeme
+ lex: Мушкин
+ gramm: N,PN,famn
+ stem: мушкин.
+ paradigm: N_consonant
+ trans_ru: Мушкин
+
+-lexeme
+ lex: Эскаев
+ gramm: N,PN,famn
+ stem: эскаев.
+ paradigm: N_consonant
+ trans_ru: Эскаев
+
+-lexeme
+ lex: Зинуш
+ gramm: N,persn,PN
+ stem: зинуш.
+ paradigm: N_consonant
+ trans_ru: Зинуш (Зина)
+
+-lexeme
+ lex: Вачук
+ gramm: N,persn,PN
+ stem: вачук.
+ paradigm: N_consonant
+ trans_ru: Вачук (Вася, Василий)
+
+-lexeme
+ lex: Аганур
+ gramm: N,PN,topn
+ stem: аганур.
+ paradigm: N_consonant
+ trans_ru: Аганур
+
+-lexeme
+ lex: Изергин
+ gramm: N,PN,famn
+ stem: изергин.
+ paradigm: N_consonant
+ trans_ru: Изергин
+
+-lexeme
+ lex: Ялкайн
+ gramm: N,PN,famn
+ stem: ялкайн.
+ paradigm: N_consonant
+ trans_ru: Ялкайн
+
+-lexeme
+ lex: Ната
+ gramm: N,persn,PN
+ stem: ната.|наты.|нат.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Ната
+
+-lexeme
+ lex: Варук
+ gramm: N,persn,PN
+ stem: варук.
+ paradigm: N_consonant
+ trans_ru: Варук (Варя, Варвара)
+
+-lexeme
+ lex: Пашка
+ gramm: N,persn,PN
+ stem: пашка.|пашкы.|пашк.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Пашка (Павел)
+
+-lexeme
+ lex: Амче
+ gramm: N,PN,topn
+ stem: амче.
+ paradigm: N_oxyton
+ trans_ru: Амче
+
+-lexeme
+ lex: Шуматовна
+ gramm: N,PN,patrn
+ stem: шуматовна.|шуматовны.|шуматовн.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Шуматовна
+
+-lexeme
+ lex: Опаня
+ gramm: N,persn,PN
+ stem: опаня.|опаны.|опан.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Опаня (Афоня, Аффоний)
+
+-lexeme
+ lex: Вачу
+ gramm: N,persn,PN
+ stem: вачу.
+ paradigm: N_oxyton
+ trans_ru: Вачу (Василий)
+
+-lexeme
+ lex: Ихонин
+ gramm: N,PN,famn
+ stem: ихонин.
+ paradigm: N_consonant
+ trans_ru: Ихонин
+
+-lexeme
+ lex: Зайнит
+ gramm: N,persn,PN
+ stem: зайнит.
+ paradigm: N_consonant
+ trans_ru: Зайнит
+
+-lexeme
+ lex: Зайнитов
+ gramm: N,PN,famn
+ stem: зайнитов.
+ paradigm: N_consonant
+ trans_ru: Зайнитов
+
+-lexeme
+ lex: Колюш
+ gramm: N,persn,PN
+ stem: колюш.
+ paradigm: N_consonant
+ trans_ru: Колюш (Коля, Николай)
+
+-lexeme
+ lex: Яшкин
+ gramm: N,PN,famn
+ stem: яшкин.
+ paradigm: N_consonant
+ trans_ru: Яшкин
+
+-lexeme
+ lex: Изибаевич
+ gramm: N,PN,patrn
+ stem: изибаевич.
+ paradigm: N_consonant
+ trans_ru: Изибаевич
+
+-lexeme
+ lex: Опасев
+ gramm: N,PN,famn
+ stem: опасев.
+ paradigm: N_consonant
+ trans_ru: Опасев
+
+-lexeme
+ lex: Сельдюков
+ gramm: N,PN,famn
+ stem: сельдюков.
+ paradigm: N_consonant
+ trans_ru: Сельдюков
+
+-lexeme
+ lex: Нуктеж
+ gramm: N,PN,topn
+ stem: нуктеж.
+ paradigm: N_consonant
+ trans_ru: Нуктеж
+
+-lexeme
+ lex: Якшывай
+ gramm: N,persn,PN
+ stem: якшывай.|якшыва.
+ paradigm: N_j
+ trans_ru: Якшывай
+
+-lexeme
+ lex: Мишук
+ gramm: N,persn,PN
+ stem: мишук.
+ paradigm: N_consonant
+ trans_ru: Мишук (Миша, Михаил)
+
+-lexeme
+ lex: Еренте
+ gramm: N,persn,PN
+ stem: еренте.
+ paradigm: N_oxyton
+ trans_ru: Еренте
+
+-lexeme
+ lex: Веню
+ gramm: N,persn,PN
+ stem: веню.
+ paradigm: N_oxyton
+ trans_ru: Веню (Веня, Вениамин)
+
+-lexeme
+ lex: Зарница
+ gramm: N,PN
+ stem: зарница.|зарницы.|зарниц.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Зарница (игра)
+
+-lexeme
+ lex: Эйно
+ gramm: N,PN,persn
+ stem: эйно.
+ paradigm: N_oxyton
+ trans_ru: Эйно
+

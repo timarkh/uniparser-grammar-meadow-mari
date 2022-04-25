@@ -40661,3 +40661,10 @@
  stem: амал.
  paradigm: V_e
  trans_ru: ловчить, изловчиться
+
+-lexeme
+ lex: рӱжгаш
+ gramm: V,intr
+ stem: рӱжг.
+ paradigm: V_e
+ trans_ru: шуметь

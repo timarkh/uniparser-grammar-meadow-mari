@@ -2448,6 +2448,10 @@
   gramm: el,el_full,sg
   gloss: EL|EL.FULL
   paradigm: N_Poss_after_case_no_comp
+ -flex: <1>.ч|ын|ла<.>
+  gramm: el,el_full,sg,sim,case_comp
+  gloss: EL|EL.FULL|SIM
+  paradigm: N_Poss_after_case_no_comp
  
  -flex: .[ы]<.>
   gramm: 

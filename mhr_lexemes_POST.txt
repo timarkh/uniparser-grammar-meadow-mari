@@ -56,7 +56,7 @@
 
 -lexeme
  lex: вел
- stem: вел.|ве.
+ stem: вел.|ве.//вел.
  gramm: N,rel_n
  paradigm: POST
  trans_ru: в стороне
