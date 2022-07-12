@@ -6751,6 +6751,10 @@
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
 
+ -flex: .<.>
+  gramm: cvb,cvb.gen
+  paradigm: Clitics
+  regex-prev: ^.*[аеёиоӧуӱыэюя].*[аеёиоӧуӱыэюя][^.<>аеёиоӧуӱыэюя].*
  -flex: .ын<.>
   gramm: cvb,cvb.gen
   gloss: CVB.GEN
@@ -6936,6 +6940,10 @@
   paradigm: N_Poss_Pl_e
   paradigm: N_Poss_Pl_Case_e
 
+ -flex: <0>.<.>
+  gramm: cvb,cvb.gen
+  paradigm: Clitics
+  regex-prev: ^.*[аеёиоӧуӱыэюя].*[аеёиоӧуӱыэюя][^.<>аеёиоӧуӱыэюя].*
  -flex: <0>.ын<.>
   gramm: cvb,cvb.gen
   gloss: CVB.GEN

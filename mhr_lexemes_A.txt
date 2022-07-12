@@ -24227,7 +24227,7 @@
 
 -lexeme
  lex: соҥгыра
- stem: соҥгыра.//соҥгра.
+ stem: соҥгыра.//соҥгра.//соҥра.
  gramm: A
  paradigm: A_oxyton
  trans_ru: глухой
@@ -33707,3 +33707,25 @@
  stem: тепловой.|теплово.
  paradigm: A_j
  trans_ru: тепловой
+
+-lexeme
+ lex: осал
+ gramm: A
+ stem: осал.
+ paradigm: A_consonant
+ trans_ru: злой
+
+-lexeme
+ lex: пычкемыш
+ gramm: A
+ stem: пычкемыш.
+ paradigm: A_consonant
+ trans_ru: тёмный
+
+-lexeme
+ lex: пытартыш
+ gramm: A
+ stem: пытартыш.
+ paradigm: A_consonant
+ trans_ru: последний
+

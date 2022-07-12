@@ -1015,3 +1015,10 @@
  paradigm: Clitics
  trans_ru: такой
 
+-lexeme
+ lex: икте-весе
+ gramm: PRO
+ stem: икте-весе.
+ paradigm: Clitics
+ trans_ru: один-другой
+

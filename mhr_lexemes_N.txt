@@ -67015,7 +67015,7 @@
 -lexeme
  lex: паша
  stem: паша.
- gramm: N,anim,hum
+ gramm: N
  paradigm: N_oxyton
  trans_ru: работа
 
@@ -105786,6 +105786,13 @@
  trans_ru: учитель
 
 -lexeme
+ lex: учитель
+ stem: учичыл.//учитыл.
+ gramm: N,rus,anim,hum
+ paradigm: N_consonant
+ trans_ru: учитель
+
+-lexeme
  lex: учительница
  stem: учительница.//учитэльница.|учительницы.//учитэльницы.//учительница.|учительниц.//учитэльниц.//учительница.
  gramm: N,rus,anim,hum
@@ -127218,3 +127225,81 @@
  stem: семена.
  paradigm: N_oxyton
  trans_ru: семена
+
+-lexeme
+ lex: сурт
+ gramm: N,body
+ stem: сурт.
+ paradigm: N_consonant
+ trans_ru: усадьба
+
+-lexeme
+ lex: дефицит
+ gramm: N,rus
+ stem: дибичит.
+ paradigm: N_consonant
+ trans_ru: дефицит
+
+-lexeme
+ lex: комбыиге
+ gramm: N,anim
+ stem: комбыиге.
+ paradigm: N_consonant
+ trans_ru: гусята
+
+-lexeme
+ lex: йыр
+ gramm: N
+ stem: йыр.
+ paradigm: N_consonant
+ trans_ru: круг
+
+-lexeme
+ lex: тувырмел
+ gramm: N,anim
+ stem: тувырмел.
+ paradigm: N_consonant
+ trans_ru: грудной вырез на рубахе
+
+-lexeme
+ lex: тол
+ gramm: N,rus
+ stem: тол.
+ paradigm: N_consonant
+ trans_ru: тол, тротил
+
+-lexeme
+ lex: школ-интернат
+ gramm: N,rus
+ stem: школ-интернат.
+ paradigm: N_consonant
+ trans_ru: школа-интернат
+
+-lexeme
+ lex: йыҥгыр
+ gramm: N
+ stem: йыҥгыр.
+ paradigm: N_consonant
+ trans_ru: колокольчик, звонок
+
+-lexeme
+ lex: санкомиссий
+ gramm: N,rus
+ stem: санкомиссий.|санкомисси.
+ paradigm: N_j
+ trans_ru: санкомиссия (санитарная комиссия)
+
+-lexeme
+ lex: учком
+ gramm: N,abbr,rus
+ stem: учком.
+ paradigm: N_consonant
+ trans_ru: учком (ученический комитет)
+
+-lexeme
+ lex: эҥырпаҥга
+ gramm: N
+ stem: эҥырпаҥга.
+ paradigm: N_oxyton
+ trans_ru: поплавок
+

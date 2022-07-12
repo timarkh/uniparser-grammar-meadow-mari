@@ -87364,3 +87364,60 @@
  paradigm: N_oxyton
  trans_ru: Эйно
 
+
+-lexeme
+ lex: Йошкар-Памаш
+ gramm: N,topn,PN
+ stem: йошкар-памаш.
+ paradigm: N_consonant
+ trans_ru: Йошкар-Памаш
+
+-lexeme
+ lex: Чумак
+ gramm: N,PN,famn
+ stem: чумак.
+ paradigm: N_consonant
+ trans_ru: Чумак
+
+-lexeme
+ lex: Шуматбаева
+ gramm: N,PN,famn
+ stem: шуматбаева.|шуматбаевы.|шуматбаев.
+ paradigm: N_paroxyton_v_weak
+ trans_ru: Шуматбаева
+
+-lexeme
+ lex: Эсен
+ gramm: N,PN,persn
+ stem: эсен.
+ paradigm: N_consonant
+ trans_ru: Эсен
+
+-lexeme
+ lex: Эват
+ gramm: N,PN,persn
+ stem: эват.
+ paradigm: N_consonant
+ trans_ru: Эват
+
+-lexeme
+ lex: Апакаев
+ gramm: N,PN,famn
+ stem: апакаев.
+ paradigm: N_consonant
+ trans_ru: Апакаев
+
+-lexeme
+ lex: Васин
+ gramm: N,PN,famn
+ stem: васин.
+ paradigm: N_consonant
+ trans_ru: Васин
+
+-lexeme
+ lex: Шуматовна
+ gramm: N,PN,famn
+ stem: шуматовна.
+ paradigm: N_oxyton
+ trans_ru: Шуматовна
+

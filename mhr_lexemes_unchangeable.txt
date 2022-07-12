@@ -1765,6 +1765,13 @@
  trans_ru: и
 
 -lexeme
+ lex: да
+ gramm: PART,rus
+ stem: да.
+ paradigm: Clitics
+ trans_ru: да
+
+-lexeme
  lex: давай
  stem: давай.|дава.
  gramm: PREDIC,rus
@@ -18885,4 +18892,172 @@
  stem: мотри.
  paradigm: Clitics
  trans_ru: смотри
+
+-lexeme
+ lex: уда
+ gramm: ADV
+ stem: уда.
+ paradigm: POST_ADV_Poss
+ trans_ru: плохо
+
+-lexeme
+ lex: шокшо
+ gramm: ADV
+ stem: шокшо.
+ paradigm: POST_ADV_Poss
+ trans_ru: жарко
+
+-lexeme
+ lex: мӱндыркӧ
+ gramm: ADV
+ stem: мӱндырк.
+ paradigm: POST_ADV_Poss
+ trans_ru: далеко
+
+-lexeme
+ lex: йӧсӧ
+ gramm: ADV
+ stem: йӧсӧ.
+ paradigm: POST_ADV_Poss
+ trans_ru: мучительно, тяжело
+
+-lexeme
+ lex: шучко
+ gramm: ADV
+ stem: шучко.
+ paradigm: POST_ADV_Poss
+ trans_ru: страшно
+
+-lexeme
+ lex: йӱштӧ
+ gramm: ADV
+ stem: йӱштӧ.
+ paradigm: POST_ADV_Poss
+ trans_ru: холодно
+
+-lexeme
+ lex: сай
+ gramm: ADV
+ stem: сай.
+ paradigm: POST_ADV_Poss
+ trans_ru: хорошо
+
+-lexeme
+ lex: весела
+ gramm: ADV
+ stem: весела.
+ paradigm: POST_ADV_Poss
+ trans_ru: весело
+
+-lexeme
+ lex: сӧрал
+ gramm: ADV
+ stem: сӧрал.
+ paradigm: POST_ADV_Poss
+ trans_ru: красиво
+
+-lexeme
+ lex: тупынь
+ gramm: ADV
+ stem: тупынь.
+ paradigm: POST_ADV_Poss
+ trans_ru: спиной к чему-либо
+
+-lexeme
+ lex: яра
+ gramm: ADV
+ stem: яра.
+ paradigm: POST_ADV_Poss
+ trans_ru: впустую
+
+-lexeme
+ lex: эстонла
+ gramm: ADV,rus
+ stem: эстонла.
+ paradigm: POST_ADV_Poss
+ trans_ru: по-эстонски
+
+-lexeme
+ lex: тӧр
+ gramm: ADV
+ stem: тӧр.
+ paradigm: POST_ADV_Poss
+ trans_ru: прямо
+
+-lexeme
+ lex: мӱндыр
+ gramm: ADV
+ stem: мӱндыр.
+ paradigm: POST_ADV_Poss
+ trans_ru: далеко
+
+-lexeme
+ lex: тӱгӧ
+ gramm: ADV
+ stem: тӱгӧ.
+ paradigm: POST_ADV_Poss
+ trans_ru: на улицу
+
+-lexeme
+ lex: кӱшко
+ gramm: ADV
+ stem: кӱшко.
+ paradigm: POST_ADV_Poss
+ trans_ru: вверх
+
+-lexeme
+ lex: семын
+ gramm: ADV
+ stem: семын.
+ paradigm: POST_ADV_Poss
+ trans_ru: про себя, не вслух
+
+-lexeme
+ lex: ба-а-а
+ gramm: IMIT,hum,anim
+ stem: ба-а-а.
+ paradigm: Clitics
+ trans_ru: бе-е, о блеянии овец
+
+-lexeme
+ lex: у-у-у
+ gramm: IMIT
+ stem: у-у-у.
+ paradigm: Clitics
+ trans_ru: о вое, завывании
+
+-lexeme
+ lex: у-у
+ gramm: IMIT
+ stem: у-у.
+ paradigm: Clitics
+ trans_ru: о вое, завывании
+
+-lexeme
+ lex: но
+ gramm: INTRJ
+ stem: но.
+ paradigm: Clitics
+ trans_ru: но, возглас при понукании лошади
+
+-lexeme
+ lex: керек
+ gramm: PREDIC
+ stem: керек.
+ paradigm: Clitics
+ trans_ru: безразлично, неважно, всё равно, наплевать
+
+-lexeme
+ lex: утла
+ gramm: POST
+ stem: утла.
+ paradigm: POST_ADV_Poss
+ trans_ru: больше
+
+-lexeme
+ lex: гай
+ gramm: POST
+ stem: гане.
+ paradigm: POST_ADV_Poss
+ trans_ru: как, подобно
 
