@@ -40704,3 +40704,9 @@
  paradigm: V_e
  trans_ru: заметить, обнаружить (моментально, неожиданно)
 
+-lexeme
+ lex: патырланаш
+ gramm: V,intr
+ stem: патырлан.
+ paradigm: V_e
+ trans_ru: крепнуть

@@ -7971,10 +7971,10 @@
 
 -lexeme
  lex: ой-ой
- stem: ой-ой.|ой-о.
+ stem: ой-ой.//ой-йой.|ой-о.//ой-йо.
  gramm: INTRJ,rus
  paradigm: Clitics_j
- trans_ru: ой
+ trans_ru: ой-ой
 
 -lexeme
  lex: ойганын
@@ -19061,3 +19061,16 @@
  paradigm: POST_ADV_Poss
  trans_ru: как, подобно
 
+-lexeme
+ lex: ӧрдыжкӧ
+ gramm: ADV
+ stem: ӧрдыжкӧ.
+ paradigm: POST_ADV_Poss
+ trans_ru: в сторону
+
+-lexeme
+ lex: шолып
+ gramm: ADV
+ stem: шолып.
+ paradigm: POST_ADV_Poss
+ trans_ru: тайно
