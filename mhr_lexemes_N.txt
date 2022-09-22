@@ -87186,7 +87186,7 @@
  stem: саска.
  gramm: N
  paradigm: N_oxyton
- trans_ru: ягоды
+ trans_ru: ягоды, плоды
 
 -lexeme
  lex: саскавусо

@@ -12872,6 +12872,13 @@
  trans_ru: нет
 
 -lexeme
+ lex: уке
+ stem: уке.//укэ.
+ gramm: PREDIC,nmlz
+ paradigm: N_oxyton
+ trans_ru: нет
+
+-lexeme
  lex: улнышын
  stem: улнышын.
  gramm: ADV
@@ -18665,7 +18672,7 @@
 -lexeme
  lex: мучко
  gramm: ADV
- stem: мучко.
+ stem: мучко.//мучк.
  paradigm: POST_ADV_Poss
  trans_ru: целиком; сплошь; вдоль
 
@@ -18903,7 +18910,7 @@
 -lexeme
  lex: шокшо
  gramm: ADV
- stem: шокшо.
+ stem: шокшо.//шокш.
  paradigm: POST_ADV_Poss
  trans_ru: жарко
 
@@ -18924,7 +18931,7 @@
 -lexeme
  lex: шучко
  gramm: ADV
- stem: шучко.
+ stem: шучко.//шучк.
  paradigm: POST_ADV_Poss
  trans_ru: страшно
 
@@ -19001,7 +19008,7 @@
 -lexeme
  lex: кӱшко
  gramm: ADV
- stem: кӱшко.
+ stem: кӱшко.//кӱшк.
  paradigm: POST_ADV_Poss
  trans_ru: вверх
 
@@ -19074,3 +19081,18 @@
  stem: шолып.
  paradigm: POST_ADV_Poss
  trans_ru: тайно
+
+-lexeme
+ lex: куштылго
+ gramm: ADV
+ stem: куштылго.//куштылг.
+ paradigm: POST_ADV_Poss
+ trans_ru: легко
+
+-lexeme
+ lex: и
+ gramm: CONJ,rus
+ stem: и.
+ paradigm: Clitics
+ trans_ru: и
+

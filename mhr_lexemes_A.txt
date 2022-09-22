@@ -33729,3 +33729,9 @@
  paradigm: A_consonant
  trans_ru: последний
 
+-lexeme
+ lex: йӧрдымӧ
+ gramm: A
+ stem: йӧрдымӧ.|йӧрдымы.|йӧрдым.
+ paradigm: A_paroxyton_v_weak
+ trans_ru: негодный, плохой

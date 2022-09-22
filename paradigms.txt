@@ -5462,6 +5462,21 @@
 
 
 -paradigm: Case_comp
+ -flex: .-влак<.>//.-шамыч<.>
+  gramm: nom,pl,case_comp
+  gloss: PL
+ -flex: .-влак|ым<.>//.-шамыч|ым<.>
+  gramm: pl,acc,case_comp
+  gloss: PL|ACC
+ -flex: .-влак|ын<.>//.-шамыч|ын<.>
+  gramm: pl,gen,case_comp
+  gloss: PL|GEN
+ -flex: .-влак|лан<.>//.-шамыч|лан<.>
+  gramm: pl,dat,case_comp
+  gloss: PL|DAT
+ -flex: .-влак|еш<.>//.-шамыч|еш<.>
+  gramm: pl,lat,case_comp
+  gloss: PL|LAT
  -flex: .м<.>
   gramm: acc,case_comp
   gloss: ACC
@@ -6231,6 +6246,7 @@
   paradigm: Clitics
  -flex: <0>.о<.>//<0>.е<.>//<0>.ӧ<.>
   gramm: pst,3,sg
+  gloss: PST.3SG
   regex-prev: .*[^<>.лн][<>.]*$
   paradigm: Clitics_a
  -flex: <0>.ьо<.>//<0>.е<.>//<0>.ё<.>//<0>.ье<.>//<0>.ьӧ<.>
@@ -6716,6 +6732,7 @@
   paradigm: Clitics
  -flex: .м<.>
   gramm: ptcp,ptcp.pass,nom,sg
+  gloss: PTCP.PASS
   paradigm: Clitics_a
  -flex: .ме<.>//.мо<.>//.мӧ<.>
   gramm: ptcp,ptcp.pass
@@ -6905,6 +6922,7 @@
   paradigm: Clitics
  -flex: <1>.м<.>
   gramm: ptcp,ptcp.pass,nom,sg
+  gloss: PTCP.PASS
   paradigm: Clitics_a
  -flex: <1>.ме<.>//<1>.мо<.>//<1>.мӧ<.>
   gramm: ptcp,ptcp.pass
@@ -7095,6 +7113,7 @@
   paradigm: Clitics
  -flex: .ым<.>
   gramm: ptcp,ptcp.pass,nom,sg
+  gloss: PTCP.PASS
   paradigm: Clitics_a
  -flex: .ыме<.>//.ымо<.>//.ымӧ<.>
   gramm: ptcp,ptcp.pass
@@ -7281,6 +7300,7 @@
   paradigm: Clitics
  -flex: .м<.>
   gramm: ptcp,ptcp.pass,nom,sg
+  gloss: PTCP.PASS
   paradigm: Clitics_a
  -flex: .ме<.>//.мо<.>//.мӧ<.>
   gramm: ptcp,ptcp.pass
