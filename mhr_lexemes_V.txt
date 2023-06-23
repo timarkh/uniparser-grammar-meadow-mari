@@ -5643,7 +5643,7 @@
  stem: йым.
  gramm: V
  paradigm: V_e
- trans_ru: ослепляться
+ trans_ru: ослепляться; притаиться
 
 -lexeme
  lex: йымыжгаш
@@ -7355,6 +7355,13 @@
  trans_ru: идти
 
 -lexeme
+ lex: каяш
+ stem: ка.|кай.
+ gramm: V,lv
+ paradigm: V_ye
+ trans_ru: выражает законченность действия с оттенком начинательности, неожиданности
+
+-lexeme
  lex: каҥашаш
  stem: каҥаш.
  gramm: V
@@ -7768,6 +7775,13 @@
  trans_ru: лежать
 
 -lexeme
+ lex: кияш
+ stem: ки.|кий.
+ gramm: V,lv
+ paradigm: V_ye
+ trans_ru: выражает длительность действия, происходящего в одном месте
+
+-lexeme
  lex: классифицироватлаш
  stem: классифицироватл.
  gramm: V,rus
@@ -7994,16 +8008,30 @@
 -lexeme
  lex: кодаш
  stem: код.
- gramm: V
+ gramm: V,intr
  paradigm: V_a
  trans_ru: остаться
 
 -lexeme
  lex: кодаш
  stem: код.
- gramm: V
+ gramm: V,lv,intr
+ paradigm: V_a
+ trans_ru: выражает законченность действия и наступление результирующего состояния
+
+-lexeme
+ lex: кодаш
+ stem: код.
+ gramm: V,tr
  paradigm: V_e
  trans_ru: оставить
+
+-lexeme
+ lex: кодаш
+ stem: код.
+ gramm: V,lv,tr
+ paradigm: V_e
+ trans_ru: выражает законченность действия
 
 -lexeme
  lex: кодедаш
@@ -8340,6 +8368,13 @@
  gramm: V
  paradigm: V_e
  trans_ru: слать
+
+-lexeme
+ lex: колташ
+ stem: колт.
+ gramm: V,lv
+ paradigm: V_e
+ trans_ru: выражает завершённость или начало действия
 
 -lexeme
  lex: колтедаш
@@ -9240,6 +9275,13 @@
 -lexeme
  lex: кошташ
  stem: кошт.
+ gramm: V,lv
+ paradigm: V_a
+ trans_ru: выражает длительность действия
+
+-lexeme
+ lex: кошташ
+ stem: кошт.
  gramm: V
  paradigm: V_e
  trans_ru: сушить
@@ -9523,6 +9565,13 @@
  gramm: V
  paradigm: V_e
  trans_ru: бросать
+
+-lexeme
+ lex: кудалташ
+ stem: кудалт.
+ gramm: V,lv
+ paradigm: V_e
+ trans_ru: выражает внезапность, резкость или решительность действия
 
 -lexeme
  lex: кудалышташ
@@ -10853,7 +10902,14 @@
  stem: кышк.|кыш.
  gramm: V
  paradigm: V_e
- trans_ru: сбрасывать; кидать; лить
+ trans_ru: бросать; кидать; лить
+
+-lexeme
+ lex: кышкаш
+ stem: кышк.|кыш.
+ gramm: V,lv
+ paradigm: V_e
+ trans_ru: выражает резкость и бурность действия
 
 -lexeme
  lex: кышкылташ
@@ -12081,6 +12137,13 @@
  trans_ru: выйти
 
 -lexeme
+ lex: лекташ
+ stem: лект.//лэкт.|лек.//лэк.
+ gramm: V,lv
+ paradigm: V_a2
+ trans_ru: выражает исчерпанность действия; множественность аргументов; внезапность; продолжение в течение всего времени
+
+-lexeme
  lex: лектедаш
  stem: лектед.//лектэд.
  gramm: V
@@ -12190,7 +12253,7 @@
  stem: логал.
  gramm: V
  paradigm: V_a
- trans_ru: попасть
+ trans_ru: попасть; приходиться (что-то сделать)
 
 -lexeme
  lex: логалаш
@@ -12765,7 +12828,14 @@
  stem: лукт.|лук.
  gramm: V
  paradigm: V_a2
- trans_ru: выносить
+ trans_ru: выносить; достать
+
+-lexeme
+ lex: лукташ
+ stem: лукт.|лук.
+ gramm: V,lv
+ paradigm: V_a2
+ trans_ru: выражает движение изнутри
 
 -lexeme
  lex: луктедаш
@@ -14232,6 +14302,13 @@
  trans_ru: прийти; ходить
 
 -lexeme
+ lex: мияш
+ stem: ми.|мий.
+ gramm: V,lv
+ paradigm: V_ye
+ trans_ru: выражает постепенное развитие действия
+
+-lexeme
  lex: мияш-толаш
  stem: мияш-тол.
  gramm: V
@@ -15240,6 +15317,13 @@
  gramm: V
  paradigm: V_a
  trans_ru: брать, взять
+
+-lexeme
+ lex: налаш
+ stem: нал.
+ gramm: V,lv
+ paradigm: V_a
+ trans_ru: выражает законченность или маломерность действия
 
 -lexeme
  lex: налаш-ужалаш
@@ -17350,6 +17434,13 @@
  trans_ru: смотреть
 
 -lexeme
+ lex: ончаш
+ stem: онч.|оч.
+ gramm: V,lv
+ paradigm: V_e
+ trans_ru: выражает попытку совершения действия; кратковременность действия
+
+-lexeme
  lex: ончедаш
  stem: ончед.//ончэд.
  gramm: V
@@ -17446,6 +17537,13 @@
  gramm: V
  paradigm: V_e
  trans_ru: класть
+
+-lexeme
+ lex: опташ
+ stem: опт.
+ gramm: V,lv
+ paradigm: V_e
+ trans_ru: выражает интенсивность действия или множественность аргументов
 
 -lexeme
  lex: опташ
@@ -18321,7 +18419,7 @@
  gramm: V
  paradigm: V_e
  paradigm: V_a
- trans_ru: говорить про себя, вполголоса
+ trans_ru: говорить про себя, вполголоса; ответить
 
 -lexeme
  lex: пелешткалаш
@@ -18441,7 +18539,7 @@
  gramm: V
  paradigm: V_e
  paradigm: V_a
- trans_ru: оказаться в неудобном положении
+ trans_ru: попадаться; оказаться в неудобном положении
 
 -lexeme
  lex: пернаш
@@ -18763,7 +18861,7 @@
  stem: пиж.
  gramm: V
  paradigm: V_a
- trans_ru: цепляться
+ trans_ru: цепляться; приниматься, браться
 
 -lexeme
  lex: пижедаш
@@ -19920,6 +20018,13 @@
  gramm: V
  paradigm: V_e
  trans_ru: дать
+
+-lexeme
+ lex: пуаш
+ stem: пу.
+ gramm: V,lv
+ paradigm: V_e
+ trans_ru: выражает законченность действия
 
 -lexeme
  lex: пуаш
@@ -21434,6 +21539,13 @@
  trans_ru: закончить
 
 -lexeme
+ lex: пытараш
+ stem: пытар.
+ gramm: V,lv
+ paradigm: V_e
+ trans_ru: выражает законченность действия
+
+-lexeme
  lex: пытарылаш
  stem: пытарыл.
  gramm: V
@@ -21446,6 +21558,13 @@
  gramm: V
  paradigm: V_e
  trans_ru: кончиться; умереть
+
+-lexeme
+ lex: пыташ
+ stem: пыт.
+ gramm: V,lv
+ paradigm: V_e
+ trans_ru: выражает завершённость или интенсивность действия
 
 -lexeme
  lex: пычкалташ
@@ -21523,6 +21642,13 @@
  gramm: V
  paradigm: V_e
  trans_ru: класть
+
+-lexeme
+ lex: пышташ
+ stem: пышт.
+ gramm: V,lv
+ paradigm: V_e
+ trans_ru: выражает законченность действия
 
 -lexeme
  lex: пыштедаш
@@ -24601,6 +24727,13 @@
  trans_ru: набирать в нужном количестве
 
 -lexeme
+ lex: ситараш
+ stem: ситар.
+ gramm: V,lv
+ paradigm: V_e
+ trans_ru: выражает законченность действия
+
+-lexeme
  lex: ситаш
  stem: сит.
  gramm: V
@@ -26836,16 +26969,30 @@
 -lexeme
  lex: темаш
  stem: тем.//тэм.
- gramm: V
+ gramm: V,intr
  paradigm: V_a
  trans_ru: наесться, напиться; наполниться
 
 -lexeme
  lex: темаш
  stem: тем.//тэм.
- gramm: V
+ gramm: V,lv,intr
+ paradigm: V_a
+ trans_ru: выражает законченность действия
+
+-lexeme
+ lex: темаш
+ stem: тем.//тэм.
+ gramm: V,tr
  paradigm: V_e
  trans_ru: наполнить
+
+-lexeme
+ lex: темаш
+ stem: тем.//тэм.
+ gramm: V,lv,tr
+ paradigm: V_e
+ trans_ru: выражает доведение действия до предела
 
 -lexeme
  lex: темдалаш
@@ -27217,6 +27364,13 @@
  gramm: V
  paradigm: V_a
  trans_ru: прийти; приехать
+
+-lexeme
+ lex: толаш
+ stem: тол.
+ gramm: V,lv
+ paradigm: V_a
+ trans_ru: выражает длительность, постепенность действия
 
 -lexeme
  lex: толаш
@@ -29758,6 +29912,13 @@
  gramm: V
  paradigm: V_a
  trans_ru: начинать(ся)
+
+-lexeme
+ lex: тӱҥалаш
+ stem: тӱҥал.//тӱнал.
+ gramm: V,lv
+ paradigm: V_a
+ trans_ru: выражает начало действия
 
 -lexeme
  lex: тӱҥаш
@@ -34285,6 +34446,13 @@
 -lexeme
  lex: шинчаш
  stem: шинч.|шич.
+ gramm: V,lv
+ paradigm: V_a
+ trans_ru: выражает завершённость действия
+
+-lexeme
+ lex: шинчаш
+ stem: шинч.|шич.
  gramm: V
  paradigm: V_e
  trans_ru: знать
@@ -34295,6 +34463,13 @@
  gramm: V
  paradigm: V_e
  trans_ru: сидеть
+
+-lexeme
+ lex: шинчаш
+ stem: шинч.|шич.
+ gramm: V,lv
+ paradigm: V_e
+ trans_ru: выражает продолжительность действия
 
 -lexeme
  lex: шинчедаш
@@ -34460,6 +34635,13 @@
 -lexeme
  lex: шогалаш
  stem: шогал.
+ gramm: V,lv
+ paradigm: V_a
+ trans_ru: выражает однократность и завершённость действия
+
+-lexeme
+ lex: шогалаш
+ stem: шогал.
  gramm: V
  paradigm: V_e
  trans_ru: пахать
@@ -34477,6 +34659,13 @@
  gramm: V
  paradigm: V_e
  trans_ru: ставить
+
+-lexeme
+ lex: шогалташ
+ stem: шогалт.
+ gramm: V,lv
+ paradigm: V_e
+ trans_ru: выражает законченность действия
 
 -lexeme
  lex: шогалтылаш
@@ -34498,6 +34687,13 @@
  gramm: V
  paradigm: V_e
  trans_ru: стоять
+
+-lexeme
+ lex: шогаш
+ stem: шог.
+ gramm: V,lv
+ paradigm: V_e
+ trans_ru: выражает длительность действия
 
 -lexeme
  lex: шогедаш
@@ -35258,6 +35454,13 @@
 -lexeme
  lex: шуаш
  stem: шу.
+ gramm: V,lv
+ paradigm: V_a
+ trans_ru: выражает законченность действия
+
+-lexeme
+ lex: шуаш
+ stem: шу.
  gramm: V
  paradigm: V_a
  trans_ru: срезать
@@ -35536,6 +35739,13 @@
  trans_ru: успеть
 
 -lexeme
+ lex: шукташ
+ stem: шукт.|шук.
+ gramm: V,lv
+ paradigm: V_e
+ trans_ru: выражает завершённость действия, достижение цели
+
+-lexeme
  lex: шукшаҥаш
  stem: шукшаҥ.
  gramm: V
@@ -35729,7 +35939,7 @@
  stem: шупш.
  gramm: V
  paradigm: V_a
- trans_ru: тянуть
+ trans_ru: тянуть; курить; впитать
 
 -lexeme
  lex: шупшкедалташ
@@ -36002,7 +36212,7 @@
  stem: шу.|шуй.
  gramm: V
  paradigm: V_ye
- trans_ru: тянуть
+ trans_ru: тянуть; продолжать
 
 -lexeme
  lex: шуҥгалтараш
@@ -36444,6 +36654,13 @@
  gramm: V
  paradigm: V_e
  trans_ru: сажать
+
+-lexeme
+ lex: шындаш
+ stem: шынд.
+ gramm: V,lv
+ paradigm: V_e
+ trans_ru: выражает законченность действия и наступление результирующего состояния
 
 -lexeme
  lex: шындылаш
@@ -38380,6 +38597,13 @@
  trans_ru: провести; прожить
 
 -lexeme
+ lex: эртараш
+ stem: эртар.
+ gramm: V,lv
+ paradigm: V_e
+ trans_ru: выражает проведение времени за занятием
+
+-lexeme
  lex: эртаркалаш
  stem: эртаркал.
  gramm: V
@@ -38397,6 +38621,13 @@
  lex: эрташ
  stem: эрт.
  gramm: V
+ paradigm: V_e
+ trans_ru: пройти
+
+-lexeme
+ lex: эрташ
+ stem: эрт.
+ gramm: V,lv
  paradigm: V_e
  trans_ru: пройти
 
@@ -40710,3 +40941,10 @@
  stem: патырлан.
  paradigm: V_e
  trans_ru: крепнуть
+
+-lexeme
+ lex: ышталаш
+ stem: ыштал.
+ gramm: V,intr
+ paradigm: V_e
+ trans_ru: сказать, промолвить

@@ -150,7 +150,7 @@
  stem: ала.
  gramm: CONJ
  paradigm: Clitics
- trans_ru: то ли
+ trans_ru: то ли; может
 
 -lexeme
  lex: ала-мочол
@@ -1798,14 +1798,14 @@
  gramm: POST
  paradigm: Clitics
  paradigm: N_Poss_consonant
- trans_ru: до, на, за
+ trans_ru: до, на, за, к
 
 -lexeme
  lex: деке
  stem: деке.//декэ.|декы.|дек.
  gramm: POST
  paradigm: POST_ADV_Poss_vowel
- trans_ru: до, на, за
+ trans_ru: до, на, за, к
 
 -lexeme
  lex: ден
