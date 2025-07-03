@@ -30,8 +30,53 @@ REMOVE (V npst) IF (0 (V cvb.gen))
 # Remove lv analysis if no CVB.GEN before
 REMOVE (V lv) IF (NEGATE -1 (V cvb.gen));
 
+# PST2 vs. CVB.GEN: Choose PST2 if no other verbs in vicinity
+REMOVE (V cvb.gen) IF (0 (V pst2))
+				   (NEGATE *-1 (V) - (V cvb.gen) BARRIER BOSPunct)
+                   (NEGATE *1 (V) BARRIER ("<[/;]>"r));
+
+
+SELECT (V) IF (0 ("<шуэн>"i))
+			  (-1 ("паша" acc) OR ("кӱ" acc));
+			  
+SELECT (V) IF (0 ("<нале>"i))
+			  (-1 (acc))
+			  (NEGATE 1 (POST))
+			  (NEGATE *1 (V) BARRIER BOSPunct);
+			  
+SELECT (V) IF (0 ("<тӱкыш>"i))
+			  (-1 (acc))
+			  (NEGATE *1 (V) BARRIER BOSPunct);
+			  
+SELECT (V) IF (0 ("<тӱкыш>"i))
+			  (NEGATE *0 VPred BARRIER BOSPunct);
+			  
+SELECT ("шӱдаш") IF (0 ("<шӱдыш>"i))
+					(-1 (N PN acc) OR (N hum))
+				    (NEGATE *0 VPred BARRIER BOSPunct);
+
+
+
 
 SECTION    # Nouns
 
 # Add nonposs to non-possessive words with nominal morphology
 ADD (nonposs) Nonposs;
+
+SELECT (N) IF (0 ("<пу>"i))
+			  (1 ("комыля") OR ("сорым") OR ("гыч") OR ("гычын") OR ("пӱчкаш") OR ("школ") OR ("руаш") OR ("кӱвар") OR ("совла") OR ("печке"));
+
+SELECT (N) IF (0 ("<вӱдыш>"i))
+			  (1 ("пураш") OR ("лектеш") OR ("камвозаш") OR ("пурташ") OR ("волаш") OR ("наҥгаяш"));
+
+SELECT (N) IF (0 ("<кӱым>"i))
+			  (1 ("кышкаш") OR ("шуаш") OR ("кудалташ") OR ("шогалташ") OR ("кондаш") OR ("шараш"));
+
+SELECT (N) IF (0 ("<колым>"i))
+			  (1 ("кучаш") OR ("эҥыраш") OR ("жаритлаш") OR ("кочкаш"));
+
+REMOVE (N PN) IF (0 ("<олмам>"i))
+			     (1 ("кочкаш") OR ("погаш") OR ("шолышташ"));
+
+REMOVE (POST) IF (0 ("<нерген>"i))
+			     (1 ("ушештараш") OR ("мондаш") OR ("ойлаш") OR ("возаш") OR ("каласкалаш") OR ("азапланаш") OR ("шонаш"));

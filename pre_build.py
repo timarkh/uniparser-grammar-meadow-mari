@@ -145,4 +145,19 @@ def parse_wordlists():
 
 if __name__ == '__main__':
     prepare_files()
-    parse_wordlists()
+    # parse_wordlists()
+    from uniparser_meadow_mari import MeadowMariAnalyzer
+    a = MeadowMariAnalyzer(mode='strict')
+    res = a.analyze_words(['Петя', 'грипп', 'ден', 'черланен', '.'], disambiguate=True)
+    print(res)
+    res = a.analyze_words(['Пу', 'комыля', 'вӱдыш', 'пурен', 'каен', '.'], disambiguate=True)
+    print(res)
+    res = a.analyze_words(['Петя', 'кӱым', 'шуэн', '/', 'кудалтен', '.'], disambiguate=True)
+    print(res)
+    res = a.analyze_words(['Петя', 'полка', 'гыч', 'книгам', 'нале', '.'], disambiguate=True)
+    print(res)
+    res = a.analyze_words(['Петя', 'пырдыжым', 'тӱкыш', '.'], disambiguate=True)
+    print(res)
+    res = a.analyze_words(['Петя', 'Машам', 'шӱдыш', '.'], disambiguate=True)
+    print(res)
+

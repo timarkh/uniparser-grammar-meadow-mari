@@ -2577,7 +2577,7 @@
  -flex: .ым<.>
   gramm: acc,sg
   gloss: ACC
-  regex-prev: .*[у][<>.]*$
+  regex-prev: .*[уӱ][<>.]*$
   paradigm: N_Poss_after_case_no_comp
  -flex: .н<.>
   gramm: gen,sg
